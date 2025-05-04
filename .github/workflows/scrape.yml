@@ -1,0 +1,39 @@
+name: Scheduled Scraping
+
+on:
+  schedule:
+    - cron: '30 16 * * *'  # 23:30 WIB (16:30 UTC)
+    - cron: '0 20 * * *'   # 03:00 WIB (20:00 UTC)
+    - cron: '0 11 * * *'   # 18:00 WIB (11:00 UTC)
+  workflow_dispatch:  # Tambahan untuk trigger manual
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run scraper
+      run: python scraper.py
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'GitHub Action'
+        git config --global user.email 'action@github.com'
+        git add scheduletar.txt index.html
+        git commit -m "Update matches in index.html $(date)" || echo "No changes to commit"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
