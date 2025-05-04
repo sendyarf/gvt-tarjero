@@ -2,10 +2,8 @@ name: Scheduled Scraping
 
 on:
   schedule:
-    - cron: '30 16 * * *'  # 23:30 WIB (16:30 UTC)
-    - cron: '0 20 * * *'   # 03:00 WIB (20:00 UTC)
-    - cron: '0 11 * * *'   # 18:00 WIB (11:00 UTC)
-  workflow_dispatch:  # Tambahan untuk trigger manual
+    - cron: '*/30 * * * *'  # Setiap 30 menit
+  workflow_dispatch:  # Untuk trigger manual
 
 jobs:
   scrape:
