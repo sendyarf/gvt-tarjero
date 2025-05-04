@@ -2,7 +2,8 @@ name: Scheduled Scraping
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # Setiap 30 menit
+    - cron: '0 * * * *'     # Setiap 1 jam (misalnya, 07:00, 08:00 WIB)
+    - cron: '30 16 * * *'   # Setiap hari pukul 23:30 WIB (16:30 UTC)
   workflow_dispatch:  # Untuk trigger manual
 
 jobs:
@@ -26,12 +27,24 @@ jobs:
     - name: Run scraper
       run: python scraper.py
 
+    - name: Check for changes
+      id: check_changes
+      run: |
+        git add scheduletar.txt index.html
+        if git diff --cached --quiet; then
+          echo "No changes detected"
+          echo "changes_detected=false" >> $GITHUB_OUTPUT
+        else
+          echo "Changes detected"
+          echo "changes_detected=true" >> $GITHUB_OUTPUT
+        fi
+
     - name: Commit and push changes
+      if: steps.check_changes.outputs.changes_detected == 'true'
       run: |
         git config --global user.name 'GitHub Action'
         git config --global user.email 'action@github.com'
-        git add scheduletar.txt index.html
-        git commit -m "Update matches in index.html $(date)" || echo "No changes to commit"
+        git commit -m "Update matches in index.html $(date)"
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
