@@ -1,20 +1,21 @@
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GOVOET - Live Sports Streaming</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-G1F9G9DYZH"></script>
-    <script>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>GOVOET - Live Sports Streaming</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&amp;family=Inter:wght@300;400;500;600&amp;display=swap" rel="stylesheet"/>
+<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-G1F9G9DYZH"></script>
+<script>
         window.dataLayer = window.dataLayer || [];
         function gtag() { dataLayer.push(arguments); }
         gtag('js', new Date());
         gtag('config', 'G-G1F9G9DYZH');
     </script>
-    <style>
+<style>
         body {
             background-color: #ffffff;
             min-height: 100vh;
@@ -392,93 +393,931 @@
     </style>
 </head>
 <body>
-    <!-- Floating Buttons -->
-    <button class="floating-btn" id="scroll-top-btn" title="Scroll to top">↑</button>
-    <button class="floating-btn" id="refresh-btn" title="Refresh page">↻</button>
+<!-- Floating Buttons -->
+<button class="floating-btn" id="scroll-top-btn" title="Scroll to top">↑</button>
+<button class="floating-btn" id="refresh-btn" title="Refresh page">↻</button>
+<!-- Navbar -->
+<nav class="navbar navbar-expand-lg navbar-light">
+<div class="container">
+<a class="navbar-brand" href="#main-content">GOVOET</a>
+<button class="navbar-toggler" data-bs-target="#navbarNav" data-bs-toggle="collapse" type="button">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse" id="navbarNav">
+<ul class="navbar-nav ms-auto">
+<li class="nav-item">
+<a class="nav-link" href="#main-content">Home</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="#donate">Donate</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="https://govoettv.blogspot.com/" target="_blank">Alternatif Link</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+<!-- Main Content -->
 
-    <!-- Navbar -->
-    <nav class="navbar navbar-expand-lg navbar-light">
-        <div class="container">
-            <a class="navbar-brand" href="#main-content">GOVOET</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav ms-auto">
-                    <li class="nav-item">
-                        <a class="nav-link" href="#main-content">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#donate">Donate</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="https://govoettv.blogspot.com/" target="_blank">Alternatif Link</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </nav>
+<div class="container mt-4" id="main-content">
+<h2 class="mb-4">Today's Matches</h2>
+<div class="match-card" data-time="2025-05-04T03:15:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">MLS</div>
+<div class="match-teams">San Diego FC - FC Dallas <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/169">CH169us</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/70">CH70es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T03:20:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Liga Betplay Dimayor</div>
+<div class="match-teams">Junior - America De Cali <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/81">CH81es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T03:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Liga De Expansion Mx</div>
+<div class="match-teams">Atl. Morelia - Leones Negros <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/98">CH98es</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/103">CH103es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T03:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">MLS</div>
+<div class="match-teams">Vancouver Whitecaps - Real Salt Lake <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/170">CH170us</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T04:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">MLS</div>
+<div class="match-teams">Los Angeles FC - Houston Dynamo <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/171">CH171us</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T04:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">MLS</div>
+<div class="match-teams">San Jose Earthquakes - Portland Timbers <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/172">CH172us</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T04:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">MLS</div>
+<div class="match-teams">Seattle Sounders - St. Louis City <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/173">CH173us</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T12:15:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Eredivisie</div>
+<div class="match-teams">Breda - Zwolle <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/141">CH141nl</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T12:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Liga Endesa</div>
+<div class="match-teams">Basquet Girona - Tenerife <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/63">CH63es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T12:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Liga Endesa</div>
+<div class="match-teams">Unicaja - MoraBanc Andorra <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/62">CH62es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T12:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Serie A</div>
+<div class="match-teams">Empoli - Lazio <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/137">CH137it</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/124">CH124de</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/88">CH88es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T13:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Premiership</div>
+<div class="match-teams">Rangers - Celtic <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/45">CH45fr</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/127">CH127gb</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T13:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Bundesliga 2</div>
+<div class="match-teams">bundesliga 2 konferenz - <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/111">CH111de</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T13:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Bundesliga 2</div>
+<div class="match-teams">Hertha Berlin - Greuther Fürth <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/113">CH113de</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T13:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Bundesliga 2</div>
+<div class="match-teams">Karlsruher - Kaiserslautern <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/112">CH112de</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T13:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Bundesliga 2</div>
+<div class="match-teams">Nurnberg - Elversberg <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/114">CH114de</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T13:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Challenge Cup</div>
+<div class="match-teams">Lyon OU - Racing 92 <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/2">CH2fr</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/29">CH29fr</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T13:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Pro League</div>
+<div class="match-teams">Standard Liège - Charleroi <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/153">CH153fr</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T14:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Laliga</div>
+<div class="match-teams">Real Madrid - Celta Vigo <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/1">CH1fr</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/49">CH49es</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/123">CH123de</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/71">CH71es</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/87">CH87es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T14:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Laliga 2</div>
+<div class="match-teams">Levante - Tenerife <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/53">CH53es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T14:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Eredivisie</div>
+<div class="match-teams">G.A. Eagles - Alkmaar <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/141">CH141nl</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T14:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Eredivisie</div>
+<div class="match-teams">Sparta Rotterdam - Twente <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/142">CH142nl</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T15:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Coupe De France</div>
+<div class="match-teams">Paris PSG - Paris FC Fém <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/1">CH1fr</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/70">CH70es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T15:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Ligue 1</div>
+<div class="match-teams">Nantes - Angers <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/20">CH20fr</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/69">CH69es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T15:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Premier League</div>
+<div class="match-teams">Brentford - Manchester Utd <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/14">CH14fr</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/129">CH129us</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/56">CH56es</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/119">CH119de</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T15:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Premier League</div>
+<div class="match-teams">Brighton - Newcastle <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/12">CH12fr</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/127">CH127gb</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/58">CH58es</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/120">CH120de</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/88">CH88es</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/73">CH73es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T15:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Premier League</div>
+<div class="match-teams">West Ham - Tottenham <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/32">CH32fr</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/130">CH130us</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/115">CH115de</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/155">CH155es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T15:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Serie A</div>
+<div class="match-teams">Monza - Atalanta <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/137">CH137it</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/97">CH97es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T15:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Super Lig</div>
+<div class="match-teams">Samsunspor - Eyupspor <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/152">CH152tr</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T15:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Bundesliga</div>
+<div class="match-teams">Augsburg - Holstein Kiel <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/4">CH4fr</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/124">CH124de</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/91">CH91es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T15:45:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Liga AUF Uruguaya</div>
+<div class="match-teams">Montevideo City - Progreso <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/109">CH109es</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/74">CH74es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T16:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Champions Cup</div>
+<div class="match-teams">Bordeaux Bègles - Stade Toulousain <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/2">CH2fr</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/28">CH28fr</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T16:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Pro League</div>
+<div class="match-teams">Saint-Trond - Beerschot VA <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/153">CH153fr</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T16:15:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Laliga</div>
+<div class="match-teams">FC Séville - Leganes <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/5">CH5fr</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/51">CH51es</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/71">CH71es</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/94">CH94es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T16:15:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Laliga 2</div>
+<div class="match-teams">Racing Club Ferrol - Saragosse <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/53">CH53es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T16:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Liga Portugal</div>
+<div class="match-teams">Rio Ave - Estrela <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/144">CH144pt</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T17:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Liga Endesa</div>
+<div class="match-teams">Lleida - Murcia <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/65">CH65es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T17:15:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Ligue 1</div>
+<div class="match-teams">Multiplex Ligue 1 - <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/20">CH20fr</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T17:15:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Ligue 1</div>
+<div class="match-teams">Auxerre - Le Havre <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/22">CH22fr</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T17:15:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Ligue 1</div>
+<div class="match-teams">Brest - Montpellier <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/21">CH21fr</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T17:15:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Ligue 1</div>
+<div class="match-teams">Lyon - Lens <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/1">CH1fr</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T17:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Bundesliga</div>
+<div class="match-teams">Fribourg - Bayer Leverkusen <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/7">CH7fr</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/123">CH123de</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/156">CH156es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T17:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Premier League</div>
+<div class="match-teams">Chelsea - Liverpool <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/11">CH11fr</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/127">CH127gb</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/58">CH58es</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/120">CH120de</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/87">CH87es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T18:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Coupe De Belgique</div>
+<div class="match-teams">Club Brugge - Anderlecht <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/154">CH154fr</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T18:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Serie A</div>
+<div class="match-teams">AS Rome - Fiorentina <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/45">CH45fr</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/138">CH138it</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/89">CH89es</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/70">CH70es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T18:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Super Lig</div>
+<div class="match-teams">Adana Demirspor - Goztepe <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/152">CH152tr</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T18:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Super Lig</div>
+<div class="match-teams">Fenerbahce - Besiktas <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/4">CH4fr</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/151">CH151tr</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/69">CH69es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T18:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Laliga</div>
+<div class="match-teams">Espanyol - Betis <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/8">CH8fr</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/49">CH49es</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/71">CH71es</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/94">CH94es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T18:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Laliga 2</div>
+<div class="match-teams">Almeria - Eldense <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/54">CH54es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T18:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Laliga 2</div>
+<div class="match-teams">Cartagena - Racing Santander <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/53">CH53es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T18:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Liga Endesa</div>
+<div class="match-teams">Real Madrid - Valence <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/62">CH62es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T19:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Betfred Super League</div>
+<div class="match-teams">AEK - Panathinaikos <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/150">CH150gr</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T19:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Betfred Super League</div>
+<div class="match-teams">Olympiakos - PAOK <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/149">CH149gr</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T19:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Liga Portugal</div>
+<div class="match-teams">Arouca - Casa Pia <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/145">CH145pt</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T19:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Bundesliga</div>
+<div class="match-teams">Mayence - Eintracht Francfort <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/5">CH5fr</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/124">CH124de</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T20:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Ecuador Ligapro</div>
+<div class="match-teams">Delfin - Orense <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/86">CH86es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T20:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Liga 1 Te Apuesto</div>
+<div class="match-teams">Sport Boys - Alianza Huanuco <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/85">CH85es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T20:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Liga AUF Uruguaya</div>
+<div class="match-teams">Juventud - Liverpool M. <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/109">CH109es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T20:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Torneo LPF</div>
+<div class="match-teams">Gimnasia L.P. - Platense <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/76">CH76es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T20:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Torneo LPF</div>
+<div class="match-teams">San Martin S.J. - Aldosivi <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/75">CH75es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T20:45:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Ligue 1</div>
+<div class="match-teams">Lille - Marseille <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/1">CH1fr</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/69">CH69es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T20:45:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Serie A</div>
+<div class="match-teams">Bologne - Juventus <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/45">CH45fr</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/137">CH137it</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/123">CH123de</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/70">CH70es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T21:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Campeonato Itaú Chile</div>
+<div class="match-teams">Deportes Iquique - Huachipato <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/83">CH83es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T21:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Laliga</div>
+<div class="match-teams">Real Sociedad - Ath. Bilbao <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/2">CH2fr</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/49">CH49es</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/71">CH71es</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/89">CH89es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T21:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Laliga 2</div>
+<div class="match-teams">La Corogne - Albacete <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/53">CH53es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T21:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Liga Betplay Dimayor</div>
+<div class="match-teams">Pasto - Fortaleza <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/81">CH81es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T21:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">MLS</div>
+<div class="match-teams">New York City - Cincinnati <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/174">CH174us</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T21:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Liga Portugal</div>
+<div class="match-teams">Sporting - Gil Vicente <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/2">CH2fr</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/144">CH144pt</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/74">CH74es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T22:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">NBA</div>
+<div class="match-teams">Cleveland Cavaliers - Indiana Pacers <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/1">CH1fr</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/196">CH196us</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T22:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">formula 1</div>
+<div class="match-teams">Formule 1 GP de Miami Essais - <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/11">CH11fr</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/60">CH60es</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/101">CH101es</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/104">CH104es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T22:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Liga 1 Te Apuesto</div>
+<div class="match-teams">Alianza Atl. - AD Tarma <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/84">CH84es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T23:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Torneo LPF</div>
+<div class="match-teams">Tigre - Boca Juniors <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/75">CH75es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T23:10:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Liga Betplay Dimayor</div>
+<div class="match-teams">Ind. Medellin - Atl. Nacional <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/81">CH81es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T23:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Campeonato Itaú Chile</div>
+<div class="match-teams">A. Italiano - La Serena <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/83">CH83es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-04T23:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Ecuador Ligapro</div>
+<div class="match-teams">Barcelone SC - Vinotinto <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/86">CH86es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-05T01:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Ecuador Ligapro</div>
+<div class="match-teams">Ind. del Valle - Emelec <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/86">CH86es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-05T01:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Liga 1 Te Apuesto</div>
+<div class="match-teams">Binacional - Los Chankas <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/84">CH84es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-05T01:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Liga AUF Uruguaya</div>
+<div class="match-teams">Miramar - River Plate <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/109">CH109es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-05T01:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Liga De Expansion Mx</div>
+<div class="match-teams">Tampico Madero - Zacatecas Mineros <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/99">CH99es</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/101">CH101es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-05T01:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Liga Mx Women</div>
+<div class="match-teams">Club America F - Guadalajara F <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/68">CH68es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-05T01:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">MLS</div>
+<div class="match-teams">Sporting Kansas City - Los Angeles Galaxy <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/175">CH175us</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-05T01:20:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Liga Betplay Dimayor</div>
+<div class="match-teams">U. Magdalena - Once Caldas <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/81">CH81es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-05T01:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Torneo LPF</div>
+<div class="match-teams">River Plate - Velez Sarsfield <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/76">CH76es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-05T02:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Campeonato Itaú Chile</div>
+<div class="match-teams">Nublense - U. Calera <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/83">CH83es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-05T03:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Liga Betplay Dimayor</div>
+<div class="match-teams">Aguilas - Pereira <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/81">CH81es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-05T03:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Liga Mx</div>
+<div class="match-teams">Monterrey - U.N.A.M. <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/68">CH68es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-05T17:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Betfred Super League</div>
+<div class="match-teams">Athens Kallithea - Panetolikos <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/150">CH150gr</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-05T17:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Betfred Super League</div>
+<div class="match-teams">Panserraikos - Volos <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/148">CH148gr</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-05T19:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Betfred Super League</div>
+<div class="match-teams">Lamia - Levadiakos <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/149">CH149gr</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-05T19:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Super Lig</div>
+<div class="match-teams">Kasimpasa - Trabzonspor <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/4">CH4fr</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/151">CH151tr</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-05T20:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Laliga 2</div>
+<div class="match-teams">Castellon - Gijon <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/53">CH53es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-05T20:45:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Serie A</div>
+<div class="match-teams">Genoa - AC Milan <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/137">CH137it</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/124">CH124de</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/100">CH100es</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/70">CH70es</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/98">CH98es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-05T21:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Laliga</div>
+<div class="match-teams">Gérone - Majorque <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/5">CH5fr</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/51">CH51es</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/71">CH71es</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/91">CH91es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-05T21:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Premier League</div>
+<div class="match-teams">Crystal Palace - Nottingham <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/12">CH12fr</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/127">CH127gb</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/56">CH56es</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/120">CH120de</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/87">CH87es</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/72">CH72es</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-05T21:15:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">Liga Portugal</div>
+<div class="match-teams">AFS - Boavista <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/144">CH144pt</button>
+</div>
+</div>
+<div class="match-card" data-time="2025-05-05T22:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-time"></div>
+<div class="match-competition">NBA</div>
+<div class="match-teams">Boston Celtics - New York Knicks <span class="live-indicator">- LIVE</span></div>
+<div class="channels">
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/1">CH1fr</button>
+<button class="channel-btn" data-bs-target="#streamModal" data-bs-toggle="modal" data-stream="https://govoet-envivo.blogspot.com/197">CH197us</button>
+</div>
+</div>
+</div>
 
-    <!-- Main Content -->
-    <div id="main-content" class="container mt-4">
-        <h2 class="mb-4">Today's Matches</h2>
-        <!-- Konten akan diisi oleh scraper.py dari scheduletar.txt -->
-    </div>
-
-    <!-- Donate Section -->
-    <div class="container mt-5 mb-5" id="donate">
-        <div class="donate-card">
-            <div class="text-center mb-4">
-                <h1 class="donate-title">Support GOVOET</h1>
-                <p class="donate-description">
+<!-- Donate Section -->
+<div class="container mt-5 mb-5" id="donate">
+<div class="donate-card">
+<div class="text-center mb-4">
+<h1 class="donate-title">Support GOVOET</h1>
+<p class="donate-description">
                     Your support helps us maintain and improve our streaming service.
                     Every donation, no matter how small, makes a difference in keeping
                     GOVOET running smoothly.
                 </p>
-            </div>
-            <div class="row justify-content-center">
-                <div class="col-md-6 mb-4">
-                    <div class="payment-method">
-                        <h2 class="payment-title text-center">Bitcoin</h2>
-                        <div class="payment-address" id="bitcoinAddress">
+</div>
+<div class="row justify-content-center">
+<div class="col-md-6 mb-4">
+<div class="payment-method">
+<h2 class="payment-title text-center">Bitcoin</h2>
+<div class="payment-address" id="bitcoinAddress">
                             bc1qdu7csmmz7nyjxjsr87tymhd5x29y66gg4xff0t
                         </div>
-                        <div class="text-center mt-3">
-                            <button class="copy-btn" onclick="copyBitcoinAddress()">Copy Address</button>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 mb-4">
-                    <div class="payment-method">
-                        <h2 class="payment-title text-center">Saweria</h2>
-                        <div class="text-center mt-3">
-                            <a class="saweria-btn" href="https://saweria.co/JustFutball" target="_blank">
+<div class="text-center mt-3">
+<button class="copy-btn" onclick="copyBitcoinAddress()">Copy Address</button>
+</div>
+</div>
+</div>
+<div class="col-md-6 mb-4">
+<div class="payment-method">
+<h2 class="payment-title text-center">Saweria</h2>
+<div class="text-center mt-3">
+<a class="saweria-btn" href="https://saweria.co/JustFutball" target="_blank">
                                 Donate via Saweria
                             </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Stream Modal -->
-    <div class="modal fade" id="streamModal" tabindex="-1">
-        <div class="modal-dialog modal-lg">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title">Live Stream</h5>
-                    <button class="btn-close" data-bs-dismiss="modal" type="button"></button>
-                </div>
-                <div class="modal-body">
-                    <iframe id="streamFrame" src="" width="100%" height="500" frameborder="0" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Stream Modal -->
+<div class="modal fade" id="streamModal" tabindex="-1">
+<div class="modal-dialog modal-lg">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title">Live Stream</h5>
+<button class="btn-close" data-bs-dismiss="modal" type="button"></button>
+</div>
+<div class="modal-body">
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="500" id="streamFrame" src="" width="100%"></iframe>
+</div>
+</div>
+</div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script>
         document.addEventListener("DOMContentLoaded", function () {
             const modal = document.getElementById("streamModal");
             const iframe = document.getElementById("streamFrame");
