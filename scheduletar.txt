@@ -63,7 +63,7 @@
     <div class="match-teams">Bahia (Bra) - Nacional (Uru) <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://govoet-envivo.blogspot.com/91">CH91fr</button>
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://govoet-envivo.blogspot.com/91">CH91es</button>
 
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://govoet-envivo.blogspot.com/79">CH79es</button>
 
@@ -78,7 +78,7 @@
     <div class="match-teams">Dep. Tachira (Ven) - LDU Quito (Ecu) <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://govoet-envivo.blogspot.com/93">CH93fr</button>
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://govoet-envivo.blogspot.com/93">CH93es</button>
 
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://govoet-envivo.blogspot.com/80">CH80es</button>
 
