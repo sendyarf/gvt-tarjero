@@ -60,7 +60,7 @@
 
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://govoet-envivo.blogspot.com/129">CH129gb</button>
 
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://govoet-envivo.blogspot.com/57">CH57e</button>
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://govoet-envivo.blogspot.com/57">CH57es</button>
 
     </div>
 </div>
