@@ -77,7 +77,7 @@ for match in matches:
     channel_list = re.findall(r'CH\d+\w+', channels)
     for channel in channel_list:
         channel_number = re.search(r'\d+', channel).group()
-        url = f"https://govoet-envivo.blogspot.com/{channel_number}"
+        url = f"https://envivo.govoet.my.id/{channel_number}"
         buttons += button_template.format(url=url, channel=channel)
 
     # Menambahkan match item ke HTML dengan waktu asli
