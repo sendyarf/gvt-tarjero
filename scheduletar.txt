@@ -2,154 +2,262 @@
 <div id="main-content" class="container mt-4">
     <h2 class="mb-4">Today's Matches</h2>
     
-<div class="match-card" data-time="2025-06-09T16:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-card" data-time="2025-06-10T15:45:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
-    <div class="match-competition">Qualif. Cm Europe</div>
-    <div class="match-teams">Kazakhstan - Macédoine du Nord <span class="live-indicator">- LIVE</span></div>
+    <div class="match-competition">Qualif. Cm Asie</div>
+    <div class="match-teams">Ouzbekistan - Qatar <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/131">CH131us</button>
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/97">CH97es</button>
 
     </div>
 </div>
 
-<div class="match-card" data-time="2025-06-09T18:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-card" data-time="2025-06-10T18:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">Amical International</div>
-    <div class="match-teams">Liechtenstein - Écosse <span class="live-indicator">- LIVE</span></div>
+    <div class="match-teams">Azerbaïdjan - Hongrie <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/130">CH130us</button>
 
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/124">CH124de</button>
+
     </div>
 </div>
 
-<div class="match-card" data-time="2025-06-09T19:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-card" data-time="2025-06-10T18:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">Amical International</div>
-    <div class="match-teams">Kosovo - Comores <span class="live-indicator">- LIVE</span></div>
+    <div class="match-teams">Slovénie - Bosnie-Herzégovine <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/114">CH114al</button>
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/123">CH123de</button>
 
     </div>
 </div>
 
-<div class="match-card" data-time="2025-06-09T20:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-card" data-time="2025-06-10T19:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">Amical International</div>
-    <div class="match-teams">Monténégro - Arménie <span class="live-indicator">- LIVE</span></div>
+    <div class="match-teams">Biélorussie - Russie <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/115">CH115us</button>
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/111">CH111ru</button>
 
     </div>
 </div>
 
-<div class="match-card" data-time="2025-06-09T20:45:00+02:00" onclick="toggleChannels(this)">
+<div class="match-card" data-time="2025-06-10T19:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
-    <div class="match-competition">Qualif. Cm Europe</div>
-    <div class="match-teams">Belgique - Pays de Galles <span class="live-indicator">- LIVE</span></div>
+    <div class="match-competition">Amical International</div>
+    <div class="match-teams">Danemark - Lituanie <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/112">CH112lt</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-06-10T19:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Amical International</div>
+    <div class="match-teams">Suède - Algérie <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/113">CH113dz</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-06-10T20:15:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Qualif. Cm Asie</div>
+    <div class="match-teams">Arabie Saoudite - Australie <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/98">CH98es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-06-10T20:45:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Amical International</div>
+    <div class="match-teams">Multiplex - <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/19">CH19fr</button>
 
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/132">CH132us</button>
-
     </div>
 </div>
 
-<div class="match-card" data-time="2025-06-09T20:45:00+02:00" onclick="toggleChannels(this)">
+<div class="match-card" data-time="2025-06-10T20:45:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
-    <div class="match-competition">Qualif. Cm Europe</div>
-    <div class="match-teams">Croatie - République Tchèque <span class="live-indicator">- LIVE</span></div>
+    <div class="match-competition">Amical International</div>
+    <div class="match-teams">Angleterre - Sénégal <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/46">CH46fr</button>
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/132">CH132gb</button>
 
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/111">CH111hr</button>
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/123">CH123de</button>
 
     </div>
 </div>
 
-<div class="match-card" data-time="2025-06-09T20:45:00+02:00" onclick="toggleChannels(this)">
+<div class="match-card" data-time="2025-06-10T20:45:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Amical International</div>
+    <div class="match-teams">Grèce - Bulgarie <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/114">CH114bg</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-06-10T20:45:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Amical International</div>
+    <div class="match-teams">Irlande du Nord - Islande <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/115">CH115gb</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-06-10T20:45:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Amical International</div>
+    <div class="match-teams">Luxembourg - Irlande <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/116">CH116gb</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-06-10T20:45:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">Qualif. Cm Europe</div>
-    <div class="match-teams">Estonie - Norvège <span class="live-indicator">- LIVE</span></div>
+    <div class="match-teams">Finlande - Pologne <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/116">CH116pl</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-06-10T20:45:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Qualif. Cm Europe</div>
+    <div class="match-teams">Lettonie - Albanie <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/117">CH117al</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-06-10T20:45:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Qualif. Cm Europe</div>
+    <div class="match-teams">Pays-Bas - Malte <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/130">CH130us</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/124">CH124de</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/118">CH118nl</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-06-10T20:45:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Qualif. Cm Europe</div>
+    <div class="match-teams">Roumanie - Chypre <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/119">CH119ro</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-06-10T20:45:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Qualif. Cm Europe</div>
+    <div class="match-teams">Saint-Marin - Autriche <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/120">CH120de</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-06-10T20:45:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Qualif. Cm Europe</div>
+    <div class="match-teams">Serbie - Andorre <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/131">CH131us</button>
 
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/88">CH88es</button>
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-06-10T21:15:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Liga Endesa</div>
+    <div class="match-teams">Valence - Tenerife <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/62">CH62es</button>
 
     </div>
 </div>
 
-<div class="match-card" data-time="2025-06-09T20:45:00+02:00" onclick="toggleChannels(this)">
+<div class="match-card" data-time="2025-06-10T22:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
-    <div class="match-competition">Qualif. Cm Europe</div>
-    <div class="match-teams">Iles Féroé - Gibraltar <span class="live-indicator">- LIVE</span></div>
+    <div class="match-competition">Qualif. Cm Amsud</div>
+    <div class="match-teams">Bolivie - Chili <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/112">CH112us</button>
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/156">CH156es</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/84">CH84es</button>
 
     </div>
 </div>
 
-<div class="match-card" data-time="2025-06-09T20:45:00+02:00" onclick="toggleChannels(this)">
+<div class="match-card" data-time="2025-06-10T22:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
-    <div class="match-competition">Qualif. Cm Europe</div>
-    <div class="match-teams">Italie - Moldavie <span class="live-indicator">- LIVE</span></div>
+    <div class="match-competition">Qualif. Cm Concacaf</div>
+    <div class="match-teams">Cuba - Bermudes <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/45">CH45fr</button>
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/70">CH70es</button>
 
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-06-10T23:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Amical International</div>
+    <div class="match-teams">Nouvelle-Zélande - Ukraine <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/130">CH130us</button>
 
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/113">CH113it</button>
-
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/87">CH87es</button>
-
     </div>
 </div>
 
-<div class="match-card" data-time="2025-06-09T22:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Amical International</div>
-    <div class="match-teams">Guinée Équatoriale - Cameroun <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/116">CH116fr</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-06-09T22:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Amical International</div>
-    <div class="match-teams">Maroc - Benin <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/117">CH117ma</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-06-09T22:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Copa Ecuador</div>
-    <div class="match-teams">Cuenca Juniors - Atletico Vinotinto <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/94">CH94es</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-06-09T23:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-card" data-time="2025-06-11T00:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">Copa Colombia</div>
-    <div class="match-teams">Llaneros - Real Santander <span class="live-indicator">- LIVE</span></div>
+    <div class="match-teams">Bucaramanga - Chico <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/81">CH81es</button>
@@ -157,39 +265,169 @@
     </div>
 </div>
 
-<div class="match-card" data-time="2025-06-10T01:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-card" data-time="2025-06-11T00:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
-    <div class="match-competition">Copa Ecuador</div>
-    <div class="match-teams">LDU Portoviejo - Ind. Juniors <span class="live-indicator">- LIVE</span></div>
+    <div class="match-competition">Qualif. Cm Concacaf</div>
+    <div class="match-teams">Haïti - Curaçao <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/141">CH141nl</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-06-11T01:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Qualif. Cm Amsud</div>
+    <div class="match-teams">Uruguay - Venezuela <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/59">CH59es</button>
+
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/94">CH94es</button>
 
     </div>
 </div>
 
-<div class="match-card" data-time="2025-06-10T02:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-card" data-time="2025-06-11T01:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
-    <div class="match-competition">NHL</div>
-    <div class="match-teams">Florida Panthers - Edmonton Oilers <span class="live-indicator">- LIVE</span></div>
+    <div class="match-competition">Qualif. Cm Concacaf</div>
+    <div class="match-teams">Jamaique - Guatemala <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/1">CH1fr</button>
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/70">CH70es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-06-11T02:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Amical International</div>
+    <div class="match-teams">USA - Suisse <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/47">CH47fr</button>
 
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/160">CH160us</button>
 
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-06-11T02:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Qualif. Cm Amsud</div>
+    <div class="match-teams">Argentine - Colombie <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/61">CH61es</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/73">CH73es</button>
+
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/155">CH155es</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/85">CH85es</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/77">CH77es</button>
 
     </div>
 </div>
 
-<div class="match-card" data-time="2025-06-10T03:05:00+02:00" onclick="toggleChannels(this)">
+<div class="match-card" data-time="2025-06-11T02:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
-    <div class="match-competition">Copa Colombia</div>
-    <div class="match-teams">Dep. Cali - Quindio <span class="live-indicator">- LIVE</span></div>
+    <div class="match-competition">Qualif. Cm Concacaf</div>
+    <div class="match-teams">Panama - Nicaragua <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/81">CH81es</button>
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/170">CH170es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-06-11T02:30:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Amical International</div>
+    <div class="match-teams">Canada - Cote d'Ivoire <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/48">CH48fr</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-06-11T02:45:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Qualif. Cm Amsud</div>
+    <div class="match-teams">Brésil - Paraguay <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/55">CH55es</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/72">CH72es</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/156">CH156es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-06-11T03:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Amical International</div>
+    <div class="match-teams">Mexique - Turquie <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/68">CH68es</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/107">CH107es</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/108">CH108es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-06-11T03:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Qualif. Cm Concacaf</div>
+    <div class="match-teams">Costa Rica - Trinité-et-Tobago <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/70">CH70es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-06-11T03:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Qualif. Cm Concacaf</div>
+    <div class="match-teams">Salvador - Suriname <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/141">CH141nl</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-06-11T03:30:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Qualif. Cm Amsud</div>
+    <div class="match-teams">Pérou - Equateur <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/59">CH59es</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/86">CH86es</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/84">CH84es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-06-11T04:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Qualif. Cm Concacaf</div>
+    <div class="match-teams">Honduras - Antigua & Barbuda <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/171">CH171us</button>
 
     </div>
 </div>
