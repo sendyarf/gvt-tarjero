@@ -2,32 +2,49 @@
 <div id="main-content" class="container mt-4">
     <h2 class="mb-4">Today's Matches</h2>
     
-<div class="match-card" data-time="2025-06-28T22:15:00+02:00" onclick="toggleChannels(this)">
+<div class="match-card" data-time="2025-06-29T12:15:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
-    <div class="match-competition">Liga 1 Te Apuesto</div>
-    <div class="match-teams">Cajamarca - Sport Boys <span class="live-indicator">- LIVE</span></div>
+    <div class="match-competition">Moto2</div>
+    <div class="match-teams">Grand Prix des Pays-Bas La course des Moto 2 - <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/84">CH84es</button>
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/14">CH14fr</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/56">CH56es</button>
 
     </div>
 </div>
 
-<div class="match-card" data-time="2025-06-28T23:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-card" data-time="2025-06-29T14:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
-    <div class="match-competition">Ecuador Ligapro</div>
-    <div class="match-teams">Barcelone SC - Libertad <span class="live-indicator">- LIVE</span></div>
+    <div class="match-competition">MotoGP</div>
+    <div class="match-teams">Grand Prix des Pays-Bas La course des Moto GP - <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/86">CH86es</button>
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/11">CH11fr</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/56">CH56es</button>
 
     </div>
 </div>
 
-<div class="match-card" data-time="2025-06-29T01:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-card" data-time="2025-06-29T15:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">formula 1</div>
+    <div class="match-teams">Grand Prix Autriche La course - <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/11">CH11fr</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/60">CH60es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-06-29T17:30:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">Liga AUF Uruguaya</div>
-    <div class="match-teams">Boston River - Miramar <span class="live-indicator">- LIVE</span></div>
+    <div class="match-teams">Juventud - Progreso <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/109">CH109es</button>
@@ -35,98 +52,36 @@
     </div>
 </div>
 
-<div class="match-card" data-time="2025-06-29T01:15:00+02:00" onclick="toggleChannels(this)">
+<div class="match-card" data-time="2025-06-29T18:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
-    <div class="match-competition">Gold Cup</div>
-    <div class="match-teams">Panama - Honduras <span class="live-indicator">- LIVE</span></div>
+    <div class="match-competition">Coupe Du Monde Des Clubs Fifa</div>
+    <div class="match-teams">PSG - Inter Miami <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/68">CH68es</button>
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/20">CH20fr</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/94">CH94es</button>
 
     </div>
 </div>
 
-<div class="match-card" data-time="2025-06-29T01:15:00+02:00" onclick="toggleChannels(this)">
+<div class="match-card" data-time="2025-06-29T18:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">Liga 1 Te Apuesto</div>
-    <div class="match-teams">Melgar - A. Lima <span class="live-indicator">- LIVE</span></div>
+    <div class="match-teams">Sporting Cristal - Comerciantes Unidos <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/84">CH84es</button>
 
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-06-29T01:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">MLS</div>
-    <div class="match-teams">CF Montreal - New York City <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/160">CH160us</button>
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/70">CH70es</button>
 
     </div>
 </div>
 
-<div class="match-card" data-time="2025-06-29T01:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">MLS</div>
-    <div class="match-teams">DC United - Nashville SC <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/161">CH161us</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-06-29T01:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">MLS</div>
-    <div class="match-teams">New England Revolution - Colorado Rapids <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/162">CH162us</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-06-29T01:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">MLS</div>
-    <div class="match-teams">New York Red Bulls - Minnesota <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/163">CH163us</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-06-29T01:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">MLS</div>
-    <div class="match-teams">Orlando City - Cincinnati <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/164">CH164us</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-06-29T01:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">MLS</div>
-    <div class="match-teams">Toronto FC - Portland Timbers <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/165">CH165us</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-06-29T02:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-card" data-time="2025-06-29T20:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">Ecuador Ligapro</div>
-    <div class="match-teams">Orense - LDU Quito <span class="live-indicator">- LIVE</span></div>
+    <div class="match-teams">Tecnico U. - El Nacional <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/86">CH86es</button>
@@ -134,54 +89,45 @@
     </div>
 </div>
 
-<div class="match-card" data-time="2025-06-29T02:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-card" data-time="2025-06-29T20:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
-    <div class="match-competition">MLS</div>
-    <div class="match-teams">Chicago Fire - Charlotte <span class="live-indicator">- LIVE</span></div>
+    <div class="match-competition">Liga AUF Uruguaya</div>
+    <div class="match-teams">Racing Montevideo - Montevideo City <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/166">CH166us</button>
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/109">CH109es</button>
 
     </div>
 </div>
 
-<div class="match-card" data-time="2025-06-29T02:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-card" data-time="2025-06-29T22:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
-    <div class="match-competition">MLS</div>
-    <div class="match-teams">FC Dallas - San Diego FC <span class="live-indicator">- LIVE</span></div>
+    <div class="match-competition">Copa Argentina</div>
+    <div class="match-teams">Gimnasia Mendoza - Independiente <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/167">CH167us</button>
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/77">CH77es</button>
 
     </div>
 </div>
 
-<div class="match-card" data-time="2025-06-29T02:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-card" data-time="2025-06-29T22:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
-    <div class="match-competition">MLS</div>
-    <div class="match-teams">Houston Dynamo - St. Louis City <span class="live-indicator">- LIVE</span></div>
+    <div class="match-competition">Coupe Du Monde Des Clubs Fifa</div>
+    <div class="match-teams">Flamengo - Bayern Munich <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/168">CH168us</button>
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/20">CH20fr</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/94">CH94es</button>
 
     </div>
 </div>
 
-<div class="match-card" data-time="2025-06-29T02:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">MLS</div>
-    <div class="match-teams">Sporting Kansas City - Real Salt Lake <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/169">CH169us</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-06-29T04:15:00+02:00" onclick="toggleChannels(this)">
+<div class="match-card" data-time="2025-06-29T22:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">Gold Cup</div>
-    <div class="match-teams">Mexique - Arabie Saoudite <span class="live-indicator">- LIVE</span></div>
+    <div class="match-teams">Canada - Guatemala <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/68">CH68es</button>
@@ -189,24 +135,101 @@
     </div>
 </div>
 
-<div class="match-card" data-time="2025-06-29T04:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-card" data-time="2025-06-29T22:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
-    <div class="match-competition">MLS</div>
-    <div class="match-teams">San Jose Earthquakes - Los Angeles Galaxy <span class="live-indicator">- LIVE</span></div>
+    <div class="match-competition">Liga 1 Te Apuesto</div>
+    <div class="match-teams">Alianza Atl. - Grau <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/170">CH170us</button>
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/84">CH84es</button>
 
     </div>
 </div>
 
-<div class="match-card" data-time="2025-06-29T04:30:00+02:00" onclick="toggleChannels(this)">
+<div class="match-card" data-time="2025-06-29T22:30:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
-    <div class="match-competition">MLS</div>
-    <div class="match-teams">Seattle Sounders - Austin FC <span class="live-indicator">- LIVE</span></div>
+    <div class="match-competition">Ecuador Ligapro</div>
+    <div class="match-teams">U. Catolica - Ind. del Valle <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/171">CH171us</button>
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/86">CH86es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-06-29T23:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Liga AUF Uruguaya</div>
+    <div class="match-teams">Nacional - Danubio <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/109">CH109es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-06-30T00:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">MLS</div>
+    <div class="match-teams">Columbus Crew - Philadelphia Union <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/160">CH160us</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-06-30T01:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Ecuador Ligapro</div>
+    <div class="match-teams">Macara - Emelec <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/86">CH86es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-06-30T01:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Gold Cup</div>
+    <div class="match-teams">USA - Costa Rica <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/68">CH68es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-06-30T01:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Liga 1 Te Apuesto</div>
+    <div class="match-teams">Cusco - Alianza Huanuco <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/84">CH84es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-06-30T01:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Liga Betplay Dimayor</div>
+    <div class="match-teams">Ind. Medellin - Santa Fe <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/81">CH81es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-06-30T03:30:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">MLS</div>
+    <div class="match-teams">Los Angeles FC - Vancouver Whitecaps <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/161">CH161us</button>
 
     </div>
 </div>
