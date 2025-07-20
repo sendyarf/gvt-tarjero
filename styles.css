@@ -1,0 +1,410 @@
+
+        body {
+            background-color: #ffffff;
+            min-height: 100vh;
+            font-family: "Inter", sans-serif;
+            font-size: clamp(14px, 1vw, 16px);
+        }
+        .navbar {
+            background-color: #ffffff;
+            padding: 1.2rem 0;
+            font-family: "Poppins", sans-serif;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .navbar-brand {
+            color: #000000 !important;
+            font-weight: 600;
+            font-size: clamp(1.2rem, 2vw, 1.5rem);
+            letter-spacing: 0.5px;
+            padding: 0.5rem 1rem;
+            transition: all 0.3s ease;
+        }
+        .navbar-brand:hover {
+            transform: translateY(-2px);
+        }
+        .navbar-nav {
+            margin-left: auto;
+        }
+        .nav-link {
+            color: #000000 !important;
+            font-weight: 500;
+            font-size: clamp(0.9rem, 1vw, 1rem);
+            padding: 0.5rem 1.2rem !important;
+            margin: 0 0.2rem;
+            border-radius: 4px;
+            transition: all 0.3s ease;
+        }
+        .nav-link:hover {
+            background-color: #f5f5f5;
+            transform: translateY(-2px);
+        }
+        .nav-link.active {
+            background-color: #000000;
+            color: #ffffff !important;
+        }
+        .navbar-toggler {
+            border: none;
+            padding: 0.5rem;
+            margin-right: 1rem;
+            order: 2;
+        }
+        .navbar-toggler:focus {
+            box-shadow: none;
+        }
+        .navbar-toggler-icon {
+            background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(0, 0, 0, 0.8)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+        }
+        .navbar-collapse {
+            order: 3;
+        }
+        .match-card {
+            background-color: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+            padding: 15px;
+            transition: transform 0.2s;
+            border: 1px solid #e0e0e0;
+            cursor: pointer;
+        }
+        .match-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        .match-time {
+            color: #666666;
+            font-size: clamp(0.8rem, 1vw, 0.9rem);
+            font-weight: 400;
+            letter-spacing: 0.3px;
+            margin-right: 10px;
+        }
+        .match-competition {
+            color: #000000;
+            font-weight: 600;
+            font-family: "Poppins", sans-serif;
+            letter-spacing: 0.5px;
+            font-size: clamp(0.9rem, 1.2vw, 1.1rem);
+        }
+        .match-teams {
+            font-size: clamp(1rem, 1.5vw, 1.2rem);
+            margin: 10px 0;
+            color: #000000;
+            font-weight: 500;
+            font-family: "Poppins", sans-serif;
+            letter-spacing: 0.3px;
+        }
+        .channels {
+            display: none;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-top: 15px;
+        }
+        .channel-btn {
+            background-color: transparent;
+            color: #000000;
+            border: 1px solid #000000;
+            padding: clamp(0.5rem, 1vw, 0.8rem) clamp(1rem, 2vw, 1.25rem);
+            border-radius: 3px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            flex: 1;
+            min-width: 100px;
+            text-align: center;
+            font-weight: 500;
+            letter-spacing: 0.5px;
+            font-family: "Inter", sans-serif;
+            font-size: clamp(0.8rem, 1vw, 0.9rem);
+        }
+        .channel-btn:hover {
+            background-color: #000000;
+            color: #ffffff;
+            transform: translateY(-2px);
+        }
+        .live-indicator {
+            color: #ff0000;
+            font-weight: 600;
+            display: none;
+            margin-left: 10px;
+        }
+        .modal-content {
+            background-color: #ffffff;
+            color: #000000;
+            border: 1px solid #e0e0e0;
+            font-family: "Inter", sans-serif;
+        }
+        .modal-header {
+            border-bottom: 1px solid #e0e0e0;
+            font-family: "Poppins", sans-serif;
+        }
+        .modal-title {
+            font-weight: 600;
+            letter-spacing: 0.5px;
+            font-size: clamp(1.1rem, 1.5vw, 1.3rem);
+        }
+        .btn-close {
+            color: #000000;
+        }
+        iframe {
+            width: 100%;
+            height: 500px;
+            border: none;
+        }
+        /* Responsive Styles */
+        @media (max-width: 768px) {
+            body {
+                font-size: 14px;
+            }
+            .navbar-brand {
+                font-size: 1.2rem;
+            }
+            .navbar-toggler {
+                margin-right: 0.5rem;
+            }
+            .match-card {
+                padding: 12px;
+            }
+            .match-teams {
+                font-size: 1.1rem;
+            }
+            .channel-btn {
+                padding: 6px 15px;
+                font-size: 0.9rem;
+            }
+            .modal-dialog {
+                margin: 0.5rem;
+            }
+            iframe {
+                height: 300px;
+            }
+        }
+        @media (max-width: 576px) {
+            body {
+                font-size: 13px;
+            }
+            .navbar {
+                padding: 0.5rem 0;
+            }
+            .match-card {
+                margin-bottom: 15px;
+            }
+            .match-time {
+                font-size: 0.8rem;
+            }
+            .match-competition {
+                font-size: 0.9rem;
+            }
+            .match-teams {
+                font-size: 1rem;
+            }
+            .channels {
+                gap: 5px;
+            }
+            .channel-btn {
+                padding: 5px 10px;
+                font-size: 0.8rem;
+                min-width: 80px;
+            }
+            iframe {
+                height: 250px;
+            }
+        }
+        /* Container max-width adjustments */
+        @media (min-width: 1200px) {
+            body {
+                font-size: 16px;
+            }
+            .container {
+                max-width: 1140px;
+            }
+        }
+        @media (min-width: 1400px) {
+            .container {
+                max-width: 1320px;
+            }
+        }
+        .donate-card {
+            background-color: #ffffff;
+            border-radius: 15px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+            padding: 3rem;
+            margin-bottom: 2rem;
+            border: 1px solid #e0e0e0;
+        }
+        .donate-title {
+            font-family: "Poppins", sans-serif;
+            font-weight: 600;
+            font-size: clamp(1.8rem, 2.5vw, 2.5rem);
+            margin-bottom: 1.5rem;
+            color: #000000;
+            letter-spacing: 0.5px;
+        }
+        .donate-description {
+            color: #666666;
+            font-size: clamp(0.9rem, 1.1vw, 1.1rem);
+            margin-bottom: 2rem;
+            line-height: 1.8;
+            max-width: 700px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .payment-method {
+            background-color: #f8f9fa;
+            padding: 2rem;
+            border-radius: 10px;
+            height: 100%;
+            transition: transform 0.3s ease;
+        }
+        .payment-method:hover {
+            transform: translateY(-5px);
+        }
+        .payment-title {
+            font-family: "Poppins", sans-serif;
+            font-weight: 600;
+            font-size: clamp(1.2rem, 1.5vw, 1.5rem);
+            margin-bottom: 1.5rem;
+            color: #000000;
+            letter-spacing: 0.5px;
+        }
+        .payment-address {
+            background-color: #ffffff;
+            padding: 1.2rem;
+            border-radius: 8px;
+            font-family: monospace;
+            word-break: break-all;
+            margin-bottom: 1rem;
+            border: 1px solid #e0e0e0;
+            font-size: clamp(0.8rem, 1vw, 0.9rem);
+            color: #333333;
+        }
+        .copy-btn {
+            background-color: transparent;
+            color: #000000;
+            border: 1px solid #000000;
+            padding: 0.7rem 1.5rem;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-weight: 500;
+            font-size: 0.9rem;
+            letter-spacing: 0.5px;
+        }
+        .copy-btn:hover {
+            background-color: #000000;
+            color: #ffffff;
+            transform: translateY(-2px);
+        }
+        .saweria-btn {
+            display: inline-block;
+            background-color: #000000;
+            color: #ffffff;
+            padding: 0.9rem 2rem;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: 500;
+            transition: all 0.3s ease;
+            letter-spacing: 0.5px;
+            font-size: 0.9rem;
+        }
+        .saweria-btn:hover {
+            background-color: #333333;
+            color: #ffffff;
+            transform: translateY(-2px);
+        }
+        @media (max-width: 768px) {
+            .donate-card {
+                padding: 2rem;
+            }
+            .payment-method {
+                padding: 1.5rem;
+            }
+        }
+        /* Floating Buttons */
+        .floating-btn {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background-color: #000000;
+            color: #ffffff;
+            border: none;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+            transition: all 0.3s ease;
+            z-index: 1000;
+            opacity: 0;
+            visibility: hidden;
+        }
+        .floating-btn.visible {
+            opacity: 1;
+            visibility: visible;
+        }
+        .floating-btn:hover {
+            background-color: #333333;
+            transform: translateY(-2px);
+        }
+        #scroll-top-btn {
+            bottom: 70px;
+        }
+        #refresh-btn {
+            bottom: 20px;
+        }
+        @media (max-width: 768px) {
+            .floating-btn {
+                width: 35px;
+                height: 35px;
+                font-size: 18px;
+            }
+            #scroll-top-btn {
+                bottom: 65px;
+            }
+            #refresh-btn {
+                bottom: 15px;
+            }
+        }
+        .no-matches-message {
+            width: 100%;
+            max-width: 600px;
+            margin: 2rem auto;
+            text-align: center;
+            animation: fadeIn 0.5s ease-in;
+        }
+        
+        .no-matches-message .alert {
+            padding: 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        
+        .no-matches-message .alert-heading {
+            color: #0c5460;
+            margin-bottom: 1rem;
+            font-size: 1.5rem;
+        }
+        
+        .no-matches-message p {
+            margin-bottom: 1.5rem;
+            color: #0c5460;
+            font-size: 1.1rem;
+        }
+        
+        .no-matches-message .btn {
+            padding: 0.5rem 1.5rem;
+            font-weight: 500;
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(-10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
