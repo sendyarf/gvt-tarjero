@@ -2,79 +2,68 @@
 <div id="main-content" class="container mt-4">
     <h2 class="mb-4">Today's Matches</h2>
     
-<div class="match-card" data-time="2025-07-21T21:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-card" data-time="2025-07-22T23:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
-    <div class="match-competition">Amical Club</div>
-    <div class="match-teams">Sporting (Por) - Sunderland (Eng) <span class="live-indicator">- LIVE</span></div>
+    <div class="match-competition">Liga Betplay Dimayor</div>
+    <div class="match-teams">Alianza - Tolima <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/144">CH144pt</button>
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/81">CH81es</button>
 
     </div>
 </div>
 
-<div class="match-card" data-time="2025-07-22T00:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-card" data-time="2025-07-23T00:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
-    <div class="match-competition">Torneo LPF</div>
-    <div class="match-teams">Estudiantes - Huracan <span class="live-indicator">- LIVE</span></div>
+    <div class="match-competition">Copa Sudamericana</div>
+    <div class="match-teams">Cerro Largo (Uru) - Central Cordoba (Arg) <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/76">CH76es</button>
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/94">CH94es</button>
 
     </div>
 </div>
 
-<div class="match-card" data-time="2025-07-22T01:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-card" data-time="2025-07-23T01:10:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
-    <div class="match-competition">Campeonato Itaú Chile</div>
-    <div class="match-teams">Huachipato - O'Higgins <span class="live-indicator">- LIVE</span></div>
+    <div class="match-competition">Liga Betplay Dimayor</div>
+    <div class="match-teams">Santa Fe - Aguilas <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/83">CH83es</button>
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/81">CH81es</button>
 
     </div>
 </div>
 
-<div class="match-card" data-time="2025-07-22T02:00:00+02:00" onclick="toggleChannels(this)">
+<div class="match-card" data-time="2025-07-23T02:30:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
-    <div class="match-competition">Ecuador Ligapro</div>
-    <div class="match-teams">Libertad - Manta <span class="live-indicator">- LIVE</span></div>
+    <div class="match-competition">Copa Sudamericana</div>
+    <div class="match-teams">America De Cali (Col) - Bahia (Bra) <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/86">CH86es</button>
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/94">CH94es</button>
 
     </div>
 </div>
 
-<div class="match-card" data-time="2025-07-22T02:15:00+02:00" onclick="toggleChannels(this)">
+<div class="match-card" data-time="2025-07-23T02:30:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
-    <div class="match-competition">Torneo LPF</div>
-    <div class="match-teams">Defensa y Justicia - Aldosivi <span class="live-indicator">- LIVE</span></div>
+    <div class="match-competition">Copa Sudamericana</div>
+    <div class="match-teams">Vasco (Bra) - Ind. del Valle (Ecu) <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/75">CH75es</button>
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/87">CH87es</button>
 
     </div>
 </div>
 
-<div class="match-card" data-time="2025-07-22T02:15:00+02:00" onclick="toggleChannels(this)">
+<div class="match-card" data-time="2025-07-23T03:20:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
-    <div class="match-competition">Torneo LPF</div>
-    <div class="match-teams">San Martin S.J. - Dep. Riestra <span class="live-indicator">- LIVE</span></div>
+    <div class="match-competition">Liga Betplay Dimayor</div>
+    <div class="match-teams">Pereira - Atl. Nacional <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/76">CH76es</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-07-22T03:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Liga Mx Women</div>
-    <div class="match-teams">Atl. San Luis F - Monterrey F <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/98">CH98es</button>
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/81">CH81es</button>
 
     </div>
 </div>
