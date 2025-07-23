@@ -35,7 +35,9 @@ matches = schedule_pattern.findall(text)
 html_template = """
 <div id="main-content" class="container mt-4">
     <h2 class="mb-4">Today's Matches</h2>
+    <div class="matches-container">
     {match_items}
+    </div>
 </div>
 """
 
