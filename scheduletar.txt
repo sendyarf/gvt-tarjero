@@ -1,6 +1,7 @@
 
 <div id="main-content" class="container mt-4">
     <h2 class="mb-4">Today's Matches</h2>
+    <div class="matches-container">
     
 <div class="match-card" data-time="2025-07-22T23:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
@@ -68,4 +69,5 @@
     </div>
 </div>
 
+    </div>
 </div>
