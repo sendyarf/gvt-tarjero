@@ -31,8 +31,8 @@ def scrape_schedule():
     schedule_pattern = re.compile(r'(\d{2}-\d{2}-\d{4})\s+\((\d{2}:\d{2})\)\s+(.+?)\s+((?:\(CH\d+\w+\)\s*)+)')
     matches = schedule_pattern.findall(text)
 
-    # Proses data jadwal
-    matches_data = []
+    # Proses data jadwal baru
+    new_matches = []
     for match in matches:
         date, time, event, channels = match
         
@@ -61,13 +61,13 @@ def scrape_schedule():
             'channels': channel_list,
             'is_live': False
         }
-        matches_data.append(match_data)
+        new_matches.append(match_data)
     
-    # Simpan ke file JSON
+    # Selalu timpa file dengan data terbaru
     with open('schedule.json', 'w', encoding='utf-8') as f:
-        json.dump(matches_data, f, ensure_ascii=False, indent=2)
+        json.dump(new_matches, f, ensure_ascii=False, indent=2)
     
-    print("Jadwal berhasil disimpan ke schedule.json")
+    print("Jadwal berhasil diperbarui.")
     return True
 
 if __name__ == '__main__':
