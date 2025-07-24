@@ -1,7 +1,7 @@
 // Fungsi untuk memuat jadwal dari JSON
 async function loadSchedule() {
     try {
-        const response = await fetch('https://gvt720.pages.dev/schedule.json');
+        const response = await fetch('schedule.json');
         if (!response.ok) throw new Error('Gagal memuat jadwal');
         const matches = await response.json();
         
@@ -124,10 +124,10 @@ function checkLiveMatches() {
             if (container) {
                 container.innerHTML = `
                     <div class="alert alert-info" id="no-matches-message">
-                        <h4 class="alert-heading">No matches available</h4>
-                        <p>There are currently no scheduled matches. Please check back later or refresh the page.</p>
+                        <h4 class="alert-heading">Tidak ada pertandingan saat ini</h4>
+                        <p>Tidak ada jadwal pertandingan yang tersedia. Silakan cek kembali nanti.</p>
                         <button class="btn btn-primary mt-2" onclick="window.location.reload()">
-                            Refresh Page
+                            Muat Ulang
                         </button>
                     </div>
                 `;
@@ -210,6 +210,71 @@ function initFloatingButtons() {
             }
         });
     }
+}
+
+// Fungsi untuk menyalin alamat Bitcoin ke clipboard
+function copyBitcoinAddress() {
+    const bitcoinAddress = document.getElementById('bitcoinAddress');
+    const textToCopy = bitcoinAddress.textContent.trim();
+    
+    navigator.clipboard.writeText(textToCopy).then(() => {
+        // Ubah teks tombol sementara
+        const copyBtn = document.querySelector('.copy-btn');
+        const originalText = copyBtn.textContent;
+        copyBtn.textContent = 'Copied!';
+        
+        // Kembalikan teks tombol setelah 2 detik
+        setTimeout(() => {
+            copyBtn.textContent = originalText;
+        }, 2000);
+        
+        // Tampilkan notifikasi
+        showToast('Bitcoin address copied to clipboard!');
+    }).catch(err => {
+        console.error('Gagal menyalin teks: ', err);
+        showToast('Gagal menyalin alamat', 'error');
+    });
+}
+
+// Fungsi untuk menampilkan notifikasi
+function showToast(message, type = 'success') {
+    // Cek apakah toast container sudah ada
+    let toastContainer = document.querySelector('.toast-container');
+    if (!toastContainer) {
+        toastContainer = document.createElement('div');
+        toastContainer.className = 'toast-container position-fixed bottom-0 end-0 p-3';
+        document.body.appendChild(toastContainer);
+    }
+    
+    const toast = document.createElement('div');
+    toast.className = `toast align-items-center text-white bg-${type === 'success' ? 'success' : 'danger'} border-0`;
+    toast.setAttribute('role', 'alert');
+    toast.setAttribute('aria-live', 'assertive');
+    toast.setAttribute('aria-atomic', 'true');
+    
+    toast.innerHTML = `
+        <div class="d-flex">
+            <div class="toast-body">
+                ${message}
+            </div>
+            <button type="button" class="btn-close btn-close-white me-2 m-auto" data-bs-dismiss="toast" aria-label="Close"></button>
+        </div>
+    `;
+    
+    toastContainer.appendChild(toast);
+    
+    // Inisialisasi dan tampilkan toast
+    const bsToast = new bootstrap.Toast(toast, {
+        autohide: true,
+        delay: 3000
+    });
+    
+    bsToast.show();
+    
+    // Hapus toast dari DOM setelah selesai
+    toast.addEventListener('hidden.bs.toast', function () {
+        toast.remove();
+    });
 }
 
 // Inisialisasi saat halaman dimuat
