@@ -1,0 +1,272 @@
+[
+  {
+    "date": "23-07-2025",
+    "time": "18:30",
+    "iso_datetime": "2025-07-23T18:30:00+02:00",
+    "competition": "Conference League",
+    "teams": "Levadia (Est) - Iberia 1999 (Geo)",
+    "channels": [
+      {
+        "name": "CH111ge",
+        "url": "https://envivo.govoet.my.id/111"
+      }
+    ],
+    "is_live": false
+  },
+  {
+    "date": "23-07-2025",
+    "time": "19:00",
+    "iso_datetime": "2025-07-23T19:00:00+02:00",
+    "competition": "Amical Club",
+    "teams": "Huesca (Esp) - Osasuna B (Esp)",
+    "channels": [
+      {
+        "name": "CH112es",
+        "url": "https://envivo.govoet.my.id/112"
+      }
+    ],
+    "is_live": false
+  },
+  {
+    "date": "23-07-2025",
+    "time": "19:00",
+    "iso_datetime": "2025-07-23T19:00:00+02:00",
+    "competition": "Ligue Des Champions",
+    "teams": "Brann (Nor) - Red Bull Salzbourg (Aut)",
+    "channels": [
+      {
+        "name": "CH113de",
+        "url": "https://envivo.govoet.my.id/113"
+      }
+    ],
+    "is_live": false
+  },
+  {
+    "date": "23-07-2025",
+    "time": "19:30",
+    "iso_datetime": "2025-07-23T19:30:00+02:00",
+    "competition": "Amical Club",
+    "teams": "Galatasaray (Tur) - Cagliari (Ita)",
+    "channels": [
+      {
+        "name": "CH114it",
+        "url": "https://envivo.govoet.my.id/114"
+      }
+    ],
+    "is_live": false
+  },
+  {
+    "date": "23-07-2025",
+    "time": "20:00",
+    "iso_datetime": "2025-07-23T20:00:00+02:00",
+    "competition": "Amical Club",
+    "teams": "Valence (Esp) - Leganes (Esp)",
+    "channels": [
+      {
+        "name": "CH115es",
+        "url": "https://envivo.govoet.my.id/115"
+      }
+    ],
+    "is_live": false
+  },
+  {
+    "date": "23-07-2025",
+    "time": "20:00",
+    "iso_datetime": "2025-07-23T20:00:00+02:00",
+    "competition": "Conference League",
+    "teams": "O. Ljubljana (Slo) - Inter Escaldes (And)",
+    "channels": [
+      {
+        "name": "CH116so",
+        "url": "https://envivo.govoet.my.id/116"
+      }
+    ],
+    "is_live": false
+  },
+  {
+    "date": "23-07-2025",
+    "time": "20:45",
+    "iso_datetime": "2025-07-23T20:45:00+02:00",
+    "competition": "Ligue Des Champions",
+    "teams": "Shelbourne (Irl) - Qarabag (Aze)",
+    "channels": [
+      {
+        "name": "CH117uk",
+        "url": "https://envivo.govoet.my.id/117"
+      }
+    ],
+    "is_live": false
+  },
+  {
+    "date": "23-07-2025",
+    "time": "21:00",
+    "iso_datetime": "2025-07-23T21:00:00+02:00",
+    "competition": "Amical Club",
+    "teams": "Fenerbahce (Tur) - Al-Ittihad FC (Sau)",
+    "channels": [
+      {
+        "name": "CH145pt",
+        "url": "https://envivo.govoet.my.id/145"
+      }
+    ],
+    "is_live": false
+  },
+  {
+    "date": "23-07-2025",
+    "time": "21:00",
+    "iso_datetime": "2025-07-23T21:00:00+02:00",
+    "competition": "Euro Feminin",
+    "teams": "Allemagne F - Espagne F",
+    "channels": [
+      {
+        "name": "CH24fr",
+        "url": "https://envivo.govoet.my.id/24"
+      },
+      {
+        "name": "CH61es",
+        "url": "https://envivo.govoet.my.id/61"
+      }
+    ],
+    "is_live": false
+  },
+  {
+    "date": "23-07-2025",
+    "time": "22:00",
+    "iso_datetime": "2025-07-23T22:00:00+02:00",
+    "competition": "Amical Club",
+    "teams": "Colo Colo (Chi) - Valladolid (Esp)",
+    "channels": [
+      {
+        "name": "CH118us",
+        "url": "https://envivo.govoet.my.id/118"
+      }
+    ],
+    "is_live": false
+  },
+  {
+    "date": "23-07-2025",
+    "time": "22:00",
+    "iso_datetime": "2025-07-23T22:00:00+02:00",
+    "competition": "Copa Ecuador",
+    "teams": "Rio Aguarico - U. Catolica",
+    "channels": [
+      {
+        "name": "CH86es",
+        "url": "https://envivo.govoet.my.id/86"
+      }
+    ],
+    "is_live": false
+  },
+  {
+    "date": "23-07-2025",
+    "time": "23:00",
+    "iso_datetime": "2025-07-23T23:00:00+02:00",
+    "competition": "Liga Betplay Dimayor",
+    "teams": "Llaneros - Chico",
+    "channels": [
+      {
+        "name": "CH81es",
+        "url": "https://envivo.govoet.my.id/81"
+      }
+    ],
+    "is_live": false
+  },
+  {
+    "date": "24-07-2025",
+    "time": "00:00",
+    "iso_datetime": "2025-07-24T00:00:00+02:00",
+    "competition": "Copa Sudamericana",
+    "teams": "Palestino (Chi) - Bolivar (Bol)",
+    "channels": [
+      {
+        "name": "CH88es",
+        "url": "https://envivo.govoet.my.id/88"
+      }
+    ],
+    "is_live": false
+  },
+  {
+    "date": "24-07-2025",
+    "time": "01:10",
+    "iso_datetime": "2025-07-24T01:10:00+02:00",
+    "competition": "Liga Betplay Dimayor",
+    "teams": "Junior - U. Magdalena",
+    "channels": [
+      {
+        "name": "CH81es",
+        "url": "https://envivo.govoet.my.id/81"
+      }
+    ],
+    "is_live": false
+  },
+  {
+    "date": "24-07-2025",
+    "time": "02:10",
+    "iso_datetime": "2025-07-24T02:10:00+02:00",
+    "competition": "Copa Argentina",
+    "teams": "Boca Juniors - Atl. Tucuman",
+    "channels": [
+      {
+        "name": "CH77es",
+        "url": "https://envivo.govoet.my.id/77"
+      }
+    ],
+    "is_live": false
+  },
+  {
+    "date": "24-07-2025",
+    "time": "02:30",
+    "iso_datetime": "2025-07-24T02:30:00+02:00",
+    "competition": "Copa Sudamericana",
+    "teams": "Gremio (Bra) - A. Lima (Per)",
+    "channels": [
+      {
+        "name": "CH87es",
+        "url": "https://envivo.govoet.my.id/87"
+      }
+    ],
+    "is_live": false
+  },
+  {
+    "date": "24-07-2025",
+    "time": "02:30",
+    "iso_datetime": "2025-07-24T02:30:00+02:00",
+    "competition": "Copa Sudamericana",
+    "teams": "Once Caldas (Col) - SA Bulo Bulo (Bol)",
+    "channels": [
+      {
+        "name": "CH94us",
+        "url": "https://envivo.govoet.my.id/94"
+      }
+    ],
+    "is_live": false
+  },
+  {
+    "date": "24-07-2025",
+    "time": "03:00",
+    "iso_datetime": "2025-07-24T03:00:00+02:00",
+    "competition": "MLS",
+    "teams": "MLS All-Stars - Liga MX All-Stars",
+    "channels": [
+      {
+        "name": "CH160us",
+        "url": "https://envivo.govoet.my.id/160"
+      }
+    ],
+    "is_live": false
+  },
+  {
+    "date": "24-07-2025",
+    "time": "03:20",
+    "iso_datetime": "2025-07-24T03:20:00+02:00",
+    "competition": "Liga Betplay Dimayor",
+    "teams": "La Equidad - Millonarios",
+    "channels": [
+      {
+        "name": "CH81es",
+        "url": "https://envivo.govoet.my.id/81"
+      }
+    ],
+    "is_live": false
+  }
+]
