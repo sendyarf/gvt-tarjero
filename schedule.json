@@ -12,7 +12,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T03:47:33.832229Z"
+    "last_updated": "2025-07-25T04:41:18.306596Z"
   },
   {
     "date": "24-07-2025",
@@ -27,7 +27,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T03:47:33.832254Z"
+    "last_updated": "2025-07-25T04:41:18.306622Z"
   },
   {
     "date": "24-07-2025",
@@ -42,7 +42,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T03:47:33.832270Z"
+    "last_updated": "2025-07-25T04:41:18.306632Z"
   },
   {
     "date": "24-07-2025",
@@ -57,7 +57,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T03:47:33.832282Z"
+    "last_updated": "2025-07-25T04:41:18.306638Z"
   },
   {
     "date": "24-07-2025",
@@ -72,7 +72,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T03:47:33.832293Z"
+    "last_updated": "2025-07-25T04:41:18.306645Z"
   },
   {
     "date": "24-07-2025",
@@ -87,7 +87,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T03:47:33.832303Z"
+    "last_updated": "2025-07-25T04:41:18.306651Z"
   },
   {
     "date": "24-07-2025",
@@ -102,7 +102,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T03:47:33.832314Z"
+    "last_updated": "2025-07-25T04:41:18.306658Z"
   },
   {
     "date": "24-07-2025",
@@ -117,7 +117,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T03:47:33.832324Z"
+    "last_updated": "2025-07-25T04:41:18.306670Z"
   },
   {
     "date": "24-07-2025",
@@ -132,7 +132,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T03:47:33.832333Z"
+    "last_updated": "2025-07-25T04:41:18.306682Z"
   },
   {
     "date": "24-07-2025",
@@ -147,7 +147,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T03:47:33.832342Z"
+    "last_updated": "2025-07-25T04:41:18.306692Z"
   },
   {
     "date": "24-07-2025",
@@ -162,7 +162,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T03:47:33.832351Z"
+    "last_updated": "2025-07-25T04:41:18.306701Z"
   },
   {
     "date": "24-07-2025",
@@ -177,7 +177,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T03:47:33.832360Z"
+    "last_updated": "2025-07-25T04:41:18.306710Z"
   },
   {
     "date": "24-07-2025",
@@ -192,14 +192,14 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T03:47:33.832368Z"
+    "last_updated": "2025-07-25T04:41:18.306719Z"
   },
   {
     "date": "24-07-2025",
     "time": "20:30",
     "iso_datetime": "2025-07-24T20:30:00+02:00",
     "competition": "Conference League",
-    "teams": "Austria Vienne (Aut) - Spaeri (Geo)",
+    "teams": "Austria Vienne (Aut) -",
     "channels": [
       {
         "name": "CH174de",
@@ -207,7 +207,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T03:47:33.832377Z"
+    "last_updated": "2025-07-25T04:41:18.306729Z"
   },
   {
     "date": "24-07-2025",
@@ -222,22 +222,30 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T03:47:33.832385Z"
+    "last_updated": "2025-07-25T04:41:18.306737Z"
   },
   {
     "date": "24-07-2025",
     "time": "20:45",
     "iso_datetime": "2025-07-24T20:45:00+02:00",
     "competition": "Conference League",
-    "teams": "Austria Vienne (Aut) - Spaeri (Geo)",
+    "teams": "Austria Vienne (Aut) - Spaeri2 (Geo)",
     "channels": [
       {
         "name": "CH155zz",
         "url": "https://envivo.govoet.my.id/155"
+      },
+      {
+        "name": "CH166es",
+        "url": "https://envivo.govoet.my.id/166"
+      },
+      {
+        "name": "CH144ef",
+        "url": "https://envivo.govoet.my.id/144"
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T03:47:33.832393Z"
+    "last_updated": "2025-07-25T04:41:18.306751Z"
   },
   {
     "date": "25-07-2025",
@@ -252,7 +260,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T03:47:33.832402Z"
+    "last_updated": "2025-07-25T04:41:18.306761Z"
   },
   {
     "date": "25-07-2025",
@@ -267,7 +275,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T03:47:33.832411Z"
+    "last_updated": "2025-07-25T04:41:18.306771Z"
   },
   {
     "date": "25-07-2025",
@@ -282,7 +290,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T03:47:33.832419Z"
+    "last_updated": "2025-07-25T04:41:18.306780Z"
   },
   {
     "date": "25-07-2025",
@@ -297,7 +305,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T03:47:33.832427Z"
+    "last_updated": "2025-07-25T04:41:18.306790Z"
   },
   {
     "date": "25-07-2025",
@@ -312,7 +320,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T03:47:33.832435Z"
+    "last_updated": "2025-07-25T04:41:18.306800Z"
   },
   {
     "date": "25-07-2025",
@@ -327,7 +335,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T03:47:33.832444Z"
+    "last_updated": "2025-07-25T04:41:18.306811Z"
   },
   {
     "date": "25-07-2025",
@@ -342,6 +350,6 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T03:47:33.832452Z"
+    "last_updated": "2025-07-25T04:41:18.306822Z"
   }
 ]
