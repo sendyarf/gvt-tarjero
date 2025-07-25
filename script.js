@@ -124,11 +124,11 @@ function checkLiveMatches() {
             if (container) {
                 container.innerHTML = `
                     <div class="alert alert-info" id="no-matches-message">
-                        <h4 class="alert-heading">Tidak ada pertandingan saat ini</h4>
-                        <p>Tidak ada jadwal pertandingan yang tersedia. Silakan cek kembali nanti.</p>
-                        <button class="btn btn-primary mt-2" onclick="window.location.reload()">
-                            Muat Ulang
-                        </button>
+                        <h4 class="alert-heading">No matches available</h4>
+                        <p>There are currently no scheduled matches. Please check back later or refresh the page.</p>
+                            <button class="btn btn-primary mt-2" onclick="window.location.reload()">
+                                Refresh Page
+                            </button>
                     </div>
                 `;
             }
