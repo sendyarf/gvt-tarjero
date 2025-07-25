@@ -1,78 +1,6 @@
 [
   {
     "date": "25-07-2025",
-    "time": "12:00",
-    "iso_datetime": "2025-07-25T12:00:00+02:00",
-    "competition": "Amical Club",
-    "teams": "Norwich (Eng) - Olympiakos (Gre)",
-    "channels": [
-      {
-        "name": "CH160gr",
-        "url": "https://envivo.govoet.my.id/160"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-25T06:36:33.160483Z"
-  },
-  {
-    "date": "25-07-2025",
-    "time": "12:30",
-    "iso_datetime": "2025-07-25T12:30:00+02:00",
-    "competition": "formula 1",
-    "teams": "Essais libres 1 -",
-    "channels": [
-      {
-        "name": "CH13fr",
-        "url": "https://envivo.govoet.my.id/13"
-      },
-      {
-        "name": "CH60es",
-        "url": "https://envivo.govoet.my.id/60"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-25T06:36:33.160511Z"
-  },
-  {
-    "date": "25-07-2025",
-    "time": "14:00",
-    "iso_datetime": "2025-07-25T14:00:00+02:00",
-    "competition": "formula 3",
-    "teams": "Essais qualificatifs -",
-    "channels": [
-      {
-        "name": "CH13fr",
-        "url": "https://envivo.govoet.my.id/13"
-      },
-      {
-        "name": "CH60es",
-        "url": "https://envivo.govoet.my.id/60"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-25T06:36:33.160521Z"
-  },
-  {
-    "date": "25-07-2025",
-    "time": "15:00",
-    "iso_datetime": "2025-07-25T15:00:00+02:00",
-    "competition": "formula 2",
-    "teams": "Essais qualificatifs -",
-    "channels": [
-      {
-        "name": "CH13fr",
-        "url": "https://envivo.govoet.my.id/13"
-      },
-      {
-        "name": "CH60es",
-        "url": "https://envivo.govoet.my.id/60"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-25T06:36:33.160534Z"
-  },
-  {
-    "date": "25-07-2025",
     "time": "16:30",
     "iso_datetime": "2025-07-25T16:30:00+02:00",
     "competition": "formula 1",
@@ -88,7 +16,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T06:36:33.160549Z"
+    "last_updated": "2025-07-25T17:23:06.430750Z"
   },
   {
     "date": "25-07-2025",
@@ -103,7 +31,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T06:36:33.160560Z"
+    "last_updated": "2025-07-25T17:23:06.430775Z"
   },
   {
     "date": "25-07-2025",
@@ -118,7 +46,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T06:36:33.160570Z"
+    "last_updated": "2025-07-25T17:23:06.430790Z"
   },
   {
     "date": "25-07-2025",
@@ -133,7 +61,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T06:36:33.160579Z"
+    "last_updated": "2025-07-25T17:23:06.430802Z"
   },
   {
     "date": "25-07-2025",
@@ -148,7 +76,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T06:36:33.160587Z"
+    "last_updated": "2025-07-25T17:23:06.430813Z"
   },
   {
     "date": "25-07-2025",
@@ -163,7 +91,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T06:36:33.160596Z"
+    "last_updated": "2025-07-25T17:23:06.430825Z"
   },
   {
     "date": "26-07-2025",
@@ -178,7 +106,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T06:36:33.160604Z"
+    "last_updated": "2025-07-25T17:23:06.430836Z"
   },
   {
     "date": "26-07-2025",
@@ -193,7 +121,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T06:36:33.160614Z"
+    "last_updated": "2025-07-25T17:23:06.430846Z"
   },
   {
     "date": "26-07-2025",
@@ -208,7 +136,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T06:36:33.160623Z"
+    "last_updated": "2025-07-25T17:23:06.430858Z"
   },
   {
     "date": "26-07-2025",
@@ -223,7 +151,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T06:36:33.160632Z"
+    "last_updated": "2025-07-25T17:23:06.430869Z"
   },
   {
     "date": "26-07-2025",
@@ -238,7 +166,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T06:36:33.160641Z"
+    "last_updated": "2025-07-25T17:23:06.430879Z"
   },
   {
     "date": "26-07-2025",
@@ -253,7 +181,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T06:36:33.160649Z"
+    "last_updated": "2025-07-25T17:23:06.430890Z"
   },
   {
     "date": "26-07-2025",
@@ -268,7 +196,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T06:36:33.160657Z"
+    "last_updated": "2025-07-25T17:23:06.430901Z"
   },
   {
     "date": "26-07-2025",
@@ -283,7 +211,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T06:36:33.160666Z"
+    "last_updated": "2025-07-25T17:23:06.430912Z"
   },
   {
     "date": "26-07-2025",
@@ -298,7 +226,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T06:36:33.160675Z"
+    "last_updated": "2025-07-25T17:23:06.430923Z"
   },
   {
     "date": "26-07-2025",
@@ -313,7 +241,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T06:36:33.160683Z"
+    "last_updated": "2025-07-25T17:23:06.430934Z"
   },
   {
     "date": "26-07-2025",
@@ -328,7 +256,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T06:36:33.160692Z"
+    "last_updated": "2025-07-25T17:23:06.430945Z"
   },
   {
     "date": "26-07-2025",
@@ -343,7 +271,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T06:36:33.160700Z"
+    "last_updated": "2025-07-25T17:23:06.430958Z"
   },
   {
     "date": "26-07-2025",
@@ -362,7 +290,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T06:36:33.160711Z"
+    "last_updated": "2025-07-25T17:23:06.430972Z"
   },
   {
     "date": "26-07-2025",
@@ -377,7 +305,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T06:36:33.160719Z"
+    "last_updated": "2025-07-25T17:23:06.430983Z"
   },
   {
     "date": "26-07-2025",
@@ -392,7 +320,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T06:36:33.160728Z"
+    "last_updated": "2025-07-25T17:23:06.430995Z"
   },
   {
     "date": "26-07-2025",
@@ -407,7 +335,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T06:36:33.160736Z"
+    "last_updated": "2025-07-25T17:23:06.431006Z"
   },
   {
     "date": "26-07-2025",
@@ -422,6 +350,6 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T06:36:33.160745Z"
+    "last_updated": "2025-07-25T17:23:06.431017Z"
   }
 ]
