@@ -11,7 +11,8 @@
         "url": "https://envivo.govoet.my.id/160"
       }
     ],
-    "is_live": false
+    "is_live": false,
+    "last_updated": "2025-07-25T03:47:33.832229Z"
   },
   {
     "date": "24-07-2025",
@@ -25,7 +26,8 @@
         "url": "https://envivo.govoet.my.id/161"
       }
     ],
-    "is_live": false
+    "is_live": false,
+    "last_updated": "2025-07-25T03:47:33.832254Z"
   },
   {
     "date": "24-07-2025",
@@ -39,7 +41,8 @@
         "url": "https://envivo.govoet.my.id/162"
       }
     ],
-    "is_live": false
+    "is_live": false,
+    "last_updated": "2025-07-25T03:47:33.832270Z"
   },
   {
     "date": "24-07-2025",
@@ -53,7 +56,8 @@
         "url": "https://envivo.govoet.my.id/165"
       }
     ],
-    "is_live": false
+    "is_live": false,
+    "last_updated": "2025-07-25T03:47:33.832282Z"
   },
   {
     "date": "24-07-2025",
@@ -67,7 +71,8 @@
         "url": "https://envivo.govoet.my.id/166"
       }
     ],
-    "is_live": false
+    "is_live": false,
+    "last_updated": "2025-07-25T03:47:33.832293Z"
   },
   {
     "date": "24-07-2025",
@@ -81,7 +86,8 @@
         "url": "https://envivo.govoet.my.id/167"
       }
     ],
-    "is_live": false
+    "is_live": false,
+    "last_updated": "2025-07-25T03:47:33.832303Z"
   },
   {
     "date": "24-07-2025",
@@ -95,7 +101,8 @@
         "url": "https://envivo.govoet.my.id/168"
       }
     ],
-    "is_live": false
+    "is_live": false,
+    "last_updated": "2025-07-25T03:47:33.832314Z"
   },
   {
     "date": "24-07-2025",
@@ -109,7 +116,8 @@
         "url": "https://envivo.govoet.my.id/163"
       }
     ],
-    "is_live": false
+    "is_live": false,
+    "last_updated": "2025-07-25T03:47:33.832324Z"
   },
   {
     "date": "24-07-2025",
@@ -123,7 +131,8 @@
         "url": "https://envivo.govoet.my.id/164"
       }
     ],
-    "is_live": false
+    "is_live": false,
+    "last_updated": "2025-07-25T03:47:33.832333Z"
   },
   {
     "date": "24-07-2025",
@@ -137,7 +146,8 @@
         "url": "https://envivo.govoet.my.id/170"
       }
     ],
-    "is_live": false
+    "is_live": false,
+    "last_updated": "2025-07-25T03:47:33.832342Z"
   },
   {
     "date": "24-07-2025",
@@ -151,7 +161,8 @@
         "url": "https://envivo.govoet.my.id/171"
       }
     ],
-    "is_live": false
+    "is_live": false,
+    "last_updated": "2025-07-25T03:47:33.832351Z"
   },
   {
     "date": "24-07-2025",
@@ -165,7 +176,8 @@
         "url": "https://envivo.govoet.my.id/169"
       }
     ],
-    "is_live": false
+    "is_live": false,
+    "last_updated": "2025-07-25T03:47:33.832360Z"
   },
   {
     "date": "24-07-2025",
@@ -179,7 +191,8 @@
         "url": "https://envivo.govoet.my.id/172"
       }
     ],
-    "is_live": false
+    "is_live": false,
+    "last_updated": "2025-07-25T03:47:33.832368Z"
   },
   {
     "date": "24-07-2025",
@@ -193,21 +206,8 @@
         "url": "https://envivo.govoet.my.id/174"
       }
     ],
-    "is_live": false
-  },
-  {
-    "date": "24-07-2025",
-    "time": "20:30",
-    "iso_datetime": "2025-07-24T20:30:00+02:00",
-    "competition": "Conference League",
-    "teams": "Vardar (Mkd) - Lausanne (Sui)",
-    "channels": [
-      {
-        "name": "CH175de",
-        "url": "https://envivo.govoet.my.id/175"
-      }
-    ],
-    "is_live": false
+    "is_live": false,
+    "last_updated": "2025-07-25T03:47:33.832377Z"
   },
   {
     "date": "24-07-2025",
@@ -221,7 +221,23 @@
         "url": "https://envivo.govoet.my.id/173"
       }
     ],
-    "is_live": false
+    "is_live": false,
+    "last_updated": "2025-07-25T03:47:33.832385Z"
+  },
+  {
+    "date": "24-07-2025",
+    "time": "20:45",
+    "iso_datetime": "2025-07-24T20:45:00+02:00",
+    "competition": "Conference League",
+    "teams": "Austria Vienne (Aut) - Spaeri (Geo)",
+    "channels": [
+      {
+        "name": "CH155zz",
+        "url": "https://envivo.govoet.my.id/155"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-25T03:47:33.832393Z"
   },
   {
     "date": "25-07-2025",
@@ -235,7 +251,8 @@
         "url": "https://envivo.govoet.my.id/94"
       }
     ],
-    "is_live": false
+    "is_live": false,
+    "last_updated": "2025-07-25T03:47:33.832402Z"
   },
   {
     "date": "25-07-2025",
@@ -249,7 +266,8 @@
         "url": "https://envivo.govoet.my.id/81"
       }
     ],
-    "is_live": false
+    "is_live": false,
+    "last_updated": "2025-07-25T03:47:33.832411Z"
   },
   {
     "date": "25-07-2025",
@@ -263,7 +281,8 @@
         "url": "https://envivo.govoet.my.id/86"
       }
     ],
-    "is_live": false
+    "is_live": false,
+    "last_updated": "2025-07-25T03:47:33.832419Z"
   },
   {
     "date": "25-07-2025",
@@ -277,7 +296,8 @@
         "url": "https://envivo.govoet.my.id/87"
       }
     ],
-    "is_live": false
+    "is_live": false,
+    "last_updated": "2025-07-25T03:47:33.832427Z"
   },
   {
     "date": "25-07-2025",
@@ -291,7 +311,8 @@
         "url": "https://envivo.govoet.my.id/155"
       }
     ],
-    "is_live": false
+    "is_live": false,
+    "last_updated": "2025-07-25T03:47:33.832435Z"
   },
   {
     "date": "25-07-2025",
@@ -305,7 +326,8 @@
         "url": "https://envivo.govoet.my.id/81"
       }
     ],
-    "is_live": false
+    "is_live": false,
+    "last_updated": "2025-07-25T03:47:33.832444Z"
   },
   {
     "date": "25-07-2025",
@@ -319,6 +341,7 @@
         "url": "https://envivo.govoet.my.id/155"
       }
     ],
-    "is_live": false
+    "is_live": false,
+    "last_updated": "2025-07-25T03:47:33.832452Z"
   }
 ]
