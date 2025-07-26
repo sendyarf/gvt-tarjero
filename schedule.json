@@ -1,95 +1,5 @@
 [
   {
-    "date": "25-07-2025",
-    "time": "20:30",
-    "iso_datetime": "2025-07-25T20:30:00+02:00",
-    "competition": "Amical Club",
-    "teams": "Gil Vicente (Por) - Brentford (Eng)",
-    "channels": [
-      {
-        "name": "CH161pt",
-        "url": "https://envivo.govoet.my.id/161"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-25T20:26:26.210226Z"
-  },
-  {
-    "date": "25-07-2025",
-    "time": "20:30",
-    "iso_datetime": "2025-07-25T20:30:00+02:00",
-    "competition": "Amical Club",
-    "teams": "Sporting (Por) - Villarreal (Esp)",
-    "channels": [
-      {
-        "name": "CH162es",
-        "url": "https://envivo.govoet.my.id/162"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-25T20:26:26.210254Z"
-  },
-  {
-    "date": "25-07-2025",
-    "time": "20:45",
-    "iso_datetime": "2025-07-25T20:45:00+02:00",
-    "competition": "Pro League",
-    "teams": "Antwerp - Royale Union SG",
-    "channels": [
-      {
-        "name": "CH153fr",
-        "url": "https://envivo.govoet.my.id/153"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-25T20:26:26.210263Z"
-  },
-  {
-    "date": "25-07-2025",
-    "time": "21:00",
-    "iso_datetime": "2025-07-25T21:00:00+02:00",
-    "competition": "Amical Club",
-    "teams": "Cordoba (Esp) - Betis (Esp)",
-    "channels": [
-      {
-        "name": "CH71es",
-        "url": "https://envivo.govoet.my.id/71"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-25T20:26:26.210270Z"
-  },
-  {
-    "date": "25-07-2025",
-    "time": "22:00",
-    "iso_datetime": "2025-07-25T22:00:00+02:00",
-    "competition": "Liga 1 Te Apuesto",
-    "teams": "Huancayo - Juan Pablo II",
-    "channels": [
-      {
-        "name": "CH84es",
-        "url": "https://envivo.govoet.my.id/84"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-25T20:26:26.210276Z"
-  },
-  {
-    "date": "26-07-2025",
-    "time": "00:00",
-    "iso_datetime": "2025-07-26T00:00:00+02:00",
-    "competition": "Torneo LPF",
-    "teams": "Sarmiento Junin - Lanus",
-    "channels": [
-      {
-        "name": "CH76es",
-        "url": "https://envivo.govoet.my.id/76"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-25T20:26:26.210286Z"
-  },
-  {
     "date": "26-07-2025",
     "time": "01:00",
     "iso_datetime": "2025-07-26T01:00:00+02:00",
@@ -102,7 +12,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T20:26:26.210298Z"
+    "last_updated": "2025-07-26T01:56:37.920941Z"
   },
   {
     "date": "26-07-2025",
@@ -117,7 +27,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T20:26:26.210308Z"
+    "last_updated": "2025-07-26T01:56:37.920968Z"
   },
   {
     "date": "26-07-2025",
@@ -132,7 +42,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T20:26:26.210317Z"
+    "last_updated": "2025-07-26T01:56:37.920977Z"
   },
   {
     "date": "26-07-2025",
@@ -147,7 +57,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T20:26:26.210328Z"
+    "last_updated": "2025-07-26T01:56:37.920984Z"
   },
   {
     "date": "26-07-2025",
@@ -162,7 +72,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T20:26:26.210337Z"
+    "last_updated": "2025-07-26T01:56:37.920990Z"
   },
   {
     "date": "26-07-2025",
@@ -177,7 +87,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T20:26:26.210347Z"
+    "last_updated": "2025-07-26T01:56:37.920996Z"
   },
   {
     "date": "26-07-2025",
@@ -192,7 +102,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T20:26:26.210356Z"
+    "last_updated": "2025-07-26T01:56:37.921004Z"
   },
   {
     "date": "26-07-2025",
@@ -207,7 +117,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T20:26:26.210364Z"
+    "last_updated": "2025-07-26T01:56:37.921016Z"
   },
   {
     "date": "26-07-2025",
@@ -222,7 +132,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T20:26:26.210373Z"
+    "last_updated": "2025-07-26T01:56:37.921027Z"
   },
   {
     "date": "26-07-2025",
@@ -237,7 +147,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T20:26:26.210382Z"
+    "last_updated": "2025-07-26T01:56:37.921036Z"
   },
   {
     "date": "26-07-2025",
@@ -252,7 +162,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T20:26:26.210391Z"
+    "last_updated": "2025-07-26T01:56:37.921046Z"
   },
   {
     "date": "26-07-2025",
@@ -271,7 +181,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T20:26:26.210402Z"
+    "last_updated": "2025-07-26T01:56:37.921058Z"
   },
   {
     "date": "26-07-2025",
@@ -286,7 +196,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T20:26:26.210411Z"
+    "last_updated": "2025-07-26T01:56:37.921067Z"
   },
   {
     "date": "26-07-2025",
@@ -301,7 +211,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T20:26:26.210419Z"
+    "last_updated": "2025-07-26T01:56:37.921076Z"
   },
   {
     "date": "26-07-2025",
@@ -316,7 +226,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T20:26:26.210428Z"
+    "last_updated": "2025-07-26T01:56:37.921085Z"
   },
   {
     "date": "26-07-2025",
@@ -331,6 +241,1034 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-25T20:26:26.210436Z"
+    "last_updated": "2025-07-26T01:56:37.921095Z"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "09:10",
+    "iso_datetime": "2025-07-26T09:10:00+02:00",
+    "competition": "formula 3",
+    "teams": "Course 1 Formule 3 -",
+    "channels": [
+      {
+        "name": "CH13fr",
+        "url": "https://envivo.govoet.my.id/13"
+      },
+      {
+        "name": "CH60es",
+        "url": "https://envivo.govoet.my.id/60"
+      },
+      {
+        "name": "CH104es",
+        "url": "https://envivo.govoet.my.id/104"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921109Z"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "11:00",
+    "iso_datetime": "2025-07-26T11:00:00+02:00",
+    "competition": "Amical Club",
+    "teams": "Espanyol (Esp) - Southampton (Eng)",
+    "channels": [
+      {
+        "name": "CH160es",
+        "url": "https://envivo.govoet.my.id/160"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921119Z"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "12:00",
+    "iso_datetime": "2025-07-26T12:00:00+02:00",
+    "competition": "formula 1",
+    "teams": "Sprint Formule 1 -",
+    "channels": [
+      {
+        "name": "CH13fr",
+        "url": "https://envivo.govoet.my.id/13"
+      },
+      {
+        "name": "CH60es",
+        "url": "https://envivo.govoet.my.id/60"
+      },
+      {
+        "name": "CH104es",
+        "url": "https://envivo.govoet.my.id/104"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921133Z"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "13:30",
+    "iso_datetime": "2025-07-26T13:30:00+02:00",
+    "competition": "Amical Club",
+    "teams": "Liverpool (Eng) - AC Milan (Ita)",
+    "channels": [
+      {
+        "name": "CH161us",
+        "url": "https://envivo.govoet.my.id/161"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921142Z"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "13:35",
+    "iso_datetime": "2025-07-26T13:35:00+02:00",
+    "competition": "formula 2",
+    "teams": "Course 1 Formule 2 -",
+    "channels": [
+      {
+        "name": "CH13fr",
+        "url": "https://envivo.govoet.my.id/13"
+      },
+      {
+        "name": "CH60es",
+        "url": "https://envivo.govoet.my.id/60"
+      },
+      {
+        "name": "CH104es",
+        "url": "https://envivo.govoet.my.id/104"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921156Z"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "15:00",
+    "iso_datetime": "2025-07-26T15:00:00+02:00",
+    "competition": "Amical Club",
+    "teams": "Alkmaar (Ned) - Olympiakos (Gre)",
+    "channels": [
+      {
+        "name": "CH164gr",
+        "url": "https://envivo.govoet.my.id/164"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921165Z"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "15:00",
+    "iso_datetime": "2025-07-26T15:00:00+02:00",
+    "competition": "Amical Club",
+    "teams": "Hambourg SV (Ger) - Lyon (Fra)",
+    "channels": [
+      {
+        "name": "CH165fr",
+        "url": "https://envivo.govoet.my.id/165"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921174Z"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "15:00",
+    "iso_datetime": "2025-07-26T15:00:00+02:00",
+    "competition": "Amical Club",
+    "teams": "Rangers (Sco) - Middlesbrough (Eng)",
+    "channels": [
+      {
+        "name": "CH162gb",
+        "url": "https://envivo.govoet.my.id/162"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921184Z"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "15:00",
+    "iso_datetime": "2025-07-26T15:00:00+02:00",
+    "competition": "Amical Club",
+    "teams": "St. Pauli (Ger) - Nice (Fra)",
+    "channels": [
+      {
+        "name": "CH163gb",
+        "url": "https://envivo.govoet.my.id/163"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921193Z"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "15:30",
+    "iso_datetime": "2025-07-26T15:30:00+02:00",
+    "competition": "Amical Club",
+    "teams": "Stuttgart (Ger) - Celta Vigo (Esp)",
+    "channels": [
+      {
+        "name": "CH166es",
+        "url": "https://envivo.govoet.my.id/166"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921202Z"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "15:40",
+    "iso_datetime": "2025-07-26T15:40:00+02:00",
+    "competition": "formula 1",
+    "teams": "Qualifications Formule 1 -",
+    "channels": [
+      {
+        "name": "CH13fr",
+        "url": "https://envivo.govoet.my.id/13"
+      },
+      {
+        "name": "CH60es",
+        "url": "https://envivo.govoet.my.id/60"
+      },
+      {
+        "name": "CH104es",
+        "url": "https://envivo.govoet.my.id/104"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921216Z"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "16:00",
+    "iso_datetime": "2025-07-26T16:00:00+02:00",
+    "competition": "Amical Club",
+    "teams": "Luton (Eng) - Tottenham (Eng)",
+    "channels": [
+      {
+        "name": "CH70es",
+        "url": "https://envivo.govoet.my.id/70"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921225Z"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "16:00",
+    "iso_datetime": "2025-07-26T16:00:00+02:00",
+    "competition": "Amical Club",
+    "teams": "Stoke (Eng) - Wolves (Eng)",
+    "channels": [
+      {
+        "name": "CH161us",
+        "url": "https://envivo.govoet.my.id/161"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921234Z"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "16:00",
+    "iso_datetime": "2025-07-26T16:00:00+02:00",
+    "competition": "Pro League",
+    "teams": "Dender - Cercle Bruges",
+    "channels": [
+      {
+        "name": "CH153fr",
+        "url": "https://envivo.govoet.my.id/153"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921244Z"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "17:00",
+    "iso_datetime": "2025-07-26T17:00:00+02:00",
+    "competition": "Amical Club",
+    "teams": "Lens (Fra) - Metz (Fra)",
+    "channels": [
+      {
+        "name": "CH167fr",
+        "url": "https://envivo.govoet.my.id/167"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921253Z"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "17:00",
+    "iso_datetime": "2025-07-26T17:00:00+02:00",
+    "competition": "Amical Club",
+    "teams": "Schalke 04 (Ger) - FC Séville (Esp)",
+    "channels": [
+      {
+        "name": "CH71es",
+        "url": "https://envivo.govoet.my.id/71"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921262Z"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "18:00",
+    "iso_datetime": "2025-07-26T18:00:00+02:00",
+    "competition": "Amical Club",
+    "teams": "Kaiserslautern (Ger) - AS Rome (Ita)",
+    "channels": [
+      {
+        "name": "CH70es",
+        "url": "https://envivo.govoet.my.id/70"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921272Z"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "18:00",
+    "iso_datetime": "2025-07-26T18:00:00+02:00",
+    "competition": "Amical Club",
+    "teams": "Naples (Ita) - Catanzaro (Ita)",
+    "channels": [
+      {
+        "name": "CH168it",
+        "url": "https://envivo.govoet.my.id/168"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921281Z"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "18:15",
+    "iso_datetime": "2025-07-26T18:15:00+02:00",
+    "competition": "Pro League",
+    "teams": "Zulte-Waregem - Malines",
+    "channels": [
+      {
+        "name": "CH153fr",
+        "url": "https://envivo.govoet.my.id/153"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921291Z"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "19:00",
+    "iso_datetime": "2025-07-26T19:00:00+02:00",
+    "competition": "Amical Club",
+    "teams": "Osasuna (Esp) - Huesca (Esp)",
+    "channels": [
+      {
+        "name": "CH169es",
+        "url": "https://envivo.govoet.my.id/169"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921300Z"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "19:30",
+    "iso_datetime": "2025-07-26T19:30:00+02:00",
+    "competition": "Torneo LPF",
+    "teams": "Aldosivi - Newells Old Boys",
+    "channels": [
+      {
+        "name": "CH75es",
+        "url": "https://envivo.govoet.my.id/75"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921309Z"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "20:00",
+    "iso_datetime": "2025-07-26T20:00:00+02:00",
+    "competition": "Amical Club",
+    "teams": "Galatasaray (Tur) - Strasbourg (Fra)",
+    "channels": [
+      {
+        "name": "CH170fr",
+        "url": "https://envivo.govoet.my.id/170"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921319Z"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "20:00",
+    "iso_datetime": "2025-07-26T20:00:00+02:00",
+    "competition": "Amical Club",
+    "teams": "Marseille (Fra) - Gérone (Esp)",
+    "channels": [
+      {
+        "name": "CH171es",
+        "url": "https://envivo.govoet.my.id/171"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921328Z"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "20:00",
+    "iso_datetime": "2025-07-26T20:00:00+02:00",
+    "competition": "Liga 1 Te Apuesto",
+    "teams": "Alianza Huanuco - Ayacucho",
+    "channels": [
+      {
+        "name": "CH84es",
+        "url": "https://envivo.govoet.my.id/84"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921337Z"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "20:30",
+    "iso_datetime": "2025-07-26T20:30:00+02:00",
+    "competition": "Amical Club",
+    "teams": "Al Ahli SC (Sau) - Celtic (Sco)",
+    "channels": [
+      {
+        "name": "CH161us",
+        "url": "https://envivo.govoet.my.id/161"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921347Z"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "20:45",
+    "iso_datetime": "2025-07-26T20:45:00+02:00",
+    "competition": "Pro League",
+    "teams": "RAAL La Louviere - Standard Liège",
+    "channels": [
+      {
+        "name": "CH153fr",
+        "url": "https://envivo.govoet.my.id/153"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921356Z"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "21:00",
+    "iso_datetime": "2025-07-26T21:00:00+02:00",
+    "competition": "Amical Club",
+    "teams": "Benfica (Por) - Fenerbahce (Tur)",
+    "channels": [
+      {
+        "name": "CH172pt",
+        "url": "https://envivo.govoet.my.id/172"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921366Z"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "21:00",
+    "iso_datetime": "2025-07-26T21:00:00+02:00",
+    "competition": "Amical Club",
+    "teams": "Fulham (Eng) - Nottingham (Eng)",
+    "channels": [
+      {
+        "name": "CH70es",
+        "url": "https://envivo.govoet.my.id/70"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921375Z"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "21:00",
+    "iso_datetime": "2025-07-26T21:00:00+02:00",
+    "competition": "Campeonato Itaú Chile",
+    "teams": "La Serena - Cobresal",
+    "channels": [
+      {
+        "name": "CH83es",
+        "url": "https://envivo.govoet.my.id/83"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921384Z"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "21:00",
+    "iso_datetime": "2025-07-26T21:00:00+02:00",
+    "competition": "Ecuador Ligapro",
+    "teams": "Aucas - Delfin",
+    "channels": [
+      {
+        "name": "CH86es",
+        "url": "https://envivo.govoet.my.id/86"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921394Z"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "21:00",
+    "iso_datetime": "2025-07-26T21:00:00+02:00",
+    "competition": "Ufc",
+    "teams": "Robert Whittaker - Reinier de Ridder",
+    "channels": [
+      {
+        "name": "CH17fr",
+        "url": "https://envivo.govoet.my.id/17"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921403Z"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "21:45",
+    "iso_datetime": "2025-07-26T21:45:00+02:00",
+    "competition": "Torneo LPF",
+    "teams": "Rosario - San Martin S.J.",
+    "channels": [
+      {
+        "name": "CH76es",
+        "url": "https://envivo.govoet.my.id/76"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921413Z"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "22:00",
+    "iso_datetime": "2025-07-26T22:00:00+02:00",
+    "competition": "Amical Club",
+    "teams": "Everton - AFC Bournemouth",
+    "channels": [
+      {
+        "name": "CH12fr",
+        "url": "https://envivo.govoet.my.id/12"
+      },
+      {
+        "name": "CH72es",
+        "url": "https://envivo.govoet.my.id/72"
+      },
+      {
+        "name": "CH87es",
+        "url": "https://envivo.govoet.my.id/87"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921428Z"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "22:15",
+    "iso_datetime": "2025-07-26T22:15:00+02:00",
+    "competition": "Liga 1 Te Apuesto",
+    "teams": "Grau - AD Tarma",
+    "channels": [
+      {
+        "name": "CH84es",
+        "url": "https://envivo.govoet.my.id/84"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921435Z"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "22:30",
+    "iso_datetime": "2025-07-26T22:30:00+02:00",
+    "competition": "Liga 1 Te Apuesto",
+    "teams": "Sport Boys - Sporting Cristal",
+    "channels": [
+      {
+        "name": "CH85es",
+        "url": "https://envivo.govoet.my.id/85"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921440Z"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "23:00",
+    "iso_datetime": "2025-07-26T23:00:00+02:00",
+    "competition": "Liga Betplay Dimayor",
+    "teams": "Chico - Pasto",
+    "channels": [
+      {
+        "name": "CH81es",
+        "url": "https://envivo.govoet.my.id/81"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921445Z"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "23:30",
+    "iso_datetime": "2025-07-26T23:30:00+02:00",
+    "competition": "Campeonato Itaú Chile",
+    "teams": "Everton - Huachipato",
+    "channels": [
+      {
+        "name": "CH83es",
+        "url": "https://envivo.govoet.my.id/83"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921451Z"
+  },
+  {
+    "date": "26-07-2025",
+    "time": "23:30",
+    "iso_datetime": "2025-07-26T23:30:00+02:00",
+    "competition": "Ecuador Ligapro",
+    "teams": "Manta - Emelec",
+    "channels": [
+      {
+        "name": "CH86es",
+        "url": "https://envivo.govoet.my.id/86"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921456Z"
+  },
+  {
+    "date": "27-07-2025",
+    "time": "00:00",
+    "iso_datetime": "2025-07-27T00:00:00+02:00",
+    "competition": "Torneo LPF",
+    "teams": "Platense - Argentinos Jrs",
+    "channels": [
+      {
+        "name": "CH75es",
+        "url": "https://envivo.govoet.my.id/75"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921461Z"
+  },
+  {
+    "date": "27-07-2025",
+    "time": "00:00",
+    "iso_datetime": "2025-07-27T00:00:00+02:00",
+    "competition": "Torneo LPF",
+    "teams": "Velez Sarsfield - Instituto",
+    "channels": [
+      {
+        "name": "CH76es",
+        "url": "https://envivo.govoet.my.id/76"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921466Z"
+  },
+  {
+    "date": "27-07-2025",
+    "time": "01:00",
+    "iso_datetime": "2025-07-27T01:00:00+02:00",
+    "competition": "Amical Club",
+    "teams": "Eintracht Frankfurt - Aston Villa",
+    "channels": [
+      {
+        "name": "CH173de",
+        "url": "https://envivo.govoet.my.id/173"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921471Z"
+  },
+  {
+    "date": "27-07-2025",
+    "time": "01:00",
+    "iso_datetime": "2025-07-27T01:00:00+02:00",
+    "competition": "Amical Club",
+    "teams": "Manchester United - West Ham United",
+    "channels": [
+      {
+        "name": "CH12fr",
+        "url": "https://envivo.govoet.my.id/12"
+      },
+      {
+        "name": "CH87es",
+        "url": "https://envivo.govoet.my.id/87"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921477Z"
+  },
+  {
+    "date": "27-07-2025",
+    "time": "01:00",
+    "iso_datetime": "2025-07-27T01:00:00+02:00",
+    "competition": "Liga Mx",
+    "teams": "Pachuca - Mazatlan FC",
+    "channels": [
+      {
+        "name": "CH155es",
+        "url": "https://envivo.govoet.my.id/155"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921483Z"
+  },
+  {
+    "date": "27-07-2025",
+    "time": "01:07",
+    "iso_datetime": "2025-07-27T01:07:00+02:00",
+    "competition": "Liga Mx",
+    "teams": "Guadalajara - Atl. San Luis",
+    "channels": [
+      {
+        "name": "CH72es",
+        "url": "https://envivo.govoet.my.id/72"
+      },
+      {
+        "name": "CH73es",
+        "url": "https://envivo.govoet.my.id/73"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921490Z"
+  },
+  {
+    "date": "27-07-2025",
+    "time": "01:10",
+    "iso_datetime": "2025-07-27T01:10:00+02:00",
+    "competition": "Liga Betplay Dimayor",
+    "teams": "Once Caldas - Junior",
+    "channels": [
+      {
+        "name": "CH81es",
+        "url": "https://envivo.govoet.my.id/81"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921864Z"
+  },
+  {
+    "date": "27-07-2025",
+    "time": "01:15",
+    "iso_datetime": "2025-07-27T01:15:00+02:00",
+    "competition": "MLS",
+    "teams": "Inter Miami - Cincinnati",
+    "channels": [
+      {
+        "name": "CH180us",
+        "url": "https://envivo.govoet.my.id/180"
+      },
+      {
+        "name": "CH70es",
+        "url": "https://envivo.govoet.my.id/70"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921873Z"
+  },
+  {
+    "date": "27-07-2025",
+    "time": "01:30",
+    "iso_datetime": "2025-07-27T01:30:00+02:00",
+    "competition": "Liga 1 Te Apuesto",
+    "teams": "Cienciano - U. de Deportes",
+    "channels": [
+      {
+        "name": "CH84es",
+        "url": "https://envivo.govoet.my.id/84"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921879Z"
+  },
+  {
+    "date": "27-07-2025",
+    "time": "01:30",
+    "iso_datetime": "2025-07-27T01:30:00+02:00",
+    "competition": "MLS",
+    "teams": "Atlanta Utd - Seattle Sounders",
+    "channels": [
+      {
+        "name": "CH181us",
+        "url": "https://envivo.govoet.my.id/181"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921884Z"
+  },
+  {
+    "date": "27-07-2025",
+    "time": "01:30",
+    "iso_datetime": "2025-07-27T01:30:00+02:00",
+    "competition": "MLS",
+    "teams": "Charlotte - Toronto FC",
+    "channels": [
+      {
+        "name": "CH182us",
+        "url": "https://envivo.govoet.my.id/182"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921889Z"
+  },
+  {
+    "date": "27-07-2025",
+    "time": "01:30",
+    "iso_datetime": "2025-07-27T01:30:00+02:00",
+    "competition": "MLS",
+    "teams": "DC United - Austin FC",
+    "channels": [
+      {
+        "name": "CH183us",
+        "url": "https://envivo.govoet.my.id/183"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921895Z"
+  },
+  {
+    "date": "27-07-2025",
+    "time": "01:30",
+    "iso_datetime": "2025-07-27T01:30:00+02:00",
+    "competition": "MLS",
+    "teams": "Philadelphia Union - Colorado Rapids",
+    "channels": [
+      {
+        "name": "CH184us",
+        "url": "https://envivo.govoet.my.id/184"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921900Z"
+  },
+  {
+    "date": "27-07-2025",
+    "time": "02:00",
+    "iso_datetime": "2025-07-27T02:00:00+02:00",
+    "competition": "Amical Club",
+    "teams": "Colo-Colo - Real Valladolid",
+    "channels": [
+      {
+        "name": "CH174es",
+        "url": "https://envivo.govoet.my.id/174"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921905Z"
+  },
+  {
+    "date": "27-07-2025",
+    "time": "02:00",
+    "iso_datetime": "2025-07-27T02:00:00+02:00",
+    "competition": "Ecuador Ligapro",
+    "teams": "Vinotinto - Orense",
+    "channels": [
+      {
+        "name": "CH86es",
+        "url": "https://envivo.govoet.my.id/86"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921910Z"
+  },
+  {
+    "date": "27-07-2025",
+    "time": "02:15",
+    "iso_datetime": "2025-07-27T02:15:00+02:00",
+    "competition": "Torneo LPF",
+    "teams": "Racing Club - Estudiantes",
+    "channels": [
+      {
+        "name": "CH75es",
+        "url": "https://envivo.govoet.my.id/75"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921915Z"
+  },
+  {
+    "date": "27-07-2025",
+    "time": "02:30",
+    "iso_datetime": "2025-07-27T02:30:00+02:00",
+    "competition": "MLS",
+    "teams": "Chicago Fire - New York Red Bulls",
+    "channels": [
+      {
+        "name": "CH185us",
+        "url": "https://envivo.govoet.my.id/185"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921921Z"
+  },
+  {
+    "date": "27-07-2025",
+    "time": "02:30",
+    "iso_datetime": "2025-07-27T02:30:00+02:00",
+    "competition": "MLS",
+    "teams": "St. Louis City - Minnesota",
+    "channels": [
+      {
+        "name": "CH186us",
+        "url": "https://envivo.govoet.my.id/186"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921926Z"
+  },
+  {
+    "date": "27-07-2025",
+    "time": "03:00",
+    "iso_datetime": "2025-07-27T03:00:00+02:00",
+    "competition": "Liga Mx",
+    "teams": "Cruz Azul - Leon",
+    "channels": [
+      {
+        "name": "CH106es",
+        "url": "https://envivo.govoet.my.id/106"
+      },
+      {
+        "name": "CH107es",
+        "url": "https://envivo.govoet.my.id/107"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921932Z"
+  },
+  {
+    "date": "27-07-2025",
+    "time": "03:00",
+    "iso_datetime": "2025-07-27T03:00:00+02:00",
+    "competition": "Liga Mx",
+    "teams": "Monterrey - Atlas",
+    "channels": [
+      {
+        "name": "CH156es",
+        "url": "https://envivo.govoet.my.id/156"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921937Z"
+  },
+  {
+    "date": "27-07-2025",
+    "time": "03:00",
+    "iso_datetime": "2025-07-27T03:00:00+02:00",
+    "competition": "Liga Mx",
+    "teams": "Toluca - Tigres",
+    "channels": [
+      {
+        "name": "CH108es",
+        "url": "https://envivo.govoet.my.id/108"
+      },
+      {
+        "name": "CH68es",
+        "url": "https://envivo.govoet.my.id/68"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921944Z"
+  },
+  {
+    "date": "27-07-2025",
+    "time": "03:00",
+    "iso_datetime": "2025-07-27T03:00:00+02:00",
+    "competition": "Ufc",
+    "teams": "Karol Rosa - Nora Cornolle",
+    "channels": [
+      {
+        "name": "CH17fr",
+        "url": "https://envivo.govoet.my.id/17"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921949Z"
+  },
+  {
+    "date": "27-07-2025",
+    "time": "03:20",
+    "iso_datetime": "2025-07-27T03:20:00+02:00",
+    "competition": "Liga Betplay Dimayor",
+    "teams": "America De Cali - Aguilas",
+    "channels": [
+      {
+        "name": "CH81es",
+        "url": "https://envivo.govoet.my.id/81"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921954Z"
+  },
+  {
+    "date": "27-07-2025",
+    "time": "03:30",
+    "iso_datetime": "2025-07-27T03:30:00+02:00",
+    "competition": "MLS",
+    "teams": "Real Salt Lake - San Jose Earthquakes",
+    "channels": [
+      {
+        "name": "CH187us",
+        "url": "https://envivo.govoet.my.id/187"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921960Z"
+  },
+  {
+    "date": "27-07-2025",
+    "time": "04:30",
+    "iso_datetime": "2025-07-27T04:30:00+02:00",
+    "competition": "MLS",
+    "teams": "Vancouver Whitecaps - Sporting Kansas City",
+    "channels": [
+      {
+        "name": "CH188us",
+        "url": "https://envivo.govoet.my.id/188"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921965Z"
+  },
+  {
+    "date": "27-07-2025",
+    "time": "05:05",
+    "iso_datetime": "2025-07-27T05:05:00+02:00",
+    "competition": "Liga Mx",
+    "teams": "Necaxa - Club America",
+    "channels": [
+      {
+        "name": "CH106es",
+        "url": "https://envivo.govoet.my.id/106"
+      },
+      {
+        "name": "CH107es",
+        "url": "https://envivo.govoet.my.id/107"
+      },
+      {
+        "name": "CH68es",
+        "url": "https://envivo.govoet.my.id/68"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-26T01:56:37.921973Z"
   }
 ]
