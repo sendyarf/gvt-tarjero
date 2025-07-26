@@ -1,74 +1,6 @@
 [
   {
     "date": "26-07-2025",
-    "time": "15:40",
-    "iso_datetime": "2025-07-26T15:40:00+02:00",
-    "competition": "formula 1",
-    "teams": "Qualifications Formule 1 -",
-    "channels": [
-      {
-        "name": "CH13fr",
-        "url": "https://envivo.govoet.my.id/13"
-      },
-      {
-        "name": "CH60es",
-        "url": "https://envivo.govoet.my.id/60"
-      },
-      {
-        "name": "CH104es",
-        "url": "https://envivo.govoet.my.id/104"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.235853Z"
-  },
-  {
-    "date": "26-07-2025",
-    "time": "16:00",
-    "iso_datetime": "2025-07-26T16:00:00+02:00",
-    "competition": "Amical Club",
-    "teams": "Luton (Eng) - Tottenham (Eng)",
-    "channels": [
-      {
-        "name": "CH70es",
-        "url": "https://envivo.govoet.my.id/70"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.235887Z"
-  },
-  {
-    "date": "26-07-2025",
-    "time": "16:00",
-    "iso_datetime": "2025-07-26T16:00:00+02:00",
-    "competition": "Amical Club",
-    "teams": "Stoke (Eng) - Wolves (Eng)",
-    "channels": [
-      {
-        "name": "CH161us",
-        "url": "https://envivo.govoet.my.id/161"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.235902Z"
-  },
-  {
-    "date": "26-07-2025",
-    "time": "16:00",
-    "iso_datetime": "2025-07-26T16:00:00+02:00",
-    "competition": "Pro League",
-    "teams": "Dender - Cercle Bruges",
-    "channels": [
-      {
-        "name": "CH153fr",
-        "url": "https://envivo.govoet.my.id/153"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.235913Z"
-  },
-  {
-    "date": "26-07-2025",
     "time": "17:00",
     "iso_datetime": "2025-07-26T17:00:00+02:00",
     "competition": "Amical Club",
@@ -80,7 +12,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.235923Z"
+    "last_updated": "2025-07-26T20:24:39.846482Z"
   },
   {
     "date": "26-07-2025",
@@ -95,7 +27,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.235935Z"
+    "last_updated": "2025-07-26T20:24:39.846511Z"
   },
   {
     "date": "26-07-2025",
@@ -110,7 +42,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.235946Z"
+    "last_updated": "2025-07-26T20:24:39.846520Z"
   },
   {
     "date": "26-07-2025",
@@ -125,7 +57,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.235953Z"
+    "last_updated": "2025-07-26T20:24:39.846527Z"
   },
   {
     "date": "26-07-2025",
@@ -140,7 +72,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.235960Z"
+    "last_updated": "2025-07-26T20:24:39.846533Z"
   },
   {
     "date": "26-07-2025",
@@ -155,7 +87,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.235971Z"
+    "last_updated": "2025-07-26T20:24:39.846539Z"
   },
   {
     "date": "26-07-2025",
@@ -170,7 +102,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.235982Z"
+    "last_updated": "2025-07-26T20:24:39.846544Z"
   },
   {
     "date": "26-07-2025",
@@ -185,7 +117,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.235991Z"
+    "last_updated": "2025-07-26T20:24:39.846550Z"
   },
   {
     "date": "26-07-2025",
@@ -200,7 +132,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236001Z"
+    "last_updated": "2025-07-26T20:24:39.846555Z"
   },
   {
     "date": "26-07-2025",
@@ -215,7 +147,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236011Z"
+    "last_updated": "2025-07-26T20:24:39.846562Z"
   },
   {
     "date": "26-07-2025",
@@ -230,7 +162,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236016Z"
+    "last_updated": "2025-07-26T20:24:39.846568Z"
   },
   {
     "date": "26-07-2025",
@@ -245,7 +177,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236022Z"
+    "last_updated": "2025-07-26T20:24:39.846576Z"
   },
   {
     "date": "26-07-2025",
@@ -260,7 +192,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236027Z"
+    "last_updated": "2025-07-26T20:24:39.846587Z"
   },
   {
     "date": "26-07-2025",
@@ -275,7 +207,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236032Z"
+    "last_updated": "2025-07-26T20:24:39.846597Z"
   },
   {
     "date": "26-07-2025",
@@ -290,7 +222,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236037Z"
+    "last_updated": "2025-07-26T20:24:39.846607Z"
   },
   {
     "date": "26-07-2025",
@@ -305,7 +237,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236042Z"
+    "last_updated": "2025-07-26T20:24:39.846617Z"
   },
   {
     "date": "26-07-2025",
@@ -320,7 +252,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236048Z"
+    "last_updated": "2025-07-26T20:24:39.846626Z"
   },
   {
     "date": "26-07-2025",
@@ -335,7 +267,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236053Z"
+    "last_updated": "2025-07-26T20:24:39.846635Z"
   },
   {
     "date": "26-07-2025",
@@ -358,7 +290,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236061Z"
+    "last_updated": "2025-07-26T20:24:39.846650Z"
   },
   {
     "date": "26-07-2025",
@@ -373,7 +305,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236066Z"
+    "last_updated": "2025-07-26T20:24:39.846659Z"
   },
   {
     "date": "26-07-2025",
@@ -388,7 +320,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236071Z"
+    "last_updated": "2025-07-26T20:24:39.846667Z"
   },
   {
     "date": "26-07-2025",
@@ -403,7 +335,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236076Z"
+    "last_updated": "2025-07-26T20:24:39.846676Z"
   },
   {
     "date": "26-07-2025",
@@ -418,7 +350,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236082Z"
+    "last_updated": "2025-07-26T20:24:39.846685Z"
   },
   {
     "date": "26-07-2025",
@@ -433,7 +365,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236087Z"
+    "last_updated": "2025-07-26T20:24:39.846694Z"
   },
   {
     "date": "27-07-2025",
@@ -448,7 +380,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236092Z"
+    "last_updated": "2025-07-26T20:24:39.846702Z"
   },
   {
     "date": "27-07-2025",
@@ -463,7 +395,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236097Z"
+    "last_updated": "2025-07-26T20:24:39.846712Z"
   },
   {
     "date": "27-07-2025",
@@ -478,7 +410,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236102Z"
+    "last_updated": "2025-07-26T20:24:39.846721Z"
   },
   {
     "date": "27-07-2025",
@@ -497,7 +429,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236109Z"
+    "last_updated": "2025-07-26T20:24:39.846732Z"
   },
   {
     "date": "27-07-2025",
@@ -512,7 +444,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236114Z"
+    "last_updated": "2025-07-26T20:24:39.846741Z"
   },
   {
     "date": "27-07-2025",
@@ -531,7 +463,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236121Z"
+    "last_updated": "2025-07-26T20:24:39.846751Z"
   },
   {
     "date": "27-07-2025",
@@ -546,7 +478,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236126Z"
+    "last_updated": "2025-07-26T20:24:39.846760Z"
   },
   {
     "date": "27-07-2025",
@@ -565,7 +497,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236132Z"
+    "last_updated": "2025-07-26T20:24:39.846771Z"
   },
   {
     "date": "27-07-2025",
@@ -580,7 +512,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236138Z"
+    "last_updated": "2025-07-26T20:24:39.846780Z"
   },
   {
     "date": "27-07-2025",
@@ -595,7 +527,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236143Z"
+    "last_updated": "2025-07-26T20:24:39.846789Z"
   },
   {
     "date": "27-07-2025",
@@ -610,7 +542,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236148Z"
+    "last_updated": "2025-07-26T20:24:39.846798Z"
   },
   {
     "date": "27-07-2025",
@@ -625,7 +557,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236153Z"
+    "last_updated": "2025-07-26T20:24:39.846807Z"
   },
   {
     "date": "27-07-2025",
@@ -640,7 +572,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236158Z"
+    "last_updated": "2025-07-26T20:24:39.846815Z"
   },
   {
     "date": "27-07-2025",
@@ -655,7 +587,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236163Z"
+    "last_updated": "2025-07-26T20:24:39.846824Z"
   },
   {
     "date": "27-07-2025",
@@ -670,7 +602,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236169Z"
+    "last_updated": "2025-07-26T20:24:39.846833Z"
   },
   {
     "date": "27-07-2025",
@@ -685,7 +617,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236174Z"
+    "last_updated": "2025-07-26T20:24:39.846841Z"
   },
   {
     "date": "27-07-2025",
@@ -700,7 +632,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236179Z"
+    "last_updated": "2025-07-26T20:24:39.846850Z"
   },
   {
     "date": "27-07-2025",
@@ -715,7 +647,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236183Z"
+    "last_updated": "2025-07-26T20:24:39.846858Z"
   },
   {
     "date": "27-07-2025",
@@ -734,7 +666,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236189Z"
+    "last_updated": "2025-07-26T20:24:39.846869Z"
   },
   {
     "date": "27-07-2025",
@@ -749,7 +681,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236195Z"
+    "last_updated": "2025-07-26T20:24:39.846877Z"
   },
   {
     "date": "27-07-2025",
@@ -768,7 +700,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236201Z"
+    "last_updated": "2025-07-26T20:24:39.846888Z"
   },
   {
     "date": "27-07-2025",
@@ -783,7 +715,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236205Z"
+    "last_updated": "2025-07-26T20:24:39.846897Z"
   },
   {
     "date": "27-07-2025",
@@ -798,7 +730,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236210Z"
+    "last_updated": "2025-07-26T20:24:39.846905Z"
   },
   {
     "date": "27-07-2025",
@@ -813,7 +745,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236215Z"
+    "last_updated": "2025-07-26T20:24:39.846914Z"
   },
   {
     "date": "27-07-2025",
@@ -828,7 +760,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236220Z"
+    "last_updated": "2025-07-26T20:24:39.846923Z"
   },
   {
     "date": "27-07-2025",
@@ -851,6 +783,6 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-26T19:39:10.236228Z"
+    "last_updated": "2025-07-26T20:24:39.846935Z"
   }
 ]
