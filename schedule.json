@@ -1,40 +1,6 @@
 [
   {
     "date": "27-07-2025",
-    "time": "18:00",
-    "iso_datetime": "2025-07-27T18:00:00+02:00",
-    "competition": "Amical Club",
-    "teams": "Bochum (Ger) - Bayer Leverkusen (Ger)",
-    "channels": [
-      {
-        "name": "CH71es",
-        "url": "https://envivo.govoet.my.id/71"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-27T21:21:31.912647Z"
-  },
-  {
-    "date": "27-07-2025",
-    "time": "18:00",
-    "iso_datetime": "2025-07-27T18:00:00+02:00",
-    "competition": "Euro Feminin",
-    "teams": "Angleterre F - Espagne F",
-    "channels": [
-      {
-        "name": "CH24fr",
-        "url": "https://envivo.govoet.my.id/24"
-      },
-      {
-        "name": "CH61es",
-        "url": "https://envivo.govoet.my.id/61"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-27T21:21:31.912675Z"
-  },
-  {
-    "date": "27-07-2025",
     "time": "18:30",
     "iso_datetime": "2025-07-27T18:30:00+02:00",
     "competition": "Campeonato Itaú Chile",
@@ -46,7 +12,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-27T21:21:31.912684Z"
+    "last_updated": "2025-07-27T22:22:31.347554Z"
   },
   {
     "date": "27-07-2025",
@@ -61,7 +27,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-27T21:21:31.912691Z"
+    "last_updated": "2025-07-27T22:22:31.347587Z"
   },
   {
     "date": "27-07-2025",
@@ -80,7 +46,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-27T21:21:31.912700Z"
+    "last_updated": "2025-07-27T22:22:31.347603Z"
   },
   {
     "date": "27-07-2025",
@@ -95,7 +61,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-27T21:21:31.912705Z"
+    "last_updated": "2025-07-27T22:22:31.347614Z"
   },
   {
     "date": "27-07-2025",
@@ -114,7 +80,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-27T21:21:31.912717Z"
+    "last_updated": "2025-07-27T22:22:31.347627Z"
   },
   {
     "date": "27-07-2025",
@@ -129,7 +95,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-27T21:21:31.912728Z"
+    "last_updated": "2025-07-27T22:22:31.347636Z"
   },
   {
     "date": "27-07-2025",
@@ -144,7 +110,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-27T21:21:31.912738Z"
+    "last_updated": "2025-07-27T22:22:31.347646Z"
   },
   {
     "date": "27-07-2025",
@@ -159,7 +125,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-27T21:21:31.912748Z"
+    "last_updated": "2025-07-27T22:22:31.347655Z"
   },
   {
     "date": "27-07-2025",
@@ -174,7 +140,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-27T21:21:31.912758Z"
+    "last_updated": "2025-07-27T22:22:31.347665Z"
   },
   {
     "date": "27-07-2025",
@@ -189,7 +155,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-27T21:21:31.912767Z"
+    "last_updated": "2025-07-27T22:22:31.347675Z"
   },
   {
     "date": "27-07-2025",
@@ -204,7 +170,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-27T21:21:31.912776Z"
+    "last_updated": "2025-07-27T22:22:31.347686Z"
   },
   {
     "date": "27-07-2025",
@@ -219,7 +185,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-27T21:21:31.912785Z"
+    "last_updated": "2025-07-27T22:22:31.347694Z"
   },
   {
     "date": "27-07-2025",
@@ -234,7 +200,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-27T21:21:31.912794Z"
+    "last_updated": "2025-07-27T22:22:31.347699Z"
   },
   {
     "date": "27-07-2025",
@@ -249,7 +215,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-27T21:21:31.912804Z"
+    "last_updated": "2025-07-27T22:22:31.347704Z"
   },
   {
     "date": "27-07-2025",
@@ -264,7 +230,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-27T21:21:31.912813Z"
+    "last_updated": "2025-07-27T22:22:31.347714Z"
   },
   {
     "date": "28-07-2025",
@@ -279,7 +245,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-27T21:21:31.912839Z"
+    "last_updated": "2025-07-27T22:22:31.347725Z"
   },
   {
     "date": "28-07-2025",
@@ -294,7 +260,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-27T21:21:31.912849Z"
+    "last_updated": "2025-07-27T22:22:31.347735Z"
   },
   {
     "date": "28-07-2025",
@@ -309,7 +275,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-27T21:21:31.912858Z"
+    "last_updated": "2025-07-27T22:22:31.347746Z"
   },
   {
     "date": "28-07-2025",
@@ -324,7 +290,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-27T21:21:31.912867Z"
+    "last_updated": "2025-07-27T22:22:31.347753Z"
   },
   {
     "date": "28-07-2025",
@@ -339,7 +305,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-27T21:21:31.912876Z"
+    "last_updated": "2025-07-27T22:22:31.347758Z"
   },
   {
     "date": "28-07-2025",
@@ -354,7 +320,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-27T21:21:31.912885Z"
+    "last_updated": "2025-07-27T22:22:31.347763Z"
   },
   {
     "date": "28-07-2025",
@@ -369,6 +335,6 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-27T21:21:31.912895Z"
+    "last_updated": "2025-07-27T22:22:31.347768Z"
   }
 ]
