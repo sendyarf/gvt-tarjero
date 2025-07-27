@@ -3,21 +3,6 @@
     <h2 class="mb-4">Today's Matches</h2>
     <div class="matches-container">
     
-<div class="match-card" data-time="2025-07-27T05:05:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Liga Mx</div>
-    <div class="match-teams">Necaxa - Club America <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/106">CH106es</button>
-
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/107">CH107es</button>
-
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/68">CH68es</button>
-
-    </div>
-</div>
-
 <div class="match-card" data-time="2025-07-27T08:25:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">formula 3</div>
