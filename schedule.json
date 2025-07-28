@@ -1,21 +1,6 @@
 [
   {
     "date": "28-07-2025",
-    "time": "03:20",
-    "iso_datetime": "2025-07-28T03:20:00+02:00",
-    "competition": "Liga Betplay Dimayor",
-    "teams": "Fortaleza - Alianza",
-    "channels": [
-      {
-        "name": "CH81es",
-        "url": "https://envivo.govoet.my.id/81"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-28T05:31:04.406720Z"
-  },
-  {
-    "date": "28-07-2025",
     "time": "21:00",
     "iso_datetime": "2025-07-28T21:00:00+02:00",
     "competition": "Torneo LPF",
@@ -27,7 +12,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-28T05:31:04.406760Z"
+    "last_updated": "2025-07-28T07:27:59.462439Z"
   },
   {
     "date": "28-07-2025",
@@ -42,7 +27,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-28T05:31:04.406770Z"
+    "last_updated": "2025-07-28T07:27:59.462465Z"
   },
   {
     "date": "29-07-2025",
@@ -57,7 +42,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-28T05:31:04.406785Z"
+    "last_updated": "2025-07-28T07:27:59.462475Z"
   },
   {
     "date": "29-07-2025",
@@ -72,7 +57,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-28T05:31:04.406797Z"
+    "last_updated": "2025-07-28T07:27:59.462481Z"
   },
   {
     "date": "29-07-2025",
@@ -87,7 +72,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-28T05:31:04.406808Z"
+    "last_updated": "2025-07-28T07:27:59.462489Z"
   },
   {
     "date": "29-07-2025",
@@ -102,7 +87,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-28T05:31:04.406819Z"
+    "last_updated": "2025-07-28T07:27:59.462501Z"
   },
   {
     "date": "29-07-2025",
@@ -117,7 +102,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-28T05:31:04.406829Z"
+    "last_updated": "2025-07-28T07:27:59.462512Z"
   },
   {
     "date": "29-07-2025",
@@ -132,6 +117,6 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-28T05:31:04.406840Z"
+    "last_updated": "2025-07-28T07:27:59.462523Z"
   }
 ]
