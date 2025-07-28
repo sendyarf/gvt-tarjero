@@ -1,160 +1,6 @@
 [
   {
     "date": "27-07-2025",
-    "time": "20:00",
-    "iso_datetime": "2025-07-27T20:00:00+02:00",
-    "competition": "Amical Club",
-    "teams": "Como (Ita) - Ajax (Ned)",
-    "channels": [
-      {
-        "name": "CH160us",
-        "url": "https://envivo.govoet.my.id/160"
-      },
-      {
-        "name": "CH138it",
-        "url": "https://envivo.govoet.my.id/138"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-27T23:23:19.035268Z"
-  },
-  {
-    "date": "27-07-2025",
-    "time": "20:00",
-    "iso_datetime": "2025-07-27T20:00:00+02:00",
-    "competition": "Ecuador Ligapro",
-    "teams": "Mushuc Runa - Tecnico U.",
-    "channels": [
-      {
-        "name": "CH86es",
-        "url": "https://envivo.govoet.my.id/86"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-27T23:23:19.035293Z"
-  },
-  {
-    "date": "27-07-2025",
-    "time": "20:00",
-    "iso_datetime": "2025-07-27T20:00:00+02:00",
-    "competition": "Liga 1 Te Apuesto",
-    "teams": "Melgar - Cusco",
-    "channels": [
-      {
-        "name": "CH84es",
-        "url": "https://envivo.govoet.my.id/84"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-27T23:23:19.035302Z"
-  },
-  {
-    "date": "27-07-2025",
-    "time": "21:00",
-    "iso_datetime": "2025-07-27T21:00:00+02:00",
-    "competition": "Campeonato Itaú Chile",
-    "teams": "Palestino - U. Espanola",
-    "channels": [
-      {
-        "name": "CH156es",
-        "url": "https://envivo.govoet.my.id/156"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-27T23:23:19.035310Z"
-  },
-  {
-    "date": "27-07-2025",
-    "time": "21:00",
-    "iso_datetime": "2025-07-27T21:00:00+02:00",
-    "competition": "Campeonato Itaú Chile",
-    "teams": "U. Catolica - Coquimbo",
-    "channels": [
-      {
-        "name": "CH83es",
-        "url": "https://envivo.govoet.my.id/83"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-27T23:23:19.035316Z"
-  },
-  {
-    "date": "27-07-2025",
-    "time": "21:00",
-    "iso_datetime": "2025-07-27T21:00:00+02:00",
-    "competition": "Torneo LPF",
-    "teams": "Gimnasia L.P. - Independiente",
-    "channels": [
-      {
-        "name": "CH76es",
-        "url": "https://envivo.govoet.my.id/76"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-27T23:23:19.035321Z"
-  },
-  {
-    "date": "27-07-2025",
-    "time": "21:00",
-    "iso_datetime": "2025-07-27T21:00:00+02:00",
-    "competition": "Torneo LPF",
-    "teams": "Talleres Cordoba - Godoy Cruz",
-    "channels": [
-      {
-        "name": "CH75es",
-        "url": "https://envivo.govoet.my.id/75"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-27T23:23:19.035326Z"
-  },
-  {
-    "date": "27-07-2025",
-    "time": "22:15",
-    "iso_datetime": "2025-07-27T22:15:00+02:00",
-    "competition": "Liga 1 Te Apuesto",
-    "teams": "Comerciantes Unidos - Deportivo Garcilaso",
-    "channels": [
-      {
-        "name": "CH84es",
-        "url": "https://envivo.govoet.my.id/84"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-27T23:23:19.035336Z"
-  },
-  {
-    "date": "27-07-2025",
-    "time": "22:30",
-    "iso_datetime": "2025-07-27T22:30:00+02:00",
-    "competition": "Ecuador Ligapro",
-    "teams": "Macara - U. Catolica",
-    "channels": [
-      {
-        "name": "CH86es",
-        "url": "https://envivo.govoet.my.id/86"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-27T23:23:19.035347Z"
-  },
-  {
-    "date": "27-07-2025",
-    "time": "23:00",
-    "iso_datetime": "2025-07-27T23:00:00+02:00",
-    "competition": "Liga Betplay Dimayor",
-    "teams": "Envigado - La Equidad",
-    "channels": [
-      {
-        "name": "CH81es",
-        "url": "https://envivo.govoet.my.id/81"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-27T23:23:19.035359Z"
-  },
-  {
-    "date": "27-07-2025",
     "time": "23:30",
     "iso_datetime": "2025-07-27T23:30:00+02:00",
     "competition": "Torneo LPF",
@@ -166,7 +12,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-27T23:23:19.035368Z"
+    "last_updated": "2025-07-28T02:07:21.884666Z"
   },
   {
     "date": "28-07-2025",
@@ -181,7 +27,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-27T23:23:19.035379Z"
+    "last_updated": "2025-07-28T02:07:21.884693Z"
   },
   {
     "date": "28-07-2025",
@@ -196,7 +42,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-27T23:23:19.035389Z"
+    "last_updated": "2025-07-28T02:07:21.884703Z"
   },
   {
     "date": "28-07-2025",
@@ -211,7 +57,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-27T23:23:19.035399Z"
+    "last_updated": "2025-07-28T02:07:21.884717Z"
   },
   {
     "date": "28-07-2025",
@@ -226,7 +72,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-27T23:23:19.035408Z"
+    "last_updated": "2025-07-28T02:07:21.884728Z"
   },
   {
     "date": "28-07-2025",
@@ -241,7 +87,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-27T23:23:19.035417Z"
+    "last_updated": "2025-07-28T02:07:21.884739Z"
   },
   {
     "date": "28-07-2025",
@@ -256,7 +102,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-27T23:23:19.035426Z"
+    "last_updated": "2025-07-28T02:07:21.884749Z"
   },
   {
     "date": "28-07-2025",
@@ -271,6 +117,126 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-27T23:23:19.035435Z"
+    "last_updated": "2025-07-28T02:07:21.884759Z"
+  },
+  {
+    "date": "28-07-2025",
+    "time": "21:00",
+    "iso_datetime": "2025-07-28T21:00:00+02:00",
+    "competition": "Torneo LPF",
+    "teams": "Dep. Riestra - Atl. Tucuman",
+    "channels": [
+      {
+        "name": "CH75es",
+        "url": "https://envivo.govoet.my.id/75"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-28T02:07:21.884768Z"
+  },
+  {
+    "date": "28-07-2025",
+    "time": "23:00",
+    "iso_datetime": "2025-07-28T23:00:00+02:00",
+    "competition": "Torneo LPF",
+    "teams": "Central Cordoba - Defensa y Justicia",
+    "channels": [
+      {
+        "name": "CH76es",
+        "url": "https://envivo.govoet.my.id/76"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-28T02:07:21.884778Z"
+  },
+  {
+    "date": "29-07-2025",
+    "time": "00:00",
+    "iso_datetime": "2025-07-29T00:00:00+02:00",
+    "competition": "Campeonato Itaú Chile",
+    "teams": "U. Calera - U. De Chile",
+    "channels": [
+      {
+        "name": "CH83es",
+        "url": "https://envivo.govoet.my.id/83"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-28T02:07:21.884788Z"
+  },
+  {
+    "date": "29-07-2025",
+    "time": "01:00",
+    "iso_datetime": "2025-07-29T01:00:00+02:00",
+    "competition": "Liga Betplay Dimayor",
+    "teams": "Bucaramanga - Dep. Cali",
+    "channels": [
+      {
+        "name": "CH81es",
+        "url": "https://envivo.govoet.my.id/81"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-28T02:07:21.884798Z"
+  },
+  {
+    "date": "29-07-2025",
+    "time": "01:00",
+    "iso_datetime": "2025-07-29T01:00:00+02:00",
+    "competition": "Torneo LPF",
+    "teams": "Banfield - Barracas Central",
+    "channels": [
+      {
+        "name": "CH75es",
+        "url": "https://envivo.govoet.my.id/75"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-28T02:07:21.884809Z"
+  },
+  {
+    "date": "29-07-2025",
+    "time": "03:00",
+    "iso_datetime": "2025-07-29T03:00:00+02:00",
+    "competition": "Liga Mx Women",
+    "teams": "Santos Laguna F - Tigres F",
+    "channels": [
+      {
+        "name": "CH155es",
+        "url": "https://envivo.govoet.my.id/155"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-28T02:07:21.884818Z"
+  },
+  {
+    "date": "29-07-2025",
+    "time": "03:10",
+    "iso_datetime": "2025-07-29T03:10:00+02:00",
+    "competition": "Liga Betplay Dimayor",
+    "teams": "Millonarios - Llaneros",
+    "channels": [
+      {
+        "name": "CH81es",
+        "url": "https://envivo.govoet.my.id/81"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-28T02:07:21.884828Z"
+  },
+  {
+    "date": "29-07-2025",
+    "time": "05:00",
+    "iso_datetime": "2025-07-29T05:00:00+02:00",
+    "competition": "Liga Mx Women",
+    "teams": "Mazatlan FC F - Pachuca F",
+    "channels": [
+      {
+        "name": "CH155es",
+        "url": "https://envivo.govoet.my.id/155"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-07-28T02:07:21.884839Z"
   }
 ]
