@@ -1,81 +1,6 @@
 [
   {
     "date": "28-07-2025",
-    "time": "01:00",
-    "iso_datetime": "2025-07-28T01:00:00+02:00",
-    "competition": "Ecuador Ligapro",
-    "teams": "Dep. Cuenca - Ind. del Valle",
-    "channels": [
-      {
-        "name": "CH86es",
-        "url": "https://envivo.govoet.my.id/86"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-28T04:49:40.753740Z"
-  },
-  {
-    "date": "28-07-2025",
-    "time": "01:00",
-    "iso_datetime": "2025-07-28T01:00:00+02:00",
-    "competition": "Liga 1 Te Apuesto",
-    "teams": "A. Lima - Alianza Atl.",
-    "channels": [
-      {
-        "name": "CH84es",
-        "url": "https://envivo.govoet.my.id/84"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-28T04:49:40.753773Z"
-  },
-  {
-    "date": "28-07-2025",
-    "time": "01:00",
-    "iso_datetime": "2025-07-28T01:00:00+02:00",
-    "competition": "Liga Mx Women",
-    "teams": "Leon F - Club America F",
-    "channels": [
-      {
-        "name": "CH155es",
-        "url": "https://envivo.govoet.my.id/155"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-28T04:49:40.753785Z"
-  },
-  {
-    "date": "28-07-2025",
-    "time": "01:20",
-    "iso_datetime": "2025-07-28T01:20:00+02:00",
-    "competition": "Liga Betplay Dimayor",
-    "teams": "U. Magdalena - Ind. Medellin",
-    "channels": [
-      {
-        "name": "CH81es",
-        "url": "https://envivo.govoet.my.id/81"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-28T04:49:40.753795Z"
-  },
-  {
-    "date": "28-07-2025",
-    "time": "01:30",
-    "iso_datetime": "2025-07-28T01:30:00+02:00",
-    "competition": "Torneo LPF",
-    "teams": "River Plate - San Lorenzo",
-    "channels": [
-      {
-        "name": "CH76es",
-        "url": "https://envivo.govoet.my.id/76"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-28T04:49:40.753805Z"
-  },
-  {
-    "date": "28-07-2025",
     "time": "03:20",
     "iso_datetime": "2025-07-28T03:20:00+02:00",
     "competition": "Liga Betplay Dimayor",
@@ -87,7 +12,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-28T04:49:40.753814Z"
+    "last_updated": "2025-07-28T05:31:04.406720Z"
   },
   {
     "date": "28-07-2025",
@@ -102,7 +27,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-28T04:49:40.753823Z"
+    "last_updated": "2025-07-28T05:31:04.406760Z"
   },
   {
     "date": "28-07-2025",
@@ -117,7 +42,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-28T04:49:40.753833Z"
+    "last_updated": "2025-07-28T05:31:04.406770Z"
   },
   {
     "date": "29-07-2025",
@@ -132,7 +57,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-28T04:49:40.753842Z"
+    "last_updated": "2025-07-28T05:31:04.406785Z"
   },
   {
     "date": "29-07-2025",
@@ -147,7 +72,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-28T04:49:40.753851Z"
+    "last_updated": "2025-07-28T05:31:04.406797Z"
   },
   {
     "date": "29-07-2025",
@@ -162,7 +87,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-28T04:49:40.753860Z"
+    "last_updated": "2025-07-28T05:31:04.406808Z"
   },
   {
     "date": "29-07-2025",
@@ -177,7 +102,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-28T04:49:40.753870Z"
+    "last_updated": "2025-07-28T05:31:04.406819Z"
   },
   {
     "date": "29-07-2025",
@@ -192,7 +117,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-28T04:49:40.753880Z"
+    "last_updated": "2025-07-28T05:31:04.406829Z"
   },
   {
     "date": "29-07-2025",
@@ -207,6 +132,6 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-28T04:49:40.753889Z"
+    "last_updated": "2025-07-28T05:31:04.406840Z"
   }
 ]
