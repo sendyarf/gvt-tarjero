@@ -1,21 +1,6 @@
 [
   {
     "date": "28-07-2025",
-    "time": "21:00",
-    "iso_datetime": "2025-07-28T21:00:00+02:00",
-    "competition": "Torneo LPF",
-    "teams": "Dep. Riestra - Atl. Tucuman",
-    "channels": [
-      {
-        "name": "CH75es",
-        "url": "https://envivo.govoet.my.id/75"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-28T07:27:59.462439Z"
-  },
-  {
-    "date": "28-07-2025",
     "time": "23:00",
     "iso_datetime": "2025-07-28T23:00:00+02:00",
     "competition": "Torneo LPF",
@@ -27,7 +12,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-28T07:27:59.462465Z"
+    "last_updated": "2025-07-29T02:18:34.644488Z"
   },
   {
     "date": "29-07-2025",
@@ -42,7 +27,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-28T07:27:59.462475Z"
+    "last_updated": "2025-07-29T02:18:34.644524Z"
   },
   {
     "date": "29-07-2025",
@@ -57,7 +42,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-28T07:27:59.462481Z"
+    "last_updated": "2025-07-29T02:18:34.644540Z"
   },
   {
     "date": "29-07-2025",
@@ -72,7 +57,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-28T07:27:59.462489Z"
+    "last_updated": "2025-07-29T02:18:34.644550Z"
   },
   {
     "date": "29-07-2025",
@@ -87,7 +72,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-28T07:27:59.462501Z"
+    "last_updated": "2025-07-29T02:18:34.644561Z"
   },
   {
     "date": "29-07-2025",
@@ -102,7 +87,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-28T07:27:59.462512Z"
+    "last_updated": "2025-07-29T02:18:34.644572Z"
   },
   {
     "date": "29-07-2025",
@@ -117,6 +102,6 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-28T07:27:59.462523Z"
+    "last_updated": "2025-07-29T02:18:34.644583Z"
   }
 ]
