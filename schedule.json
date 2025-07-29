@@ -1,21 +1,6 @@
 [
   {
     "date": "29-07-2025",
-    "time": "17:00",
-    "iso_datetime": "2025-07-29T17:00:00+02:00",
-    "competition": "Ligue Des Champions",
-    "teams": "Kairat Almaty (Kaz) - KuPS (Fin)",
-    "channels": [
-      {
-        "name": "CH164kz",
-        "url": "https://envivo.govoet.my.id/164"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-29T14:27:33.508142Z"
-  },
-  {
-    "date": "29-07-2025",
     "time": "19:00",
     "iso_datetime": "2025-07-29T19:00:00+02:00",
     "competition": "Amical Club",
@@ -27,7 +12,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T14:27:33.508174Z"
+    "last_updated": "2025-07-29T21:23:41.201797Z"
   },
   {
     "date": "29-07-2025",
@@ -42,7 +27,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T14:27:33.508187Z"
+    "last_updated": "2025-07-29T21:23:41.201829Z"
   },
   {
     "date": "29-07-2025",
@@ -57,7 +42,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T14:27:33.508199Z"
+    "last_updated": "2025-07-29T21:23:41.201844Z"
   },
   {
     "date": "29-07-2025",
@@ -72,7 +57,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T14:27:33.508208Z"
+    "last_updated": "2025-07-29T21:23:41.201855Z"
   },
   {
     "date": "29-07-2025",
@@ -87,7 +72,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T14:27:33.508218Z"
+    "last_updated": "2025-07-29T21:23:41.201864Z"
   },
   {
     "date": "29-07-2025",
@@ -102,7 +87,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T14:27:33.508228Z"
+    "last_updated": "2025-07-29T21:23:41.201892Z"
   },
   {
     "date": "29-07-2025",
@@ -117,7 +102,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T14:27:33.508237Z"
+    "last_updated": "2025-07-29T21:23:41.201903Z"
   },
   {
     "date": "29-07-2025",
@@ -132,7 +117,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T14:27:33.508247Z"
+    "last_updated": "2025-07-29T21:23:41.201913Z"
   },
   {
     "date": "30-07-2025",
@@ -147,7 +132,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T14:27:33.508257Z"
+    "last_updated": "2025-07-29T21:23:41.201924Z"
   },
   {
     "date": "30-07-2025",
@@ -162,7 +147,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T14:27:33.508266Z"
+    "last_updated": "2025-07-29T21:23:41.201933Z"
   },
   {
     "date": "30-07-2025",
@@ -177,7 +162,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T14:27:33.508276Z"
+    "last_updated": "2025-07-29T21:23:41.201942Z"
   },
   {
     "date": "30-07-2025",
@@ -192,7 +177,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T14:27:33.508287Z"
+    "last_updated": "2025-07-29T21:23:41.201952Z"
   },
   {
     "date": "30-07-2025",
@@ -207,7 +192,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T14:27:33.508297Z"
+    "last_updated": "2025-07-29T21:23:41.201961Z"
   },
   {
     "date": "30-07-2025",
@@ -226,7 +211,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T14:27:33.508310Z"
+    "last_updated": "2025-07-29T21:23:41.201973Z"
   },
   {
     "date": "30-07-2025",
@@ -241,7 +226,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T14:27:33.508320Z"
+    "last_updated": "2025-07-29T21:23:41.201982Z"
   },
   {
     "date": "30-07-2025",
@@ -256,7 +241,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T14:27:33.508329Z"
+    "last_updated": "2025-07-29T21:23:41.201991Z"
   },
   {
     "date": "30-07-2025",
@@ -271,6 +256,6 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T14:27:33.508338Z"
+    "last_updated": "2025-07-29T21:23:41.202000Z"
   }
 ]
