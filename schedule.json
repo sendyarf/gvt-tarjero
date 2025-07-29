@@ -1,21 +1,6 @@
 [
   {
     "date": "29-07-2025",
-    "time": "00:00",
-    "iso_datetime": "2025-07-29T00:00:00+02:00",
-    "competition": "Campeonato Itaú Chile",
-    "teams": "U. Calera - U. De Chile",
-    "channels": [
-      {
-        "name": "CH83es",
-        "url": "https://envivo.govoet.my.id/83"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-29T03:57:14.921891Z"
-  },
-  {
-    "date": "29-07-2025",
     "time": "01:00",
     "iso_datetime": "2025-07-29T01:00:00+02:00",
     "competition": "Liga Betplay Dimayor",
@@ -27,7 +12,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T03:57:14.921922Z"
+    "last_updated": "2025-07-29T04:52:50.153725Z"
   },
   {
     "date": "29-07-2025",
@@ -42,7 +27,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T03:57:14.921932Z"
+    "last_updated": "2025-07-29T04:52:50.153748Z"
   },
   {
     "date": "29-07-2025",
@@ -57,7 +42,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T03:57:14.921939Z"
+    "last_updated": "2025-07-29T04:52:50.153758Z"
   },
   {
     "date": "29-07-2025",
@@ -72,7 +57,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T03:57:14.921945Z"
+    "last_updated": "2025-07-29T04:52:50.153765Z"
   },
   {
     "date": "29-07-2025",
@@ -87,6 +72,6 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T03:57:14.921952Z"
+    "last_updated": "2025-07-29T04:52:50.153771Z"
   }
 ]
