@@ -1,21 +1,6 @@
 [
   {
     "date": "29-07-2025",
-    "time": "19:00",
-    "iso_datetime": "2025-07-29T19:00:00+02:00",
-    "competition": "Amical Club",
-    "teams": "Breda (Ned) - Volos (Gre)",
-    "channels": [
-      {
-        "name": "CH160gr",
-        "url": "https://envivo.govoet.my.id/160"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-29T21:23:41.201797Z"
-  },
-  {
-    "date": "29-07-2025",
     "time": "20:00",
     "iso_datetime": "2025-07-29T20:00:00+02:00",
     "competition": "Ligue Des Champions",
@@ -27,7 +12,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T21:23:41.201829Z"
+    "last_updated": "2025-07-29T23:23:35.135344Z"
   },
   {
     "date": "29-07-2025",
@@ -42,7 +27,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T21:23:41.201844Z"
+    "last_updated": "2025-07-29T23:23:35.135368Z"
   },
   {
     "date": "29-07-2025",
@@ -57,7 +42,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T21:23:41.201855Z"
+    "last_updated": "2025-07-29T23:23:35.135378Z"
   },
   {
     "date": "29-07-2025",
@@ -72,7 +57,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T21:23:41.201864Z"
+    "last_updated": "2025-07-29T23:23:35.135385Z"
   },
   {
     "date": "29-07-2025",
@@ -87,7 +72,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T21:23:41.201892Z"
+    "last_updated": "2025-07-29T23:23:35.135391Z"
   },
   {
     "date": "29-07-2025",
@@ -102,7 +87,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T21:23:41.201903Z"
+    "last_updated": "2025-07-29T23:23:35.135401Z"
   },
   {
     "date": "29-07-2025",
@@ -117,7 +102,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T21:23:41.201913Z"
+    "last_updated": "2025-07-29T23:23:35.135414Z"
   },
   {
     "date": "30-07-2025",
@@ -132,7 +117,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T21:23:41.201924Z"
+    "last_updated": "2025-07-29T23:23:35.135426Z"
   },
   {
     "date": "30-07-2025",
@@ -147,7 +132,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T21:23:41.201933Z"
+    "last_updated": "2025-07-29T23:23:35.135436Z"
   },
   {
     "date": "30-07-2025",
@@ -162,7 +147,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T21:23:41.201942Z"
+    "last_updated": "2025-07-29T23:23:35.135446Z"
   },
   {
     "date": "30-07-2025",
@@ -177,7 +162,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T21:23:41.201952Z"
+    "last_updated": "2025-07-29T23:23:35.135455Z"
   },
   {
     "date": "30-07-2025",
@@ -192,7 +177,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T21:23:41.201961Z"
+    "last_updated": "2025-07-29T23:23:35.135464Z"
   },
   {
     "date": "30-07-2025",
@@ -211,7 +196,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T21:23:41.201973Z"
+    "last_updated": "2025-07-29T23:23:35.135496Z"
   },
   {
     "date": "30-07-2025",
@@ -226,7 +211,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T21:23:41.201982Z"
+    "last_updated": "2025-07-29T23:23:35.135507Z"
   },
   {
     "date": "30-07-2025",
@@ -241,7 +226,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T21:23:41.201991Z"
+    "last_updated": "2025-07-29T23:23:35.135517Z"
   },
   {
     "date": "30-07-2025",
@@ -256,6 +241,6 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T21:23:41.202000Z"
+    "last_updated": "2025-07-29T23:23:35.135525Z"
   }
 ]
