@@ -1,36 +1,6 @@
 [
   {
     "date": "29-07-2025",
-    "time": "03:00",
-    "iso_datetime": "2025-07-29T03:00:00+02:00",
-    "competition": "Liga Mx Women",
-    "teams": "Santos Laguna F - Tigres F",
-    "channels": [
-      {
-        "name": "CH155es",
-        "url": "https://envivo.govoet.my.id/155"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-29T05:32:06.659388Z"
-  },
-  {
-    "date": "29-07-2025",
-    "time": "03:10",
-    "iso_datetime": "2025-07-29T03:10:00+02:00",
-    "competition": "Liga Betplay Dimayor",
-    "teams": "Millonarios - Llaneros",
-    "channels": [
-      {
-        "name": "CH81es",
-        "url": "https://envivo.govoet.my.id/81"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-29T05:32:06.659420Z"
-  },
-  {
-    "date": "29-07-2025",
     "time": "05:00",
     "iso_datetime": "2025-07-29T05:00:00+02:00",
     "competition": "Liga Mx Women",
@@ -42,6 +12,6 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T05:32:06.659432Z"
+    "last_updated": "2025-07-29T07:27:00.183538Z"
   }
 ]
