@@ -1,36 +1,6 @@
 [
   {
     "date": "29-07-2025",
-    "time": "01:00",
-    "iso_datetime": "2025-07-29T01:00:00+02:00",
-    "competition": "Liga Betplay Dimayor",
-    "teams": "Bucaramanga - Dep. Cali",
-    "channels": [
-      {
-        "name": "CH81es",
-        "url": "https://envivo.govoet.my.id/81"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-29T04:52:50.153725Z"
-  },
-  {
-    "date": "29-07-2025",
-    "time": "01:00",
-    "iso_datetime": "2025-07-29T01:00:00+02:00",
-    "competition": "Torneo LPF",
-    "teams": "Banfield - Barracas Central",
-    "channels": [
-      {
-        "name": "CH75es",
-        "url": "https://envivo.govoet.my.id/75"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-29T04:52:50.153748Z"
-  },
-  {
-    "date": "29-07-2025",
     "time": "03:00",
     "iso_datetime": "2025-07-29T03:00:00+02:00",
     "competition": "Liga Mx Women",
@@ -42,7 +12,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T04:52:50.153758Z"
+    "last_updated": "2025-07-29T05:32:06.659388Z"
   },
   {
     "date": "29-07-2025",
@@ -57,7 +27,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T04:52:50.153765Z"
+    "last_updated": "2025-07-29T05:32:06.659420Z"
   },
   {
     "date": "29-07-2025",
@@ -72,6 +42,6 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T04:52:50.153771Z"
+    "last_updated": "2025-07-29T05:32:06.659432Z"
   }
 ]
