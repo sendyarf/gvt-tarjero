@@ -1,7 +1,7 @@
 // Fungsi untuk memuat jadwal dari JSON
 async function loadSchedule() {
     try {
-        const response = await fetch('schedule.json');
+        const response = await fetch('/schedule.json');
         if (!response.ok) throw new Error('Gagal memuat jadwal');
         const matches = await response.json();
         
