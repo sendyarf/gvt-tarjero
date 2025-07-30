@@ -3,39 +3,6 @@
     <h2 class="mb-4">Today's Matches</h2>
     <div class="matches-container">
     
-<div class="match-card" data-time="2025-07-30T18:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Amical Club</div>
-    <div class="match-teams">Monaco (Fra) - Torino (Ita) <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/161">CH161gb</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-07-30T18:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Amical Club</div>
-    <div class="match-teams">Strasbourg (Fra) - Udinese (Ita) <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/162">CH162pt</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-07-30T18:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Ligue Des Champions</div>
-    <div class="match-teams">Qarabag (Aze) - Shelbourne (Irl) <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/170">CH170kz</button>
-
-    </div>
-</div>
-
 <div class="match-card" data-time="2025-07-30T18:15:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">Amical Club</div>
