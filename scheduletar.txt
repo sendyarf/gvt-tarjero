@@ -3,28 +3,6 @@
     <h2 class="mb-4">Today's Matches</h2>
     <div class="matches-container">
     
-<div class="match-card" data-time="2025-07-29T21:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Ligue Des Champions</div>
-    <div class="match-teams">Zrinjski (Bih) - Slovan Bratislava (Svk) <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/168">CH168hr</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-07-29T21:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Ligue Des Champions</div>
-    <div class="match-teams">Étoile Rouge Belgrade (Srb) - Lincoln (Gib) <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/167">CH167rs</button>
-
-    </div>
-</div>
-
 <div class="match-card" data-time="2025-07-30T01:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">Copa Colombia</div>
