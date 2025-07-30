@@ -3,39 +3,6 @@
     <h2 class="mb-4">Today's Matches</h2>
     <div class="matches-container">
     
-<div class="match-card" data-time="2025-07-30T19:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Amical Club</div>
-    <div class="match-teams">Fenerbahce (Tur) - Lazio (Ita) <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/137">CH137it</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-07-30T19:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Ligue Des Champions</div>
-    <div class="match-teams">FCSB (Rou) - Shkendija (Mkd) <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/172">CH172ro</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-07-30T19:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Ligue Des Champions</div>
-    <div class="match-teams">Ludogorets (Bul) - Rijeka (Cro) <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/173">CH173hr</button>
-
-    </div>
-</div>
-
 <div class="match-card" data-time="2025-07-30T20:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">Amical Club</div>
