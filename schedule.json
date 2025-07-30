@@ -1,40 +1,6 @@
 [
   {
     "date": "30-07-2025",
-    "time": "03:00",
-    "iso_datetime": "2025-07-30T03:00:00+02:00",
-    "competition": "Leagues Cup",
-    "teams": "Tigres - Houston Dynamo",
-    "channels": [
-      {
-        "name": "CH68es",
-        "url": "https://envivo.govoet.my.id/68"
-      },
-      {
-        "name": "CH155us",
-        "url": "https://envivo.govoet.my.id/155"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-30T06:38:00.946084Z"
-  },
-  {
-    "date": "30-07-2025",
-    "time": "03:20",
-    "iso_datetime": "2025-07-30T03:20:00+02:00",
-    "competition": "Copa Colombia",
-    "teams": "America De Cali - Tigres",
-    "channels": [
-      {
-        "name": "CH81es",
-        "url": "https://envivo.govoet.my.id/81"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-30T06:38:00.946108Z"
-  },
-  {
-    "date": "30-07-2025",
     "time": "04:30",
     "iso_datetime": "2025-07-30T04:30:00+02:00",
     "competition": "Leagues Cup",
@@ -46,7 +12,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-30T06:38:00.946118Z"
+    "last_updated": "2025-07-30T07:27:34.250789Z"
   },
   {
     "date": "30-07-2025",
@@ -61,6 +27,6 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-30T06:38:00.946125Z"
+    "last_updated": "2025-07-30T07:27:34.250823Z"
   }
 ]
