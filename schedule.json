@@ -1,21 +1,6 @@
 [
   {
     "date": "30-07-2025",
-    "time": "02:00",
-    "iso_datetime": "2025-07-30T02:00:00+02:00",
-    "competition": "Leagues Cup",
-    "teams": "New York City - Puebla",
-    "channels": [
-      {
-        "name": "CH108es",
-        "url": "https://envivo.govoet.my.id/108"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-30T05:31:38.161594Z"
-  },
-  {
-    "date": "30-07-2025",
     "time": "03:00",
     "iso_datetime": "2025-07-30T03:00:00+02:00",
     "competition": "Leagues Cup",
@@ -31,7 +16,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-30T05:31:38.161631Z"
+    "last_updated": "2025-07-30T06:38:00.946084Z"
   },
   {
     "date": "30-07-2025",
@@ -46,7 +31,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-30T05:31:38.161645Z"
+    "last_updated": "2025-07-30T06:38:00.946108Z"
   },
   {
     "date": "30-07-2025",
@@ -61,7 +46,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-30T05:31:38.161656Z"
+    "last_updated": "2025-07-30T06:38:00.946118Z"
   },
   {
     "date": "30-07-2025",
@@ -76,6 +61,6 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-30T05:31:38.161666Z"
+    "last_updated": "2025-07-30T06:38:00.946125Z"
   }
 ]
