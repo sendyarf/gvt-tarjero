@@ -1,66 +1,6 @@
 [
   {
     "date": "30-07-2025",
-    "time": "01:00",
-    "iso_datetime": "2025-07-30T01:00:00+02:00",
-    "competition": "Copa Colombia",
-    "teams": "Atl. Nacional - Cucuta",
-    "channels": [
-      {
-        "name": "CH81es",
-        "url": "https://envivo.govoet.my.id/81"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-30T02:03:21.593109Z"
-  },
-  {
-    "date": "30-07-2025",
-    "time": "01:00",
-    "iso_datetime": "2025-07-30T01:00:00+02:00",
-    "competition": "Leagues Cup",
-    "teams": "CF Montreal - Leon",
-    "channels": [
-      {
-        "name": "CH156es",
-        "url": "https://envivo.govoet.my.id/156"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-30T02:03:21.593136Z"
-  },
-  {
-    "date": "30-07-2025",
-    "time": "01:00",
-    "iso_datetime": "2025-07-30T01:00:00+02:00",
-    "competition": "Leagues Cup",
-    "teams": "Toluca - Columbus Crew",
-    "channels": [
-      {
-        "name": "CH157es",
-        "url": "https://envivo.govoet.my.id/157"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-30T02:03:21.593146Z"
-  },
-  {
-    "date": "30-07-2025",
-    "time": "01:30",
-    "iso_datetime": "2025-07-30T01:30:00+02:00",
-    "competition": "Amical Club",
-    "teams": "Louisville City (Usa) - Eintracht Francfort (Ger)",
-    "channels": [
-      {
-        "name": "CH162de",
-        "url": "https://envivo.govoet.my.id/162"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-30T02:03:21.593153Z"
-  },
-  {
-    "date": "30-07-2025",
     "time": "02:00",
     "iso_datetime": "2025-07-30T02:00:00+02:00",
     "competition": "Leagues Cup",
@@ -72,7 +12,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-30T02:03:21.593164Z"
+    "last_updated": "2025-07-30T05:31:38.161594Z"
   },
   {
     "date": "30-07-2025",
@@ -91,7 +31,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-30T02:03:21.593178Z"
+    "last_updated": "2025-07-30T05:31:38.161631Z"
   },
   {
     "date": "30-07-2025",
@@ -106,7 +46,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-30T02:03:21.593189Z"
+    "last_updated": "2025-07-30T05:31:38.161645Z"
   },
   {
     "date": "30-07-2025",
@@ -121,7 +61,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-30T02:03:21.593198Z"
+    "last_updated": "2025-07-30T05:31:38.161656Z"
   },
   {
     "date": "30-07-2025",
@@ -136,6 +76,6 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-30T02:03:21.593208Z"
+    "last_updated": "2025-07-30T05:31:38.161666Z"
   }
 ]
