@@ -1,21 +1,6 @@
 [
   {
     "date": "30-07-2025",
-    "time": "04:30",
-    "iso_datetime": "2025-07-30T04:30:00+02:00",
-    "competition": "Leagues Cup",
-    "teams": "Los Angeles FC - Mazatlan FC",
-    "channels": [
-      {
-        "name": "CH108es",
-        "url": "https://envivo.govoet.my.id/108"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-30T07:27:34.250789Z"
-  },
-  {
-    "date": "30-07-2025",
     "time": "05:00",
     "iso_datetime": "2025-07-30T05:00:00+02:00",
     "competition": "Leagues Cup",
@@ -27,6 +12,6 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-30T07:27:34.250823Z"
+    "last_updated": "2025-07-30T08:33:58.364448Z"
   }
 ]
