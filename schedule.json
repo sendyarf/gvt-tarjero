@@ -1,110 +1,5 @@
 [
   {
-    "date": "29-07-2025",
-    "time": "20:00",
-    "iso_datetime": "2025-07-29T20:00:00+02:00",
-    "competition": "Ligue Des Champions",
-    "teams": "Drita (Kos) - FC Copenhague (Den)",
-    "channels": [
-      {
-        "name": "CH165sk",
-        "url": "https://envivo.govoet.my.id/165"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-29T23:23:35.135344Z"
-  },
-  {
-    "date": "29-07-2025",
-    "time": "20:00",
-    "iso_datetime": "2025-07-29T20:00:00+02:00",
-    "competition": "Ligue Des Champions",
-    "teams": "Dyn. Kyiv (Ukr) - Hamrun (Mlt)",
-    "channels": [
-      {
-        "name": "CH166ua",
-        "url": "https://envivo.govoet.my.id/166"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-29T23:23:35.135368Z"
-  },
-  {
-    "date": "29-07-2025",
-    "time": "20:30",
-    "iso_datetime": "2025-07-29T20:30:00+02:00",
-    "competition": "Conference League",
-    "teams": "Inter Escaldes (And) - O. Ljubljana (Slo)",
-    "channels": [
-      {
-        "name": "CH163si",
-        "url": "https://envivo.govoet.my.id/163"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-29T23:23:35.135378Z"
-  },
-  {
-    "date": "29-07-2025",
-    "time": "20:30",
-    "iso_datetime": "2025-07-29T20:30:00+02:00",
-    "competition": "Efl Cup",
-    "teams": "Barnet - Newport",
-    "channels": [
-      {
-        "name": "CH130us",
-        "url": "https://envivo.govoet.my.id/130"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-29T23:23:35.135385Z"
-  },
-  {
-    "date": "29-07-2025",
-    "time": "20:45",
-    "iso_datetime": "2025-07-29T20:45:00+02:00",
-    "competition": "Amical Club",
-    "teams": "Marseille (Fra) - Valence (Esp)",
-    "channels": [
-      {
-        "name": "CH161es",
-        "url": "https://envivo.govoet.my.id/161"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-29T23:23:35.135391Z"
-  },
-  {
-    "date": "29-07-2025",
-    "time": "21:00",
-    "iso_datetime": "2025-07-29T21:00:00+02:00",
-    "competition": "Ligue Des Champions",
-    "teams": "Zrinjski (Bih) - Slovan Bratislava (Svk)",
-    "channels": [
-      {
-        "name": "CH168hr",
-        "url": "https://envivo.govoet.my.id/168"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-29T23:23:35.135401Z"
-  },
-  {
-    "date": "29-07-2025",
-    "time": "21:00",
-    "iso_datetime": "2025-07-29T21:00:00+02:00",
-    "competition": "Ligue Des Champions",
-    "teams": "Étoile Rouge Belgrade (Srb) - Lincoln (Gib)",
-    "channels": [
-      {
-        "name": "CH167rs",
-        "url": "https://envivo.govoet.my.id/167"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-29T23:23:35.135414Z"
-  },
-  {
     "date": "30-07-2025",
     "time": "01:00",
     "iso_datetime": "2025-07-30T01:00:00+02:00",
@@ -117,7 +12,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T23:23:35.135426Z"
+    "last_updated": "2025-07-30T02:03:21.593109Z"
   },
   {
     "date": "30-07-2025",
@@ -132,7 +27,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T23:23:35.135436Z"
+    "last_updated": "2025-07-30T02:03:21.593136Z"
   },
   {
     "date": "30-07-2025",
@@ -147,7 +42,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T23:23:35.135446Z"
+    "last_updated": "2025-07-30T02:03:21.593146Z"
   },
   {
     "date": "30-07-2025",
@@ -162,7 +57,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T23:23:35.135455Z"
+    "last_updated": "2025-07-30T02:03:21.593153Z"
   },
   {
     "date": "30-07-2025",
@@ -177,7 +72,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T23:23:35.135464Z"
+    "last_updated": "2025-07-30T02:03:21.593164Z"
   },
   {
     "date": "30-07-2025",
@@ -196,7 +91,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T23:23:35.135496Z"
+    "last_updated": "2025-07-30T02:03:21.593178Z"
   },
   {
     "date": "30-07-2025",
@@ -211,7 +106,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T23:23:35.135507Z"
+    "last_updated": "2025-07-30T02:03:21.593189Z"
   },
   {
     "date": "30-07-2025",
@@ -226,7 +121,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T23:23:35.135517Z"
+    "last_updated": "2025-07-30T02:03:21.593198Z"
   },
   {
     "date": "30-07-2025",
@@ -241,6 +136,6 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-29T23:23:35.135525Z"
+    "last_updated": "2025-07-30T02:03:21.593208Z"
   }
 ]
