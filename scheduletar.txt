@@ -3,39 +3,6 @@
     <h2 class="mb-4">Today's Matches</h2>
     <div class="matches-container">
     
-<div class="match-card" data-time="2025-07-31T02:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Amical Club</div>
-    <div class="match-teams">St. Louis City (Usa) - Aston Villa (Eng) <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/165">CH165us</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-07-31T02:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Copa Colombia</div>
-    <div class="match-teams">Once Caldas - Patriotas <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/81">CH81es</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-07-31T02:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Leagues Cup</div>
-    <div class="match-teams">Minnesota - Queretaro <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/182">CH182es</button>
-
-    </div>
-</div>
-
 <div class="match-card" data-time="2025-07-31T03:30:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">Amical Club</div>
