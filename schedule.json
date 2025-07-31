@@ -1,175 +1,6 @@
 [
   {
     "date": "30-07-2025",
-    "time": "20:00",
-    "iso_datetime": "2025-07-30T20:00:00+02:00",
-    "competition": "Amical Club",
-    "teams": "Coventry (Eng) - Betis (Esp)",
-    "channels": [
-      {
-        "name": "CH71es",
-        "url": "https://envivo.govoet.my.id/71"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-30T23:44:31.019097Z"
-  },
-  {
-    "date": "30-07-2025",
-    "time": "20:00",
-    "iso_datetime": "2025-07-30T20:00:00+02:00",
-    "competition": "Amical Club",
-    "teams": "Estoril (Por) - Nottingham (Eng)",
-    "channels": [
-      {
-        "name": "CH99es",
-        "url": "https://envivo.govoet.my.id/99"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-30T23:44:31.019128Z"
-  },
-  {
-    "date": "30-07-2025",
-    "time": "20:00",
-    "iso_datetime": "2025-07-30T20:00:00+02:00",
-    "competition": "Liga 1 Te Apuesto",
-    "teams": "Ayacucho - Sport Boys",
-    "channels": [
-      {
-        "name": "CH84es",
-        "url": "https://envivo.govoet.my.id/84"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-30T23:44:31.019143Z"
-  },
-  {
-    "date": "30-07-2025",
-    "time": "20:00",
-    "iso_datetime": "2025-07-30T20:00:00+02:00",
-    "competition": "Ligue Des Champions",
-    "teams": "Ferencvaros (Hun) - Noah (Arm)",
-    "channels": [
-      {
-        "name": "CH174hu",
-        "url": "https://envivo.govoet.my.id/174"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-30T23:44:31.019154Z"
-  },
-  {
-    "date": "30-07-2025",
-    "time": "20:00",
-    "iso_datetime": "2025-07-30T20:00:00+02:00",
-    "competition": "Ligue Des Champions",
-    "teams": "Panathinaikos (Gre) - Rangers (Sco)",
-    "channels": [
-      {
-        "name": "CH175gb",
-        "url": "https://envivo.govoet.my.id/175"
-      },
-      {
-        "name": "CH176gr",
-        "url": "https://envivo.govoet.my.id/176"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-30T23:44:31.019168Z"
-  },
-  {
-    "date": "30-07-2025",
-    "time": "20:30",
-    "iso_datetime": "2025-07-30T20:30:00+02:00",
-    "competition": "Amical Club",
-    "teams": "Wolves (Eng) - Lens (Fra)",
-    "channels": [
-      {
-        "name": "CH164us",
-        "url": "https://envivo.govoet.my.id/164"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-30T23:44:31.019180Z"
-  },
-  {
-    "date": "30-07-2025",
-    "time": "20:30",
-    "iso_datetime": "2025-07-30T20:30:00+02:00",
-    "competition": "Copa Argentina",
-    "teams": "Ind. Rivadavia - Central Cordoba",
-    "channels": [
-      {
-        "name": "CH77es",
-        "url": "https://envivo.govoet.my.id/77"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-30T23:44:31.019190Z"
-  },
-  {
-    "date": "30-07-2025",
-    "time": "20:30",
-    "iso_datetime": "2025-07-30T20:30:00+02:00",
-    "competition": "Ligue Des Champions",
-    "teams": "Breidablik (Ice) - Lech (Pol)",
-    "channels": [
-      {
-        "name": "CH177pl",
-        "url": "https://envivo.govoet.my.id/177"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-30T23:44:31.019200Z"
-  },
-  {
-    "date": "30-07-2025",
-    "time": "20:45",
-    "iso_datetime": "2025-07-30T20:45:00+02:00",
-    "competition": "Ligue Des Champions",
-    "teams": "Red Bull Salzbourg (Aut) - Brann (Nor)",
-    "channels": [
-      {
-        "name": "CH178pl",
-        "url": "https://envivo.govoet.my.id/178"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-30T23:44:31.019208Z"
-  },
-  {
-    "date": "30-07-2025",
-    "time": "21:00",
-    "iso_datetime": "2025-07-30T21:00:00+02:00",
-    "competition": "Ligue Des Champions",
-    "teams": "Servette (Sui) - Plzen (Cze)",
-    "channels": [
-      {
-        "name": "CH179fr",
-        "url": "https://envivo.govoet.my.id/179"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-30T23:44:31.019219Z"
-  },
-  {
-    "date": "30-07-2025",
-    "time": "22:00",
-    "iso_datetime": "2025-07-30T22:00:00+02:00",
-    "competition": "Copa Ecuador",
-    "teams": "Ecuagenera - Aucas",
-    "channels": [
-      {
-        "name": "CH86es",
-        "url": "https://envivo.govoet.my.id/86"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-30T23:44:31.019228Z"
-  },
-  {
-    "date": "30-07-2025",
     "time": "22:15",
     "iso_datetime": "2025-07-30T22:15:00+02:00",
     "competition": "Liga 1 Te Apuesto",
@@ -185,7 +16,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-30T23:44:31.019240Z"
+    "last_updated": "2025-07-31T02:03:02.352524Z"
   },
   {
     "date": "31-07-2025",
@@ -204,7 +35,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-30T23:44:31.019252Z"
+    "last_updated": "2025-07-31T02:03:02.352552Z"
   },
   {
     "date": "31-07-2025",
@@ -219,7 +50,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-30T23:44:31.019262Z"
+    "last_updated": "2025-07-31T02:03:02.352561Z"
   },
   {
     "date": "31-07-2025",
@@ -234,7 +65,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-30T23:44:31.019272Z"
+    "last_updated": "2025-07-31T02:03:02.352569Z"
   },
   {
     "date": "31-07-2025",
@@ -249,7 +80,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-30T23:44:31.019281Z"
+    "last_updated": "2025-07-31T02:03:02.352581Z"
   },
   {
     "date": "31-07-2025",
@@ -264,7 +95,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-30T23:44:31.019290Z"
+    "last_updated": "2025-07-31T02:03:02.352592Z"
   },
   {
     "date": "31-07-2025",
@@ -279,7 +110,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-30T23:44:31.019300Z"
+    "last_updated": "2025-07-31T02:03:02.352603Z"
   },
   {
     "date": "31-07-2025",
@@ -294,7 +125,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-30T23:44:31.019310Z"
+    "last_updated": "2025-07-31T02:03:02.352613Z"
   },
   {
     "date": "31-07-2025",
@@ -309,7 +140,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-30T23:44:31.019319Z"
+    "last_updated": "2025-07-31T02:03:02.352623Z"
   },
   {
     "date": "31-07-2025",
@@ -332,7 +163,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-30T23:44:31.019333Z"
+    "last_updated": "2025-07-31T02:03:02.352636Z"
   },
   {
     "date": "31-07-2025",
@@ -347,7 +178,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-30T23:44:31.019344Z"
+    "last_updated": "2025-07-31T02:03:02.352645Z"
   },
   {
     "date": "31-07-2025",
@@ -362,6 +193,6 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-30T23:44:31.019355Z"
+    "last_updated": "2025-07-31T02:03:02.352654Z"
   }
 ]
