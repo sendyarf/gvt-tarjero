@@ -55,7 +55,7 @@ async function loadSchedule() {
                     <span class="live-indicator" style="display: none;">- LIVE</span>
                 </div>
                 <div class="channels" style="display: none;">
-                    ${buttons || 'Tidak ada channel tersedia'}
+                    ${buttons || 'No channels available'}
                 </div>
             `;
             
@@ -73,7 +73,7 @@ async function loadSchedule() {
         // Tampilkan pesan error ke pengguna
         const errorMessage = document.createElement('div');
         errorMessage.className = 'alert alert-danger';
-        errorMessage.textContent = 'Gagal memuat jadwal: ' + error.message;
+        errorMessage.textContent = 'Failed to load schedule. Please try again later.';
         
         const container = document.querySelector('.matches-container') || document.body;
         container.prepend(errorMessage);
@@ -152,10 +152,10 @@ function updateNoMatchesMessage(show) {
     if (show && !noMatchesMessage && container) {
         container.insertAdjacentHTML('beforeend', `
             <div class="alert alert-info" id="no-matches-message">
-                <h4 class="alert-heading">Tidak ada pertandingan</h4>
-                <p>Tidak ada pertandingan yang sedang berlangsung saat ini. Silakan periksa kembali nanti atau refresh halaman.</p>
+                <h4 class="alert-heading">No matches scheduled at the moment</h4>
+                <p>Please check back later or refresh the page.</p>
                 <button class="btn btn-primary mt-2" onclick="window.location.reload()">
-                    Refresh Halaman
+                    Refresh Page
                 </button>
             </div>
         `);
@@ -258,7 +258,7 @@ function copyBitcoinAddress() {
         showToast('Bitcoin address copied to clipboard!');
     }).catch(err => {
         console.error('Gagal menyalin teks: ', err);
-        showToast('Gagal menyalin alamat', 'error');
+        showToast('Failed to copy address. Please try again.', 'error');
     });
 }
 
