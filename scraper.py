@@ -86,15 +86,7 @@ def scrape_schedule():
     try:
         with open('schedule.json', 'r', encoding='utf-8') as f:
             old_matches = json.load(f)
-            # Hapus last_updated untuk perbandingan
-            old_matches_clean = [{k: v for k, v in m.items() if k != 'last_updated'} 
-                               for m in old_matches]
-            new_matches_clean = [{k: v for k, v in m.items() if k != 'last_updated'} 
-                               for m in new_matches]
-            
-            if old_matches_clean == new_matches_clean:
-                print("ℹ️ Tidak ada perubahan pada jadwal")
-                return False
+            print("ℹ️ Menimpa jadwal yang ada")
     except (FileNotFoundError, json.JSONDecodeError):
         print("ℹ️ File schedule.json tidak ditemukan atau rusak, membuat yang baru")
 
@@ -102,7 +94,7 @@ def scrape_schedule():
     with open('schedule.json', 'w', encoding='utf-8') as f:
         json.dump(new_matches, f, ensure_ascii=False, indent=2)
     
-    print("✅ Jadwal berhasil diperbarui")
+    print("✅ Jadwal berhasil disimpan")
     return True
 
 if __name__ == '__main__':

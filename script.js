@@ -99,41 +99,51 @@ function checkLiveMatches() {
     let visibleMatches = 0;
     
     matches.forEach(match => {
-        const matchTime = new Date(match.getAttribute('data-time'));
-        const endTime = new Date(matchTime.getTime() + (3 * 60 * 60 * 1000)); // 3 jam setelah pertandingan
-        const liveIndicator = match.querySelector('.live-indicator');
-        
-        if (now >= matchTime && now <= endTime) {
-            match.style.display = '';
-            liveIndicator.style.display = 'inline';
-            visibleMatches++;
-        } else if (now > endTime) {
-            match.style.display = 'none';
-        } else {
-            match.style.display = '';
-            liveIndicator.style.display = 'none';
-            visibleMatches++;
+        try {
+            const matchTime = new Date(match.getAttribute('data-time'));
+            const endTime = new Date(matchTime.getTime() + (3 * 60 * 60 * 1000)); // 3 jam setelah pertandingan
+            const liveIndicator = match.querySelector('.live-indicator');
+            
+            if (now >= matchTime && now <= endTime) {
+                match.style.display = '';
+                liveIndicator.style.display = 'inline';
+                match.classList.add('live-match');
+                visibleMatches++;
+            } else if (now > endTime) {
+                match.style.display = 'none';
+                liveIndicator.style.display = 'none';
+                match.classList.remove('live-match');
+            } else {
+                match.style.display = '';
+                liveIndicator.style.display = 'none';
+                match.classList.remove('live-match');
+                visibleMatches++;
+            }
+        } catch (error) {
+            console.error('Error checking match status:', error);
         }
     });
     
     // Tampilkan pesan jika tidak ada pertandingan
+    updateNoMatchesMessage(visibleMatches === 0);
+}
+
+// Fungsi untuk memperbarui pesan tidak ada pertandingan
+function updateNoMatchesMessage(show) {
     const noMatchesMessage = document.getElementById('no-matches-message');
-    if (visibleMatches === 0) {
-        if (!noMatchesMessage) {
-            const container = document.querySelector('.matches-container');
-            if (container) {
-                container.innerHTML = `
-                    <div class="alert alert-info" id="no-matches-message">
-                        <h4 class="alert-heading">No matches available</h4>
-                        <p>There are currently no scheduled matches. Please check back later or refresh the page.</p>
-                            <button class="btn btn-primary mt-2" onclick="window.location.reload()">
-                                Refresh Page
-                            </button>
-                    </div>
-                `;
-            }
-        }
-    } else if (noMatchesMessage) {
+    const container = document.querySelector('.matches-container');
+    
+    if (show && !noMatchesMessage && container) {
+        container.insertAdjacentHTML('beforeend', `
+            <div class="alert alert-info" id="no-matches-message">
+                <h4 class="alert-heading">Tidak ada pertandingan</h4>
+                <p>Tidak ada pertandingan yang sedang berlangsung saat ini. Silakan periksa kembali nanti atau refresh halaman.</p>
+                <button class="btn btn-primary mt-2" onclick="window.location.reload()">
+                    Refresh Halaman
+                </button>
+            </div>
+        `);
+    } else if (!show && noMatchesMessage) {
         noMatchesMessage.remove();
     }
 }
@@ -277,19 +287,33 @@ function showToast(message, type = 'success') {
     });
 }
 
+// Fungsi untuk inisialisasi interval pengecekan live
+function initLiveCheckInterval() {
+    // Jalankan pengecekan setiap 30 detik
+    setInterval(checkLiveMatches, 1000);
+    
+    // Tambahkan event listener untuk visibility change
+    document.addEventListener('visibilitychange', () => {
+        if (!document.hidden) {
+            checkLiveMatches();
+        }
+    });
+}
+
 // Inisialisasi saat halaman dimuat
 document.addEventListener('DOMContentLoaded', function() {
     // Load jadwal
     loadSchedule();
     
-    // Inisialisasi komponen
+    // Inisialisasi komponen lain
     initVideoModal();
     initFloatingButtons();
     
-    // Perbarui jadwal setiap menit
-    setInterval(() => {
-        checkLiveMatches();
-    }, 60000);
+    // Inisialisasi interval pengecekan live
+    initLiveCheckInterval();
+    
+    // Atur interval untuk update waktu setiap menit
+    setInterval(updateTimes, 60000);
 });
 
 // Nonaktifkan klik kanan
