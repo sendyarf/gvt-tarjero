@@ -1,66 +1,6 @@
 [
   {
     "date": "31-07-2025",
-    "time": "02:00",
-    "iso_datetime": "2025-07-31T02:00:00+02:00",
-    "competition": "Leagues Cup",
-    "teams": "U.N.A.M. - Orlando City",
-    "channels": [
-      {
-        "name": "CH68es",
-        "url": "https://envivo.govoet.my.id/68"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-31T05:53:19.074030Z"
-  },
-  {
-    "date": "31-07-2025",
-    "time": "02:30",
-    "iso_datetime": "2025-07-31T02:30:00+02:00",
-    "competition": "Amical Club",
-    "teams": "St. Louis City (Usa) - Aston Villa (Eng)",
-    "channels": [
-      {
-        "name": "CH165us",
-        "url": "https://envivo.govoet.my.id/165"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-31T05:53:19.074057Z"
-  },
-  {
-    "date": "31-07-2025",
-    "time": "02:30",
-    "iso_datetime": "2025-07-31T02:30:00+02:00",
-    "competition": "Copa Colombia",
-    "teams": "Once Caldas - Patriotas",
-    "channels": [
-      {
-        "name": "CH81es",
-        "url": "https://envivo.govoet.my.id/81"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-31T05:53:19.074066Z"
-  },
-  {
-    "date": "31-07-2025",
-    "time": "02:30",
-    "iso_datetime": "2025-07-31T02:30:00+02:00",
-    "competition": "Leagues Cup",
-    "teams": "Minnesota - Queretaro",
-    "channels": [
-      {
-        "name": "CH182es",
-        "url": "https://envivo.govoet.my.id/182"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-31T05:53:19.074080Z"
-  },
-  {
-    "date": "31-07-2025",
     "time": "03:30",
     "iso_datetime": "2025-07-31T03:30:00+02:00",
     "competition": "Amical Club",
@@ -80,7 +20,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-31T05:53:19.074097Z"
+    "last_updated": "2025-07-31T06:36:55.093042Z"
   },
   {
     "date": "31-07-2025",
@@ -95,7 +35,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-31T05:53:19.074107Z"
+    "last_updated": "2025-07-31T06:36:55.093067Z"
   },
   {
     "date": "31-07-2025",
@@ -110,6 +50,6 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-31T05:53:19.074118Z"
+    "last_updated": "2025-07-31T06:36:55.093076Z"
   }
 ]
