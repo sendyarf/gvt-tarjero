@@ -1,25 +1,6 @@
 [
   {
     "date": "31-07-2025",
-    "time": "00:30",
-    "iso_datetime": "2025-07-31T00:30:00+02:00",
-    "competition": "Amical Club",
-    "teams": "West Ham - Everton",
-    "channels": [
-      {
-        "name": "CH12fr",
-        "url": "https://envivo.govoet.my.id/12"
-      },
-      {
-        "name": "CH88es",
-        "url": "https://envivo.govoet.my.id/88"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-31T03:51:09.135781Z"
-  },
-  {
-    "date": "31-07-2025",
     "time": "01:30",
     "iso_datetime": "2025-07-31T01:30:00+02:00",
     "competition": "Copa Ecuador",
@@ -31,7 +12,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-31T03:51:09.135806Z"
+    "last_updated": "2025-07-31T04:45:53.416334Z"
   },
   {
     "date": "31-07-2025",
@@ -46,7 +27,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-31T03:51:09.135816Z"
+    "last_updated": "2025-07-31T04:45:53.416385Z"
   },
   {
     "date": "31-07-2025",
@@ -61,7 +42,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-31T03:51:09.135823Z"
+    "last_updated": "2025-07-31T04:45:53.416400Z"
   },
   {
     "date": "31-07-2025",
@@ -76,7 +57,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-31T03:51:09.135828Z"
+    "last_updated": "2025-07-31T04:45:53.416411Z"
   },
   {
     "date": "31-07-2025",
@@ -91,7 +72,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-31T03:51:09.135836Z"
+    "last_updated": "2025-07-31T04:45:53.416422Z"
   },
   {
     "date": "31-07-2025",
@@ -106,7 +87,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-31T03:51:09.135847Z"
+    "last_updated": "2025-07-31T04:45:53.416434Z"
   },
   {
     "date": "31-07-2025",
@@ -121,7 +102,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-31T03:51:09.135858Z"
+    "last_updated": "2025-07-31T04:45:53.416444Z"
   },
   {
     "date": "31-07-2025",
@@ -144,7 +125,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-31T03:51:09.135874Z"
+    "last_updated": "2025-07-31T04:45:53.416459Z"
   },
   {
     "date": "31-07-2025",
@@ -159,7 +140,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-31T03:51:09.135884Z"
+    "last_updated": "2025-07-31T04:45:53.416466Z"
   },
   {
     "date": "31-07-2025",
@@ -174,6 +155,6 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-31T03:51:09.135894Z"
+    "last_updated": "2025-07-31T04:45:53.416471Z"
   }
 ]
