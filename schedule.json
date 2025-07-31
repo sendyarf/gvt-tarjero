@@ -1,51 +1,6 @@
 [
   {
     "date": "31-07-2025",
-    "time": "01:30",
-    "iso_datetime": "2025-07-31T01:30:00+02:00",
-    "competition": "Copa Ecuador",
-    "teams": "Miguel Iturralde - Emelec",
-    "channels": [
-      {
-        "name": "CH86es",
-        "url": "https://envivo.govoet.my.id/86"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-31T04:45:53.416334Z"
-  },
-  {
-    "date": "31-07-2025",
-    "time": "01:30",
-    "iso_datetime": "2025-07-31T01:30:00+02:00",
-    "competition": "Leagues Cup",
-    "teams": "Inter Miami - Atlas",
-    "channels": [
-      {
-        "name": "CH180es",
-        "url": "https://envivo.govoet.my.id/180"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-31T04:45:53.416385Z"
-  },
-  {
-    "date": "31-07-2025",
-    "time": "01:30",
-    "iso_datetime": "2025-07-31T01:30:00+02:00",
-    "competition": "Leagues Cup",
-    "teams": "Necaxa - Atlanta Utd",
-    "channels": [
-      {
-        "name": "CH181es",
-        "url": "https://envivo.govoet.my.id/181"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-31T04:45:53.416400Z"
-  },
-  {
-    "date": "31-07-2025",
     "time": "02:00",
     "iso_datetime": "2025-07-31T02:00:00+02:00",
     "competition": "Leagues Cup",
@@ -57,7 +12,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-31T04:45:53.416411Z"
+    "last_updated": "2025-07-31T05:53:19.074030Z"
   },
   {
     "date": "31-07-2025",
@@ -72,7 +27,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-31T04:45:53.416422Z"
+    "last_updated": "2025-07-31T05:53:19.074057Z"
   },
   {
     "date": "31-07-2025",
@@ -87,7 +42,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-31T04:45:53.416434Z"
+    "last_updated": "2025-07-31T05:53:19.074066Z"
   },
   {
     "date": "31-07-2025",
@@ -102,7 +57,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-31T04:45:53.416444Z"
+    "last_updated": "2025-07-31T05:53:19.074080Z"
   },
   {
     "date": "31-07-2025",
@@ -125,7 +80,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-31T04:45:53.416459Z"
+    "last_updated": "2025-07-31T05:53:19.074097Z"
   },
   {
     "date": "31-07-2025",
@@ -140,7 +95,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-31T04:45:53.416466Z"
+    "last_updated": "2025-07-31T05:53:19.074107Z"
   },
   {
     "date": "31-07-2025",
@@ -155,6 +110,6 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-31T04:45:53.416471Z"
+    "last_updated": "2025-07-31T05:53:19.074118Z"
   }
 ]
