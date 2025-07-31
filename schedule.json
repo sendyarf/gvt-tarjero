@@ -1,44 +1,6 @@
 [
   {
     "date": "31-07-2025",
-    "time": "03:30",
-    "iso_datetime": "2025-07-31T03:30:00+02:00",
-    "competition": "Amical Club",
-    "teams": "Manchester United - Bournemouth",
-    "channels": [
-      {
-        "name": "CH12fr",
-        "url": "https://envivo.govoet.my.id/12"
-      },
-      {
-        "name": "CH88es",
-        "url": "https://envivo.govoet.my.id/88"
-      },
-      {
-        "name": "CH111de",
-        "url": "https://envivo.govoet.my.id/111"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-31T06:36:55.093042Z"
-  },
-  {
-    "date": "31-07-2025",
-    "time": "03:30",
-    "iso_datetime": "2025-07-31T03:30:00+02:00",
-    "competition": "Leagues Cup",
-    "teams": "Club America - Real Salt Lake",
-    "channels": [
-      {
-        "name": "CH183es",
-        "url": "https://envivo.govoet.my.id/183"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-31T06:36:55.093067Z"
-  },
-  {
-    "date": "31-07-2025",
     "time": "04:30",
     "iso_datetime": "2025-07-31T04:30:00+02:00",
     "competition": "Leagues Cup",
@@ -50,6 +12,6 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-31T06:36:55.093076Z"
+    "last_updated": "2025-07-31T07:46:20.621064Z"
   }
 ]
