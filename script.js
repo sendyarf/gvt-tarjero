@@ -1,15 +1,28 @@
 // Fungsi untuk memuat jadwal dari JSON
 async function loadSchedule() {
     try {
-        const response = await fetch('/schedule.json');
-        if (!response.ok) throw new Error('Gagal memuat jadwal');
+        // Menggunakan path relatif yang lebih aman
+        const response = await fetch('./schedule.json');
+        if (!response.ok) {
+            console.error('Gagal memuat jadwal. Status:', response.status);
+            throw new Error('Gagal memuat jadwal. Kode: ' + response.status);
+        }
+        
         const matches = await response.json();
         
         const container = document.querySelector('.matches-container');
-        if (!container) return;
+        if (!container) {
+            console.error('Elemen .matches-container tidak ditemukan');
+            return;
+        }
         
         // Kosongkan container
         container.innerHTML = '';
+        
+        if (!Array.isArray(matches) || matches.length === 0) {
+            updateNoMatchesMessage(true);
+            return;
+        }
         
         // Tampilkan setiap pertandingan
         matches.forEach(match => {
@@ -20,16 +33,18 @@ async function loadSchedule() {
             
             // Buat tombol channel
             let buttons = '';
-            match.channels.forEach(channel => {
-                buttons += `
-                    <button class="channel-btn" 
-                            data-bs-toggle="modal" 
-                            data-bs-target="#streamModal" 
-                            data-stream="${channel.url}">
-                        ${channel.name}
-                    </button>
-                `;
-            });
+            if (match.channels && Array.isArray(match.channels)) {
+                match.channels.forEach(channel => {
+                    buttons += `
+                        <button class="channel-btn" 
+                                data-bs-toggle="modal" 
+                                data-bs-target="#streamModal" 
+                                data-stream="${channel.url}">
+                            ${channel.name}
+                        </button>
+                    `;
+                });
+            }
             
             // Set HTML untuk match card
             matchCard.innerHTML = `
@@ -40,7 +55,7 @@ async function loadSchedule() {
                     <span class="live-indicator" style="display: none;">- LIVE</span>
                 </div>
                 <div class="channels" style="display: none;">
-                    ${buttons}
+                    ${buttons || 'Tidak ada channel tersedia'}
                 </div>
             `;
             
@@ -52,15 +67,16 @@ async function loadSchedule() {
         checkLiveMatches();
         
     } catch (error) {
-        console.error('Error:', error);
-        const container = document.querySelector('.matches-container');
-        if (container) {
-            container.innerHTML = `
-                <div class="alert alert-warning">
-                    Gagal memuat jadwal. Silakan refresh halaman atau coba beberapa saat lagi.
-                </div>
-            `;
-        }
+        console.error('Error saat memuat jadwal:', error);
+        updateNoMatchesMessage(true);
+        
+        // Tampilkan pesan error ke pengguna
+        const errorMessage = document.createElement('div');
+        errorMessage.className = 'alert alert-danger';
+        errorMessage.textContent = 'Gagal memuat jadwal: ' + error.message;
+        
+        const container = document.querySelector('.matches-container') || document.body;
+        container.prepend(errorMessage);
     }
 }
 
