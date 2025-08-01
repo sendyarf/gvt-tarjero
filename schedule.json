@@ -1,36 +1,6 @@
 [
   {
     "date": "01-08-2025",
-    "time": "01:00",
-    "iso_datetime": "2025-08-01T01:00:00+02:00",
-    "competition": "Copa Colombia",
-    "teams": "Ind. Medellin - Jaguares de Cordoba",
-    "channels": [
-      {
-        "name": "CH82es",
-        "url": "https://envivo.govoet.my.id/82"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-08-01T04:04:52.930030Z"
-  },
-  {
-    "date": "01-08-2025",
-    "time": "01:00",
-    "iso_datetime": "2025-08-01T01:00:00+02:00",
-    "competition": "Leagues Cup",
-    "teams": "Monterrey - Cincinnati",
-    "channels": [
-      {
-        "name": "CH180es",
-        "url": "https://envivo.govoet.my.id/180"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-08-01T04:04:52.930065Z"
-  },
-  {
-    "date": "01-08-2025",
     "time": "01:30",
     "iso_datetime": "2025-08-01T01:30:00+02:00",
     "competition": "Leagues Cup",
@@ -42,7 +12,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T04:04:52.930077Z"
+    "last_updated": "2025-08-01T05:06:44.246527Z"
   },
   {
     "date": "01-08-2025",
@@ -57,7 +27,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T04:04:52.930089Z"
+    "last_updated": "2025-08-01T05:06:44.246555Z"
   },
   {
     "date": "01-08-2025",
@@ -72,7 +42,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T04:04:52.930100Z"
+    "last_updated": "2025-08-01T05:06:44.246565Z"
   },
   {
     "date": "01-08-2025",
@@ -87,7 +57,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T04:04:52.930109Z"
+    "last_updated": "2025-08-01T05:06:44.246573Z"
   },
   {
     "date": "01-08-2025",
@@ -102,7 +72,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T04:04:52.930118Z"
+    "last_updated": "2025-08-01T05:06:44.246585Z"
   },
   {
     "date": "01-08-2025",
@@ -117,7 +87,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T04:04:52.930127Z"
+    "last_updated": "2025-08-01T05:06:44.246598Z"
   },
   {
     "date": "01-08-2025",
@@ -132,7 +102,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T04:04:52.930137Z"
+    "last_updated": "2025-08-01T05:06:44.246608Z"
   },
   {
     "date": "01-08-2025",
@@ -147,7 +117,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T04:04:52.930149Z"
+    "last_updated": "2025-08-01T05:06:44.246618Z"
   },
   {
     "date": "01-08-2025",
@@ -162,7 +132,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T04:04:52.930159Z"
+    "last_updated": "2025-08-01T05:06:44.246628Z"
   },
   {
     "date": "01-08-2025",
@@ -177,7 +147,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T04:04:52.930168Z"
+    "last_updated": "2025-08-01T05:06:44.246637Z"
   },
   {
     "date": "01-08-2025",
@@ -192,7 +162,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T04:04:52.930177Z"
+    "last_updated": "2025-08-01T05:06:44.246646Z"
   },
   {
     "date": "01-08-2025",
@@ -207,6 +177,6 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T04:04:52.930186Z"
+    "last_updated": "2025-08-01T05:06:44.246655Z"
   }
 ]
