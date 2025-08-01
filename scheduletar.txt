@@ -3,28 +3,6 @@
     <h2 class="mb-4">Today's Matches</h2>
     <div class="matches-container">
     
-<div class="match-card" data-time="2025-08-01T01:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Leagues Cup</div>
-    <div class="match-teams">Charlotte - Juarez <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/181">CH181es</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-08-01T01:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Leagues Cup</div>
-    <div class="match-teams">Guadalajara - New York Red Bulls <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/182">CH182es</button>
-
-    </div>
-</div>
-
 <div class="match-card" data-time="2025-08-01T02:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">Liga 1 Te Apuesto</div>
