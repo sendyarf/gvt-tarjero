@@ -1,235 +1,6 @@
 [
   {
     "date": "31-07-2025",
-    "time": "19:45",
-    "iso_datetime": "2025-07-31T19:45:00+02:00",
-    "competition": "Conference League",
-    "teams": "Basaksehir (Tur) - Cherno More (Bul)",
-    "channels": [
-      {
-        "name": "CH169tr",
-        "url": "https://envivo.govoet.my.id/169"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-31T23:43:15.138425Z"
-  },
-  {
-    "date": "31-07-2025",
-    "time": "20:00",
-    "iso_datetime": "2025-07-31T20:00:00+02:00",
-    "competition": "Conference League",
-    "teams": "Charleroi (Bel) - Hammarby (Swe)",
-    "channels": [
-      {
-        "name": "CH170fr",
-        "url": "https://envivo.govoet.my.id/170"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-31T23:43:15.138450Z"
-  },
-  {
-    "date": "31-07-2025",
-    "time": "20:00",
-    "iso_datetime": "2025-07-31T20:00:00+02:00",
-    "competition": "Conference League",
-    "teams": "H. Beer Sheva (Isr) - AEK (Gre)",
-    "channels": [
-      {
-        "name": "CH171gr",
-        "url": "https://envivo.govoet.my.id/171"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-31T23:43:15.138460Z"
-  },
-  {
-    "date": "31-07-2025",
-    "time": "20:00",
-    "iso_datetime": "2025-07-31T20:00:00+02:00",
-    "competition": "Conference League",
-    "teams": "Sparta Prague (Cze) - Aktobe (Kaz)",
-    "channels": [
-      {
-        "name": "CH172cz",
-        "url": "https://envivo.govoet.my.id/172"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-31T23:43:15.138467Z"
-  },
-  {
-    "date": "31-07-2025",
-    "time": "20:00",
-    "iso_datetime": "2025-07-31T20:00:00+02:00",
-    "competition": "Liga 1 Te Apuesto",
-    "teams": "AD Tarma - Alianza Huanuco",
-    "channels": [
-      {
-        "name": "CH84es",
-        "url": "https://envivo.govoet.my.id/84"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-31T23:43:15.138474Z"
-  },
-  {
-    "date": "31-07-2025",
-    "time": "20:00",
-    "iso_datetime": "2025-07-31T20:00:00+02:00",
-    "competition": "Ligue Europa",
-    "teams": "Shakhtar (Ukr) - Besiktas (Tur)",
-    "channels": [
-      {
-        "name": "CH164tr",
-        "url": "https://envivo.govoet.my.id/164"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-31T23:43:15.138486Z"
-  },
-  {
-    "date": "31-07-2025",
-    "time": "20:00",
-    "iso_datetime": "2025-07-31T20:00:00+02:00",
-    "competition": "Ligue Europa",
-    "teams": "Utrecht (Ned) - S. Tiraspol (Mda)",
-    "channels": [
-      {
-        "name": "CH165nl",
-        "url": "https://envivo.govoet.my.id/165"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-31T23:43:15.138497Z"
-  },
-  {
-    "date": "31-07-2025",
-    "time": "20:30",
-    "iso_datetime": "2025-07-31T20:30:00+02:00",
-    "competition": "Conference League",
-    "teams": "SK Rapid (Aut) - Decic (Mne)",
-    "channels": [
-      {
-        "name": "CH173de",
-        "url": "https://envivo.govoet.my.id/173"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-31T23:43:15.138508Z"
-  },
-  {
-    "date": "31-07-2025",
-    "time": "20:30",
-    "iso_datetime": "2025-07-31T20:30:00+02:00",
-    "competition": "Conference League",
-    "teams": "Zilina (Svk) - Rakow (Pol)",
-    "channels": [
-      {
-        "name": "CH174pl",
-        "url": "https://envivo.govoet.my.id/174"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-31T23:43:15.138518Z"
-  },
-  {
-    "date": "31-07-2025",
-    "time": "21:00",
-    "iso_datetime": "2025-07-31T21:00:00+02:00",
-    "competition": "Amical Club",
-    "teams": "R. Oviedo (Esp) - Villarreal (Esp)",
-    "channels": [
-      {
-        "name": "CH160es",
-        "url": "https://envivo.govoet.my.id/160"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-31T23:43:15.138528Z"
-  },
-  {
-    "date": "31-07-2025",
-    "time": "21:00",
-    "iso_datetime": "2025-07-31T21:00:00+02:00",
-    "competition": "Conference League",
-    "teams": "Partizan Belgrade (Srb) - Oleksandriya (Ukr)",
-    "channels": [
-      {
-        "name": "CH175rs",
-        "url": "https://envivo.govoet.my.id/175"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-31T23:43:15.138536Z"
-  },
-  {
-    "date": "31-07-2025",
-    "time": "21:00",
-    "iso_datetime": "2025-07-31T21:00:00+02:00",
-    "competition": "Ligue Europa",
-    "teams": "Braga (Por) - Levski (Bul)",
-    "channels": [
-      {
-        "name": "CH145pt",
-        "url": "https://envivo.govoet.my.id/145"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-31T23:43:15.138546Z"
-  },
-  {
-    "date": "31-07-2025",
-    "time": "21:00",
-    "iso_datetime": "2025-07-31T21:00:00+02:00",
-    "competition": "Ligue Europa",
-    "teams": "Legia (Pol) - Ostrava (Cze)",
-    "channels": [
-      {
-        "name": "CH166pl",
-        "url": "https://envivo.govoet.my.id/166"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-31T23:43:15.138554Z"
-  },
-  {
-    "date": "31-07-2025",
-    "time": "21:45",
-    "iso_datetime": "2025-07-31T21:45:00+02:00",
-    "competition": "Supertaça",
-    "teams": "Sporting - Benfica",
-    "channels": [
-      {
-        "name": "CH144pt",
-        "url": "https://envivo.govoet.my.id/144"
-      },
-      {
-        "name": "CH69es",
-        "url": "https://envivo.govoet.my.id/69"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-31T23:43:15.138565Z"
-  },
-  {
-    "date": "31-07-2025",
-    "time": "22:15",
-    "iso_datetime": "2025-07-31T22:15:00+02:00",
-    "competition": "Liga 1 Te Apuesto",
-    "teams": "Cusco - Binacional",
-    "channels": [
-      {
-        "name": "CH84es",
-        "url": "https://envivo.govoet.my.id/84"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-07-31T23:43:15.138574Z"
-  },
-  {
-    "date": "31-07-2025",
     "time": "22:30",
     "iso_datetime": "2025-07-31T22:30:00+02:00",
     "competition": "Copa Ecuador",
@@ -241,7 +12,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-31T23:43:15.138582Z"
+    "last_updated": "2025-08-01T02:19:39.421700Z"
   },
   {
     "date": "01-08-2025",
@@ -256,7 +27,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-31T23:43:15.138590Z"
+    "last_updated": "2025-08-01T02:19:39.421727Z"
   },
   {
     "date": "01-08-2025",
@@ -271,7 +42,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-31T23:43:15.138599Z"
+    "last_updated": "2025-08-01T02:19:39.421736Z"
   },
   {
     "date": "01-08-2025",
@@ -286,7 +57,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-31T23:43:15.138607Z"
+    "last_updated": "2025-08-01T02:19:39.421742Z"
   },
   {
     "date": "01-08-2025",
@@ -301,7 +72,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-31T23:43:15.138616Z"
+    "last_updated": "2025-08-01T02:19:39.421748Z"
   },
   {
     "date": "01-08-2025",
@@ -316,7 +87,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-31T23:43:15.138624Z"
+    "last_updated": "2025-08-01T02:19:39.421757Z"
   },
   {
     "date": "01-08-2025",
@@ -331,7 +102,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-31T23:43:15.138633Z"
+    "last_updated": "2025-08-01T02:19:39.421770Z"
   },
   {
     "date": "01-08-2025",
@@ -346,7 +117,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-31T23:43:15.138641Z"
+    "last_updated": "2025-08-01T02:19:39.421779Z"
   },
   {
     "date": "01-08-2025",
@@ -361,7 +132,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-31T23:43:15.138649Z"
+    "last_updated": "2025-08-01T02:19:39.421789Z"
   },
   {
     "date": "01-08-2025",
@@ -376,7 +147,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-31T23:43:15.138657Z"
+    "last_updated": "2025-08-01T02:19:39.421798Z"
   },
   {
     "date": "01-08-2025",
@@ -391,7 +162,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-31T23:43:15.138667Z"
+    "last_updated": "2025-08-01T02:19:39.421808Z"
   },
   {
     "date": "01-08-2025",
@@ -406,7 +177,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-31T23:43:15.138675Z"
+    "last_updated": "2025-08-01T02:19:39.421818Z"
   },
   {
     "date": "01-08-2025",
@@ -421,7 +192,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-31T23:43:15.138684Z"
+    "last_updated": "2025-08-01T02:19:39.421827Z"
   },
   {
     "date": "01-08-2025",
@@ -436,7 +207,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-31T23:43:15.138693Z"
+    "last_updated": "2025-08-01T02:19:39.421835Z"
   },
   {
     "date": "01-08-2025",
@@ -451,6 +222,6 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-07-31T23:43:15.138703Z"
+    "last_updated": "2025-08-01T02:19:39.421843Z"
   }
 ]
