@@ -1,51 +1,6 @@
 [
   {
     "date": "01-08-2025",
-    "time": "03:00",
-    "iso_datetime": "2025-08-01T03:00:00+02:00",
-    "competition": "Liga Mx Women",
-    "teams": "Guadalajara F - Juarez F",
-    "channels": [
-      {
-        "name": "CH155es",
-        "url": "https://envivo.govoet.my.id/155"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-08-01T06:38:04.533063Z"
-  },
-  {
-    "date": "01-08-2025",
-    "time": "03:00",
-    "iso_datetime": "2025-08-01T03:00:00+02:00",
-    "competition": "Liga Mx Women",
-    "teams": "Pachuca F - U.N.A.M. F",
-    "channels": [
-      {
-        "name": "CH156es",
-        "url": "https://envivo.govoet.my.id/156"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-08-01T06:38:04.533090Z"
-  },
-  {
-    "date": "01-08-2025",
-    "time": "03:10",
-    "iso_datetime": "2025-08-01T03:10:00+02:00",
-    "competition": "Copa Colombia",
-    "teams": "Millonarios - Real Cartagena",
-    "channels": [
-      {
-        "name": "CH81es",
-        "url": "https://envivo.govoet.my.id/81"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-08-01T06:38:04.533099Z"
-  },
-  {
-    "date": "01-08-2025",
     "time": "03:30",
     "iso_datetime": "2025-08-01T03:30:00+02:00",
     "competition": "Leagues Cup",
@@ -57,7 +12,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T06:38:04.533106Z"
+    "last_updated": "2025-08-01T07:28:47.697267Z"
   },
   {
     "date": "01-08-2025",
@@ -72,7 +27,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T06:38:04.533113Z"
+    "last_updated": "2025-08-01T07:28:47.697297Z"
   },
   {
     "date": "01-08-2025",
@@ -87,7 +42,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T06:38:04.533119Z"
+    "last_updated": "2025-08-01T07:28:47.697307Z"
   },
   {
     "date": "01-08-2025",
@@ -102,7 +57,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T06:38:04.533124Z"
+    "last_updated": "2025-08-01T07:28:47.697314Z"
   },
   {
     "date": "01-08-2025",
@@ -117,6 +72,6 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T06:38:04.533129Z"
+    "last_updated": "2025-08-01T07:28:47.697321Z"
   }
 ]
