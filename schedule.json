@@ -1,40 +1,6 @@
 [
   {
     "date": "01-08-2025",
-    "time": "15:55",
-    "iso_datetime": "2025-08-01T15:55:00+02:00",
-    "competition": "formula 2",
-    "teams": "F2 Qualifications -",
-    "channels": [
-      {
-        "name": "CH13fr",
-        "url": "https://envivo.govoet.my.id/13"
-      },
-      {
-        "name": "CH60es",
-        "url": "https://envivo.govoet.my.id/60"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-08-01T19:40:32.822787Z"
-  },
-  {
-    "date": "01-08-2025",
-    "time": "16:00",
-    "iso_datetime": "2025-08-01T16:00:00+02:00",
-    "competition": "Amical Club",
-    "teams": "Augsburg (Ger) - Crystal Palace (Eng)",
-    "channels": [
-      {
-        "name": "CH71es",
-        "url": "https://envivo.govoet.my.id/71"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-08-01T19:40:32.822822Z"
-  },
-  {
-    "date": "01-08-2025",
     "time": "16:40",
     "iso_datetime": "2025-08-01T16:40:00+02:00",
     "competition": "formula 1",
@@ -50,7 +16,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T19:40:32.822838Z"
+    "last_updated": "2025-08-01T20:26:38.421539Z"
   },
   {
     "date": "01-08-2025",
@@ -65,7 +31,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T19:40:32.822849Z"
+    "last_updated": "2025-08-01T20:26:38.421566Z"
   },
   {
     "date": "01-08-2025",
@@ -80,7 +46,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T19:40:32.822874Z"
+    "last_updated": "2025-08-01T20:26:38.421576Z"
   },
   {
     "date": "01-08-2025",
@@ -95,7 +61,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T19:40:32.822886Z"
+    "last_updated": "2025-08-01T20:26:38.421583Z"
   },
   {
     "date": "01-08-2025",
@@ -110,7 +76,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T19:40:32.822895Z"
+    "last_updated": "2025-08-01T20:26:38.421589Z"
   },
   {
     "date": "01-08-2025",
@@ -125,7 +91,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T19:40:32.822906Z"
+    "last_updated": "2025-08-01T20:26:38.421596Z"
   },
   {
     "date": "01-08-2025",
@@ -140,7 +106,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T19:40:32.822917Z"
+    "last_updated": "2025-08-01T20:26:38.421608Z"
   },
   {
     "date": "01-08-2025",
@@ -155,7 +121,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T19:40:32.822928Z"
+    "last_updated": "2025-08-01T20:26:38.421619Z"
   },
   {
     "date": "02-08-2025",
@@ -170,7 +136,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T19:40:32.822937Z"
+    "last_updated": "2025-08-01T20:26:38.421629Z"
   },
   {
     "date": "02-08-2025",
@@ -185,7 +151,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T19:40:32.822948Z"
+    "last_updated": "2025-08-01T20:26:38.421641Z"
   },
   {
     "date": "02-08-2025",
@@ -200,7 +166,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T19:40:32.822958Z"
+    "last_updated": "2025-08-01T20:26:38.421650Z"
   },
   {
     "date": "02-08-2025",
@@ -215,7 +181,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T19:40:32.822967Z"
+    "last_updated": "2025-08-01T20:26:38.421659Z"
   },
   {
     "date": "02-08-2025",
@@ -230,7 +196,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T19:40:32.822975Z"
+    "last_updated": "2025-08-01T20:26:38.421669Z"
   },
   {
     "date": "02-08-2025",
@@ -245,7 +211,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T19:40:32.822984Z"
+    "last_updated": "2025-08-01T20:26:38.421678Z"
   },
   {
     "date": "02-08-2025",
@@ -260,7 +226,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T19:40:32.822993Z"
+    "last_updated": "2025-08-01T20:26:38.421687Z"
   },
   {
     "date": "02-08-2025",
@@ -275,7 +241,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T19:40:32.823001Z"
+    "last_updated": "2025-08-01T20:26:38.421696Z"
   },
   {
     "date": "02-08-2025",
@@ -290,7 +256,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T19:40:32.823010Z"
+    "last_updated": "2025-08-01T20:26:38.421705Z"
   },
   {
     "date": "02-08-2025",
@@ -305,7 +271,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T19:40:32.823019Z"
+    "last_updated": "2025-08-01T20:26:38.421714Z"
   },
   {
     "date": "02-08-2025",
@@ -320,7 +286,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T19:40:32.823027Z"
+    "last_updated": "2025-08-01T20:26:38.421723Z"
   },
   {
     "date": "02-08-2025",
@@ -335,7 +301,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T19:40:32.823037Z"
+    "last_updated": "2025-08-01T20:26:38.421731Z"
   },
   {
     "date": "02-08-2025",
@@ -350,7 +316,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T19:40:32.823047Z"
+    "last_updated": "2025-08-01T20:26:38.421740Z"
   },
   {
     "date": "02-08-2025",
@@ -365,7 +331,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T19:40:32.823056Z"
+    "last_updated": "2025-08-01T20:26:38.421749Z"
   },
   {
     "date": "02-08-2025",
@@ -380,7 +346,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T19:40:32.823062Z"
+    "last_updated": "2025-08-01T20:26:38.421757Z"
   },
   {
     "date": "02-08-2025",
@@ -395,7 +361,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T19:40:32.823067Z"
+    "last_updated": "2025-08-01T20:26:38.421765Z"
   },
   {
     "date": "02-08-2025",
@@ -410,7 +376,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T19:40:32.823072Z"
+    "last_updated": "2025-08-01T20:26:38.421774Z"
   },
   {
     "date": "02-08-2025",
@@ -429,7 +395,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T19:40:32.823079Z"
+    "last_updated": "2025-08-01T20:26:38.421785Z"
   },
   {
     "date": "02-08-2025",
@@ -448,7 +414,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T19:40:32.823085Z"
+    "last_updated": "2025-08-01T20:26:38.421795Z"
   },
   {
     "date": "02-08-2025",
@@ -467,7 +433,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T19:40:32.823091Z"
+    "last_updated": "2025-08-01T20:26:38.421806Z"
   },
   {
     "date": "02-08-2025",
@@ -486,6 +452,6 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T19:40:32.823097Z"
+    "last_updated": "2025-08-01T20:26:38.421817Z"
   }
 ]
