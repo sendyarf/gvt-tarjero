@@ -1,21 +1,6 @@
 [
   {
     "date": "01-08-2025",
-    "time": "19:00",
-    "iso_datetime": "2025-08-01T19:00:00+02:00",
-    "competition": "Amical Club",
-    "teams": "Sittard (Ned) - Bayer Leverkusen (Ger)",
-    "channels": [
-      {
-        "name": "CH160gb",
-        "url": "https://envivo.govoet.my.id/160"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-08-01T22:46:51.036772Z"
-  },
-  {
-    "date": "01-08-2025",
     "time": "20:00",
     "iso_datetime": "2025-08-01T20:00:00+02:00",
     "competition": "Liga 1 Te Apuesto",
@@ -27,7 +12,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T22:46:51.036807Z"
+    "last_updated": "2025-08-01T23:23:30.210744Z"
   },
   {
     "date": "01-08-2025",
@@ -42,7 +27,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T22:46:51.036822Z"
+    "last_updated": "2025-08-01T23:23:30.210780Z"
   },
   {
     "date": "01-08-2025",
@@ -57,7 +42,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T22:46:51.036832Z"
+    "last_updated": "2025-08-01T23:23:30.210794Z"
   },
   {
     "date": "01-08-2025",
@@ -72,7 +57,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T22:46:51.036842Z"
+    "last_updated": "2025-08-01T23:23:30.210804Z"
   },
   {
     "date": "01-08-2025",
@@ -87,7 +72,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T22:46:51.036853Z"
+    "last_updated": "2025-08-01T23:23:30.210813Z"
   },
   {
     "date": "01-08-2025",
@@ -102,7 +87,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T22:46:51.036864Z"
+    "last_updated": "2025-08-01T23:23:30.210840Z"
   },
   {
     "date": "02-08-2025",
@@ -117,7 +102,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T22:46:51.036875Z"
+    "last_updated": "2025-08-01T23:23:30.210853Z"
   },
   {
     "date": "02-08-2025",
@@ -132,7 +117,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T22:46:51.036883Z"
+    "last_updated": "2025-08-01T23:23:30.210864Z"
   },
   {
     "date": "02-08-2025",
@@ -147,7 +132,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T22:46:51.036888Z"
+    "last_updated": "2025-08-01T23:23:30.210875Z"
   },
   {
     "date": "02-08-2025",
@@ -162,7 +147,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T22:46:51.036893Z"
+    "last_updated": "2025-08-01T23:23:30.210885Z"
   },
   {
     "date": "02-08-2025",
@@ -177,7 +162,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T22:46:51.036898Z"
+    "last_updated": "2025-08-01T23:23:30.210895Z"
   },
   {
     "date": "02-08-2025",
@@ -192,7 +177,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T22:46:51.036903Z"
+    "last_updated": "2025-08-01T23:23:30.210905Z"
   },
   {
     "date": "02-08-2025",
@@ -207,7 +192,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T22:46:51.036909Z"
+    "last_updated": "2025-08-01T23:23:30.210915Z"
   },
   {
     "date": "02-08-2025",
@@ -222,7 +207,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T22:46:51.036914Z"
+    "last_updated": "2025-08-01T23:23:30.210926Z"
   },
   {
     "date": "02-08-2025",
@@ -237,22 +222,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T22:46:51.036919Z"
-  },
-  {
-    "date": "02-08-2025",
-    "time": "02:00",
-    "iso_datetime": "2025-08-02T02:00:00+02:00",
-    "competition": "Liga De Expansion Mx",
-    "teams": "Irapuato - Venados",
-    "channels": [
-      {
-        "name": "CH1xxes",
-        "url": "https://envivo.govoet.my.id/1"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-08-01T22:46:51.036924Z"
+    "last_updated": "2025-08-01T23:23:30.210935Z"
   },
   {
     "date": "02-08-2025",
@@ -267,7 +237,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T22:46:51.036930Z"
+    "last_updated": "2025-08-01T23:23:30.210945Z"
   },
   {
     "date": "02-08-2025",
@@ -282,22 +252,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T22:46:51.036936Z"
-  },
-  {
-    "date": "02-08-2025",
-    "time": "03:00",
-    "iso_datetime": "2025-08-02T03:00:00+02:00",
-    "competition": "Liga De Expansion Mx",
-    "teams": "Correcaminos - Atl. Morelia",
-    "channels": [
-      {
-        "name": "CH183es",
-        "url": "https://envivo.govoet.my.id/183"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-08-01T22:46:51.036941Z"
+    "last_updated": "2025-08-01T23:23:30.210954Z"
   },
   {
     "date": "02-08-2025",
@@ -312,7 +267,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T22:46:51.036946Z"
+    "last_updated": "2025-08-01T23:23:30.210964Z"
   },
   {
     "date": "02-08-2025",
@@ -327,7 +282,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T22:46:51.036951Z"
+    "last_updated": "2025-08-01T23:23:30.210973Z"
   },
   {
     "date": "02-08-2025",
@@ -342,7 +297,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T22:46:51.036956Z"
+    "last_updated": "2025-08-01T23:23:30.210983Z"
   },
   {
     "date": "02-08-2025",
@@ -357,7 +312,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T22:46:51.036961Z"
+    "last_updated": "2025-08-01T23:23:30.210992Z"
   },
   {
     "date": "02-08-2025",
@@ -376,7 +331,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T22:46:51.036967Z"
+    "last_updated": "2025-08-01T23:23:30.211004Z"
   },
   {
     "date": "02-08-2025",
@@ -395,7 +350,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T22:46:51.036974Z"
+    "last_updated": "2025-08-01T23:23:30.211016Z"
   },
   {
     "date": "02-08-2025",
@@ -414,7 +369,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T22:46:51.036980Z"
+    "last_updated": "2025-08-01T23:23:30.211027Z"
   },
   {
     "date": "02-08-2025",
@@ -433,6 +388,6 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-01T22:46:51.036986Z"
+    "last_updated": "2025-08-01T23:23:30.211038Z"
   }
 ]
