@@ -2,7 +2,7 @@
 async function loadSchedule() {
     try {
         // Menggunakan path relatif yang lebih aman
-        const response = await fetch('./schedule.json');
+        const response = await fetch('/schedule.json');
         if (!response.ok) {
             console.error('Gagal memuat jadwal. Status:', response.status);
             throw new Error('Gagal memuat jadwal. Kode: ' + response.status);
