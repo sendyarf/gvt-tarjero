@@ -4,7 +4,7 @@ i18next
   lng: 'en', // Bahasa default: Inggris
   fallbackLng: 'en',
   backend: {
-    loadPath: 'https://gvt720.pages.dev//locales/{{lng}}.json' // Menggunakan placeholder untuk mendukung multiple languages
+    loadPath: 'https://gvt720.pages.dev/locales/{{lng}}.json' // Menggunakan placeholder untuk mendukung multiple languages
   }
 }, function(err, t) {
   if (err) return console.error(err);
