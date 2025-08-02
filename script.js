@@ -8,8 +8,7 @@ const CONFIG = {
     fallbackUrls: [
         '/schedule.json',
         './schedule.json'
-        // URL absolut sebagai fallback terakhir dengan mode yang berbeda
-        'https://gvt720.pages.dev/schedule.json'
+
     ]
 };
 
