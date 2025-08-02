@@ -1,81 +1,6 @@
 [
   {
     "date": "02-08-2025",
-    "time": "01:00",
-    "iso_datetime": "2025-08-02T01:00:00+02:00",
-    "competition": "Campeonato Itaú Chile",
-    "teams": "A. Italiano - Palestino",
-    "channels": [
-      {
-        "name": "CH83es",
-        "url": "https://envivo.govoet.my.id/83"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-08-02T04:37:16.359338Z"
-  },
-  {
-    "date": "02-08-2025",
-    "time": "01:00",
-    "iso_datetime": "2025-08-02T01:00:00+02:00",
-    "competition": "Leagues Cup",
-    "teams": "Columbus Crew - Puebla",
-    "channels": [
-      {
-        "name": "CH181us",
-        "url": "https://envivo.govoet.my.id/181"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-08-02T04:37:16.359372Z"
-  },
-  {
-    "date": "02-08-2025",
-    "time": "01:00",
-    "iso_datetime": "2025-08-02T01:00:00+02:00",
-    "competition": "Liga AUF Uruguaya",
-    "teams": "Penarol - Progreso",
-    "channels": [
-      {
-        "name": "CH109es",
-        "url": "https://envivo.govoet.my.id/109"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-08-02T04:37:16.359388Z"
-  },
-  {
-    "date": "02-08-2025",
-    "time": "01:00",
-    "iso_datetime": "2025-08-02T01:00:00+02:00",
-    "competition": "Liga Betplay Dimayor",
-    "teams": "La Equidad - U. Magdalena",
-    "channels": [
-      {
-        "name": "CH81es",
-        "url": "https://envivo.govoet.my.id/81"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-08-02T04:37:16.359398Z"
-  },
-  {
-    "date": "02-08-2025",
-    "time": "01:00",
-    "iso_datetime": "2025-08-02T01:00:00+02:00",
-    "competition": "Liga Mx Women",
-    "teams": "Necaxa F - Leon F",
-    "channels": [
-      {
-        "name": "CH155es",
-        "url": "https://envivo.govoet.my.id/155"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-08-02T04:37:16.359407Z"
-  },
-  {
-    "date": "02-08-2025",
     "time": "01:45",
     "iso_datetime": "2025-08-02T01:45:00+02:00",
     "competition": "Copa Argentina",
@@ -87,7 +12,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T04:37:16.359418Z"
+    "last_updated": "2025-08-02T05:26:34.954738Z"
   },
   {
     "date": "02-08-2025",
@@ -102,7 +27,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T04:37:16.359428Z"
+    "last_updated": "2025-08-02T05:26:34.954773Z"
   },
   {
     "date": "02-08-2025",
@@ -117,7 +42,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T04:37:16.359438Z"
+    "last_updated": "2025-08-02T05:26:34.954787Z"
   },
   {
     "date": "02-08-2025",
@@ -132,7 +57,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T04:37:16.359449Z"
+    "last_updated": "2025-08-02T05:26:34.954797Z"
   },
   {
     "date": "02-08-2025",
@@ -147,7 +72,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T04:37:16.359458Z"
+    "last_updated": "2025-08-02T05:26:34.954808Z"
   },
   {
     "date": "02-08-2025",
@@ -162,7 +87,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T04:37:16.359467Z"
+    "last_updated": "2025-08-02T05:26:34.954819Z"
   },
   {
     "date": "02-08-2025",
@@ -177,7 +102,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T04:37:16.359476Z"
+    "last_updated": "2025-08-02T05:26:34.954830Z"
   },
   {
     "date": "02-08-2025",
@@ -192,7 +117,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T04:37:16.359486Z"
+    "last_updated": "2025-08-02T05:26:34.954841Z"
   },
   {
     "date": "02-08-2025",
@@ -207,7 +132,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T04:37:16.359495Z"
+    "last_updated": "2025-08-02T05:26:34.954851Z"
   },
   {
     "date": "02-08-2025",
@@ -226,7 +151,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T04:37:16.359507Z"
+    "last_updated": "2025-08-02T05:26:34.954863Z"
   },
   {
     "date": "02-08-2025",
@@ -245,7 +170,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T04:37:16.359519Z"
+    "last_updated": "2025-08-02T05:26:34.954877Z"
   },
   {
     "date": "02-08-2025",
@@ -264,7 +189,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T04:37:16.359530Z"
+    "last_updated": "2025-08-02T05:26:34.954889Z"
   },
   {
     "date": "02-08-2025",
@@ -283,6 +208,6 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T04:37:16.359542Z"
+    "last_updated": "2025-08-02T05:26:34.954900Z"
   }
 ]
