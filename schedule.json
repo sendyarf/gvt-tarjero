@@ -16,7 +16,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.366965Z"
+    "last_updated": "2025-08-02T17:44:38.066868Z"
   },
   {
     "date": "02-08-2025",
@@ -35,7 +35,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367000Z"
+    "last_updated": "2025-08-02T17:44:38.066896Z"
   },
   {
     "date": "02-08-2025",
@@ -50,7 +50,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367013Z"
+    "last_updated": "2025-08-02T17:44:38.066905Z"
   },
   {
     "date": "02-08-2025",
@@ -65,7 +65,56 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367023Z"
+    "last_updated": "2025-08-02T17:44:38.066911Z"
+  },
+  {
+    "date": "02-08-2025",
+    "time": "16:30",
+    "iso_datetime": "2025-08-02T16:30:00+02:00",
+    "competition": "Amical Club",
+    "teams": "Southampton (Eng) - Brighton (Eng)",
+    "channels": [
+      {
+        "name": "CH97es",
+        "url": "https://envivo.govoet.my.id/97"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-08-02T17:44:38.066922Z"
+  },
+  {
+    "date": "02-08-2025",
+    "time": "17:00",
+    "iso_datetime": "2025-08-02T17:00:00+02:00",
+    "competition": "Amical Club",
+    "teams": "Dortmund (Ger) - Lille (Fra)",
+    "channels": [
+      {
+        "name": "CH119de",
+        "url": "https://envivo.govoet.my.id/119"
+      },
+      {
+        "name": "CH70es",
+        "url": "https://envivo.govoet.my.id/70"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-08-02T17:44:38.066937Z"
+  },
+  {
+    "date": "02-08-2025",
+    "time": "18:00",
+    "iso_datetime": "2025-08-02T18:00:00+02:00",
+    "competition": "Amical Club",
+    "teams": "Lens (Fra) - AS Rome (Ita)",
+    "channels": [
+      {
+        "name": "CH137it",
+        "url": "https://envivo.govoet.my.id/137"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-08-02T17:44:38.066947Z"
   },
   {
     "date": "02-08-2025",
@@ -80,7 +129,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367033Z"
+    "last_updated": "2025-08-02T17:44:38.066958Z"
   },
   {
     "date": "02-08-2025",
@@ -95,7 +144,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367044Z"
+    "last_updated": "2025-08-02T17:44:38.066969Z"
   },
   {
     "date": "02-08-2025",
@@ -110,7 +159,52 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367053Z"
+    "last_updated": "2025-08-02T17:44:38.066978Z"
+  },
+  {
+    "date": "02-08-2025",
+    "time": "19:00",
+    "iso_datetime": "2025-08-02T19:00:00+02:00",
+    "competition": "Amical Club",
+    "teams": "Twente (Ned) - Udinese (Ita)",
+    "channels": [
+      {
+        "name": "CH166nl",
+        "url": "https://envivo.govoet.my.id/166"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-08-02T17:44:38.066986Z"
+  },
+  {
+    "date": "02-08-2025",
+    "time": "20:00",
+    "iso_datetime": "2025-08-02T20:00:00+02:00",
+    "competition": "Amical Club",
+    "teams": "Galatasaray (Tur) - Lazio (Ita)",
+    "channels": [
+      {
+        "name": "CH167pl",
+        "url": "https://envivo.govoet.my.id/167"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-08-02T17:44:38.066995Z"
+  },
+  {
+    "date": "02-08-2025",
+    "time": "20:00",
+    "iso_datetime": "2025-08-02T20:00:00+02:00",
+    "competition": "Amical Club",
+    "teams": "Marseille (Fra) - FC Séville (Esp)",
+    "channels": [
+      {
+        "name": "CH97es",
+        "url": "https://envivo.govoet.my.id/97"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-08-02T17:44:38.067004Z"
   },
   {
     "date": "02-08-2025",
@@ -125,7 +219,37 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367063Z"
+    "last_updated": "2025-08-02T17:44:38.067012Z"
+  },
+  {
+    "date": "02-08-2025",
+    "time": "20:30",
+    "iso_datetime": "2025-08-02T20:30:00+02:00",
+    "competition": "Amical Club",
+    "teams": "B. Monchengladbach (Ger) - Valence (Esp)",
+    "channels": [
+      {
+        "name": "CH61es",
+        "url": "https://envivo.govoet.my.id/61"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-08-02T17:44:38.067021Z"
+  },
+  {
+    "date": "02-08-2025",
+    "time": "20:30",
+    "iso_datetime": "2025-08-02T20:30:00+02:00",
+    "competition": "Amical Club",
+    "teams": "Cagliari (Ita) - Saint-Étienne (Fra)",
+    "channels": [
+      {
+        "name": "CH137it",
+        "url": "https://envivo.govoet.my.id/137"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-08-02T17:44:38.067030Z"
   },
   {
     "date": "02-08-2025",
@@ -140,7 +264,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367074Z"
+    "last_updated": "2025-08-02T17:44:38.067038Z"
   },
   {
     "date": "02-08-2025",
@@ -155,7 +279,22 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367083Z"
+    "last_updated": "2025-08-02T17:44:38.067047Z"
+  },
+  {
+    "date": "02-08-2025",
+    "time": "21:00",
+    "iso_datetime": "2025-08-02T21:00:00+02:00",
+    "competition": "Amical Club",
+    "teams": "Tarazona (Esp) - Saragosse (Esp)",
+    "channels": [
+      {
+        "name": "CH168us",
+        "url": "https://envivo.govoet.my.id/168"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-08-02T17:44:38.067056Z"
   },
   {
     "date": "02-08-2025",
@@ -170,7 +309,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367093Z"
+    "last_updated": "2025-08-02T17:44:38.067064Z"
   },
   {
     "date": "02-08-2025",
@@ -185,7 +324,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367101Z"
+    "last_updated": "2025-08-02T17:44:38.067073Z"
   },
   {
     "date": "02-08-2025",
@@ -200,7 +339,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367111Z"
+    "last_updated": "2025-08-02T17:44:38.067082Z"
   },
   {
     "date": "02-08-2025",
@@ -215,7 +354,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367120Z"
+    "last_updated": "2025-08-02T17:44:38.067091Z"
   },
   {
     "date": "02-08-2025",
@@ -230,7 +369,22 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367129Z"
+    "last_updated": "2025-08-02T17:44:38.067099Z"
+  },
+  {
+    "date": "02-08-2025",
+    "time": "23:30",
+    "iso_datetime": "2025-08-02T23:30:00+02:00",
+    "competition": "Amical Club",
+    "teams": "Philadelphia Union (Usa) - Eintracht Francfort (Ger)",
+    "channels": [
+      {
+        "name": "CH119de",
+        "url": "https://envivo.govoet.my.id/119"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-08-02T17:44:38.067108Z"
   },
   {
     "date": "02-08-2025",
@@ -245,7 +399,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367138Z"
+    "last_updated": "2025-08-02T17:44:38.067117Z"
   },
   {
     "date": "02-08-2025",
@@ -260,7 +414,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367147Z"
+    "last_updated": "2025-08-02T17:44:38.067126Z"
   },
   {
     "date": "03-08-2025",
@@ -275,7 +429,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367157Z"
+    "last_updated": "2025-08-02T17:44:38.067135Z"
   },
   {
     "date": "03-08-2025",
@@ -290,7 +444,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367166Z"
+    "last_updated": "2025-08-02T17:44:38.067143Z"
   },
   {
     "date": "03-08-2025",
@@ -305,7 +459,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367176Z"
+    "last_updated": "2025-08-02T17:44:38.067151Z"
   },
   {
     "date": "03-08-2025",
@@ -320,7 +474,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367185Z"
+    "last_updated": "2025-08-02T17:44:38.067160Z"
   },
   {
     "date": "03-08-2025",
@@ -335,7 +489,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367193Z"
+    "last_updated": "2025-08-02T17:44:38.067169Z"
   },
   {
     "date": "03-08-2025",
@@ -350,7 +504,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367203Z"
+    "last_updated": "2025-08-02T17:44:38.067179Z"
   },
   {
     "date": "03-08-2025",
@@ -365,7 +519,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367212Z"
+    "last_updated": "2025-08-02T17:44:38.067190Z"
   },
   {
     "date": "03-08-2025",
@@ -380,7 +534,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367221Z"
+    "last_updated": "2025-08-02T17:44:38.067201Z"
   },
   {
     "date": "03-08-2025",
@@ -395,7 +549,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367231Z"
+    "last_updated": "2025-08-02T17:44:38.067210Z"
   },
   {
     "date": "03-08-2025",
@@ -410,7 +564,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367240Z"
+    "last_updated": "2025-08-02T17:44:38.067219Z"
   },
   {
     "date": "03-08-2025",
@@ -425,7 +579,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367249Z"
+    "last_updated": "2025-08-02T17:44:38.067228Z"
   },
   {
     "date": "03-08-2025",
@@ -440,7 +594,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367258Z"
+    "last_updated": "2025-08-02T17:44:38.067236Z"
   },
   {
     "date": "03-08-2025",
@@ -455,7 +609,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367272Z"
+    "last_updated": "2025-08-02T17:44:38.067245Z"
   },
   {
     "date": "03-08-2025",
@@ -470,7 +624,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367282Z"
+    "last_updated": "2025-08-02T17:44:38.067253Z"
   },
   {
     "date": "03-08-2025",
@@ -489,7 +643,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367294Z"
+    "last_updated": "2025-08-02T17:44:38.067264Z"
   },
   {
     "date": "03-08-2025",
@@ -508,7 +662,22 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367305Z"
+    "last_updated": "2025-08-02T17:44:38.067274Z"
+  },
+  {
+    "date": "03-08-2025",
+    "time": "13:00",
+    "iso_datetime": "2025-08-03T13:00:00+02:00",
+    "competition": "Amical Club",
+    "teams": "Newcastle (Eng) - Tottenham (Eng)",
+    "channels": [
+      {
+        "name": "CH160us",
+        "url": "https://envivo.govoet.my.id/160"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-08-02T17:44:38.067283Z"
   },
   {
     "date": "03-08-2025",
@@ -523,7 +692,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367315Z"
+    "last_updated": "2025-08-02T17:44:38.067292Z"
   },
   {
     "date": "03-08-2025",
@@ -538,7 +707,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367324Z"
+    "last_updated": "2025-08-02T17:44:38.067301Z"
   },
   {
     "date": "03-08-2025",
@@ -553,7 +722,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367334Z"
+    "last_updated": "2025-08-02T17:44:38.067310Z"
   },
   {
     "date": "03-08-2025",
@@ -568,7 +737,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367343Z"
+    "last_updated": "2025-08-02T17:44:38.067318Z"
   },
   {
     "date": "03-08-2025",
@@ -583,7 +752,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367353Z"
+    "last_updated": "2025-08-02T17:44:38.067327Z"
   },
   {
     "date": "03-08-2025",
@@ -598,7 +767,22 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367362Z"
+    "last_updated": "2025-08-02T17:44:38.067335Z"
+  },
+  {
+    "date": "03-08-2025",
+    "time": "14:00",
+    "iso_datetime": "2025-08-03T14:00:00+02:00",
+    "competition": "Amical Club",
+    "teams": "Ajax (Ned) - Monaco (Fra)",
+    "channels": [
+      {
+        "name": "CH161nl",
+        "url": "https://envivo.govoet.my.id/161"
+      }
+    ],
+    "is_live": false,
+    "last_updated": "2025-08-02T17:44:38.067344Z"
   },
   {
     "date": "03-08-2025",
@@ -617,7 +801,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367374Z"
+    "last_updated": "2025-08-02T17:44:38.067355Z"
   },
   {
     "date": "03-08-2025",
@@ -632,6 +816,6 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T17:20:10.367383Z"
+    "last_updated": "2025-08-02T17:44:38.067364Z"
   }
 ]
