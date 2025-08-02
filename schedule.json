@@ -1,36 +1,6 @@
 [
   {
     "date": "02-08-2025",
-    "time": "03:00",
-    "iso_datetime": "2025-08-02T03:00:00+02:00",
-    "competition": "Leagues Cup",
-    "teams": "Toluca - CF Montreal",
-    "channels": [
-      {
-        "name": "CH184us",
-        "url": "https://envivo.govoet.my.id/184"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-08-02T06:33:16.379581Z"
-  },
-  {
-    "date": "02-08-2025",
-    "time": "03:10",
-    "iso_datetime": "2025-08-02T03:10:00+02:00",
-    "competition": "Liga Betplay Dimayor",
-    "teams": "Pasto - Envigado",
-    "channels": [
-      {
-        "name": "CH81es",
-        "url": "https://envivo.govoet.my.id/81"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-08-02T06:33:16.379632Z"
-  },
-  {
-    "date": "02-08-2025",
     "time": "04:00",
     "iso_datetime": "2025-08-02T04:00:00+02:00",
     "competition": "Liga Mx Women",
@@ -42,7 +12,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T06:33:16.379647Z"
+    "last_updated": "2025-08-02T07:21:36.459340Z"
   },
   {
     "date": "02-08-2025",
@@ -57,7 +27,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T06:33:16.379657Z"
+    "last_updated": "2025-08-02T07:21:36.459376Z"
   },
   {
     "date": "02-08-2025",
@@ -72,7 +42,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T06:33:16.379667Z"
+    "last_updated": "2025-08-02T07:21:36.459391Z"
   },
   {
     "date": "02-08-2025",
@@ -91,7 +61,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T06:33:16.379681Z"
+    "last_updated": "2025-08-02T07:21:36.459403Z"
   },
   {
     "date": "02-08-2025",
@@ -110,7 +80,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T06:33:16.379694Z"
+    "last_updated": "2025-08-02T07:21:36.459416Z"
   },
   {
     "date": "02-08-2025",
@@ -129,7 +99,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T06:33:16.379706Z"
+    "last_updated": "2025-08-02T07:21:36.459430Z"
   },
   {
     "date": "02-08-2025",
@@ -148,6 +118,6 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T06:33:16.379719Z"
+    "last_updated": "2025-08-02T07:21:36.459443Z"
   }
 ]
