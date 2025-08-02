@@ -51,6 +51,41 @@
     </div>
 </div>
 
+<div class="match-card" data-time="2025-08-02T16:30:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Amical Club</div>
+    <div class="match-teams">Southampton (Eng) - Brighton (Eng) <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/97">CH97es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-02T17:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Amical Club</div>
+    <div class="match-teams">Dortmund (Ger) - Lille (Fra) <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/119">CH119de</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/70">CH70es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-02T18:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Amical Club</div>
+    <div class="match-teams">Lens (Fra) - AS Rome (Ita) <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/137">CH137it</button>
+
+    </div>
+</div>
+
 <div class="match-card" data-time="2025-08-02T18:15:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">Pro League</div>
@@ -84,6 +119,39 @@
     </div>
 </div>
 
+<div class="match-card" data-time="2025-08-02T19:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Amical Club</div>
+    <div class="match-teams">Twente (Ned) - Udinese (Ita) <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/166">CH166nl</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-02T20:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Amical Club</div>
+    <div class="match-teams">Galatasaray (Tur) - Lazio (Ita) <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/167">CH167pl</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-02T20:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Amical Club</div>
+    <div class="match-teams">Marseille (Fra) - FC Séville (Esp) <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/97">CH97es</button>
+
+    </div>
+</div>
+
 <div class="match-card" data-time="2025-08-02T20:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">Liga AUF Uruguaya</div>
@@ -91,6 +159,28 @@
     <div class="channels">
         
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/109">CH109es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-02T20:30:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Amical Club</div>
+    <div class="match-teams">B. Monchengladbach (Ger) - Valence (Esp) <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/61">CH61es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-02T20:30:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Amical Club</div>
+    <div class="match-teams">Cagliari (Ita) - Saint-Étienne (Fra) <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/137">CH137it</button>
 
     </div>
 </div>
@@ -113,6 +203,17 @@
     <div class="channels">
         
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/153">CH153fr</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-02T21:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Amical Club</div>
+    <div class="match-teams">Tarazona (Esp) - Saragosse (Esp) <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/168">CH168us</button>
 
     </div>
 </div>
@@ -168,6 +269,17 @@
     <div class="channels">
         
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/81">CH81es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-02T23:30:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Amical Club</div>
+    <div class="match-teams">Philadelphia Union (Usa) - Eintracht Francfort (Ger) <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/119">CH119de</button>
 
     </div>
 </div>
@@ -374,6 +486,17 @@
     </div>
 </div>
 
+<div class="match-card" data-time="2025-08-03T13:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Amical Club</div>
+    <div class="match-teams">Newcastle (Eng) - Tottenham (Eng) <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/160">CH160us</button>
+
+    </div>
+</div>
+
 <div class="match-card" data-time="2025-08-03T13:30:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">Bundesliga 2</div>
@@ -436,6 +559,17 @@
     <div class="channels">
         
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/11">CH11fr</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-03T14:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Amical Club</div>
+    <div class="match-teams">Ajax (Ned) - Monaco (Fra) <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/161">CH161nl</button>
 
     </div>
 </div>
