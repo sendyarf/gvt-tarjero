@@ -1,30 +1,41 @@
 // Konfigurasi retry dan timeout
 const CONFIG = {
     maxRetries: 3,
-    retryDelay: 1000, // 1 detik
-    fetchTimeout: 10000, // 10 detik
-    // Prioritaskan path relatif karena sudah terbukti berhasil
+    retryDelay: 1000,
+    fetchTimeout: 10000,
+    // Gunakan URL lengkap untuk kompatibilitas dengan Blogger
     scheduleUrl: 'https://gvt720.pages.dev/schedule.json',
     fallbackUrls: [
-        '/schedule.json',
-        './schedule.json'
-
+        'https://gvt720.pages.dev/schedule.json'  // Hanya gunakan URL lengkap
     ]
 };
+
+console.log('Aplikasi dimuat dengan konfigurasi:', CONFIG);
+
+// Hapus kode worker yang tidak digunakan
+console.log('Aplikasi dimuat tanpa menggunakan web workers');
 
 // Fungsi untuk fetch dengan timeout
 function fetchWithTimeout(url, options = {}) {
     const { timeout = CONFIG.fetchTimeout } = options;
     
+    // Tambahkan cache buster untuk menghindari cache
+    const cacheBuster = `_=${Date.now()}`;
+    const separator = url.includes('?') ? '&' : '?';
+    const urlWithCacheBuster = `${url}${separator}${cacheBuster}`;
+    
     return Promise.race([
-        fetch(url, {
+        fetch(urlWithCacheBuster, {
             ...options,
-            cache: 'no-cache', // Hindari caching yang bermasalah
+            mode: 'cors',
+            cache: 'no-store',
             headers: {
-                'Cache-Control': 'no-cache',
+                'Cache-Control': 'no-cache, no-store, must-revalidate',
                 'Pragma': 'no-cache',
+                'Expires': '0',
                 ...options.headers
-            }
+            },
+            credentials: 'omit'
         }),
         new Promise((_, reject) =>
             setTimeout(() => reject(new Error('Request timeout')), timeout)
