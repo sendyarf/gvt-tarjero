@@ -1,21 +1,6 @@
 [
   {
     "date": "02-08-2025",
-    "time": "05:00",
-    "iso_datetime": "2025-08-02T05:00:00+02:00",
-    "competition": "Leagues Cup",
-    "teams": "Tigres - San Diego FC",
-    "channels": [
-      {
-        "name": "CH68es",
-        "url": "https://envivo.govoet.my.id/68"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-08-02T08:52:53.367046Z"
-  },
-  {
-    "date": "02-08-2025",
     "time": "10:00",
     "iso_datetime": "2025-08-02T10:00:00+02:00",
     "competition": "formula 3",
@@ -31,7 +16,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T08:52:53.367084Z"
+    "last_updated": "2025-08-02T09:26:21.682963Z"
   },
   {
     "date": "02-08-2025",
@@ -50,7 +35,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T08:52:53.367099Z"
+    "last_updated": "2025-08-02T09:26:21.682991Z"
   },
   {
     "date": "02-08-2025",
@@ -69,7 +54,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T08:52:53.367113Z"
+    "last_updated": "2025-08-02T09:26:21.683001Z"
   },
   {
     "date": "02-08-2025",
@@ -88,6 +73,6 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T08:52:53.367127Z"
+    "last_updated": "2025-08-02T09:26:21.683010Z"
   }
 ]
