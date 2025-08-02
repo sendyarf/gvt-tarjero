@@ -1,0 +1,42 @@
+# Global headers applied to all routes
+/*
+  X-Frame-Options: ALLOW-FROM https://govoet-live.blogspot.com
+  X-Content-Type-Options: nosniff
+  X-XSS-Protection: 1; mode=block
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: geolocation=(), microphone=(), camera=()
+  Cross-Origin-Embedder-Policy: require-corp
+  Cross-Origin-Opener-Policy: same-origin
+  Cross-Origin-Resource-Policy: cross-origin
+
+# Cache control for HTML files
+/*.html
+  Cache-Control: no-cache, no-store, must-revalidate
+  Pragma: no-cache
+  Expires: 0
+
+# Cache static assets for 1 year
+/*.js
+  Cache-Control: public, max-age=31536000, immutable
+  Access-Control-Allow-Origin: https://govoet-live.blogspot.com
+
+/*.css
+  Cache-Control: public, max-age=31536000, immutable
+  Access-Control-Allow-Origin: https://govoet-live.blogspot.com
+
+/*.json
+  Cache-Control: public, max-age=300, s-maxage=300
+  Access-Control-Allow-Origin: https://govoet-live.blogspot.com
+  Vary: Origin
+
+# Allow CORS for schedule.json
+/schedule.json
+  Access-Control-Allow-Origin: https://govoet-live.blogspot.com
+  Access-Control-Allow-Methods: GET
+  Access-Control-Allow-Headers: Content-Type
+  Cache-Control: public, max-age=300, s-maxage=300
+  Vary: Origin
+
+# Security headers for all responses
+/*
+  Content-Security-Policy: default-src 'self' https://govoet-live.blogspot.com; script-src 'self' 'unsafe-inline' https: https://govoet-live.blogspot.com; style-src 'self' 'unsafe-inline' https: https://govoet-live.blogspot.com; img-src 'self' data: https: https://govoet-live.blogspot.com; font-src 'self' data: https: https://govoet-live.blogspot.com; connect-src 'self' https: https://govoet-live.blogspot.com; media-src 'self' https: https://govoet-live.blogspot.com; object-src 'none'; frame-src 'self' https://govoet-live.blogspot.com;
