@@ -1,81 +1,6 @@
 [
   {
     "date": "02-08-2025",
-    "time": "13:00",
-    "iso_datetime": "2025-08-02T13:00:00+02:00",
-    "competition": "Bundesliga 2",
-    "teams": "bundesliga 2 konferenz -",
-    "channels": [
-      {
-        "name": "CH111de",
-        "url": "https://envivo.govoet.my.id/111"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566180Z"
-  },
-  {
-    "date": "02-08-2025",
-    "time": "13:00",
-    "iso_datetime": "2025-08-02T13:00:00+02:00",
-    "competition": "Bundesliga 2",
-    "teams": "Darmstadt - Bochum",
-    "channels": [
-      {
-        "name": "CH112de",
-        "url": "https://envivo.govoet.my.id/112"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566216Z"
-  },
-  {
-    "date": "02-08-2025",
-    "time": "13:00",
-    "iso_datetime": "2025-08-02T13:00:00+02:00",
-    "competition": "Bundesliga 2",
-    "teams": "Elversberg - Nurnberg",
-    "channels": [
-      {
-        "name": "CH114de",
-        "url": "https://envivo.govoet.my.id/114"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566231Z"
-  },
-  {
-    "date": "02-08-2025",
-    "time": "13:00",
-    "iso_datetime": "2025-08-02T13:00:00+02:00",
-    "competition": "Bundesliga 2",
-    "teams": "Karlsruher - Münster",
-    "channels": [
-      {
-        "name": "CH115de",
-        "url": "https://envivo.govoet.my.id/115"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566242Z"
-  },
-  {
-    "date": "02-08-2025",
-    "time": "13:00",
-    "iso_datetime": "2025-08-02T13:00:00+02:00",
-    "competition": "Bundesliga 2",
-    "teams": "Paderborn - Holstein Kiel",
-    "channels": [
-      {
-        "name": "CH113de",
-        "url": "https://envivo.govoet.my.id/113"
-      }
-    ],
-    "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566252Z"
-  },
-  {
-    "date": "02-08-2025",
     "time": "14:10",
     "iso_datetime": "2025-08-02T14:10:00+02:00",
     "competition": "formula 2",
@@ -91,7 +16,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566264Z"
+    "last_updated": "2025-08-02T17:20:10.366965Z"
   },
   {
     "date": "02-08-2025",
@@ -110,7 +35,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566276Z"
+    "last_updated": "2025-08-02T17:20:10.367000Z"
   },
   {
     "date": "02-08-2025",
@@ -125,7 +50,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566304Z"
+    "last_updated": "2025-08-02T17:20:10.367013Z"
   },
   {
     "date": "02-08-2025",
@@ -140,7 +65,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566315Z"
+    "last_updated": "2025-08-02T17:20:10.367023Z"
   },
   {
     "date": "02-08-2025",
@@ -155,7 +80,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566325Z"
+    "last_updated": "2025-08-02T17:20:10.367033Z"
   },
   {
     "date": "02-08-2025",
@@ -170,7 +95,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566335Z"
+    "last_updated": "2025-08-02T17:20:10.367044Z"
   },
   {
     "date": "02-08-2025",
@@ -185,7 +110,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566344Z"
+    "last_updated": "2025-08-02T17:20:10.367053Z"
   },
   {
     "date": "02-08-2025",
@@ -200,7 +125,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566355Z"
+    "last_updated": "2025-08-02T17:20:10.367063Z"
   },
   {
     "date": "02-08-2025",
@@ -215,7 +140,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566364Z"
+    "last_updated": "2025-08-02T17:20:10.367074Z"
   },
   {
     "date": "02-08-2025",
@@ -230,7 +155,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566374Z"
+    "last_updated": "2025-08-02T17:20:10.367083Z"
   },
   {
     "date": "02-08-2025",
@@ -245,7 +170,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566385Z"
+    "last_updated": "2025-08-02T17:20:10.367093Z"
   },
   {
     "date": "02-08-2025",
@@ -260,7 +185,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566394Z"
+    "last_updated": "2025-08-02T17:20:10.367101Z"
   },
   {
     "date": "02-08-2025",
@@ -275,7 +200,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566404Z"
+    "last_updated": "2025-08-02T17:20:10.367111Z"
   },
   {
     "date": "02-08-2025",
@@ -290,7 +215,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566414Z"
+    "last_updated": "2025-08-02T17:20:10.367120Z"
   },
   {
     "date": "02-08-2025",
@@ -305,7 +230,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566424Z"
+    "last_updated": "2025-08-02T17:20:10.367129Z"
   },
   {
     "date": "02-08-2025",
@@ -320,7 +245,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566433Z"
+    "last_updated": "2025-08-02T17:20:10.367138Z"
   },
   {
     "date": "02-08-2025",
@@ -335,7 +260,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566444Z"
+    "last_updated": "2025-08-02T17:20:10.367147Z"
   },
   {
     "date": "03-08-2025",
@@ -350,7 +275,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566452Z"
+    "last_updated": "2025-08-02T17:20:10.367157Z"
   },
   {
     "date": "03-08-2025",
@@ -365,7 +290,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566461Z"
+    "last_updated": "2025-08-02T17:20:10.367166Z"
   },
   {
     "date": "03-08-2025",
@@ -380,7 +305,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566470Z"
+    "last_updated": "2025-08-02T17:20:10.367176Z"
   },
   {
     "date": "03-08-2025",
@@ -395,7 +320,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566478Z"
+    "last_updated": "2025-08-02T17:20:10.367185Z"
   },
   {
     "date": "03-08-2025",
@@ -410,7 +335,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566487Z"
+    "last_updated": "2025-08-02T17:20:10.367193Z"
   },
   {
     "date": "03-08-2025",
@@ -425,7 +350,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566496Z"
+    "last_updated": "2025-08-02T17:20:10.367203Z"
   },
   {
     "date": "03-08-2025",
@@ -440,7 +365,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566505Z"
+    "last_updated": "2025-08-02T17:20:10.367212Z"
   },
   {
     "date": "03-08-2025",
@@ -455,7 +380,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566513Z"
+    "last_updated": "2025-08-02T17:20:10.367221Z"
   },
   {
     "date": "03-08-2025",
@@ -470,7 +395,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566522Z"
+    "last_updated": "2025-08-02T17:20:10.367231Z"
   },
   {
     "date": "03-08-2025",
@@ -485,7 +410,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566532Z"
+    "last_updated": "2025-08-02T17:20:10.367240Z"
   },
   {
     "date": "03-08-2025",
@@ -500,7 +425,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566542Z"
+    "last_updated": "2025-08-02T17:20:10.367249Z"
   },
   {
     "date": "03-08-2025",
@@ -515,7 +440,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566553Z"
+    "last_updated": "2025-08-02T17:20:10.367258Z"
   },
   {
     "date": "03-08-2025",
@@ -530,7 +455,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566558Z"
+    "last_updated": "2025-08-02T17:20:10.367272Z"
   },
   {
     "date": "03-08-2025",
@@ -545,7 +470,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566564Z"
+    "last_updated": "2025-08-02T17:20:10.367282Z"
   },
   {
     "date": "03-08-2025",
@@ -564,7 +489,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566571Z"
+    "last_updated": "2025-08-02T17:20:10.367294Z"
   },
   {
     "date": "03-08-2025",
@@ -583,7 +508,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566577Z"
+    "last_updated": "2025-08-02T17:20:10.367305Z"
   },
   {
     "date": "03-08-2025",
@@ -598,7 +523,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566586Z"
+    "last_updated": "2025-08-02T17:20:10.367315Z"
   },
   {
     "date": "03-08-2025",
@@ -613,7 +538,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566591Z"
+    "last_updated": "2025-08-02T17:20:10.367324Z"
   },
   {
     "date": "03-08-2025",
@@ -628,7 +553,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566596Z"
+    "last_updated": "2025-08-02T17:20:10.367334Z"
   },
   {
     "date": "03-08-2025",
@@ -643,7 +568,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566601Z"
+    "last_updated": "2025-08-02T17:20:10.367343Z"
   },
   {
     "date": "03-08-2025",
@@ -658,7 +583,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566606Z"
+    "last_updated": "2025-08-02T17:20:10.367353Z"
   },
   {
     "date": "03-08-2025",
@@ -673,7 +598,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566611Z"
+    "last_updated": "2025-08-02T17:20:10.367362Z"
   },
   {
     "date": "03-08-2025",
@@ -692,7 +617,7 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566618Z"
+    "last_updated": "2025-08-02T17:20:10.367374Z"
   },
   {
     "date": "03-08-2025",
@@ -707,6 +632,6 @@
       }
     ],
     "is_live": false,
-    "last_updated": "2025-08-02T16:52:29.566623Z"
+    "last_updated": "2025-08-02T17:20:10.367383Z"
   }
 ]
