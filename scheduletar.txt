@@ -3,41 +3,6 @@
     <h2 class="mb-4">Today's Matches</h2>
     <div class="matches-container">
     
-<div class="match-card" data-time="2025-08-03T05:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Leagues Cup</div>
-    <div class="match-teams">Portland Timbers - Queretaro <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/183">CH183us</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-08-03T05:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Liga De Expansion Mx</div>
-    <div class="match-teams">Dorados - Cancun <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/156">CH156es</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-08-03T08:45:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">formula 3</div>
-    <div class="match-teams">F3 Course 2 - <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/13">CH13fr</button>
-
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/60">CH60es</button>
-
-    </div>
-</div>
-
 <div class="match-card" data-time="2025-08-03T10:15:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">formula 2</div>
@@ -54,9 +19,11 @@
 <div class="match-card" data-time="2025-08-03T13:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">Amical Club</div>
-    <div class="match-teams">Newcastle (Eng) - Tottenham (Eng) <span class="live-indicator">- LIVE</span></div>
+    <div class="match-teams">Newcastle - Tottenham <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/40">CH40fr</button>
+
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/160">CH160us</button>
 
     </div>
@@ -131,7 +98,7 @@
 <div class="match-card" data-time="2025-08-03T14:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">Amical Club</div>
-    <div class="match-teams">Ajax (Ned) - Monaco (Fra) <span class="live-indicator">- LIVE</span></div>
+    <div class="match-teams">Ajax - Monaco <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/161">CH161nl</button>
@@ -152,6 +119,39 @@
     </div>
 </div>
 
+<div class="match-card" data-time="2025-08-03T15:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Amical Club</div>
+    <div class="match-teams">Den Haag - Olympiakos <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/162">CH162gr</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-03T15:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Premiership</div>
+    <div class="match-teams">Falkirk - Dundee Utd <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/128">CH128gb</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-03T16:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Pro League</div>
+    <div class="match-teams">Cercle Bruges - Anderlecht <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/153">CH153fr</button>
+
+    </div>
+</div>
+
 <div class="match-card" data-time="2025-08-03T16:55:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">formula 1</div>
@@ -159,6 +159,384 @@
     <div class="channels">
         
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/11">CH11fr</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-03T17:30:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Liga AUF Uruguaya</div>
+    <div class="match-teams">Racing Montevideo - Wanderers <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/109">CH109es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-03T17:30:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Premiership</div>
+    <div class="match-teams">Celtic - St. Mirren <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/128">CH128gb</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-03T18:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Ecuador Ligapro</div>
+    <div class="match-teams">LDU Quito - Mushuc Runa <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/86">CH86es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-03T18:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Johan Cruyff Shield</div>
+    <div class="match-teams">PSV - G.A. Eagles <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/141">CH141nl</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-03T18:30:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Campeonato Itaú Chile</div>
+    <div class="match-teams">O Higgins - U. Calera <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/83">CH83es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-03T18:30:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Pro League</div>
+    <div class="match-teams">Royale Union SG - Louvain <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/153">CH153fr</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-03T19:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Amical Club</div>
+    <div class="match-teams">Naples - Brest <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/163">CH163it</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-03T19:15:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Pro League</div>
+    <div class="match-teams">Charleroi - Saint-Trond <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/154">CH154fr</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-03T20:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Amical Club</div>
+    <div class="match-teams">Bournemouth - West Ham <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/12">CH12fr</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/87">CH87es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-03T20:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Amical Club</div>
+    <div class="match-teams">Gérone - Wolves <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/165">CH165es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-03T20:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Amical Club</div>
+    <div class="match-teams">Porto - Atl. Madrid <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/164">CH164es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-03T20:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Liga AUF Uruguaya</div>
+    <div class="match-teams">Liverpool M. - Danubio <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/109">CH109es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-03T20:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Liga De Expansion Mx</div>
+    <div class="match-teams">Tlaxcala - Zacatecas Mineros <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/155">CH155es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-03T20:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Liga Mx Women</div>
+    <div class="match-teams">Puebla F - Monterrey F <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/156">CH156es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-03T20:15:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Ecuador Ligapro</div>
+    <div class="match-teams">U. Catolica - Aucas <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/86">CH86es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-03T21:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Campeonato Itaú Chile</div>
+    <div class="match-teams">Colo Colo - Huachipato <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/83">CH83es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-03T21:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Copa Argentina</div>
+    <div class="match-teams">Racing Club - Dep. Riestra <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/77">CH77es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-03T21:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Liga Betplay Dimayor</div>
+    <div class="match-teams">Pereira - Once Caldas <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/81">CH81es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-03T22:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Liga 1 Te Apuesto</div>
+    <div class="match-teams">Huancayo - Ayacucho <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/84">CH84es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-03T22:30:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Ecuador Ligapro</div>
+    <div class="match-teams">Tecnico U. - Manta <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/86">CH86es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-03T22:30:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Liga AUF Uruguaya</div>
+    <div class="match-teams">Plaza Colonia - Miramar <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/109">CH109es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-03T23:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Amical Club</div>
+    <div class="match-teams">Manchester United - Everton <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/12">CH12fr</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/87">CH87es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-03T23:10:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Liga Betplay Dimayor</div>
+    <div class="match-teams">Alianza - Bucaramanga <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/81">CH81es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-03T23:30:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Campeonato Itaú Chile</div>
+    <div class="match-teams">Nublense - Everton <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/83">CH83es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-04T01:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Ecuador Ligapro</div>
+    <div class="match-teams">Libertad - Emelec <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/86">CH86es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-04T01:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Liga De Expansion Mx</div>
+    <div class="match-teams">Tapatio - Atletico La Paz <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/155">CH155es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-04T01:20:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Liga Betplay Dimayor</div>
+    <div class="match-teams">Ind. Medellin - Millonarios <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/81">CH81es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-04T01:50:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Leagues Cup</div>
+    <div class="match-teams">Guadalajara - Charlotte <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/68">CH68es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-04T02:30:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Leagues Cup</div>
+    <div class="match-teams">Monterrey - New York Red Bulls <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/180">CH180es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-04T03:30:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Leagues Cup</div>
+    <div class="match-teams">Colorado Rapids - Tijuana <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/181">CH181es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-04T03:30:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Liga Betplay Dimayor</div>
+    <div class="match-teams">Aguilas - Fortaleza <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/81">CH81es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-04T04:30:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Leagues Cup</div>
+    <div class="match-teams">Los Angeles Galaxy - Cruz Azul <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/182">CH182es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-04T04:30:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Leagues Cup</div>
+    <div class="match-teams">Seattle Sounders - Santos Laguna <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/68">CH68es</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2025-08-04T13:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Amical Club</div>
+    <div class="match-teams">Daegu - Barcelone <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/160">CH160es</button>
 
     </div>
 </div>
