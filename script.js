@@ -72,7 +72,7 @@
             
             matches.forEach((match) => {
                 const matchTime = new Date(match.getAttribute("data-time"));
-                const endTime = new Date(matchTime.getTime() + 3 * 60 * 60 * 1000);
+                const endTime = new Date(matchTime.getTime() + 3.5 * 60 * 60 * 1000);
                 const liveIndicator = match.querySelector(".live-indicator");
                 if (now >= matchTime && now <= endTime) {
                     match.style.display = "";
