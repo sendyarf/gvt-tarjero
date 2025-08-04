@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
             lng: 'en',
             fallbackLng: 'en',
             backend: {
-                loadPath: 'https://gvt720.pages.dev/translations/{{lng}}.json'
+                loadPath: 'https://govoetlive.pages.dev/translations/{{lng}}.json'
             }
         }, function(err, t) {
             if (err) {
@@ -46,7 +46,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
     function loadMatches() {
-        fetch('https://gvt720.pages.dev/schedule.json')
+        fetch('https://govoetlive.pages.dev/schedule.json')
             .then(response => response.json())
             .then(data => {
                 const matchesContainer = document.querySelector('.matches-container');
