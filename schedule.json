@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-08-04T05:10:58.794278+00:00",
+  "last_updated": "2025-08-04T05:59:20.639446+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-04T01:20:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Ind. Medellin - Millonarios",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-04T01:50:00+02:00",
-      "competition": "Leagues Cup",
-      "teams": "Guadalajara - Charlotte",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-04T02:30:00+02:00",
       "competition": "Leagues Cup",
