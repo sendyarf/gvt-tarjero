@@ -1,15 +1,125 @@
 {
-  "last_updated": "2025-08-04T14:28:08.902525+00:00",
+  "last_updated": "2025-08-04T14:54:26.913728+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
-      "datetime": "2025-08-04T13:00:00+02:00",
-      "competition": "Amical Club",
-      "teams": "Daegu - Barcelone",
+      "datetime": "2025-08-04T20:00:00+02:00",
+      "competition": "Liga 1 Te Apuesto",
+      "teams": "Cajamarca - Cusco",
       "channels": [
         {
-          "name": "CH160es",
+          "name": "CH84es",
+          "url": "https://envivo.govoet.my.id/84"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-04T21:00:00+02:00",
+      "competition": "Amical Club",
+      "teams": "FC Séville (Esp) - Al Qadisiya (Sau)",
+      "channels": [
+        {
+          "name": "CH70es",
+          "url": "https://envivo.govoet.my.id/70"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-04T21:00:00+02:00",
+      "competition": "Amical Club",
+      "teams": "Liverpool (Eng) - Ath. Bilbao (Esp)",
+      "channels": [
+        {
+          "name": "CH160gb",
           "url": "https://envivo.govoet.my.id/160"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-04T21:00:00+02:00",
+      "competition": "Premiership",
+      "teams": "Hearts - Aberdeen",
+      "channels": [
+        {
+          "name": "CH128gb",
+          "url": "https://envivo.govoet.my.id/128"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-04T22:00:00+02:00",
+      "competition": "Liga 1 Te Apuesto",
+      "teams": "Sport Boys - AD Tarma",
+      "channels": [
+        {
+          "name": "CH85es",
+          "url": "https://envivo.govoet.my.id/85"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-05T00:00:00+02:00",
+      "competition": "Campeonato Itaú Chile",
+      "teams": "U. De Chile - Cobresal",
+      "channels": [
+        {
+          "name": "CH83es",
+          "url": "https://envivo.govoet.my.id/83"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-05T01:00:00+02:00",
+      "competition": "Liga Mx Women",
+      "teams": "Atl. San Luis F - Juarez F",
+      "channels": [
+        {
+          "name": "CH97es",
+          "url": "https://envivo.govoet.my.id/97"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-05T02:00:00+02:00",
+      "competition": "Ecuador Ligapro",
+      "teams": "Delfin - Vinotinto",
+      "channels": [
+        {
+          "name": "CH86es",
+          "url": "https://envivo.govoet.my.id/86"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-05T02:00:00+02:00",
+      "competition": "Liga 1 Te Apuesto",
+      "teams": "Cienciano - Los Chankas",
+      "channels": [
+        {
+          "name": "CH84es",
+          "url": "https://envivo.govoet.my.id/84"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-05T03:00:00+02:00",
+      "competition": "Liga Mx Women",
+      "teams": "Pachuca F - Toluca F",
+      "channels": [
+        {
+          "name": "CH155es",
+          "url": "https://envivo.govoet.my.id/155"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-05T03:00:00+02:00",
+      "competition": "Liga Mx Women",
+      "teams": "Santos Laguna F - Guadalajara F",
+      "channels": [
+        {
+          "name": "CH156es",
+          "url": "https://envivo.govoet.my.id/156"
         }
       ]
     }
