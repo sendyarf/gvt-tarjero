@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-08-04T06:51:40.359944+00:00",
+  "last_updated": "2025-08-04T07:31:35.610960+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-04T03:30:00+02:00",
-      "competition": "Leagues Cup",
-      "teams": "Colorado Rapids - Tijuana",
-      "channels": [
-        {
-          "name": "CH181es",
-          "url": "https://envivo.govoet.my.id/181"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-04T03:30:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Aguilas - Fortaleza",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-04T04:30:00+02:00",
       "competition": "Leagues Cup",
