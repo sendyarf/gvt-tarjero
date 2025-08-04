@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-08-04T04:06:12.486585+00:00",
+  "last_updated": "2025-08-04T05:10:58.794278+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-04T01:00:00+02:00",
-      "competition": "Ecuador Ligapro",
-      "teams": "Libertad - Emelec",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-04T01:00:00+02:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Tapatio - Atletico La Paz",
-      "channels": [
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-04T01:20:00+02:00",
       "competition": "Liga Betplay Dimayor",
