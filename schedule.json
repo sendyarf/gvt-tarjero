@@ -1,66 +1,7 @@
 {
-  "last_updated": "2025-08-04T02:11:29.060107+00:00",
+  "last_updated": "2025-08-04T04:06:12.486585+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-03T22:30:00+02:00",
-      "competition": "Ecuador Ligapro",
-      "teams": "Tecnico U. - Manta",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-03T22:30:00+02:00",
-      "competition": "Liga AUF Uruguaya",
-      "teams": "Plaza Colonia - Miramar",
-      "channels": [
-        {
-          "name": "CH109es",
-          "url": "https://envivo.govoet.my.id/109"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-03T23:00:00+02:00",
-      "competition": "Amical Club",
-      "teams": "Manchester United - Everton",
-      "channels": [
-        {
-          "name": "CH12fr",
-          "url": "https://envivo.govoet.my.id/12"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-03T23:10:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Alianza - Bucaramanga",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-03T23:30:00+02:00",
-      "competition": "Campeonato Itaú Chile",
-      "teams": "Nublense - Everton",
-      "channels": [
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-04T01:00:00+02:00",
       "competition": "Ecuador Ligapro",
