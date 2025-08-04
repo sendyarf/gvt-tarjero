@@ -1,0 +1,311 @@
+{
+  "last_updated": "2025-08-03T23:02:20.547576+00:00",
+  "timezone": "Europe/Paris",
+  "matches": [
+    {
+      "datetime": "2025-08-03T19:15:00+02:00",
+      "competition": "Pro League",
+      "teams": "Charleroi - Saint-Trond",
+      "channels": [
+        {
+          "name": "CH154fr",
+          "url": "https://envivo.govoet.my.id/154"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-03T20:00:00+02:00",
+      "competition": "Amical Club",
+      "teams": "Bournemouth - West Ham",
+      "channels": [
+        {
+          "name": "CH12fr",
+          "url": "https://envivo.govoet.my.id/12"
+        },
+        {
+          "name": "CH87es",
+          "url": "https://envivo.govoet.my.id/87"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-03T20:00:00+02:00",
+      "competition": "Amical Club",
+      "teams": "Gérone - Wolves",
+      "channels": [
+        {
+          "name": "CH165es",
+          "url": "https://envivo.govoet.my.id/165"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-03T20:00:00+02:00",
+      "competition": "Amical Club",
+      "teams": "Porto - Atl. Madrid",
+      "channels": [
+        {
+          "name": "CH164es",
+          "url": "https://envivo.govoet.my.id/164"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-03T20:00:00+02:00",
+      "competition": "Liga AUF Uruguaya",
+      "teams": "Liverpool M. - Danubio",
+      "channels": [
+        {
+          "name": "CH109es",
+          "url": "https://envivo.govoet.my.id/109"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-03T20:00:00+02:00",
+      "competition": "Liga De Expansion Mx",
+      "teams": "Tlaxcala - Zacatecas Mineros",
+      "channels": [
+        {
+          "name": "CH155es",
+          "url": "https://envivo.govoet.my.id/155"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-03T20:00:00+02:00",
+      "competition": "Liga Mx Women",
+      "teams": "Puebla F - Monterrey F",
+      "channels": [
+        {
+          "name": "CH156es",
+          "url": "https://envivo.govoet.my.id/156"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-03T20:15:00+02:00",
+      "competition": "Ecuador Ligapro",
+      "teams": "U. Catolica - Aucas",
+      "channels": [
+        {
+          "name": "CH86es",
+          "url": "https://envivo.govoet.my.id/86"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-03T21:00:00+02:00",
+      "competition": "Campeonato Itaú Chile",
+      "teams": "Colo Colo - Huachipato",
+      "channels": [
+        {
+          "name": "CH83es",
+          "url": "https://envivo.govoet.my.id/83"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-03T21:00:00+02:00",
+      "competition": "Copa Argentina",
+      "teams": "Racing Club - Dep. Riestra",
+      "channels": [
+        {
+          "name": "CH77es",
+          "url": "https://envivo.govoet.my.id/77"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-03T21:00:00+02:00",
+      "competition": "Liga Betplay Dimayor",
+      "teams": "Pereira - Once Caldas",
+      "channels": [
+        {
+          "name": "CH81es",
+          "url": "https://envivo.govoet.my.id/81"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-03T22:00:00+02:00",
+      "competition": "Liga 1 Te Apuesto",
+      "teams": "Huancayo - Ayacucho",
+      "channels": [
+        {
+          "name": "CH84es",
+          "url": "https://envivo.govoet.my.id/84"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-03T22:30:00+02:00",
+      "competition": "Ecuador Ligapro",
+      "teams": "Tecnico U. - Manta",
+      "channels": [
+        {
+          "name": "CH86es",
+          "url": "https://envivo.govoet.my.id/86"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-03T22:30:00+02:00",
+      "competition": "Liga AUF Uruguaya",
+      "teams": "Plaza Colonia - Miramar",
+      "channels": [
+        {
+          "name": "CH109es",
+          "url": "https://envivo.govoet.my.id/109"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-03T23:00:00+02:00",
+      "competition": "Amical Club",
+      "teams": "Manchester United - Everton",
+      "channels": [
+        {
+          "name": "CH12fr",
+          "url": "https://envivo.govoet.my.id/12"
+        },
+        {
+          "name": "CH87es",
+          "url": "https://envivo.govoet.my.id/87"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-03T23:10:00+02:00",
+      "competition": "Liga Betplay Dimayor",
+      "teams": "Alianza - Bucaramanga",
+      "channels": [
+        {
+          "name": "CH81es",
+          "url": "https://envivo.govoet.my.id/81"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-03T23:30:00+02:00",
+      "competition": "Campeonato Itaú Chile",
+      "teams": "Nublense - Everton",
+      "channels": [
+        {
+          "name": "CH83es",
+          "url": "https://envivo.govoet.my.id/83"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-04T01:00:00+02:00",
+      "competition": "Ecuador Ligapro",
+      "teams": "Libertad - Emelec",
+      "channels": [
+        {
+          "name": "CH86es",
+          "url": "https://envivo.govoet.my.id/86"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-04T01:00:00+02:00",
+      "competition": "Liga De Expansion Mx",
+      "teams": "Tapatio - Atletico La Paz",
+      "channels": [
+        {
+          "name": "CH155es",
+          "url": "https://envivo.govoet.my.id/155"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-04T01:20:00+02:00",
+      "competition": "Liga Betplay Dimayor",
+      "teams": "Ind. Medellin - Millonarios",
+      "channels": [
+        {
+          "name": "CH81es",
+          "url": "https://envivo.govoet.my.id/81"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-04T01:50:00+02:00",
+      "competition": "Leagues Cup",
+      "teams": "Guadalajara - Charlotte",
+      "channels": [
+        {
+          "name": "CH68es",
+          "url": "https://envivo.govoet.my.id/68"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-04T02:30:00+02:00",
+      "competition": "Leagues Cup",
+      "teams": "Monterrey - New York Red Bulls",
+      "channels": [
+        {
+          "name": "CH180es",
+          "url": "https://envivo.govoet.my.id/180"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-04T03:30:00+02:00",
+      "competition": "Leagues Cup",
+      "teams": "Colorado Rapids - Tijuana",
+      "channels": [
+        {
+          "name": "CH181es",
+          "url": "https://envivo.govoet.my.id/181"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-04T03:30:00+02:00",
+      "competition": "Liga Betplay Dimayor",
+      "teams": "Aguilas - Fortaleza",
+      "channels": [
+        {
+          "name": "CH81es",
+          "url": "https://envivo.govoet.my.id/81"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-04T04:30:00+02:00",
+      "competition": "Leagues Cup",
+      "teams": "Los Angeles Galaxy - Cruz Azul",
+      "channels": [
+        {
+          "name": "CH182es",
+          "url": "https://envivo.govoet.my.id/182"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-04T04:30:00+02:00",
+      "competition": "Leagues Cup",
+      "teams": "Seattle Sounders - Santos Laguna",
+      "channels": [
+        {
+          "name": "CH68es",
+          "url": "https://envivo.govoet.my.id/68"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-04T13:00:00+02:00",
+      "competition": "Amical Club",
+      "teams": "Daegu - Barcelone",
+      "channels": [
+        {
+          "name": "CH160es",
+          "url": "https://envivo.govoet.my.id/160"
+        }
+      ]
+    }
+  ]
+}

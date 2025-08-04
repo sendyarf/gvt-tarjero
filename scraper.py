@@ -1,6 +1,9 @@
 import requests
 from bs4 import BeautifulSoup
 import re
+import json
+from datetime import datetime
+import pytz
 
 # URL target
 url = "https://rereyano.ru"
@@ -31,41 +34,12 @@ schedule_pattern = re.compile(r'(\d{2}-\d{2}-\d{4})\s+\((\d{2}:\d{2})\)\s+(.+?)\
 # Menyimpan hasil ekstraksi
 matches = schedule_pattern.findall(text)
 
-# Template HTML untuk main-content
-html_template = """
-<div id="main-content" class="container mt-4">
-    <h2 class="mb-4">Today's Matches</h2>
-    <div class="matches-container">
-    {match_items}
-    </div>
-</div>
-"""
+# Timezone Perancis
+france_tz = pytz.timezone('Europe/Paris')
 
-match_item_template = """
-<div class="match-card" data-time="{iso_datetime}" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">{competition}</div>
-    <div class="match-teams">{teams} <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        {buttons}
-    </div>
-</div>
-"""
+# List untuk menyimpan data jadwal
+schedule_data = []
 
-button_template = """
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="{url}">{channel}</button>
-"""
-
-# Fungsi untuk mengubah tanggal dan waktu ke format ISO 8601 tanpa konversi
-def to_iso_datetime(date, time):
-    # Format tanggal dari dd-mm-yyyy ke yyyy-mm-dd
-    day, month, year = date.split('-')
-    formatted_date = f"{year}-{month}-{day}"
-    # Gabungkan dengan waktu dan tambahkan timezone +02:00
-    return f"{formatted_date}T{time}:00+02:00"
-
-# Membuat HTML untuk main-content
-match_items = ""
 for match in matches:
     date, time, event, channels = match
     
@@ -74,58 +48,43 @@ for match in matches:
     competition = event_parts[0] if len(event_parts) > 1 else ''
     teams = event_parts[1] if len(event_parts) > 1 else event
 
-    # Membuat tombol player
-    buttons = ""
+    # Buat datetime object dengan timezone Perancis
+    day, month, year = map(int, date.split('-'))
+    hour, minute = map(int, time.split(':'))
+    
+    # Buat naive datetime
+    naive_dt = datetime(year, month, day, hour, minute)
+    
+    # Tambahkan timezone Perancis (akan menangani DST secara otomatis)
+    france_dt = france_tz.localize(naive_dt, is_dst=None)
+    
+    # Konversi ke format ISO 8601 dengan timezone
+    iso_datetime = france_dt.isoformat()
+    
+    # Ekstrak daftar channel
     channel_list = re.findall(r'CH\d+\w+', channels)
+    channels_data = []
     for channel in channel_list:
         channel_number = re.search(r'\d+', channel).group()
-        url = f"https://envivo.govoet.my.id/{channel_number}"
-        buttons += button_template.format(url=url, channel=channel)
+        channels_data.append({
+            'name': channel,
+            'url': f"https://envivo.govoet.my.id/{channel_number}"
+        })
+    
+    # Tambahkan ke data jadwal
+    schedule_data.append({
+        'datetime': iso_datetime,
+        'competition': competition,
+        'teams': teams,
+        'channels': channels_data
+    })
 
-    # Menambahkan match item ke HTML dengan waktu asli
-    iso_datetime = to_iso_datetime(date, time)
-    match_items += match_item_template.format(
-        iso_datetime=iso_datetime,
-        competition=competition,
-        teams=teams,
-        buttons=buttons
-    )
+# Simpan ke file JSON
+with open('schedule.json', 'w', encoding='utf-8') as f:
+    json.dump({
+        'last_updated': datetime.now(pytz.utc).isoformat(),
+        'timezone': 'Europe/Paris',
+        'matches': schedule_data
+    }, f, indent=2, ensure_ascii=False)
 
-# Bungkus semua match_items dalam container
-html_output = html_template.format(match_items=match_items)
-
-# Menyimpan hasil ke scheduletar.txt
-with open("scheduletar.txt", "w", encoding="utf-8") as file:
-    file.write(html_output)
-
-# Memperbarui index.html
-def update_index_html():
-    try:
-        # Baca index.html
-        with open("index.html", "r", encoding="utf-8") as file:
-            index_soup = BeautifulSoup(file, 'html.parser')
-
-        # Baca scheduletar.txt
-        with open("scheduletar.txt", "r", encoding="utf-8") as file:
-            new_content = BeautifulSoup(file, 'html.parser')
-
-        # Temukan div dengan id='main-content' di index.html
-        main_content = index_soup.find('div', {'id': 'main-content'})
-        if main_content:
-            main_content.replace_with(new_content)
-        else:
-            print("main-content tidak ditemukan di index.html")
-
-        # Simpan kembali ke index.html
-        with open("index.html", "w", encoding="utf-8") as file:
-            file.write(str(index_soup))
-
-        print("index.html berhasil diperbarui")
-
-    except Exception as e:
-        print(f"Gagal memperbarui index.html: {e}")
-
-# Jalankan pembaruan index.html
-update_index_html()
-
-print("Scraping selesai, hasil disimpan ke scheduletar.txt dan index.html diperbarui.")
+print("Scraping selesai, hasil disimpan ke schedule.json dengan timezone Europe/Paris")

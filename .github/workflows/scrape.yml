@@ -2,7 +2,7 @@ name: Scheduled Scraping
 
 on:
   schedule:
-    - cron: '0,30 * * * *'   # Setiap 30 menit (contoh: 07:00, 07:30, 08:00 WIB)
+    - cron: '0,30 * * * *'   # Setiap 30 menit (contoh: 07:00, 07:30 WIB)
     - cron: '30 16 * * *'   # Setiap hari pukul 23:30 WIB (16:30 UTC)
   workflow_dispatch:  # Untuk trigger manual
 
@@ -30,7 +30,7 @@ jobs:
     - name: Check for changes
       id: check_changes
       run: |
-        git add scheduletar.txt index.html
+        git add schedule.json
         if git diff --cached --quiet; then
           echo "No changes detected"
           echo "changes_detected=false" >> $GITHUB_OUTPUT
@@ -44,7 +44,7 @@ jobs:
       run: |
         git config --global user.name 'GitHub Action'
         git config --global user.email 'action@github.com'
-        git commit -m "Update matches in index.html $(date)"
+        git commit -m "Update schedule.json $(date)"
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
