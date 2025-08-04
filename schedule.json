@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-08-04T05:59:20.639446+00:00",
+  "last_updated": "2025-08-04T06:51:40.359944+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-04T02:30:00+02:00",
-      "competition": "Leagues Cup",
-      "teams": "Monterrey - New York Red Bulls",
-      "channels": [
-        {
-          "name": "CH180es",
-          "url": "https://envivo.govoet.my.id/180"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-04T03:30:00+02:00",
       "competition": "Leagues Cup",
