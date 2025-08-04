@@ -1,51 +1,7 @@
 {
-  "last_updated": "2025-08-04T00:53:27.783881+00:00",
+  "last_updated": "2025-08-04T02:11:29.060107+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-03T21:00:00+02:00",
-      "competition": "Campeonato Itaú Chile",
-      "teams": "Colo Colo - Huachipato",
-      "channels": [
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-03T21:00:00+02:00",
-      "competition": "Copa Argentina",
-      "teams": "Racing Club - Dep. Riestra",
-      "channels": [
-        {
-          "name": "CH77es",
-          "url": "https://envivo.govoet.my.id/77"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-03T21:00:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Pereira - Once Caldas",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-03T22:00:00+02:00",
-      "competition": "Liga 1 Te Apuesto",
-      "teams": "Huancayo - Ayacucho",
-      "channels": [
-        {
-          "name": "CH84es",
-          "url": "https://envivo.govoet.my.id/84"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-03T22:30:00+02:00",
       "competition": "Ecuador Ligapro",
