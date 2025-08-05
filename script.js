@@ -1,4 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
+    // Simpan data jadwal saat ini untuk perbandingan
+    let currentMatches = [];
+
     // Initialize i18next with http backend
     i18next
         .use(i18nextHttpBackend)
@@ -46,11 +49,37 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
     function loadMatches() {
+        console.log('loadMatches called');
         fetch('https://govoetlive.pages.dev/schedule.json')
-            .then(response => response.json())
+            .then(response => {
+                console.log('Fetch response status:', response.status);
+                if (!response.ok) throw new Error('Network response was not ok');
+                return response.json();
+            })
             .then(data => {
+                console.log('Fetched schedule data:', data);
+                // Cek apakah modal streaming aktif
+                if (modal && modal.classList.contains('show')) {
+                    console.log('Modal streaming aktif, tunda pembaruan jadwal');
+                    return;
+                }
+
+                // Selalu perbarui UI untuk memberikan feedback
                 const matchesContainer = document.querySelector('.matches-container');
-                matchesContainer.innerHTML = '';
+                const noMatchesMessage = document.getElementById('no-matches-message');
+                if (noMatchesMessage) {
+                    noMatchesMessage.remove();
+                    console.log('Removed no-matches-message');
+                }
+
+                currentMatches = data.matches;
+                matchesContainer.innerHTML = ''; // Kosongkan kontainer
+
+                if (data.matches.length === 0) {
+                    console.log('No matches in data, showing no matches message');
+                    showNoMatchesMessage();
+                    return;
+                }
 
                 data.matches.forEach(match => {
                     const matchCard = document.createElement('div');
@@ -95,6 +124,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
                 updateTimes();
                 checkLiveMatches();
+                document.querySelectorAll('.match-card').forEach(card => {
+                    card.classList.add('fade-in');
+                });
+                console.log('Matches updated, total cards:', document.querySelectorAll('.match-card').length);
             })
             .catch(error => {
                 console.error('Error loading schedule:', error);
@@ -102,7 +135,22 @@ document.addEventListener("DOMContentLoaded", function () {
             });
     }
 
+    // Jalankan polling setiap 1 menit
+    let pollingInterval = setInterval(loadMatches, 60000);
+
+    // Hentikan polling saat tab tidak aktif
+    document.addEventListener('visibilitychange', () => {
+        if (document.hidden) {
+            clearInterval(pollingInterval);
+            console.log('Polling dihentikan: Tab tidak aktif');
+        } else {
+            pollingInterval = setInterval(loadMatches, 60000);
+            console.log('Polling dimulai: Tab aktif');
+        }
+    });
+
     function showNoMatchesMessage() {
+        console.log('Showing no matches message');
         const matchesContainer = document.querySelector('.matches-container');
         const noMatchesMessage = document.getElementById('no-matches-message');
         if (!noMatchesMessage) {
@@ -113,22 +161,114 @@ document.addEventListener("DOMContentLoaded", function () {
                 <div class="alert alert-info" role="alert">
                     <h4 class="alert-heading">No matches available</h4>
                     <p>There are currently no scheduled matches. Please check back later or refresh the page.</p>
-                    <button class="btn btn-primary mt-2" onclick="window.location.reload()">
-                        Refresh Page
-                    </button>
+                    <button class="btn btn-primary mt-2 refresh-schedule-btn" onclick="loadMatches()">Refresh Schedule</button>
                 </div>
             `;
             matchesContainer.appendChild(messageDiv);
+
+            // Tambahkan event listener untuk tombol refresh
+            const refreshButton = document.querySelector('.refresh-schedule-btn');
+            if (refreshButton) {
+                refreshButton.addEventListener('click', () => {
+                    console.log('Refresh Schedule button clicked');
+                    loadMatches();
+                });
+            } else {
+                console.warn('Refresh Schedule button not found');
+            }
         }
     }
 
     function copyBitcoinAddress() {
         const bitcoinAddress = "bc1qdu7csmmz7nyjxjsr87tymhd5x29y66gg4xff0t";
-        navigator.clipboard.writeText(bitcoinAddress).then(() => {
-            alert("Bitcoin address copied to clipboard!");
-        }).catch((err) => {
-            console.error("Failed to copy text: ", err);
+        console.log('Attempting to copy Bitcoin address:', bitcoinAddress);
+        if (!navigator.clipboard) {
+            console.warn('Clipboard API not supported, trying fallback');
+            fallbackCopyText(bitcoinAddress);
+            return;
+        }
+        if (!window.isSecureContext) {
+            console.warn('Non-secure context detected, trying fallback');
+            fallbackCopyText(bitcoinAddress);
+            return;
+        }
+        navigator.clipboard.writeText(bitcoinAddress)
+            .then(() => {
+                console.log('Bitcoin address copied successfully');
+                showNotification('Bitcoin address copied to clipboard!', 'success');
+            })
+            .catch(err => {
+                console.error('Failed to copy using navigator.clipboard:', err);
+                fallbackCopyText(bitcoinAddress);
+            });
+    }
+
+    function fallbackCopyText(text) {
+        console.log('Using fallback copy method for:', text);
+        const textArea = document.createElement('textarea');
+        textArea.value = text;
+        textArea.style.position = 'fixed';
+        textArea.style.top = '-9999px';
+        textArea.style.left = '-9999px';
+        document.body.appendChild(textArea);
+        textArea.focus();
+        textArea.select();
+        try {
+            const successful = document.execCommand('copy');
+            document.body.removeChild(textArea);
+            if (successful) {
+                console.log('Fallback copy successful');
+                showNotification('Bitcoin address copied to clipboard!', 'success');
+            } else {
+                console.error('Fallback copy failed');
+                showNotification('Failed to copy Bitcoin address. Please copy manually: ' + text, 'error');
+            }
+        } catch (err) {
+            console.error('Fallback copy error:', err);
+            document.body.removeChild(textArea);
+            showNotification('Failed to copy Bitcoin address. Please copy manually: ' + text, 'error');
+        }
+    }
+
+    function showNotification(message, type) {
+        console.log('Showing notification:', message, type);
+        const existingNotifications = document.querySelectorAll('.notification');
+        existingNotifications.forEach(notif => notif.remove());
+        const notification = document.createElement('div');
+        notification.className = `notification ${type}`;
+        notification.textContent = message;
+        notification.style.position = 'fixed';
+        notification.style.bottom = '20px';
+        notification.style.right = '20px';
+        notification.style.padding = '10px 20px';
+        notification.style.borderRadius = '5px';
+        notification.style.color = '#fff';
+        notification.style.backgroundColor = type === 'success' ? '#28a745' : '#dc3545';
+        notification.style.zIndex = '1000';
+        notification.style.maxWidth = '300px';
+        notification.style.boxShadow = '0 2px 5px rgba(0,0,0,0.2)';
+        document.body.appendChild(notification);
+        setTimeout(() => {
+            notification.style.transition = 'opacity 0.5s';
+            notification.style.opacity = '0';
+            setTimeout(() => {
+                notification.remove();
+            }, 500);
+        }, 3000);
+    }
+
+    // Fallback event listener untuk tombol copy-btn
+    const copyButtons = document.querySelectorAll('.copy-btn');
+    if (copyButtons.length > 0) {
+        console.log('Found', copyButtons.length, 'copy buttons with class "copy-btn"');
+        copyButtons.forEach(button => {
+            button.addEventListener('click', (e) => {
+                console.log('Copy button clicked:', e.target);
+                copyBitcoinAddress();
+            });
         });
+    } else {
+        console.warn('No buttons with class "copy-btn" found in the DOM');
     }
 
     function toggleChannels(card) {
@@ -174,6 +314,10 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     function checkLiveMatches() {
+        if (modal.classList.contains('show')) {
+            console.log('Modal streaming aktif, tunda pembaruan status LIVE');
+            return;
+        }
         const matches = document.querySelectorAll(".match-card");
         const now = new Date();
         let visibleMatches = 0;
@@ -213,17 +357,8 @@ document.addEventListener("DOMContentLoaded", function () {
             });
 
             refreshBtn.addEventListener("click", () => {
-                window.location.reload();
-            });
-
-            window.addEventListener("scroll", () => {
-                if (window.scrollY > 100) {
-                    scrollTopBtn.classList.add("visible");
-                    refreshBtn.classList.add("visible");
-                } else {
-                    scrollTopBtn.classList.remove("visible");
-                    refreshBtn.classList.remove("visible");
-                }
+                console.log('Floating Refresh button clicked');
+                loadMatches();
             });
         }
     }
@@ -231,4 +366,11 @@ document.addEventListener("DOMContentLoaded", function () {
     document.addEventListener("contextmenu", function (e) {
         e.preventDefault();
     });
+
+    // Periksa status LIVE setiap 10 detik
+    setInterval(checkLiveMatches, 10000);
+
+    // Verifikasi bahwa fungsi-fungsi utama tersedia
+    console.log('copyBitcoinAddress function defined:', typeof copyBitcoinAddress === 'function');
+    console.log('loadMatches function defined:', typeof loadMatches === 'function');
 });
