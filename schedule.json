@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-08-05T22:48:23.558077+00:00",
+  "last_updated": "2025-08-05T23:24:13.132155+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-05T19:00:00+02:00",
-      "competition": "Liga 1 Te Apuesto",
-      "teams": "Alianza Huanuco - U. de Deportes",
-      "channels": [
-        {
-          "name": "CH84es",
-          "url": "https://envivo.govoet.my.id/84"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-05T19:00:00+02:00",
-      "competition": "Ligue Des Champions",
-      "teams": "Malmo FF (Swe) - FC Copenhague (Den)",
-      "channels": [
-        {
-          "name": "CH160hr",
-          "url": "https://envivo.govoet.my.id/160"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-05T19:00:00+02:00",
-      "competition": "Ligue Europa",
-      "teams": "Hamrun (Mlt) - M. Tel Aviv (Isr)",
-      "channels": [
-        {
-          "name": "CH161ba",
-          "url": "https://envivo.govoet.my.id/161"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-05T20:00:00+02:00",
       "competition": "Ligue Des Champions",
