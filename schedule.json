@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-08-05T03:56:19.810742+00:00",
+  "last_updated": "2025-08-05T04:53:07.302259+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-05T00:00:00+02:00",
-      "competition": "Campeonato Itaú Chile",
-      "teams": "U. De Chile - Cobresal",
-      "channels": [
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-05T01:00:00+02:00",
       "competition": "Liga Mx Women",
