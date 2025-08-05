@@ -1,28 +1,5 @@
 {
-  "last_updated": "2025-08-05T06:38:30.889024+00:00",
+  "last_updated": "2025-08-05T07:29:01.486913+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-08-05T03:00:00+02:00",
-      "competition": "Liga Mx Women",
-      "teams": "Pachuca F - Toluca F",
-      "channels": [
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-05T03:00:00+02:00",
-      "competition": "Liga Mx Women",
-      "teams": "Santos Laguna F - Guadalajara F",
-      "channels": [
-        {
-          "name": "CH156es",
-          "url": "https://envivo.govoet.my.id/156"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
