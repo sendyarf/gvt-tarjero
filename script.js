@@ -58,13 +58,11 @@ document.addEventListener("DOMContentLoaded", function () {
             })
             .then(data => {
                 console.log('Fetched schedule data:', data);
-                // Cek apakah modal streaming aktif
                 if (modal && modal.classList.contains('show')) {
                     console.log('Modal streaming aktif, tunda pembaruan jadwal');
                     return;
                 }
 
-                // Selalu perbarui UI untuk memberikan feedback
                 const matchesContainer = document.querySelector('.matches-container');
                 const noMatchesMessage = document.getElementById('no-matches-message');
                 if (noMatchesMessage) {
@@ -73,7 +71,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 }
 
                 currentMatches = data.matches;
-                matchesContainer.innerHTML = ''; // Kosongkan kontainer
+                matchesContainer.innerHTML = '';
 
                 if (data.matches.length === 0) {
                     console.log('No matches in data, showing no matches message');
@@ -103,7 +101,14 @@ document.addEventListener("DOMContentLoaded", function () {
 
                     const matchTeams = document.createElement('div');
                     matchTeams.className = 'match-teams';
-                    matchTeams.textContent = i18next.t(`teams.${match.teams}`, { defaultValue: match.teams });
+                    // Pisahkan tim home dan away
+                    const [homeTeam, awayTeam] = match.teams.split(' - ').map(team => team.trim());
+                    console.log('Translating teams:', { homeTeam, awayTeam });
+                    // Terjemahkan masing-masing tim secara individu
+                    const translatedHomeTeam = i18next.t(`teams.${homeTeam}`, { defaultValue: homeTeam });
+                    const translatedAwayTeam = i18next.t(`teams.${awayTeam}`, { defaultValue: awayTeam });
+                    // Gabungkan kembali dengan format "Home - Away"
+                    matchTeams.textContent = `${translatedHomeTeam} - ${translatedAwayTeam}`;
                     matchCard.appendChild(matchTeams);
 
                     const channelsDiv = document.createElement('div');
@@ -135,10 +140,8 @@ document.addEventListener("DOMContentLoaded", function () {
             });
     }
 
-    // Jalankan polling setiap 1 menit
     let pollingInterval = setInterval(loadMatches, 60000);
 
-    // Hentikan polling saat tab tidak aktif
     document.addEventListener('visibilitychange', () => {
         if (document.hidden) {
             clearInterval(pollingInterval);
@@ -166,7 +169,6 @@ document.addEventListener("DOMContentLoaded", function () {
             `;
             matchesContainer.appendChild(messageDiv);
 
-            // Tambahkan event listener untuk tombol refresh
             const refreshButton = document.querySelector('.refresh-schedule-btn');
             if (refreshButton) {
                 refreshButton.addEventListener('click', () => {
@@ -257,7 +259,6 @@ document.addEventListener("DOMContentLoaded", function () {
         }, 3000);
     }
 
-    // Fallback event listener untuk tombol copy-btn
     const copyButtons = document.querySelectorAll('.copy-btn');
     if (copyButtons.length > 0) {
         console.log('Found', copyButtons.length, 'copy buttons with class "copy-btn"');
@@ -367,10 +368,8 @@ document.addEventListener("DOMContentLoaded", function () {
         e.preventDefault();
     });
 
-    // Periksa status LIVE setiap 10 detik
     setInterval(checkLiveMatches, 10000);
 
-    // Verifikasi bahwa fungsi-fungsi utama tersedia
     console.log('copyBitcoinAddress function defined:', typeof copyBitcoinAddress === 'function');
     console.log('loadMatches function defined:', typeof loadMatches === 'function');
 });
