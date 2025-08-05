@@ -1,5 +1,208 @@
 {
-  "last_updated": "2025-08-05T15:48:09.776586+00:00",
+  "last_updated": "2025-08-05T16:26:21.008236+00:00",
   "timezone": "Europe/Paris",
-  "matches": []
+  "matches": [
+    {
+      "datetime": "2025-08-05T18:00:00+02:00",
+      "competition": "Amical Club",
+      "teams": "Bayer Leverkusen (Ger) - Pisa (Ita)",
+      "channels": [
+        {
+          "name": "CH119de",
+          "url": "https://envivo.govoet.my.id/119"
+        },
+        {
+          "name": "CH71es",
+          "url": "https://envivo.govoet.my.id/71"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-05T18:30:00+02:00",
+      "competition": "Amical Club",
+      "teams": "Empoli (Ita) - Sassuolo (Ita)",
+      "channels": [
+        {
+          "name": "CH138it",
+          "url": "https://envivo.govoet.my.id/138"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-05T19:00:00+02:00",
+      "competition": "Liga 1 Te Apuesto",
+      "teams": "Alianza Huanuco - U. de Deportes",
+      "channels": [
+        {
+          "name": "CH84es",
+          "url": "https://envivo.govoet.my.id/84"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-05T19:00:00+02:00",
+      "competition": "Ligue Des Champions",
+      "teams": "Malmo FF (Swe) - FC Copenhague (Den)",
+      "channels": [
+        {
+          "name": "CH160hr",
+          "url": "https://envivo.govoet.my.id/160"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-05T19:00:00+02:00",
+      "competition": "Ligue Europa",
+      "teams": "Hamrun (Mlt) - M. Tel Aviv (Isr)",
+      "channels": [
+        {
+          "name": "CH161ba",
+          "url": "https://envivo.govoet.my.id/161"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-05T20:00:00+02:00",
+      "competition": "Ligue Des Champions",
+      "teams": "Dyn. Kyiv (Ukr) - Pafos (Cyp)",
+      "channels": [
+        {
+          "name": "CH162ua",
+          "url": "https://envivo.govoet.my.id/162"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-05T20:00:00+02:00",
+      "competition": "Ligue Des Champions",
+      "teams": "Shkendija (Mkd) - Qarabag (Aze)",
+      "channels": [
+        {
+          "name": "CH163az",
+          "url": "https://envivo.govoet.my.id/163"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-05T20:45:00+02:00",
+      "competition": "Efl Cup",
+      "teams": "Accrington - Oldham",
+      "channels": [
+        {
+          "name": "CH165us",
+          "url": "https://envivo.govoet.my.id/165"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-05T20:45:00+02:00",
+      "competition": "Ligue Des Champions",
+      "teams": "Rangers (Sco) - Plzen (Cze)",
+      "channels": [
+        {
+          "name": "CH164gb",
+          "url": "https://envivo.govoet.my.id/164"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-05T22:00:00+02:00",
+      "competition": "Liga 1 Te Apuesto",
+      "teams": "Melgar - Juan Pablo II",
+      "channels": [
+        {
+          "name": "CH84es",
+          "url": "https://envivo.govoet.my.id/84"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-05T23:00:00+02:00",
+      "competition": "Copa Colombia",
+      "teams": "Cucuta - Atl. Nacional",
+      "channels": [
+        {
+          "name": "CH81es",
+          "url": "https://envivo.govoet.my.id/81"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-06T01:30:00+02:00",
+      "competition": "Leagues Cup",
+      "teams": "Columbus Crew - Leon",
+      "channels": [
+        {
+          "name": "CH68es",
+          "url": "https://envivo.govoet.my.id/68"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-06T01:30:00+02:00",
+      "competition": "Leagues Cup",
+      "teams": "Toluca - New York City",
+      "channels": [
+        {
+          "name": "CH180es",
+          "url": "https://envivo.govoet.my.id/180"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-06T02:00:00+02:00",
+      "competition": "Leagues Cup",
+      "teams": "CF Montreal - Puebla",
+      "channels": [
+        {
+          "name": "CH181es",
+          "url": "https://envivo.govoet.my.id/181"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-06T02:30:00+02:00",
+      "competition": "Leagues Cup",
+      "teams": "Houston Dynamo - Pachuca",
+      "channels": [
+        {
+          "name": "CH182es",
+          "url": "https://envivo.govoet.my.id/182"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-06T03:00:00+02:00",
+      "competition": "Liga 1 Te Apuesto",
+      "teams": "A. Lima - Sporting Cristal",
+      "channels": [
+        {
+          "name": "CH84es",
+          "url": "https://envivo.govoet.my.id/84"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-06T04:00:00+02:00",
+      "competition": "Leagues Cup",
+      "teams": "Mazatlan FC - San Diego FC",
+      "channels": [
+        {
+          "name": "CH183es",
+          "url": "https://envivo.govoet.my.id/183"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-06T04:30:00+02:00",
+      "competition": "Leagues Cup",
+      "teams": "Tigres - Los Angeles FC",
+      "channels": [
+        {
+          "name": "CH184es",
+          "url": "https://envivo.govoet.my.id/184"
+        }
+      ]
+    }
+  ]
 }
