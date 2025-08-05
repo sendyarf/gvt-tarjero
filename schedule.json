@@ -1,62 +1,7 @@
 {
-  "last_updated": "2025-08-04T23:44:14.822338+00:00",
+  "last_updated": "2025-08-05T02:05:58.977692+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-04T20:00:00+02:00",
-      "competition": "Liga 1 Te Apuesto",
-      "teams": "Cajamarca - Cusco",
-      "channels": [
-        {
-          "name": "CH84es",
-          "url": "https://envivo.govoet.my.id/84"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-04T21:00:00+02:00",
-      "competition": "Amical Club",
-      "teams": "FC Séville (Esp) - Al Qadisiya (Sau)",
-      "channels": [
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-04T21:00:00+02:00",
-      "competition": "Amical Club",
-      "teams": "Liverpool (Eng) - Ath. Bilbao (Esp)",
-      "channels": [
-        {
-          "name": "CH160gb",
-          "url": "https://envivo.govoet.my.id/160"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-04T21:00:00+02:00",
-      "competition": "Premiership",
-      "teams": "Hearts - Aberdeen",
-      "channels": [
-        {
-          "name": "CH128gb",
-          "url": "https://envivo.govoet.my.id/128"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-04T22:00:00+02:00",
-      "competition": "Liga 1 Te Apuesto",
-      "teams": "Sport Boys - AD Tarma",
-      "channels": [
-        {
-          "name": "CH85es",
-          "url": "https://envivo.govoet.my.id/85"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-05T00:00:00+02:00",
       "competition": "Campeonato Itaú Chile",
