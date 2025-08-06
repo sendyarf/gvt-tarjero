@@ -1,33 +1,165 @@
 {
-  "last_updated": "2025-08-06T05:32:50.667843+00:00",
+  "last_updated": "2025-08-06T06:38:43.114941+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
-      "datetime": "2025-08-06T02:00:00+02:00",
-      "competition": "Leagues Cup",
-      "teams": "CF Montreal - Puebla",
+      "datetime": "2025-08-06T17:00:00+02:00",
+      "competition": "Ligue Des Champions",
+      "teams": "Kairat Almaty - Slovan Bratislava",
       "channels": [
         {
-          "name": "CH181es",
-          "url": "https://envivo.govoet.my.id/181"
+          "name": "CH160rs",
+          "url": "https://envivo.govoet.my.id/160"
         }
       ]
     },
     {
-      "datetime": "2025-08-06T02:30:00+02:00",
-      "competition": "Leagues Cup",
-      "teams": "Houston Dynamo - Pachuca",
+      "datetime": "2025-08-06T18:30:00+02:00",
+      "competition": "Amical Club",
+      "teams": "Alaves - Huesca",
       "channels": [
         {
-          "name": "CH182es",
-          "url": "https://envivo.govoet.my.id/182"
+          "name": "CH170es",
+          "url": "https://envivo.govoet.my.id/170"
         }
       ]
     },
     {
-      "datetime": "2025-08-06T03:00:00+02:00",
+      "datetime": "2025-08-06T19:00:00+02:00",
+      "competition": "Amical Club",
+      "teams": "Arsenal - Villarreal",
+      "channels": [
+        {
+          "name": "CH171es",
+          "url": "https://envivo.govoet.my.id/171"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-06T19:00:00+02:00",
+      "competition": "Amical Club",
+      "teams": "R. Oviedo - La Corogne",
+      "channels": [
+        {
+          "name": "CH172es",
+          "url": "https://envivo.govoet.my.id/172"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-06T19:00:00+02:00",
+      "competition": "Ligue Des Champions",
+      "teams": "Red Bull Salzbourg - Club Brugge",
+      "channels": [
+        {
+          "name": "CH161fr",
+          "url": "https://envivo.govoet.my.id/161"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-06T19:00:00+02:00",
+      "competition": "Ligue Europa",
+      "teams": "RFS - KuPS",
+      "channels": [
+        {
+          "name": "CH166lt",
+          "url": "https://envivo.govoet.my.id/166"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-06T19:30:00+02:00",
+      "competition": "Ligue Des Champions",
+      "teams": "Ludogorets - Ferencvaros",
+      "channels": [
+        {
+          "name": "CH162hu",
+          "url": "https://envivo.govoet.my.id/162"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-06T20:30:00+02:00",
+      "competition": "Amical Club",
+      "teams": "Aston Villa - AS Rome",
+      "channels": [
+        {
+          "name": "CH137it",
+          "url": "https://envivo.govoet.my.id/137"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-06T20:30:00+02:00",
+      "competition": "Amical Club",
+      "teams": "Betis - Como",
+      "channels": [
+        {
+          "name": "CH71es",
+          "url": "https://envivo.govoet.my.id/71"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-06T20:30:00+02:00",
+      "competition": "Amical Club",
+      "teams": "Gimnastic - Saragosse",
+      "channels": [
+        {
+          "name": "CH170es",
+          "url": "https://envivo.govoet.my.id/170"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-06T20:30:00+02:00",
+      "competition": "Ligue Des Champions",
+      "teams": "Lech - Étoile Rouge Belgrade",
+      "channels": [
+        {
+          "name": "CH163rs",
+          "url": "https://envivo.govoet.my.id/163"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-06T20:45:00+02:00",
+      "competition": "Ligue Europa",
+      "teams": "Rijeka - Shelbourne",
+      "channels": [
+        {
+          "name": "CH167hr",
+          "url": "https://envivo.govoet.my.id/167"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-06T21:00:00+02:00",
+      "competition": "Ligue Des Champions",
+      "teams": "Feyenoord - Fenerbahce",
+      "channels": [
+        {
+          "name": "CH164nl",
+          "url": "https://envivo.govoet.my.id/164"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-06T21:00:00+02:00",
+      "competition": "Ligue Des Champions",
+      "teams": "Nice - Benfica",
+      "channels": [
+        {
+          "name": "CH165pt",
+          "url": "https://envivo.govoet.my.id/165"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-06T22:00:00+02:00",
       "competition": "Liga 1 Te Apuesto",
-      "teams": "A. Lima - Sporting Cristal",
+      "teams": "Grau - Deportivo Garcilaso",
       "channels": [
         {
           "name": "CH84es",
@@ -36,24 +168,13 @@
       ]
     },
     {
-      "datetime": "2025-08-06T04:00:00+02:00",
-      "competition": "Leagues Cup",
-      "teams": "Mazatlan FC - San Diego FC",
+      "datetime": "2025-08-06T23:30:00+02:00",
+      "competition": "Copa Ecuador",
+      "teams": "Guayaquil City - Mushuc Runa",
       "channels": [
         {
-          "name": "CH183es",
-          "url": "https://envivo.govoet.my.id/183"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-06T04:30:00+02:00",
-      "competition": "Leagues Cup",
-      "teams": "Tigres - Los Angeles FC",
-      "channels": [
-        {
-          "name": "CH184es",
-          "url": "https://envivo.govoet.my.id/184"
+          "name": "CH86es",
+          "url": "https://envivo.govoet.my.id/86"
         }
       ]
     }
