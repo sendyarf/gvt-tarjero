@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-08-06T02:04:13.184703+00:00",
+  "last_updated": "2025-08-06T03:53:27.035679+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-05T23:00:00+02:00",
-      "competition": "Copa Colombia",
-      "teams": "Cucuta - Atl. Nacional",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-06T01:30:00+02:00",
       "competition": "Leagues Cup",
