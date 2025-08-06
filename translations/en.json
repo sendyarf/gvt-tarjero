@@ -1,25 +1,13 @@
 {
     "competitions": {
-      "Pro League": "Pro League",
       "Amical Club": "Club Friendly",
-      "Liga AUF Uruguaya": "Uruguayan Primera División",
-      "Liga De Expansion Mx": "Mexican Liga de Expansión",
-      "Liga Mx Women": "Mexican Liga MX Femenil",
-      "Ecuador Ligapro": "Ecuadorian LigaPro",
-      "Campeonato Itaú Chile": "Chilean Primera División",
-      "Copa Argentina": "Argentine Cup"
+        "Ligue Europa": "Europa League",
+        "Ligue Des Champions": "Champions League"
+
     },
     "teams": {
-      "Charleroi - Saint-Trond": "Charleroi - Sint-Truiden",
-      "Bournemouth - West Ham": "Bournemouth - West Ham",
-      "Gérone - Wolves": "Girona - Wolves",
-      "Porto - Atl. Madrid": "Porto - Atlético Madrid",
-      "Liverpool M. - Danubio": "Liverpool Montevideo - Danubio",
-      "Tlaxcala - Zacatecas Mineros": "Tlaxcala - Mineros de Zacatecas",
-      "Puebla F - Monterrey F": "Puebla Women - Monterrey Women",
-      "U. Catolica - Aucas": "Universidad Católica - Aucas",
-      "Colo Colo - Huachipato": "Colo Colo - Huachipato",
-      "Racing Club - Dep. Riestra": "Racing Club - Deportivo Riestra",
-      "Daegu - Barcelone": "Daegu - Barcelona"
+        "Barcelone (Esp)": "Barcelona (Esp)",
+      "Barcelone": "Barcelona",
+        "AS Rome": "AS Roma"
     }
   }
