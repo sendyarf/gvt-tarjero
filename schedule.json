@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-08-06T23:24:11.927246+00:00",
+  "last_updated": "2025-08-06T23:44:06.418543+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-06T19:30:00+02:00",
-      "competition": "Ligue Des Champions",
-      "teams": "Ludogorets - Ferencvaros",
-      "channels": [
-        {
-          "name": "CH162hu",
-          "url": "https://envivo.govoet.my.id/162"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-06T20:30:00+02:00",
       "competition": "Amical Club",
