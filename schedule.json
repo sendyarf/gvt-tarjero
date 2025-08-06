@@ -1,51 +1,7 @@
 {
-  "last_updated": "2025-08-06T22:48:16.807886+00:00",
+  "last_updated": "2025-08-06T23:24:11.927246+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-06T19:00:00+02:00",
-      "competition": "Amical Club",
-      "teams": "Arsenal - Villarreal",
-      "channels": [
-        {
-          "name": "CH171es",
-          "url": "https://envivo.govoet.my.id/171"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-06T19:00:00+02:00",
-      "competition": "Amical Club",
-      "teams": "R. Oviedo - La Corogne",
-      "channels": [
-        {
-          "name": "CH172es",
-          "url": "https://envivo.govoet.my.id/172"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-06T19:00:00+02:00",
-      "competition": "Ligue Des Champions",
-      "teams": "Red Bull Salzbourg - Club Brugge",
-      "channels": [
-        {
-          "name": "CH161fr",
-          "url": "https://envivo.govoet.my.id/161"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-06T19:00:00+02:00",
-      "competition": "Ligue Europa",
-      "teams": "RFS - KuPS",
-      "channels": [
-        {
-          "name": "CH166lt",
-          "url": "https://envivo.govoet.my.id/166"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-06T19:30:00+02:00",
       "competition": "Ligue Des Champions",
