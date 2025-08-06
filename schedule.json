@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-06T19:21:49.566331+00:00",
+  "last_updated": "2025-08-06T19:42:27.463576+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -175,6 +175,127 @@
         {
           "name": "CH86es",
           "url": "https://envivo.govoet.my.id/86"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-07T00:00:00+02:00",
+      "competition": "Copa Colombia",
+      "teams": "Tigres - America De Cali",
+      "channels": [
+        {
+          "name": "CH81es",
+          "url": "https://envivo.govoet.my.id/81"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-07T00:30:00+02:00",
+      "competition": "Liga 1 Te Apuesto",
+      "teams": "Binacional - Alianza Atl.",
+      "channels": [
+        {
+          "name": "CH84es",
+          "url": "https://envivo.govoet.my.id/84"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-07T01:00:00+02:00",
+      "competition": "Leagues Cup",
+      "teams": "Orlando City - Necaxa",
+      "channels": [
+        {
+          "name": "CH180es",
+          "url": "https://envivo.govoet.my.id/180"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-07T01:30:00+02:00",
+      "competition": "Leagues Cup",
+      "teams": "Atlanta Utd - Atlas",
+      "channels": [
+        {
+          "name": "CH68es",
+          "url": "https://envivo.govoet.my.id/68"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-07T01:30:00+02:00",
+      "competition": "Leagues Cup",
+      "teams": "Inter Miami - U.N.A.M.",
+      "channels": [
+        {
+          "name": "CH181es",
+          "url": "https://envivo.govoet.my.id/181"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-07T02:00:00+02:00",
+      "competition": "Copa Ecuador",
+      "teams": "Imbabura - Ind. del Valle",
+      "channels": [
+        {
+          "name": "CH86es",
+          "url": "https://envivo.govoet.my.id/86"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-07T02:30:00+02:00",
+      "competition": "Copa Colombia",
+      "teams": "Huila - Junior",
+      "channels": [
+        {
+          "name": "CH81es",
+          "url": "https://envivo.govoet.my.id/81"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-07T02:30:00+02:00",
+      "competition": "Leagues Cup",
+      "teams": "Minnesota - Atl. San Luis",
+      "channels": [
+        {
+          "name": "CH182es",
+          "url": "https://envivo.govoet.my.id/182"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-07T03:30:00+02:00",
+      "competition": "Leagues Cup",
+      "teams": "Club America - Portland Timbers",
+      "channels": [
+        {
+          "name": "CH183es",
+          "url": "https://envivo.govoet.my.id/183"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-07T03:30:00+02:00",
+      "competition": "Leagues Cup",
+      "teams": "Real Salt Lake - Queretaro",
+      "channels": [
+        {
+          "name": "CH184es",
+          "url": "https://envivo.govoet.my.id/184"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-07T05:00:00+02:00",
+      "competition": "Leagues Cup",
+      "teams": "Seattle Sounders - Tijuana",
+      "channels": [
+        {
+          "name": "CH185es",
+          "url": "https://envivo.govoet.my.id/185"
         }
       ]
     }
