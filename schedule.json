@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-08-07T05:31:08.220762+00:00",
+  "last_updated": "2025-08-07T06:38:26.818824+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-07T02:00:00+02:00",
-      "competition": "Copa Ecuador",
-      "teams": "Imbabura - Ind. del Valle",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-07T02:30:00+02:00",
-      "competition": "Copa Colombia",
-      "teams": "Huila - Junior",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-07T02:30:00+02:00",
-      "competition": "Leagues Cup",
-      "teams": "Minnesota - Atl. San Luis",
-      "channels": [
-        {
-          "name": "CH182es",
-          "url": "https://envivo.govoet.my.id/182"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-07T03:30:00+02:00",
       "competition": "Leagues Cup",
