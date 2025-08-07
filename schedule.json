@@ -1,17 +1,5 @@
 {
-  "last_updated": "2025-08-07T08:33:56.771447+00:00",
+  "last_updated": "2025-08-07T09:30:11.284463+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-08-07T05:00:00+02:00",
-      "competition": "Leagues Cup",
-      "teams": "Seattle Sounders - Tijuana",
-      "channels": [
-        {
-          "name": "CH185es",
-          "url": "https://envivo.govoet.my.id/185"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
