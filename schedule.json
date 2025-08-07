@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-08-07T22:48:33.030844+00:00",
+  "last_updated": "2025-08-07T23:24:01.704273+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-07T19:00:00+02:00",
-      "competition": "Conference League",
-      "teams": "Silkeborg (Den) - Jagiellonia (Pol)",
-      "channels": [
-        {
-          "name": "CH163pl",
-          "url": "https://envivo.govoet.my.id/163"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-07T19:00:00+02:00",
-      "competition": "Conference League",
-      "teams": "Viking (Nor) - Basaksehir (Tur)",
-      "channels": [
-        {
-          "name": "CH164tr",
-          "url": "https://envivo.govoet.my.id/164"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-07T19:30:00+02:00",
       "competition": "Ligue Europa",
