@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-08-07T23:24:01.704273+00:00",
+  "last_updated": "2025-08-07T23:44:16.600850+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-07T19:30:00+02:00",
-      "competition": "Ligue Europa",
-      "teams": "PAOK (Gre) - Wolfsberger (Aut)",
-      "channels": [
-        {
-          "name": "CH165rs",
-          "url": "https://envivo.govoet.my.id/165"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-07T20:00:00+02:00",
       "competition": "Conference League",
