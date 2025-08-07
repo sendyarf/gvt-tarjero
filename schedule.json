@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-08-07T07:27:59.097113+00:00",
+  "last_updated": "2025-08-07T07:48:09.391593+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-07T03:30:00+02:00",
-      "competition": "Leagues Cup",
-      "teams": "Club America - Portland Timbers",
-      "channels": [
-        {
-          "name": "CH183es",
-          "url": "https://envivo.govoet.my.id/183"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-07T03:30:00+02:00",
-      "competition": "Leagues Cup",
-      "teams": "Real Salt Lake - Queretaro",
-      "channels": [
-        {
-          "name": "CH184es",
-          "url": "https://envivo.govoet.my.id/184"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-07T05:00:00+02:00",
       "competition": "Leagues Cup",
