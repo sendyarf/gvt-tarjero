@@ -1,51 +1,7 @@
 {
-  "last_updated": "2025-08-07T22:24:39.431686+00:00",
+  "last_updated": "2025-08-07T22:48:33.030844+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-07T18:30:00+02:00",
-      "competition": "Amical Club",
-      "teams": "Bayern Munich (Ger) - Tottenham (Eng)",
-      "channels": [
-        {
-          "name": "CH111de",
-          "url": "https://envivo.govoet.my.id/111"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-07T18:30:00+02:00",
-      "competition": "Conference League",
-      "teams": "Ostrava (Cze) - Austria Vienne (Aut)",
-      "channels": [
-        {
-          "name": "CH162cz",
-          "url": "https://envivo.govoet.my.id/162"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-07T18:30:00+02:00",
-      "competition": "Ligue Europa",
-      "teams": "AEK Larnaca (Cyp) - Legia (Pol)",
-      "channels": [
-        {
-          "name": "CH160pl",
-          "url": "https://envivo.govoet.my.id/160"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-07T18:30:00+02:00",
-      "competition": "Ligue Europa",
-      "teams": "CFR Cluj (Rou) - Braga (Por)",
-      "channels": [
-        {
-          "name": "CH161pt",
-          "url": "https://envivo.govoet.my.id/161"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-07T19:00:00+02:00",
       "competition": "Conference League",
