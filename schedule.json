@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-08-08T03:53:01.148903+00:00",
+  "last_updated": "2025-08-08T04:48:58.478298+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-08T00:00:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "San Lorenzo - Velez Sarsfield",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-08T01:00:00+02:00",
       "competition": "Leagues Cup",
