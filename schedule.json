@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-08-08T06:38:08.035942+00:00",
+  "last_updated": "2025-08-08T07:28:12.321526+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-08T03:10:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Chico - La Equidad",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-08T05:15:00+02:00",
       "competition": "Leagues Cup",
