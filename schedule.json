@@ -1,55 +1,7 @@
 {
-  "last_updated": "2025-08-08T04:48:58.478298+00:00",
+  "last_updated": "2025-08-08T05:31:12.526227+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-08T01:00:00+02:00",
-      "competition": "Leagues Cup",
-      "teams": "Cincinnati - Guadalajara",
-      "channels": [
-        {
-          "name": "CH180es",
-          "url": "https://envivo.govoet.my.id/180"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-08T01:00:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "U. Magdalena - Pasto",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-08T01:30:00+02:00",
-      "competition": "Leagues Cup",
-      "teams": "Monterrey - Charlotte",
-      "channels": [
-        {
-          "name": "CH181es",
-          "url": "https://envivo.govoet.my.id/181"
-        },
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-08T01:30:00+02:00",
-      "competition": "Leagues Cup",
-      "teams": "New York Red Bulls - Juarez",
-      "channels": [
-        {
-          "name": "CH182es",
-          "url": "https://envivo.govoet.my.id/182"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-08T02:00:00+02:00",
       "competition": "Copa Ecuador",
