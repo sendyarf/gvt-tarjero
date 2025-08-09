@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-09T13:31:17.575866+00:00",
+  "last_updated": "2025-08-09T14:20:30.732888+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -281,7 +281,7 @@
       "teams": "Samsunspor - Genclerbirligi",
       "channels": [
         {
-          "name": "CH151xtr",
+          "name": "CH151tr",
           "url": "https://envivo.govoet.my.id/151"
         }
       ]
@@ -520,7 +520,7 @@
       "teams": "Antalyaspor - Kasimpasa",
       "channels": [
         {
-          "name": "CH151xtr",
+          "name": "CH151tr",
           "url": "https://envivo.govoet.my.id/151"
         }
       ]
