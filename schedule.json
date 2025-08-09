@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-08-09T19:17:22.381504+00:00",
+  "last_updated": "2025-08-09T19:38:52.153987+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-09T15:30:00+02:00",
-      "competition": "Amical Club",
-      "teams": "Mayence (Ger) - Strasbourg (Fra)",
-      "channels": [
-        {
-          "name": "CH160fr",
-          "url": "https://envivo.govoet.my.id/160"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-09T15:30:00+02:00",
-      "competition": "Amical Club",
-      "teams": "Union Berlin (Ger) - Olympiakos (Gre)",
-      "channels": [
-        {
-          "name": "CH118de",
-          "url": "https://envivo.govoet.my.id/118"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-09T16:00:00+02:00",
       "competition": "Amical Club",
