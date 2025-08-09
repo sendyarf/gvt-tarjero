@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-08-09T23:21:38.597890+00:00",
+  "last_updated": "2025-08-09T23:42:04.609055+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-09T19:30:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "San Martin S.J. - Sarmiento Junin",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-09T20:00:00+02:00",
       "competition": "Amical Club",
