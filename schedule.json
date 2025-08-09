@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-08-09T20:43:15.313604+00:00",
+  "last_updated": "2025-08-09T21:20:45.110197+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-09T17:00:00+02:00",
-      "competition": "Amical Club",
-      "teams": "Newcastle (Eng) - Atl. Madrid (Esp)",
-      "channels": [
-        {
-          "name": "CH166fr",
-          "url": "https://envivo.govoet.my.id/166"
-        },
-        {
-          "name": "CH59es",
-          "url": "https://envivo.govoet.my.id/59"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-09T18:00:00+02:00",
       "competition": "Amical Club",
