@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-08-09T03:21:52.782720+00:00",
+  "last_updated": "2025-08-09T04:03:20.582222+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-09T00:00:00+02:00",
-      "competition": "Liga AUF Uruguaya",
-      "teams": "Montevideo City - Boston River",
-      "channels": [
-        {
-          "name": "CH109es",
-          "url": "https://envivo.govoet.my.id/109"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-09T00:00:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Tigre - Huracan",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-09T01:00:00+02:00",
       "competition": "Liga Mx Women",
