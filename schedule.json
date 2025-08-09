@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-08-09T04:50:55.537062+00:00",
+  "last_updated": "2025-08-09T05:22:18.367179+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-09T01:00:00+02:00",
-      "competition": "Liga Mx Women",
-      "teams": "Guadalajara F - Cruz Azul F",
-      "channels": [
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-09T01:00:00+02:00",
-      "competition": "Liga Mx Women",
-      "teams": "Queretaro F - Atl. San Luis F",
-      "channels": [
-        {
-          "name": "CH156es",
-          "url": "https://envivo.govoet.my.id/156"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-09T02:00:00+02:00",
       "competition": "Ecuador Ligapro",
