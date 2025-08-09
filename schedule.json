@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-08-09T22:21:38.005648+00:00",
+  "last_updated": "2025-08-09T22:44:32.876791+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-09T18:30:00+02:00",
-      "competition": "Campeonato Itaú Chile",
-      "teams": "Huachipato - U. Calera",
-      "channels": [
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-09T18:30:00+02:00",
-      "competition": "Championship",
-      "teams": "Sheffield Utd - Bristol City",
-      "channels": [
-        {
-          "name": "CH127gb",
-          "url": "https://envivo.govoet.my.id/127"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-09T18:45:00+02:00",
       "competition": "Eredivisie",
