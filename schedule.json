@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-08-09T06:33:18.901349+00:00",
+  "last_updated": "2025-08-09T07:20:45.833573+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-09T03:00:00+02:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Venados - Tapatio",
-      "channels": [
-        {
-          "name": "CH159es",
-          "url": "https://envivo.govoet.my.id/159"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-09T03:00:00+02:00",
-      "competition": "Liga Mx Women",
-      "teams": "Atlas F - Tigres F",
-      "channels": [
-        {
-          "name": "CH157es",
-          "url": "https://envivo.govoet.my.id/157"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-09T05:00:00+02:00",
       "competition": "Liga De Expansion Mx",
