@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-08-09T20:24:30.795986+00:00",
+  "last_updated": "2025-08-09T20:43:15.313604+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-09T16:30:00+02:00",
-      "competition": "Amical Club",
-      "teams": "Hoffenheim (Ger) - Metz (Fra)",
-      "channels": [
-        {
-          "name": "CH161fr",
-          "url": "https://envivo.govoet.my.id/161"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-09T16:30:00+02:00",
-      "competition": "Eredivisie",
-      "teams": "Nijmegen - Excelsior",
-      "channels": [
-        {
-          "name": "CH141nl",
-          "url": "https://envivo.govoet.my.id/141"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-09T16:30:00+02:00",
-      "competition": "Liga Portugal",
-      "teams": "Nacional - Gil Vicente",
-      "channels": [
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-09T17:00:00+02:00",
       "competition": "Amical Club",
