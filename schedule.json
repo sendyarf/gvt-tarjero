@@ -1,51 +1,7 @@
 {
-  "last_updated": "2025-08-10T02:07:51.963286+00:00",
+  "last_updated": "2025-08-10T03:52:12.284085+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-09T22:15:00+02:00",
-      "competition": "Liga 1 Te Apuesto",
-      "teams": "AD Tarma - Huancayo",
-      "channels": [
-        {
-          "name": "CH84es",
-          "url": "https://envivo.govoet.my.id/84"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-09T23:30:00+02:00",
-      "competition": "Campeonato Itaú Chile",
-      "teams": "La Serena - O'Higgins",
-      "channels": [
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-09T23:30:00+02:00",
-      "competition": "Ecuador Ligapro",
-      "teams": "Aucas - LDU Quito",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-09T23:30:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Independiente - River Plate",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-10T00:00:00+02:00",
       "competition": "Liga De Expansion Mx",
