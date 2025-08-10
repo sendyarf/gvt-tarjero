@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-08-10T21:41:10.889505+00:00",
+  "last_updated": "2025-08-10T22:21:24.368271+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-10T18:00:00+02:00",
-      "competition": "Liga 1 Te Apuesto",
-      "teams": "Sporting Cristal - Melgar",
-      "channels": [
-        {
-          "name": "CH84es",
-          "url": "https://envivo.govoet.my.id/84"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-10T18:00:00+02:00",
-      "competition": "Liga Portugal",
-      "teams": "Famalicao - Santa Clara",
-      "channels": [
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-10T18:00:00+02:00",
-      "competition": "Super Lig",
-      "teams": "Rizespor - Goztepe",
-      "channels": [
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-10T18:30:00+02:00",
       "competition": "Campeonato Itaú Chile",
