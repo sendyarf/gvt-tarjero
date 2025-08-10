@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-08-10T22:21:24.368271+00:00",
+  "last_updated": "2025-08-10T22:44:35.891191+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-10T18:30:00+02:00",
-      "competition": "Campeonato Itaú Chile",
-      "teams": "Everton - Colo Colo",
-      "channels": [
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-10T18:30:00+02:00",
-      "competition": "Liga AUF Uruguaya",
-      "teams": "Danubio - Juventud",
-      "channels": [
-        {
-          "name": "CH109es",
-          "url": "https://envivo.govoet.my.id/109"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-10T18:30:00+02:00",
-      "competition": "Pro League",
-      "teams": "Standard Liège - Genk",
-      "channels": [
-        {
-          "name": "CH153fr",
-          "url": "https://envivo.govoet.my.id/153"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-10T19:00:00+02:00",
       "competition": "Amical Club",
