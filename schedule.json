@@ -1,63 +1,7 @@
 {
-  "last_updated": "2025-08-10T19:38:33.014631+00:00",
+  "last_updated": "2025-08-10T20:24:41.212265+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-10T16:00:00+02:00",
-      "competition": "Amical Club",
-      "teams": "Chelsea (Eng) - AC Milan (Ita)",
-      "channels": [
-        {
-          "name": "CH160gb",
-          "url": "https://envivo.govoet.my.id/160"
-        },
-        {
-          "name": "CH72es",
-          "url": "https://envivo.govoet.my.id/72"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-10T16:00:00+02:00",
-      "competition": "Community Shield",
-      "teams": "Crystal Palace - Liverpool",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH126gb",
-          "url": "https://envivo.govoet.my.id/126"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-10T16:00:00+02:00",
-      "competition": "Liga AUF Uruguaya",
-      "teams": "Cerro CA - Racing Montevideo",
-      "channels": [
-        {
-          "name": "CH109es",
-          "url": "https://envivo.govoet.my.id/109"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-10T16:00:00+02:00",
-      "competition": "Pro League",
-      "teams": "Anderlecht - Zulte-Waregem",
-      "channels": [
-        {
-          "name": "CH153fr",
-          "url": "https://envivo.govoet.my.id/153"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-10T16:45:00+02:00",
       "competition": "Eredivisie",
