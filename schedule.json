@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-08-10T21:20:40.913788+00:00",
+  "last_updated": "2025-08-10T21:41:10.889505+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-10T17:30:00+02:00",
-      "competition": "Amical Club",
-      "teams": "Dortmund (Ger) - Juventus (Ita)",
-      "channels": [
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-10T17:30:00+02:00",
-      "competition": "Championship",
-      "teams": "Leicester - Sheffield Wed",
-      "channels": [
-        {
-          "name": "CH127gb",
-          "url": "https://envivo.govoet.my.id/127"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-10T18:00:00+02:00",
       "competition": "Liga 1 Te Apuesto",
