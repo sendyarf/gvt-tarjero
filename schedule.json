@@ -1,51 +1,7 @@
 {
-  "last_updated": "2025-08-11T03:52:29.983254+00:00",
+  "last_updated": "2025-08-11T04:48:09.882017+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-11T00:00:00+02:00",
-      "competition": "MLS",
-      "teams": "Cincinnati - Charlotte",
-      "channels": [
-        {
-          "name": "CH170us",
-          "url": "https://envivo.govoet.my.id/170"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-11T00:00:00+02:00",
-      "competition": "MLS",
-      "teams": "Minnesota - Colorado Rapids",
-      "channels": [
-        {
-          "name": "CH171us",
-          "url": "https://envivo.govoet.my.id/171"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-11T00:00:00+02:00",
-      "competition": "MLS",
-      "teams": "New York Red Bulls - Real Salt Lake",
-      "channels": [
-        {
-          "name": "CH172us",
-          "url": "https://envivo.govoet.my.id/172"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-11T00:15:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Fortaleza - Pereira",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-11T01:00:00+02:00",
       "competition": "Ecuador Ligapro",
