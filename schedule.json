@@ -1,36 +1,5 @@
 {
-  "last_updated": "2025-08-11T07:46:56.565625+00:00",
+  "last_updated": "2025-08-11T08:34:38.948084+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-08-11T04:00:00+02:00",
-      "competition": "MLS",
-      "teams": "Los Angeles Galaxy - Seattle Sounders",
-      "channels": [
-        {
-          "name": "CH175us",
-          "url": "https://envivo.govoet.my.id/175"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-11T04:05:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Santos Laguna - Guadalajara",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        },
-        {
-          "name": "CH106es",
-          "url": "https://envivo.govoet.my.id/106"
-        },
-        {
-          "name": "CH107es",
-          "url": "https://envivo.govoet.my.id/107"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
