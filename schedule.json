@@ -1,52 +1,7 @@
 {
-  "last_updated": "2025-08-11T05:30:18.544858+00:00",
+  "last_updated": "2025-08-11T06:38:01.625696+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-11T02:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "U.N.A.M. - Necaxa",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        },
-        {
-          "name": "CH106es",
-          "url": "https://envivo.govoet.my.id/106"
-        },
-        {
-          "name": "CH107es",
-          "url": "https://envivo.govoet.my.id/107"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-11T02:00:00+02:00",
-      "competition": "MLS",
-      "teams": "Orlando City - Inter Miami",
-      "channels": [
-        {
-          "name": "CH173us",
-          "url": "https://envivo.govoet.my.id/173"
-        },
-        {
-          "name": "CH174es",
-          "url": "https://envivo.govoet.my.id/174"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-11T02:30:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Llaneros - Ind. Medellin",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-11T04:00:00+02:00",
       "competition": "MLS",
