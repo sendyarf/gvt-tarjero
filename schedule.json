@@ -1,5 +1,192 @@
 {
-  "last_updated": "2025-08-11T12:51:30.878148+00:00",
+  "last_updated": "2025-08-11T13:39:42.413372+00:00",
   "timezone": "Europe/Paris",
-  "matches": []
+  "matches": [
+    {
+      "datetime": "2025-08-11T19:45:00+02:00",
+      "competition": "Liga Portugal",
+      "teams": "Estoril - Estrela",
+      "channels": [
+        {
+          "name": "CH145pt",
+          "url": "https://envivo.govoet.my.id/145"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-11T20:30:00+02:00",
+      "competition": "Super Lig",
+      "teams": "Trabzonspor - Kocaelispor",
+      "channels": [
+        {
+          "name": "CH4fr",
+          "url": "https://envivo.govoet.my.id/4"
+        },
+        {
+          "name": "CH151tr",
+          "url": "https://envivo.govoet.my.id/151"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-11T20:45:00+02:00",
+      "competition": "Ligue 2",
+      "teams": "Amiens - Reims",
+      "channels": [
+        {
+          "name": "CH1fr",
+          "url": "https://envivo.govoet.my.id/1"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-11T21:45:00+02:00",
+      "competition": "Liga Portugal",
+      "teams": "FC Porto - Guimaraes",
+      "channels": [
+        {
+          "name": "CH2fr",
+          "url": "https://envivo.govoet.my.id/2"
+        },
+        {
+          "name": "CH144pt",
+          "url": "https://envivo.govoet.my.id/144"
+        },
+        {
+          "name": "CH74es",
+          "url": "https://envivo.govoet.my.id/74"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-11T22:00:00+02:00",
+      "competition": "Liga 1 Te Apuesto",
+      "teams": "Alianza Atl. - Cajamarca",
+      "channels": [
+        {
+          "name": "CH84es",
+          "url": "https://envivo.govoet.my.id/84"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-11T23:00:00+02:00",
+      "competition": "Ecuador Ligapro",
+      "teams": "Emelec - Dep. Cuenca",
+      "channels": [
+        {
+          "name": "CH86es",
+          "url": "https://envivo.govoet.my.id/86"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-12T00:00:00+02:00",
+      "competition": "Liga AUF Uruguaya",
+      "teams": "Defensor Sp. - River Plate",
+      "channels": [
+        {
+          "name": "CH109es",
+          "url": "https://envivo.govoet.my.id/109"
+        },
+        {
+          "name": "CH74es",
+          "url": "https://envivo.govoet.my.id/74"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-12T00:00:00+02:00",
+      "competition": "Torneo LPF",
+      "teams": "Defensa y Justicia - Dep. Riestra",
+      "channels": [
+        {
+          "name": "CH76es",
+          "url": "https://envivo.govoet.my.id/76"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-12T01:00:00+02:00",
+      "competition": "Campeonato Itaú Chile",
+      "teams": "Limache - A. Italiano",
+      "channels": [
+        {
+          "name": "CH83es",
+          "url": "https://envivo.govoet.my.id/83"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-12T02:00:00+02:00",
+      "competition": "Liga 1 Te Apuesto",
+      "teams": "Deportivo Garcilaso - Alianza Huanuco",
+      "channels": [
+        {
+          "name": "CH84es",
+          "url": "https://envivo.govoet.my.id/84"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-12T03:00:00+02:00",
+      "competition": "Liga Betplay Dimayor",
+      "teams": "Chico - La Equidad",
+      "channels": [
+        {
+          "name": "CH81es",
+          "url": "https://envivo.govoet.my.id/81"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-12T03:00:00+02:00",
+      "competition": "Liga Mx",
+      "teams": "Leon - Monterrey",
+      "channels": [
+        {
+          "name": "CH68es",
+          "url": "https://envivo.govoet.my.id/68"
+        },
+        {
+          "name": "CH155es",
+          "url": "https://envivo.govoet.my.id/155"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-12T05:00:00+02:00",
+      "competition": "Liga Mx",
+      "teams": "Juarez - Toluca",
+      "channels": [
+        {
+          "name": "CH108es",
+          "url": "https://envivo.govoet.my.id/108"
+        },
+        {
+          "name": "CH70es",
+          "url": "https://envivo.govoet.my.id/70"
+        },
+        {
+          "name": "CH72es",
+          "url": "https://envivo.govoet.my.id/72"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-12T05:05:00+02:00",
+      "competition": "Liga Mx",
+      "teams": "Atl. San Luis - Cruz Azul",
+      "channels": [
+        {
+          "name": "CH68es",
+          "url": "https://envivo.govoet.my.id/68"
+        },
+        {
+          "name": "CH98es",
+          "url": "https://envivo.govoet.my.id/98"
+        }
+      ]
+    }
+  ]
 }
