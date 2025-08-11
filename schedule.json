@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-08-11T02:04:17.053777+00:00",
+  "last_updated": "2025-08-11T03:52:29.983254+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-10T22:30:00+02:00",
-      "competition": "Ecuador Ligapro",
-      "teams": "Macara - Delfin",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-10T22:30:00+02:00",
-      "competition": "Liga 1 Te Apuesto",
-      "teams": "Juan Pablo II - Binacional",
-      "channels": [
-        {
-          "name": "CH84es",
-          "url": "https://envivo.govoet.my.id/84"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-10T23:30:00+02:00",
-      "competition": "Liga AUF Uruguaya",
-      "teams": "Miramar - Liverpool M.",
-      "channels": [
-        {
-          "name": "CH109es",
-          "url": "https://envivo.govoet.my.id/109"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-11T00:00:00+02:00",
       "competition": "MLS",
