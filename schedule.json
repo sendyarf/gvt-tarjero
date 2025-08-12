@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-08-12T21:41:29.068215+00:00",
+  "last_updated": "2025-08-12T22:21:19.850866+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-12T18:00:00+02:00",
-      "competition": "Amical Club",
-      "teams": "Grasshoppers (Sui) - Bayern Munich (Ger)",
-      "channels": [
-        {
-          "name": "CH160de",
-          "url": "https://envivo.govoet.my.id/160"
-        },
-        {
-          "name": "CH82es",
-          "url": "https://envivo.govoet.my.id/82"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-12T18:00:00+02:00",
-      "competition": "Ligue Des Champions",
-      "teams": "Qarabag (Aze) - Shkendija (Mkd)",
-      "channels": [
-        {
-          "name": "CH170az",
-          "url": "https://envivo.govoet.my.id/170"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-12T19:00:00+02:00",
       "competition": "Amical Club",
