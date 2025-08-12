@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-08-12T23:21:37.454126+00:00",
+  "last_updated": "2025-08-12T23:41:26.425386+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-12T19:30:00+02:00",
-      "competition": "Ligue Des Champions",
-      "teams": "Club Brugge (Bel) - Red Bull Salzbourg (Aut)",
-      "channels": [
-        {
-          "name": "CH175fr",
-          "url": "https://envivo.govoet.my.id/175"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-12T20:15:00+02:00",
       "competition": "Ligue Des Champions",
