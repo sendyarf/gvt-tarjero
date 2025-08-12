@@ -1,62 +1,7 @@
 {
-  "last_updated": "2025-08-12T22:43:58.207833+00:00",
+  "last_updated": "2025-08-12T23:21:37.454126+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-12T19:00:00+02:00",
-      "competition": "Amical Club",
-      "teams": "Tirol (Aut) - Real Madrid (Esp)",
-      "channels": [
-        {
-          "name": "CH161es",
-          "url": "https://envivo.govoet.my.id/161"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-12T19:00:00+02:00",
-      "competition": "Ligue Des Champions",
-      "teams": "FC Copenhague (Den) - Malmo FF (Swe)",
-      "channels": [
-        {
-          "name": "CH171rs",
-          "url": "https://envivo.govoet.my.id/171"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-12T19:00:00+02:00",
-      "competition": "Ligue Des Champions",
-      "teams": "Fenerbahce (Tur) - Feyenoord (Ned)",
-      "channels": [
-        {
-          "name": "CH172nl",
-          "url": "https://envivo.govoet.my.id/172"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-12T19:00:00+02:00",
-      "competition": "Ligue Des Champions",
-      "teams": "Pafos (Cyp) - Dyn. Kyiv (Ukr)",
-      "channels": [
-        {
-          "name": "CH173ua",
-          "url": "https://envivo.govoet.my.id/173"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-12T19:00:00+02:00",
-      "competition": "Ligue Des Champions",
-      "teams": "Plzen (Cze) - Rangers (Sco)",
-      "channels": [
-        {
-          "name": "CH174cz",
-          "url": "https://envivo.govoet.my.id/174"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-12T19:30:00+02:00",
       "competition": "Ligue Des Champions",
