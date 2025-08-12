@@ -1,38 +1,326 @@
 {
-  "last_updated": "2025-08-12T08:30:56.416510+00:00",
+  "last_updated": "2025-08-12T09:26:33.374661+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
-      "datetime": "2025-08-12T05:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Juarez - Toluca",
+      "datetime": "2025-08-12T18:00:00+02:00",
+      "competition": "Amical Club",
+      "teams": "Grasshoppers (Sui) - Bayern Munich (Ger)",
       "channels": [
         {
-          "name": "CH108es",
-          "url": "https://envivo.govoet.my.id/108"
+          "name": "CH160de",
+          "url": "https://envivo.govoet.my.id/160"
         },
         {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        },
-        {
-          "name": "CH72es",
-          "url": "https://envivo.govoet.my.id/72"
+          "name": "CH82es",
+          "url": "https://envivo.govoet.my.id/82"
         }
       ]
     },
     {
-      "datetime": "2025-08-12T05:05:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Atl. San Luis - Cruz Azul",
+      "datetime": "2025-08-12T18:00:00+02:00",
+      "competition": "Ligue Des Champions",
+      "teams": "Qarabag (Aze) - Shkendija (Mkd)",
       "channels": [
         {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
+          "name": "CH170az",
+          "url": "https://envivo.govoet.my.id/170"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-12T19:00:00+02:00",
+      "competition": "Amical Club",
+      "teams": "Tirol (Aut) - Real Madrid (Esp)",
+      "channels": [
+        {
+          "name": "CH161es",
+          "url": "https://envivo.govoet.my.id/161"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-12T19:00:00+02:00",
+      "competition": "Ligue Des Champions",
+      "teams": "FC Copenhague (Den) - Malmo FF (Swe)",
+      "channels": [
+        {
+          "name": "CH171rs",
+          "url": "https://envivo.govoet.my.id/171"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-12T19:00:00+02:00",
+      "competition": "Ligue Des Champions",
+      "teams": "Fenerbahce (Tur) - Feyenoord (Ned)",
+      "channels": [
+        {
+          "name": "CH172nl",
+          "url": "https://envivo.govoet.my.id/172"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-12T19:00:00+02:00",
+      "competition": "Ligue Des Champions",
+      "teams": "Pafos (Cyp) - Dyn. Kyiv (Ukr)",
+      "channels": [
+        {
+          "name": "CH173ua",
+          "url": "https://envivo.govoet.my.id/173"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-12T19:00:00+02:00",
+      "competition": "Ligue Des Champions",
+      "teams": "Plzen (Cze) - Rangers (Sco)",
+      "channels": [
+        {
+          "name": "CH174cz",
+          "url": "https://envivo.govoet.my.id/174"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-12T19:30:00+02:00",
+      "competition": "Ligue Des Champions",
+      "teams": "Club Brugge (Bel) - Red Bull Salzbourg (Aut)",
+      "channels": [
+        {
+          "name": "CH175fr",
+          "url": "https://envivo.govoet.my.id/175"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-12T20:15:00+02:00",
+      "competition": "Ligue Des Champions",
+      "teams": "Ferencvaros (Hun) - Ludogorets (Bul)",
+      "channels": [
+        {
+          "name": "CH176hu",
+          "url": "https://envivo.govoet.my.id/176"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-12T20:15:00+02:00",
+      "competition": "Ligue Des Champions",
+      "teams": "Slovan Bratislava (Svk) - Kairat Almaty (Kaz)",
+      "channels": [
+        {
+          "name": "CH177kz",
+          "url": "https://envivo.govoet.my.id/177"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-12T20:45:00+02:00",
+      "competition": "Efl Cup",
+      "teams": "Watford - Norwich",
+      "channels": [
+        {
+          "name": "CH130us",
+          "url": "https://envivo.govoet.my.id/130"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-12T20:45:00+02:00",
+      "competition": "Efl Cup",
+      "teams": "West Brom - Derby",
+      "channels": [
+        {
+          "name": "CH131us",
+          "url": "https://envivo.govoet.my.id/131"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-12T20:45:00+02:00",
+      "competition": "Ligue Europa",
+      "teams": "Shelbourne (Irl) - Rijeka (Cro)",
+      "channels": [
+        {
+          "name": "CH178hr",
+          "url": "https://envivo.govoet.my.id/178"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-12T21:00:00+02:00",
+      "competition": "Amical Club",
+      "teams": "Monza (Ita) - Inter (Ita)",
+      "channels": [
+        {
+          "name": "CH162it",
+          "url": "https://envivo.govoet.my.id/162"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-12T21:00:00+02:00",
+      "competition": "Efl Cup",
+      "teams": "Bromley - Ipswich",
+      "channels": [
+        {
+          "name": "CH132us",
+          "url": "https://envivo.govoet.my.id/132"
         },
         {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
+          "name": "CH99es",
+          "url": "https://envivo.govoet.my.id/99"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-12T21:00:00+02:00",
+      "competition": "Ligue Des Champions",
+      "teams": "Benfica (Por) - Nice (Fra)",
+      "channels": [
+        {
+          "name": "CH179pt",
+          "url": "https://envivo.govoet.my.id/179"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-12T21:00:00+02:00",
+      "competition": "Ligue Des Champions",
+      "teams": "Étoile Rouge Belgrade (Srb) - Lech (Pol)",
+      "channels": [
+        {
+          "name": "CH180rs",
+          "url": "https://envivo.govoet.my.id/180"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-13T00:00:00+02:00",
+      "competition": "Copa Libertadores",
+      "teams": "Fortaleza (Bra) - Velez Sarsfield (Arg)",
+      "channels": [
+        {
+          "name": "CH88es",
+          "url": "https://envivo.govoet.my.id/88"
+        },
+        {
+          "name": "CH100es",
+          "url": "https://envivo.govoet.my.id/100"
+        },
+        {
+          "name": "CH69es",
+          "url": "https://envivo.govoet.my.id/69"
+        },
+        {
+          "name": "CH78es",
+          "url": "https://envivo.govoet.my.id/78"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-13T00:00:00+02:00",
+      "competition": "Copa Sudamericana",
+      "teams": "Once Caldas (Col) - Huracan (Arg)",
+      "channels": [
+        {
+          "name": "CH87es",
+          "url": "https://envivo.govoet.my.id/87"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-13T01:00:00+02:00",
+      "competition": "Liga Mx Women",
+      "teams": "Atl. San Luis F - Atlas F",
+      "channels": [
+        {
+          "name": "CH97es",
+          "url": "https://envivo.govoet.my.id/97"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-13T01:00:00+02:00",
+      "competition": "Liga Mx Women",
+      "teams": "Queretaro F - Pachuca F",
+      "channels": [
+        {
+          "name": "CH155es",
+          "url": "https://envivo.govoet.my.id/155"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-13T02:30:00+02:00",
+      "competition": "Copa Libertadores",
+      "teams": "Atl. Nacional (Col) - Sao Paulo (Bra)",
+      "channels": [
+        {
+          "name": "CH87es",
+          "url": "https://envivo.govoet.my.id/87"
+        },
+        {
+          "name": "CH100es",
+          "url": "https://envivo.govoet.my.id/100"
+        },
+        {
+          "name": "CH69es",
+          "url": "https://envivo.govoet.my.id/69"
+        },
+        {
+          "name": "CH79es",
+          "url": "https://envivo.govoet.my.id/79"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-13T02:30:00+02:00",
+      "competition": "Copa Libertadores",
+      "teams": "Penarol (Uru) - Racing Club (Arg)",
+      "channels": [
+        {
+          "name": "CH88es",
+          "url": "https://envivo.govoet.my.id/88"
+        },
+        {
+          "name": "CH78es",
+          "url": "https://envivo.govoet.my.id/78"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-13T02:30:00+02:00",
+      "competition": "Copa Sudamericana",
+      "teams": "America De Cali (Col) - Fluminense (Bra)",
+      "channels": [
+        {
+          "name": "CH94es",
+          "url": "https://envivo.govoet.my.id/94"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-13T02:30:00+02:00",
+      "competition": "Copa Sudamericana",
+      "teams": "Ind. del Valle (Ecu) - Mushuc Runa (Ecu)",
+      "channels": [
+        {
+          "name": "CH91es",
+          "url": "https://envivo.govoet.my.id/91"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-13T03:00:00+02:00",
+      "competition": "Liga Mx Women",
+      "teams": "Tigres F - Tijuana F",
+      "channels": [
+        {
+          "name": "CH111es",
+          "url": "https://envivo.govoet.my.id/111"
         }
       ]
     }
