@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-12T20:45:23.410143+00:00",
+  "last_updated": "2025-08-12T21:21:22.334094+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -319,8 +319,8 @@
       "teams": "Tigres F - Tijuana F",
       "channels": [
         {
-          "name": "CH111es",
-          "url": "https://envivo.govoet.my.id/111"
+          "name": "CH101es",
+          "url": "https://envivo.govoet.my.id/101"
         }
       ]
     }
