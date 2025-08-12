@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-08-12T06:35:09.825412+00:00",
+  "last_updated": "2025-08-12T07:23:10.104983+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-12T03:00:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Chico - La Equidad",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-12T03:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Leon - Monterrey",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        },
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-12T05:00:00+02:00",
       "competition": "Liga Mx",
