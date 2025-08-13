@@ -1,41 +1,7 @@
 {
-  "last_updated": "2025-08-13T03:22:07.844203+00:00",
+  "last_updated": "2025-08-13T04:03:53.735506+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-13T00:00:00+02:00",
-      "competition": "Copa Libertadores",
-      "teams": "Fortaleza (Bra) - Velez Sarsfield (Arg)",
-      "channels": [
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH100es",
-          "url": "https://envivo.govoet.my.id/100"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        },
-        {
-          "name": "CH78es",
-          "url": "https://envivo.govoet.my.id/78"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-13T00:00:00+02:00",
-      "competition": "Copa Sudamericana",
-      "teams": "Once Caldas (Col) - Huracan (Arg)",
-      "channels": [
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-13T01:00:00+02:00",
       "competition": "Liga Mx Women",
