@@ -1,17 +1,5 @@
 {
-  "last_updated": "2025-08-13T06:35:15.618234+00:00",
+  "last_updated": "2025-08-13T07:23:55.259034+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-08-13T03:00:00+02:00",
-      "competition": "Liga Mx Women",
-      "teams": "Tigres F - Tijuana F",
-      "channels": [
-        {
-          "name": "CH101es",
-          "url": "https://envivo.govoet.my.id/101"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
