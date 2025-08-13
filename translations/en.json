@@ -2,7 +2,8 @@
     "competitions": {
       "Amical Club": "Club Friendly",
         "Ligue Europa": "Europa League",
-        "Ligue Des Champions": "Champions League"
+        "Ligue Des Champions": "Champions League",
+        "Super Coupe de UEFA": "UEFA Super Cup"
 
     },
     "teams": {
