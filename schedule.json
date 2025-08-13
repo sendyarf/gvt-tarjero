@@ -1,5 +1,414 @@
 {
-  "last_updated": "2025-08-13T15:21:19.965902+00:00",
+  "last_updated": "2025-08-13T15:39:33.410395+00:00",
   "timezone": "Europe/Paris",
-  "matches": []
+  "matches": [
+    {
+      "datetime": "2025-08-13T18:00:00+02:00",
+      "competition": "Conference League",
+      "teams": "Basaksehir (Tur) - Viking (Nor)",
+      "channels": [
+        {
+          "name": "CH176tr",
+          "url": "https://envivo.govoet.my.id/176"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-13T20:45:00+02:00",
+      "competition": "Efl Cup",
+      "teams": "Barnsley - Fleetwood",
+      "channels": [
+        {
+          "name": "CH129us",
+          "url": "https://envivo.govoet.my.id/129"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-13T20:45:00+02:00",
+      "competition": "Efl Cup",
+      "teams": "Bolton - Sheffield Wed",
+      "channels": [
+        {
+          "name": "CH130us",
+          "url": "https://envivo.govoet.my.id/130"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-13T20:45:00+02:00",
+      "competition": "Efl Cup",
+      "teams": "Cheltenham - Exeter",
+      "channels": [
+        {
+          "name": "CH131us",
+          "url": "https://envivo.govoet.my.id/131"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-13T20:45:00+02:00",
+      "competition": "Efl Cup",
+      "teams": "Huddersfield - Leicester",
+      "channels": [
+        {
+          "name": "CH132us",
+          "url": "https://envivo.govoet.my.id/132"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-13T21:00:00+02:00",
+      "competition": "Efl Cup",
+      "teams": "Birmingham - Sheffield Utd",
+      "channels": [
+        {
+          "name": "CH1fr",
+          "url": "https://envivo.govoet.my.id/1"
+        },
+        {
+          "name": "CH127us",
+          "url": "https://envivo.govoet.my.id/127"
+        },
+        {
+          "name": "CH100es",
+          "url": "https://envivo.govoet.my.id/100"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-13T22:00:00+02:00",
+      "competition": "Copa Ecuador",
+      "teams": "San Antonio - Manta",
+      "channels": [
+        {
+          "name": "CH86es",
+          "url": "https://envivo.govoet.my.id/86"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-14T00:00:00+02:00",
+      "competition": "Copa Libertadores",
+      "teams": "Cerro Porteno (Par) - Estudiantes (Arg)",
+      "channels": [
+        {
+          "name": "CH87es",
+          "url": "https://envivo.govoet.my.id/87"
+        },
+        {
+          "name": "CH78es",
+          "url": "https://envivo.govoet.my.id/78"
+        },
+        {
+          "name": "CH100es",
+          "url": "https://envivo.govoet.my.id/100"
+        },
+        {
+          "name": "CH69es",
+          "url": "https://envivo.govoet.my.id/69"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-14T00:00:00+02:00",
+      "competition": "Copa Sudamericana",
+      "teams": "Bolivar (Bol) - Cienciano (Per)",
+      "channels": [
+        {
+          "name": "CH94us",
+          "url": "https://envivo.govoet.my.id/94"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-14T00:30:00+02:00",
+      "competition": "Copa Argentina",
+      "teams": "Atl. Tucuman - Newells Old Boys",
+      "channels": [
+        {
+          "name": "CH77es",
+          "url": "https://envivo.govoet.my.id/77"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-14T01:00:00+02:00",
+      "competition": "Liga Mx Women",
+      "teams": "Leon F - Juarez F",
+      "channels": [
+        {
+          "name": "CH155es",
+          "url": "https://envivo.govoet.my.id/155"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-14T02:30:00+02:00",
+      "competition": "Copa Libertadores",
+      "teams": "Flamengo (Bra) - Internacional (Bra)",
+      "channels": [
+        {
+          "name": "CH87es",
+          "url": "https://envivo.govoet.my.id/87"
+        },
+        {
+          "name": "CH78es",
+          "url": "https://envivo.govoet.my.id/78"
+        },
+        {
+          "name": "CH100es",
+          "url": "https://envivo.govoet.my.id/100"
+        },
+        {
+          "name": "CH69es",
+          "url": "https://envivo.govoet.my.id/69"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-14T02:30:00+02:00",
+      "competition": "Copa Sudamericana",
+      "teams": "A. Lima (Per) - U. Catolica (Ecu)",
+      "channels": [
+        {
+          "name": "CH94us",
+          "url": "https://envivo.govoet.my.id/94"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-14T02:30:00+02:00",
+      "competition": "Copa Sudamericana",
+      "teams": "U. De Chile (Chi) - Independiente (Arg)",
+      "channels": [
+        {
+          "name": "CH88us",
+          "url": "https://envivo.govoet.my.id/88"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-14T02:30:00+02:00",
+      "competition": "Liga Betplay Dimayor",
+      "teams": "Dep. Cali - U. Magdalena",
+      "channels": [
+        {
+          "name": "CH81es",
+          "url": "https://envivo.govoet.my.id/81"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-14T05:00:00+02:00",
+      "competition": "Liga Mx Women",
+      "teams": "Mazatlan FC F - U.N.A.M. F",
+      "channels": [
+        {
+          "name": "CH155es",
+          "url": "https://envivo.govoet.my.id/155"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-14T17:00:00+02:00",
+      "competition": "Ligue Europa",
+      "teams": "KuPS (Fin) - RFS (Lat)",
+      "channels": [
+        {
+          "name": "CH170lt",
+          "url": "https://envivo.govoet.my.id/170"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-14T19:00:00+02:00",
+      "competition": "Ligue Europa",
+      "teams": "Wolfsberger (Aut) - PAOK (Gre)",
+      "channels": [
+        {
+          "name": "CH171gr",
+          "url": "https://envivo.govoet.my.id/171"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-14T19:30:00+02:00",
+      "competition": "Conference League",
+      "teams": "Vaduz (Lie) - Alkmaar (Ned)",
+      "channels": [
+        {
+          "name": "CH177nl",
+          "url": "https://envivo.govoet.my.id/177"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-14T20:00:00+02:00",
+      "competition": "Conference League",
+      "teams": "AEK (Gre) - Aris (Cyp)",
+      "channels": [
+        {
+          "name": "CH178gr",
+          "url": "https://envivo.govoet.my.id/178"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-14T20:00:00+02:00",
+      "competition": "Conference League",
+      "teams": "Besiktas (Tur) - St. Patricks (Irl)",
+      "channels": [
+        {
+          "name": "CH179tr",
+          "url": "https://envivo.govoet.my.id/179"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-14T20:00:00+02:00",
+      "competition": "Ligue Europa",
+      "teams": "Shakhtar (Ukr) - Panathinaikos (Gre)",
+      "channels": [
+        {
+          "name": "CH172gr",
+          "url": "https://envivo.govoet.my.id/172"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-14T20:00:00+02:00",
+      "competition": "Ligue Europa",
+      "teams": "Utrecht (Ned) - Servette (Sui)",
+      "channels": [
+        {
+          "name": "CH173nl",
+          "url": "https://envivo.govoet.my.id/173"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-14T20:30:00+02:00",
+      "competition": "Ligue Europa",
+      "teams": "Braga (Por) - CFR Cluj (Rou)",
+      "channels": [
+        {
+          "name": "CH174pt",
+          "url": "https://envivo.govoet.my.id/174"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-14T20:45:00+02:00",
+      "competition": "Conference League",
+      "teams": "Din. Tirana (Alb) - Hajduk Split (Cro)",
+      "channels": [
+        {
+          "name": "CH180hr",
+          "url": "https://envivo.govoet.my.id/180"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-14T20:45:00+02:00",
+      "competition": "Conference League",
+      "teams": "Dundee Utd (Sco) - SK Rapid (Aut)",
+      "channels": [
+        {
+          "name": "CH181de",
+          "url": "https://envivo.govoet.my.id/181"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-14T21:00:00+02:00",
+      "competition": "Conference League",
+      "teams": "Austria Vienne (Aut) - Ostrava (Cze)",
+      "channels": [
+        {
+          "name": "CH182de",
+          "url": "https://envivo.govoet.my.id/182"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-14T21:00:00+02:00",
+      "competition": "Conference League",
+      "teams": "Hibernian (Sco) - Partizan Belgrade (Srb)",
+      "channels": [
+        {
+          "name": "CH183rs",
+          "url": "https://envivo.govoet.my.id/183"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-14T21:00:00+02:00",
+      "competition": "Conference League",
+      "teams": "Santa Clara (Por) - Larne (Nir)",
+      "channels": [
+        {
+          "name": "CH184pt",
+          "url": "https://envivo.govoet.my.id/184"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-14T21:00:00+02:00",
+      "competition": "Ligue Europa",
+      "teams": "Legia (Pol) - AEK Larnaca (Cyp)",
+      "channels": [
+        {
+          "name": "CH175pl",
+          "url": "https://envivo.govoet.my.id/175"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-14T21:00:00+02:00",
+      "competition": "Super Coupe de UEFA",
+      "teams": "Paris PSG - Tottenham",
+      "channels": [
+        {
+          "name": "CH11fr",
+          "url": "https://envivo.govoet.my.id/11"
+        },
+        {
+          "name": "CH126gb",
+          "url": "https://envivo.govoet.my.id/126"
+        },
+        {
+          "name": "CH61es",
+          "url": "https://envivo.govoet.my.id/61"
+        },
+        {
+          "name": "CH123de",
+          "url": "https://envivo.govoet.my.id/123"
+        },
+        {
+          "name": "CH138it",
+          "url": "https://envivo.govoet.my.id/138"
+        },
+        {
+          "name": "CH68es",
+          "url": "https://envivo.govoet.my.id/68"
+        },
+        {
+          "name": "CH87es",
+          "url": "https://envivo.govoet.my.id/87"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-14T22:30:00+02:00",
+      "competition": "Copa Ecuador",
+      "teams": "Gualaceo - Vinotinto",
+      "channels": [
+        {
+          "name": "CH86es",
+          "url": "https://envivo.govoet.my.id/86"
+        }
+      ]
+    }
+  ]
 }
