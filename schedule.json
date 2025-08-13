@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-08-13T21:41:19.702233+00:00",
+  "last_updated": "2025-08-13T22:21:46.080669+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-13T18:00:00+02:00",
-      "competition": "Conference League",
-      "teams": "Basaksehir (Tur) - Viking (Nor)",
-      "channels": [
-        {
-          "name": "CH176tr",
-          "url": "https://envivo.govoet.my.id/176"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-13T20:45:00+02:00",
       "competition": "Efl Cup",
