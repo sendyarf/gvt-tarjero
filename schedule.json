@@ -1,67 +1,7 @@
 {
-  "last_updated": "2025-08-13T05:45:56.545667+00:00",
+  "last_updated": "2025-08-13T06:35:15.618234+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-13T02:30:00+02:00",
-      "competition": "Copa Libertadores",
-      "teams": "Atl. Nacional (Col) - Sao Paulo (Bra)",
-      "channels": [
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH100es",
-          "url": "https://envivo.govoet.my.id/100"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        },
-        {
-          "name": "CH79es",
-          "url": "https://envivo.govoet.my.id/79"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-13T02:30:00+02:00",
-      "competition": "Copa Libertadores",
-      "teams": "Penarol (Uru) - Racing Club (Arg)",
-      "channels": [
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH78es",
-          "url": "https://envivo.govoet.my.id/78"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-13T02:30:00+02:00",
-      "competition": "Copa Sudamericana",
-      "teams": "America De Cali (Col) - Fluminense (Bra)",
-      "channels": [
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-13T02:30:00+02:00",
-      "competition": "Copa Sudamericana",
-      "teams": "Ind. del Valle (Ecu) - Mushuc Runa (Ecu)",
-      "channels": [
-        {
-          "name": "CH91es",
-          "url": "https://envivo.govoet.my.id/91"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-13T03:00:00+02:00",
       "competition": "Liga Mx Women",
