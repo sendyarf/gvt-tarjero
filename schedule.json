@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-08-14T04:52:04.509419+00:00",
+  "last_updated": "2025-08-14T05:23:57.005132+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-14T01:00:00+02:00",
-      "competition": "Liga Mx Women",
-      "teams": "Leon F - Juarez F",
-      "channels": [
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-14T02:30:00+02:00",
       "competition": "Copa Libertadores",
