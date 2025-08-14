@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-08-14T21:41:58.500466+00:00",
+  "last_updated": "2025-08-14T22:21:45.619054+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-14T18:00:00+02:00",
-      "competition": "Amical Club",
-      "teams": "Naples - Olympiakos",
-      "channels": [
-        {
-          "name": "CH139it",
-          "url": "https://envivo.govoet.my.id/139"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-14T19:00:00+02:00",
       "competition": "Ligue Europa",
