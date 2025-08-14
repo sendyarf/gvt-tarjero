@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-08-14T01:54:48.250334+00:00",
+  "last_updated": "2025-08-14T03:22:12.056974+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-13T22:00:00+02:00",
-      "competition": "Copa Ecuador",
-      "teams": "San Antonio - Manta",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-14T00:00:00+02:00",
       "competition": "Copa Libertadores",
