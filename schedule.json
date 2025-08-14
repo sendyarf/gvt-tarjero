@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-14T06:35:35.718997+00:00",
+  "last_updated": "2025-08-14T07:23:29.761817+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -30,7 +30,7 @@
       "teams": "Wolfsberger (Aut) - PAOK (Gre)",
       "channels": [
         {
-          "name": "CH171gr",
+          "name": "CH171de",
           "url": "https://envivo.govoet.my.id/171"
         }
       ]
@@ -107,7 +107,7 @@
       "teams": "Din. Tirana (Alb) - Hajduk Split (Cro)",
       "channels": [
         {
-          "name": "CH180hr",
+          "name": "CH180al",
           "url": "https://envivo.govoet.my.id/180"
         }
       ]
@@ -118,7 +118,7 @@
       "teams": "Dundee Utd (Sco) - SK Rapid (Aut)",
       "channels": [
         {
-          "name": "CH181de",
+          "name": "CH181rs",
           "url": "https://envivo.govoet.my.id/181"
         }
       ]
@@ -129,7 +129,7 @@
       "teams": "Austria Vienne (Aut) - Ostrava (Cze)",
       "channels": [
         {
-          "name": "CH182de",
+          "name": "CH182cz",
           "url": "https://envivo.govoet.my.id/182"
         }
       ]
@@ -175,6 +175,111 @@
         {
           "name": "CH86es",
           "url": "https://envivo.govoet.my.id/86"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-15T00:00:00+02:00",
+      "competition": "Copa Libertadores",
+      "teams": "Botafogo RJ (Bra) - LDU Quito (Ecu)",
+      "channels": [
+        {
+          "name": "CH87es",
+          "url": "https://envivo.govoet.my.id/87"
+        },
+        {
+          "name": "CH78es",
+          "url": "https://envivo.govoet.my.id/78"
+        },
+        {
+          "name": "CH99es",
+          "url": "https://envivo.govoet.my.id/99"
+        },
+        {
+          "name": "CH69es",
+          "url": "https://envivo.govoet.my.id/69"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-15T00:00:00+02:00",
+      "competition": "Copa Sudamericana",
+      "teams": "Atletico-MG (Bra) - Godoy Cruz (Arg)",
+      "channels": [
+        {
+          "name": "CH88us",
+          "url": "https://envivo.govoet.my.id/88"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-15T01:00:00+02:00",
+      "competition": "Liga Betplay Dimayor",
+      "teams": "Pereira - America De Cali",
+      "channels": [
+        {
+          "name": "CH81es",
+          "url": "https://envivo.govoet.my.id/81"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-15T02:30:00+02:00",
+      "competition": "Copa Libertadores",
+      "teams": "Libertad (Par) - River Plate (Arg)",
+      "channels": [
+        {
+          "name": "CH87es",
+          "url": "https://envivo.govoet.my.id/87"
+        },
+        {
+          "name": "CH78es",
+          "url": "https://envivo.govoet.my.id/78"
+        },
+        {
+          "name": "CH99es",
+          "url": "https://envivo.govoet.my.id/99"
+        },
+        {
+          "name": "CH69es",
+          "url": "https://envivo.govoet.my.id/69"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-15T02:30:00+02:00",
+      "competition": "Copa Libertadores",
+      "teams": "U. de Deportes (Per) - Palmeiras (Bra)",
+      "channels": [
+        {
+          "name": "CH88es",
+          "url": "https://envivo.govoet.my.id/88"
+        },
+        {
+          "name": "CH79es",
+          "url": "https://envivo.govoet.my.id/79"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-15T02:30:00+02:00",
+      "competition": "Copa Sudamericana",
+      "teams": "Central Cordoba (Arg) - Lanus (Arg)",
+      "channels": [
+        {
+          "name": "CH94us",
+          "url": "https://envivo.govoet.my.id/94"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-15T03:10:00+02:00",
+      "competition": "Liga Betplay Dimayor",
+      "teams": "Pasto - Envigado",
+      "channels": [
+        {
+          "name": "CH81es",
+          "url": "https://envivo.govoet.my.id/81"
         }
       ]
     }
