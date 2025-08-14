@@ -1,74 +1,7 @@
 {
-  "last_updated": "2025-08-14T05:45:36.694329+00:00",
+  "last_updated": "2025-08-14T06:35:35.718997+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-14T02:30:00+02:00",
-      "competition": "Copa Libertadores",
-      "teams": "Flamengo (Bra) - Internacional (Bra)",
-      "channels": [
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH78es",
-          "url": "https://envivo.govoet.my.id/78"
-        },
-        {
-          "name": "CH100es",
-          "url": "https://envivo.govoet.my.id/100"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-14T02:30:00+02:00",
-      "competition": "Copa Sudamericana",
-      "teams": "A. Lima (Per) - U. Catolica (Ecu)",
-      "channels": [
-        {
-          "name": "CH94us",
-          "url": "https://envivo.govoet.my.id/94"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-14T02:30:00+02:00",
-      "competition": "Copa Sudamericana",
-      "teams": "U. De Chile (Chi) - Independiente (Arg)",
-      "channels": [
-        {
-          "name": "CH88us",
-          "url": "https://envivo.govoet.my.id/88"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-14T02:30:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Dep. Cali - U. Magdalena",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-14T05:00:00+02:00",
-      "competition": "Liga Mx Women",
-      "teams": "Mazatlan FC F - U.N.A.M. F",
-      "channels": [
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-14T17:00:00+02:00",
       "competition": "Ligue Europa",
@@ -77,6 +10,17 @@
         {
           "name": "CH170lt",
           "url": "https://envivo.govoet.my.id/170"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-14T18:00:00+02:00",
+      "competition": "Amical Club",
+      "teams": "Naples - Olympiakos",
+      "channels": [
+        {
+          "name": "CH139it",
+          "url": "https://envivo.govoet.my.id/139"
         }
       ]
     },
