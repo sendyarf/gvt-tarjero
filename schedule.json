@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-08-15T04:52:06.947895+00:00",
+  "last_updated": "2025-08-15T05:23:51.362625+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-15T01:00:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Pereira - America De Cali",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-15T02:30:00+02:00",
       "competition": "Copa Libertadores",
