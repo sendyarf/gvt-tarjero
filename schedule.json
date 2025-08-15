@@ -1,41 +1,7 @@
 {
-  "last_updated": "2025-08-15T03:23:27.348951+00:00",
+  "last_updated": "2025-08-15T04:04:57.615970+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-15T00:00:00+02:00",
-      "competition": "Copa Libertadores",
-      "teams": "Botafogo RJ (Bra) - LDU Quito (Ecu)",
-      "channels": [
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH78es",
-          "url": "https://envivo.govoet.my.id/78"
-        },
-        {
-          "name": "CH99es",
-          "url": "https://envivo.govoet.my.id/99"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-15T00:00:00+02:00",
-      "competition": "Copa Sudamericana",
-      "teams": "Atletico-MG (Bra) - Godoy Cruz (Arg)",
-      "channels": [
-        {
-          "name": "CH88us",
-          "url": "https://envivo.govoet.my.id/88"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-15T01:00:00+02:00",
       "competition": "Liga Betplay Dimayor",
