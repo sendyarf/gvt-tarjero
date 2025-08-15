@@ -1,63 +1,7 @@
 {
-  "last_updated": "2025-08-15T21:40:02.468738+00:00",
+  "last_updated": "2025-08-15T22:21:48.058439+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-15T18:00:00+02:00",
-      "competition": "Coppa Italia",
-      "teams": "Empoli - Reggiana",
-      "channels": [
-        {
-          "name": "CH139it",
-          "url": "https://envivo.govoet.my.id/139"
-        },
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-15T18:00:00+02:00",
-      "competition": "DFB Pokal",
-      "teams": "FC Gutersloh - Union Berlin",
-      "channels": [
-        {
-          "name": "CH113de",
-          "url": "https://envivo.govoet.my.id/113"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-15T18:00:00+02:00",
-      "competition": "DFB Pokal",
-      "teams": "Grossaspach - Bayer Leverkusen",
-      "channels": [
-        {
-          "name": "CH112de",
-          "url": "https://envivo.govoet.my.id/112"
-        },
-        {
-          "name": "CH90es",
-          "url": "https://envivo.govoet.my.id/90"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-15T18:00:00+02:00",
-      "competition": "DFB Pokal",
-      "teams": "Saarbrücken - Magdeburg",
-      "channels": [
-        {
-          "name": "CH114de",
-          "url": "https://envivo.govoet.my.id/114"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-15T18:30:00+02:00",
       "competition": "Coppa Italia",
