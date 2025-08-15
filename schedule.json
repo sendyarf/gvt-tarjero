@@ -1,34 +1,7 @@
 {
-  "last_updated": "2025-08-15T22:44:30.434800+00:00",
+  "last_updated": "2025-08-15T23:21:26.656700+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-15T19:00:00+02:00",
-      "competition": "Laliga",
-      "teams": "Gérone - Vallecano",
-      "channels": [
-        {
-          "name": "CH9fr",
-          "url": "https://envivo.govoet.my.id/9"
-        },
-        {
-          "name": "CH49es",
-          "url": "https://envivo.govoet.my.id/49"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-15T20:00:00+02:00",
       "competition": "Eredivisie",
