@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-08-15T22:21:48.058439+00:00",
+  "last_updated": "2025-08-15T22:44:30.434800+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-15T18:30:00+02:00",
-      "competition": "Coppa Italia",
-      "teams": "Sassuolo - Catanzaro",
-      "channels": [
-        {
-          "name": "CH138it",
-          "url": "https://envivo.govoet.my.id/138"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-15T19:00:00+02:00",
       "competition": "Laliga",
