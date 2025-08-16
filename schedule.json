@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-08-16T08:48:32.241776+00:00",
+  "last_updated": "2025-08-16T09:22:24.686047+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-16T05:00:00+02:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Atletico La Paz - Zacatecas Mineros",
-      "channels": [
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-16T05:05:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Necaxa - Leon",
-      "channels": [
-        {
-          "name": "CH108es",
-          "url": "https://envivo.govoet.my.id/108"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-16T08:40:00+02:00",
       "competition": "Moto3",
