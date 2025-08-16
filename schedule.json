@@ -1,67 +1,7 @@
 {
-  "last_updated": "2025-08-16T22:42:29.109071+00:00",
+  "last_updated": "2025-08-16T23:20:05.651657+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-16T18:45:00+02:00",
-      "competition": "Eredivisie",
-      "teams": "Excelsior - Feyenoord",
-      "channels": [
-        {
-          "name": "CH141nl",
-          "url": "https://envivo.govoet.my.id/141"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-16T19:00:00+02:00",
-      "competition": "Liga Portugal",
-      "teams": "Guimaraes - Estoril",
-      "channels": [
-        {
-          "name": "CH145pt",
-          "url": "https://envivo.govoet.my.id/145"
-        },
-        {
-          "name": "CH74es",
-          "url": "https://envivo.govoet.my.id/74"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-16T19:00:00+02:00",
-      "competition": "Ligue 1",
-      "teams": "Monaco - Le Havre",
-      "channels": [
-        {
-          "name": "CH20fr",
-          "url": "https://envivo.govoet.my.id/20"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-16T19:15:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Platense - San Lorenzo",
-      "channels": [
-        {
-          "name": "CH76es",
-          "url": "https://envivo.govoet.my.id/76"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-16T19:30:00+02:00",
       "competition": "Laliga",
