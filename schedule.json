@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-08-16T19:17:01.452472+00:00",
+  "last_updated": "2025-08-16T19:38:11.624760+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-16T15:30:00+02:00",
-      "competition": "DFB Pokal",
-      "teams": "Illertissen - Nurnberg",
-      "channels": [
-        {
-          "name": "CH115de",
-          "url": "https://envivo.govoet.my.id/115"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-16T15:30:00+02:00",
-      "competition": "DFB Pokal",
-      "teams": "Norderstedt - St. Pauli",
-      "channels": [
-        {
-          "name": "CH116de",
-          "url": "https://envivo.govoet.my.id/116"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-16T16:30:00+02:00",
       "competition": "Liga Portugal",
