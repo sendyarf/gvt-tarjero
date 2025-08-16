@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-08-16T12:43:00.074404+00:00",
+  "last_updated": "2025-08-16T13:28:42.494550+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-16T09:25:00+02:00",
-      "competition": "Moto2",
-      "teams": "Grand Prix Autriche Essais libres 2 des Moto 2 -",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-16T09:40:00+02:00",
       "competition": "MotoGP",
