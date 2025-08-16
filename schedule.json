@@ -1,45 +1,7 @@
 {
-  "last_updated": "2025-08-16T20:41:41.792379+00:00",
+  "last_updated": "2025-08-16T21:19:38.134055+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-16T17:00:00+02:00",
-      "competition": "Laliga 2",
-      "teams": "Racing Santander - Castellon",
-      "channels": [
-        {
-          "name": "CH5fr",
-          "url": "https://envivo.govoet.my.id/5"
-        },
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-16T17:00:00+02:00",
-      "competition": "Ligue 1",
-      "teams": "Lens - Lyon",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        },
-        {
-          "name": "CH89es",
-          "url": "https://envivo.govoet.my.id/89"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-16T18:00:00+02:00",
       "competition": "Campeonato Itaú Chile",
