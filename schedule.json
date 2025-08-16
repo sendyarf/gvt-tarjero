@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-08-16T07:39:23.764386+00:00",
+  "last_updated": "2025-08-16T08:27:42.114467+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-16T04:00:00+02:00",
-      "competition": "Liga Mx Women",
-      "teams": "Tigres F - Pachuca F",
-      "channels": [
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        },
-        {
-          "name": "CH101es",
-          "url": "https://envivo.govoet.my.id/101"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-16T05:00:00+02:00",
       "competition": "Liga De Expansion Mx",
