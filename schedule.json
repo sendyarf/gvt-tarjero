@@ -1,44 +1,7 @@
 {
-  "last_updated": "2025-08-16T06:32:14.912564+00:00",
+  "last_updated": "2025-08-16T07:20:14.976107+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-16T03:00:00+02:00",
-      "competition": "Liga 1 Te Apuesto",
-      "teams": "Sport Boys - Deportivo Garcilaso",
-      "channels": [
-        {
-          "name": "CH85es",
-          "url": "https://envivo.govoet.my.id/85"
-        },
-        {
-          "name": "CH74es",
-          "url": "https://envivo.govoet.my.id/74"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-16T03:00:00+02:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Correcaminos - Leones Negros",
-      "channels": [
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-16T03:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Puebla - Atl. San Luis",
-      "channels": [
-        {
-          "name": "CH156es",
-          "url": "https://envivo.govoet.my.id/156"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-16T04:00:00+02:00",
       "competition": "Liga Mx Women",
