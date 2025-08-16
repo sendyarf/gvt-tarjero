@@ -1,45 +1,7 @@
 {
-  "last_updated": "2025-08-16T23:20:05.651657+00:00",
+  "last_updated": "2025-08-16T23:40:05.118571+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-16T19:30:00+02:00",
-      "competition": "Laliga",
-      "teams": "Majorque - Barcelone",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH49es",
-          "url": "https://envivo.govoet.my.id/49"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-16T19:30:00+02:00",
-      "competition": "Laliga 2",
-      "teams": "Malaga - Eibar",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-16T20:00:00+02:00",
       "competition": "Eredivisie",
