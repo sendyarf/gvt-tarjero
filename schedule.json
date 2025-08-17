@@ -1,45 +1,7 @@
 {
-  "last_updated": "2025-08-17T23:21:14.989642+00:00",
+  "last_updated": "2025-08-17T23:41:20.982721+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-17T19:30:00+02:00",
-      "competition": "Laliga",
-      "teams": "Ath. Bilbao - FC Séville",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH51es",
-          "url": "https://envivo.govoet.my.id/51"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-17T19:30:00+02:00",
-      "competition": "Laliga 2",
-      "teams": "Cadix CF - Mirandes",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-17T20:00:00+02:00",
       "competition": "Ecuador Ligapro",
