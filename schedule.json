@@ -1,90 +1,7 @@
 {
-  "last_updated": "2025-08-17T17:41:48.948018+00:00",
+  "last_updated": "2025-08-17T18:31:00.330642+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-17T17:15:00+02:00",
-      "competition": "Ligue 1",
-      "teams": "Multiplex Ligue 1 -",
-      "channels": [
-        {
-          "name": "CH20fr",
-          "url": "https://envivo.govoet.my.id/20"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-17T17:15:00+02:00",
-      "competition": "Ligue 1",
-      "teams": "Angers - Paris FC",
-      "channels": [
-        {
-          "name": "CH22fr",
-          "url": "https://envivo.govoet.my.id/22"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-17T17:15:00+02:00",
-      "competition": "Ligue 1",
-      "teams": "Auxerre - Lorient",
-      "channels": [
-        {
-          "name": "CH40fr",
-          "url": "https://envivo.govoet.my.id/40"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-17T17:15:00+02:00",
-      "competition": "Ligue 1",
-      "teams": "Metz - Strasbourg",
-      "channels": [
-        {
-          "name": "CH21fr",
-          "url": "https://envivo.govoet.my.id/21"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-17T17:30:00+02:00",
-      "competition": "Premier League",
-      "teams": "Manchester Utd - Arsenal",
-      "channels": [
-        {
-          "name": "CH11fr",
-          "url": "https://envivo.govoet.my.id/11"
-        },
-        {
-          "name": "CH127gb",
-          "url": "https://envivo.govoet.my.id/127"
-        },
-        {
-          "name": "CH57es",
-          "url": "https://envivo.govoet.my.id/57"
-        },
-        {
-          "name": "CH120de",
-          "url": "https://envivo.govoet.my.id/120"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH73es",
-          "url": "https://envivo.govoet.my.id/73"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-17T18:00:00+02:00",
       "competition": "Coppa Italia",
@@ -522,6 +439,10 @@
         {
           "name": "CH144pt",
           "url": "https://envivo.govoet.my.id/144"
+        },
+        {
+          "name": "CH74es",
+          "url": "https://envivo.govoet.my.id/74"
         }
       ]
     },
