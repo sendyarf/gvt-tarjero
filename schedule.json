@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-08-17T08:29:02.422914+00:00",
+  "last_updated": "2025-08-17T08:49:15.319275+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-17T04:30:00+02:00",
-      "competition": "MLS",
-      "teams": "Portland Timbers - Cincinnati",
-      "channels": [
-        {
-          "name": "CH191es",
-          "url": "https://envivo.govoet.my.id/191"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-17T05:10:00+02:00",
       "competition": "Liga Mx",
