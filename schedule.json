@@ -1,71 +1,7 @@
 {
-  "last_updated": "2025-08-17T06:32:43.777451+00:00",
+  "last_updated": "2025-08-17T07:20:41.175919+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-17T03:00:00+02:00",
-      "competition": "Liga 1 Te Apuesto",
-      "teams": "A. Lima - AD Tarma",
-      "channels": [
-        {
-          "name": "CH84es",
-          "url": "https://envivo.govoet.my.id/84"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-17T03:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Cruz Azul - Santos Laguna",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        },
-        {
-          "name": "CH106es",
-          "url": "https://envivo.govoet.my.id/106"
-        },
-        {
-          "name": "CH107es",
-          "url": "https://envivo.govoet.my.id/107"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-17T03:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Pachuca - Tijuana",
-      "channels": [
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-17T03:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Tigres - Club America",
-      "channels": [
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        },
-        {
-          "name": "CH108es",
-          "url": "https://envivo.govoet.my.id/108"
-        },
-        {
-          "name": "CH72es",
-          "url": "https://envivo.govoet.my.id/72"
-        },
-        {
-          "name": "CH73es",
-          "url": "https://envivo.govoet.my.id/73"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-17T03:30:00+02:00",
       "competition": "MLS",
