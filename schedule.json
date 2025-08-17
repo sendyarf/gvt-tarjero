@@ -1,30 +1,7 @@
 {
-  "last_updated": "2025-08-17T08:49:15.319275+00:00",
+  "last_updated": "2025-08-17T09:21:55.046315+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-17T05:10:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Toluca - U.N.A.M.",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        },
-        {
-          "name": "CH106es",
-          "url": "https://envivo.govoet.my.id/106"
-        },
-        {
-          "name": "CH107es",
-          "url": "https://envivo.govoet.my.id/107"
-        },
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-17T09:40:00+02:00",
       "competition": "MotoGP",
