@@ -1,44 +1,7 @@
 {
-  "last_updated": "2025-08-17T22:21:32.563275+00:00",
+  "last_updated": "2025-08-17T22:44:06.987127+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-17T18:30:00+02:00",
-      "competition": "Campeonato Itaú Chile",
-      "teams": "U. De Chile - A. Italiano",
-      "channels": [
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-17T18:30:00+02:00",
-      "competition": "Coppa Italia",
-      "teams": "Parme - Pescara",
-      "channels": [
-        {
-          "name": "CH138it",
-          "url": "https://envivo.govoet.my.id/138"
-        },
-        {
-          "name": "CH96es",
-          "url": "https://envivo.govoet.my.id/96"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-17T18:30:00+02:00",
-      "competition": "Pro League",
-      "teams": "Charleroi - Antwerp",
-      "channels": [
-        {
-          "name": "CH153fr",
-          "url": "https://envivo.govoet.my.id/153"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-17T19:00:00+02:00",
       "competition": "Liga 1 Te Apuesto",
