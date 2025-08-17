@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-08-17T09:21:55.046315+00:00",
+  "last_updated": "2025-08-17T09:41:01.861503+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-17T09:40:00+02:00",
-      "competition": "MotoGP",
-      "teams": "Grand Prix Autriche Warm Up des Moto GP -",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-17T11:00:00+02:00",
       "competition": "Moto3",
