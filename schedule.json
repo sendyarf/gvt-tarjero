@@ -1,45 +1,7 @@
 {
-  "last_updated": "2025-08-17T15:41:00.458457+00:00",
+  "last_updated": "2025-08-17T16:26:40.048307+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-17T12:15:00+02:00",
-      "competition": "Eredivisie",
-      "teams": "G.A. Eagles - Ajax",
-      "channels": [
-        {
-          "name": "CH142nl",
-          "url": "https://envivo.govoet.my.id/142"
-        },
-        {
-          "name": "CH61es",
-          "url": "https://envivo.govoet.my.id/61"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-17T12:15:00+02:00",
-      "competition": "Moto2",
-      "teams": "Grand Prix Autriche La course des Moto 2 -",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-17T13:00:00+02:00",
       "competition": "Championship",
