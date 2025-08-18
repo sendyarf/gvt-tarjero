@@ -1,73 +1,7 @@
 {
-  "last_updated": "2025-08-18T02:01:41.426132+00:00",
+  "last_updated": "2025-08-18T03:48:41.588942+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-17T22:30:00+02:00",
-      "competition": "Ecuador Ligapro",
-      "teams": "Tecnico U. - Emelec",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-17T22:30:00+02:00",
-      "competition": "Liga AUF Uruguaya",
-      "teams": "Plaza Colonia - Cerro CA",
-      "channels": [
-        {
-          "name": "CH109es",
-          "url": "https://envivo.govoet.my.id/109"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-17T23:00:00+02:00",
-      "competition": "MLS",
-      "teams": "New York City - Nashville SC",
-      "channels": [
-        {
-          "name": "CH192es",
-          "url": "https://envivo.govoet.my.id/192"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-17T23:30:00+02:00",
-      "competition": "Campeonato Itaú Chile",
-      "teams": "Coquimbo - Everton",
-      "channels": [
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-17T23:30:00+02:00",
-      "competition": "Serie A Bresil",
-      "teams": "Internacional - Flamengo",
-      "channels": [
-        {
-          "name": "CH55es",
-          "url": "https://envivo.govoet.my.id/55"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-17T23:30:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "River Plate - Godoy Cruz",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-18T00:00:00+02:00",
       "competition": "Liga Mx",
