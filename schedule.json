@@ -1,51 +1,7 @@
 {
-  "last_updated": "2025-08-18T21:40:07.209306+00:00",
+  "last_updated": "2025-08-18T22:18:51.736781+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-18T18:00:00+02:00",
-      "competition": "Coppa Italia",
-      "teams": "Audace Cerignola - Hellas Vérone",
-      "channels": [
-        {
-          "name": "CH139it",
-          "url": "https://envivo.govoet.my.id/139"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-18T18:00:00+02:00",
-      "competition": "DFB Pokal",
-      "teams": "Dynamo Dresde - Mayence",
-      "channels": [
-        {
-          "name": "CH111de",
-          "url": "https://envivo.govoet.my.id/111"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-18T18:00:00+02:00",
-      "competition": "DFB Pokal",
-      "teams": "Münster - Hertha Berlin",
-      "channels": [
-        {
-          "name": "CH112de",
-          "url": "https://envivo.govoet.my.id/112"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-18T18:00:00+02:00",
-      "competition": "DFB Pokal",
-      "teams": "Schweinfurt - Düsseldorf",
-      "channels": [
-        {
-          "name": "CH113de",
-          "url": "https://envivo.govoet.my.id/113"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-18T18:30:00+02:00",
       "competition": "Coppa Italia",
