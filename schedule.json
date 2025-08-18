@@ -1,26 +1,7 @@
 {
-  "last_updated": "2025-08-18T22:18:51.736781+00:00",
+  "last_updated": "2025-08-18T22:41:51.835429+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-18T18:30:00+02:00",
-      "competition": "Coppa Italia",
-      "teams": "Spezia - Sampdoria",
-      "channels": [
-        {
-          "name": "CH138it",
-          "url": "https://envivo.govoet.my.id/138"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        },
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-18T19:00:00+02:00",
       "competition": "CHAN",
