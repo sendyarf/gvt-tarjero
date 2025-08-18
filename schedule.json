@@ -1,44 +1,7 @@
 {
-  "last_updated": "2025-08-18T22:41:51.835429+00:00",
+  "last_updated": "2025-08-18T23:20:21.248273+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-18T19:00:00+02:00",
-      "competition": "CHAN",
-      "teams": "Afrique du Sud - Ouganda",
-      "channels": [
-        {
-          "name": "CH42fr",
-          "url": "https://envivo.govoet.my.id/42"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-18T19:00:00+02:00",
-      "competition": "CHAN",
-      "teams": "Algérie - Niger",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-18T19:00:00+02:00",
-      "competition": "Laliga 2",
-      "teams": "Gijon - Cordoba",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        },
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-18T20:30:00+02:00",
       "competition": "Super Lig",
