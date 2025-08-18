@@ -1,99 +1,7 @@
 {
-  "last_updated": "2025-08-18T03:48:41.588942+00:00",
+  "last_updated": "2025-08-18T04:41:10.007145+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-18T00:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Queretaro - Atlas",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        },
-        {
-          "name": "CH156es",
-          "url": "https://envivo.govoet.my.id/156"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-18T01:00:00+02:00",
-      "competition": "Ecuador Ligapro",
-      "teams": "Barcelone SC - Macara",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-18T01:00:00+02:00",
-      "competition": "MLS",
-      "teams": "San Jose Earthquakes - San Diego FC",
-      "channels": [
-        {
-          "name": "CH193es",
-          "url": "https://envivo.govoet.my.id/193"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-18T01:10:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Tolima - Millonarios",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-18T01:30:00+02:00",
-      "competition": "Liga 1 Te Apuesto",
-      "teams": "Cusco - Alianza Atl.",
-      "channels": [
-        {
-          "name": "CH84es",
-          "url": "https://envivo.govoet.my.id/84"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-18T01:30:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Ind. Rivadavia - Boca Juniors",
-      "channels": [
-        {
-          "name": "CH76es",
-          "url": "https://envivo.govoet.my.id/76"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-18T02:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Monterrey - Mazatlan FC",
-      "channels": [
-        {
-          "name": "CH157es",
-          "url": "https://envivo.govoet.my.id/157"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-18T03:00:00+02:00",
-      "competition": "MLS",
-      "teams": "Vancouver Whitecaps - Houston Dynamo",
-      "channels": [
-        {
-          "name": "CH194es",
-          "url": "https://envivo.govoet.my.id/194"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-18T18:00:00+02:00",
       "competition": "Coppa Italia",
@@ -159,9 +67,35 @@
     },
     {
       "datetime": "2025-08-18T19:00:00+02:00",
+      "competition": "CHAN",
+      "teams": "Afrique du Sud - Ouganda",
+      "channels": [
+        {
+          "name": "CH42fr",
+          "url": "https://envivo.govoet.my.id/42"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-18T19:00:00+02:00",
+      "competition": "CHAN",
+      "teams": "Algérie - Niger",
+      "channels": [
+        {
+          "name": "CH2fr",
+          "url": "https://envivo.govoet.my.id/2"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-18T19:00:00+02:00",
       "competition": "Laliga 2",
       "teams": "Gijon - Cordoba",
       "channels": [
+        {
+          "name": "CH4fr",
+          "url": "https://envivo.govoet.my.id/4"
+        },
         {
           "name": "CH53es",
           "url": "https://envivo.govoet.my.id/53"
@@ -230,8 +164,8 @@
       "teams": "Elche - Real Betis",
       "channels": [
         {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
+          "name": "CH5fr",
+          "url": "https://envivo.govoet.my.id/5"
         },
         {
           "name": "CH49es",
@@ -271,6 +205,10 @@
         {
           "name": "CH120de",
           "url": "https://envivo.govoet.my.id/120"
+        },
+        {
+          "name": "CH155es",
+          "url": "https://envivo.govoet.my.id/155"
         }
       ]
     },
@@ -286,6 +224,10 @@
         {
           "name": "CH96es",
           "url": "https://envivo.govoet.my.id/96"
+        },
+        {
+          "name": "CH82es",
+          "url": "https://envivo.govoet.my.id/82"
         }
       ]
     },
@@ -294,6 +236,10 @@
       "competition": "Liga Portugal",
       "teams": "Gil Vicente - FC Porto",
       "channels": [
+        {
+          "name": "CH2fr",
+          "url": "https://envivo.govoet.my.id/2"
+        },
         {
           "name": "CH144pt",
           "url": "https://envivo.govoet.my.id/144"
@@ -312,6 +258,98 @@
         {
           "name": "CH53es",
           "url": "https://envivo.govoet.my.id/53"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-19T00:00:00+02:00",
+      "competition": "Liga AUF Uruguaya",
+      "teams": "Cerro Largo - Danubio",
+      "channels": [
+        {
+          "name": "CH109es",
+          "url": "https://envivo.govoet.my.id/109"
+        },
+        {
+          "name": "CH74es",
+          "url": "https://envivo.govoet.my.id/74"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-19T00:00:00+02:00",
+      "competition": "Torneo LPF",
+      "teams": "Sarmiento Junin - Atl. Tucuman",
+      "channels": [
+        {
+          "name": "CH76es",
+          "url": "https://envivo.govoet.my.id/76"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-19T00:15:00+02:00",
+      "competition": "Liga Betplay Dimayor",
+      "teams": "Junior - Bucaramanga",
+      "channels": [
+        {
+          "name": "CH81es",
+          "url": "https://envivo.govoet.my.id/81"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-19T01:00:00+02:00",
+      "competition": "Serie A Bresil",
+      "teams": "Mirassol - Cruzeiro",
+      "channels": [
+        {
+          "name": "CH55es",
+          "url": "https://envivo.govoet.my.id/55"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-19T02:00:00+02:00",
+      "competition": "Ecuador Ligapro",
+      "teams": "Dep. Cuenca - Vinotinto",
+      "channels": [
+        {
+          "name": "CH86es",
+          "url": "https://envivo.govoet.my.id/86"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-19T02:00:00+02:00",
+      "competition": "Torneo LPF",
+      "teams": "Talleres Cordoba - San Martin S.J.",
+      "channels": [
+        {
+          "name": "CH75es",
+          "url": "https://envivo.govoet.my.id/75"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-19T02:30:00+02:00",
+      "competition": "Liga Betplay Dimayor",
+      "teams": "Pasto - Ind. Medellin",
+      "channels": [
+        {
+          "name": "CH81es",
+          "url": "https://envivo.govoet.my.id/81"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-19T03:00:00+02:00",
+      "competition": "Liga Mx Women",
+      "teams": "Leon F - Queretaro F",
+      "channels": [
+        {
+          "name": "CH156es",
+          "url": "https://envivo.govoet.my.id/156"
         }
       ]
     }
