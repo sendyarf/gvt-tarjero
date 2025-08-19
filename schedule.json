@@ -1,44 +1,7 @@
 {
-  "last_updated": "2025-08-19T03:54:16.663621+00:00",
+  "last_updated": "2025-08-19T04:45:54.646800+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-19T00:00:00+02:00",
-      "competition": "Liga AUF Uruguaya",
-      "teams": "Cerro Largo - Danubio",
-      "channels": [
-        {
-          "name": "CH109es",
-          "url": "https://envivo.govoet.my.id/109"
-        },
-        {
-          "name": "CH74es",
-          "url": "https://envivo.govoet.my.id/74"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-19T00:00:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Sarmiento Junin - Atl. Tucuman",
-      "channels": [
-        {
-          "name": "CH76es",
-          "url": "https://envivo.govoet.my.id/76"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-19T00:15:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Junior - Bucaramanga",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-19T01:00:00+02:00",
       "competition": "Serie A Bresil",
