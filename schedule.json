@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-08-20T17:41:51.933208+00:00",
+  "last_updated": "2025-08-20T18:32:21.671479+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-20T14:00:00+02:00",
-      "competition": "Saudi Supercup",
-      "teams": "Al Qadisiya - Al Ahli SC",
-      "channels": [
-        {
-          "name": "CH160us",
-          "url": "https://envivo.govoet.my.id/160"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-20T21:00:00+02:00",
       "competition": "Ligue Des Champions",
