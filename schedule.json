@@ -1,41 +1,7 @@
 {
-  "last_updated": "2025-08-20T03:53:33.453906+00:00",
+  "last_updated": "2025-08-20T04:27:04.744521+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-20T00:00:00+02:00",
-      "competition": "Copa Libertadores",
-      "teams": "Velez Sarsfield (Arg) - Fortaleza (Bra)",
-      "channels": [
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH78es",
-          "url": "https://envivo.govoet.my.id/78"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-20T00:00:00+02:00",
-      "competition": "Copa Sudamericana",
-      "teams": "Huracan (Arg) - Once Caldas (Col)",
-      "channels": [
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-20T02:30:00+02:00",
       "competition": "Copa Libertadores",
