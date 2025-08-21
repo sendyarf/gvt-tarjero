@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-08-21T09:43:06.152545+00:00",
+  "last_updated": "2025-08-21T10:23:25.228869+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-21T05:45:00+02:00",
-      "competition": "Leagues Cup",
-      "teams": "Los Angeles Galaxy - Pachuca",
-      "channels": [
-        {
-          "name": "CH163es",
-          "url": "https://envivo.govoet.my.id/163"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-21T19:00:00+02:00",
       "competition": "Conference League",
