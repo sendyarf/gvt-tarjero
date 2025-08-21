@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-08-21T22:42:19.647990+00:00",
+  "last_updated": "2025-08-21T23:19:56.184698+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-21T19:00:00+02:00",
-      "competition": "Conference League",
-      "teams": "Győr (Hun) - SK Rapid (Aut)",
-      "channels": [
-        {
-          "name": "CH160hu",
-          "url": "https://envivo.govoet.my.id/160"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-21T19:00:00+02:00",
-      "competition": "Conference League",
-      "teams": "Wolfsberger (Aut) - Omonia (Cyp)",
-      "channels": [
-        {
-          "name": "CH161de",
-          "url": "https://envivo.govoet.my.id/161"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-21T19:45:00+02:00",
       "competition": "Conference League",
