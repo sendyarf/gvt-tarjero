@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-08-21T06:41:56.631331+00:00",
+  "last_updated": "2025-08-21T07:23:24.621088+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-21T03:00:00+02:00",
-      "competition": "Leagues Cup",
-      "teams": "Toluca - Orlando City",
-      "channels": [
-        {
-          "name": "CH161es",
-          "url": "https://envivo.govoet.my.id/161"
-        },
-        {
-          "name": "CH106es",
-          "url": "https://envivo.govoet.my.id/106"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-21T05:00:00+02:00",
       "competition": "Leagues Cup",
