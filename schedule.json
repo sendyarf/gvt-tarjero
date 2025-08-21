@@ -1,26 +1,7 @@
 {
-  "last_updated": "2025-08-21T08:50:44.443112+00:00",
+  "last_updated": "2025-08-21T09:24:35.707431+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-21T05:00:00+02:00",
-      "competition": "Leagues Cup",
-      "teams": "Seattle Sounders - Puebla",
-      "channels": [
-        {
-          "name": "CH162es",
-          "url": "https://envivo.govoet.my.id/162"
-        },
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        },
-        {
-          "name": "CH108es",
-          "url": "https://envivo.govoet.my.id/108"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-21T05:45:00+02:00",
       "competition": "Leagues Cup",
