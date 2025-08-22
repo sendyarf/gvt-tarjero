@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-08-22T18:30:34.581481+00:00",
+  "last_updated": "2025-08-22T19:17:59.695567+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-22T15:00:00+02:00",
-      "competition": "MotoGP",
-      "teams": "Essais des Moto GP -",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-22T16:00:00+02:00",
       "competition": "CHAN",
