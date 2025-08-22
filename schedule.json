@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-08-22T23:19:44.942732+00:00",
+  "last_updated": "2025-08-22T23:39:11.338382+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-22T19:30:00+02:00",
-      "competition": "Laliga 2",
-      "teams": "Eibar - Grenade",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-22T20:00:00+02:00",
       "competition": "Liga 1 Te Apuesto",
