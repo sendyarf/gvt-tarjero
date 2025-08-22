@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-08-22T22:19:42.634344+00:00",
+  "last_updated": "2025-08-22T22:41:41.859835+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-22T18:30:00+02:00",
-      "competition": "Bundesliga 2",
-      "teams": "bundesliga 2 konferenz -",
-      "channels": [
-        {
-          "name": "CH112de",
-          "url": "https://envivo.govoet.my.id/112"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-22T18:30:00+02:00",
-      "competition": "Bundesliga 2",
-      "teams": "Elversberg - Kaiserslautern",
-      "channels": [
-        {
-          "name": "CH113de",
-          "url": "https://envivo.govoet.my.id/113"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-22T18:30:00+02:00",
-      "competition": "Bundesliga 2",
-      "teams": "Münster - Nurnberg",
-      "channels": [
-        {
-          "name": "CH114de",
-          "url": "https://envivo.govoet.my.id/114"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-22T19:00:00+02:00",
       "competition": "CHAN",
