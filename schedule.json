@@ -1,78 +1,7 @@
 {
-  "last_updated": "2025-08-23T17:38:47.734662+00:00",
+  "last_updated": "2025-08-23T18:28:02.671462+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-23T13:45:00+02:00",
-      "competition": "Moto2",
-      "teams": "Essais qualificatifs 1 et 2 des Moto 2 -",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-23T14:00:00+02:00",
-      "competition": "Ligue 2",
-      "teams": "Guingamp - Red Star",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-23T14:00:00+02:00",
-      "competition": "Ligue 2",
-      "teams": "Troyes - Montpellier",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-23T14:00:00+02:00",
-      "competition": "Moto2",
-      "teams": "Essais des Moto 2 -",
-      "channels": [
-        {
-          "name": "CH31fr",
-          "url": "https://envivo.govoet.my.id/31"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-23T14:00:00+02:00",
-      "competition": "Saudi Supercup",
-      "teams": "Al-Nassr - Al Ahli SC",
-      "channels": [
-        {
-          "name": "CH55es",
-          "url": "https://envivo.govoet.my.id/55"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-23T15:00:00+02:00",
       "competition": "MotoGP",
