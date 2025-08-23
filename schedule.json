@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-08-23T03:50:09.562965+00:00",
+  "last_updated": "2025-08-23T04:25:21.834910+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-23T00:00:00+02:00",
-      "competition": "Liga AUF Uruguaya",
-      "teams": "Wanderers - Juventud",
-      "channels": [
-        {
-          "name": "CH109es",
-          "url": "https://envivo.govoet.my.id/109"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-23T01:00:00+02:00",
       "competition": "Torneo LPF",
