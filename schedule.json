@@ -1,45 +1,7 @@
 {
-  "last_updated": "2025-08-23T23:19:47.074034+00:00",
+  "last_updated": "2025-08-23T23:39:09.711202+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-23T19:30:00+02:00",
-      "competition": "Laliga",
-      "teams": "Atl. Madrid - Elche",
-      "channels": [
-        {
-          "name": "CH3fr",
-          "url": "https://envivo.govoet.my.id/3"
-        },
-        {
-          "name": "CH51es",
-          "url": "https://envivo.govoet.my.id/51"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        },
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-23T19:30:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "San Lorenzo - Instituto",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-23T20:00:00+02:00",
       "competition": "Ligue 2",
