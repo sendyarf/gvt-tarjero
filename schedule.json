@@ -1,37 +1,7 @@
 {
-  "last_updated": "2025-08-24T19:16:42.659395+00:00",
+  "last_updated": "2025-08-24T19:38:27.209910+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-24T15:30:00+02:00",
-      "competition": "Bundesliga",
-      "teams": "Mayence - FC Cologne",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-24T15:30:00+02:00",
-      "competition": "Liga AUF Uruguaya",
-      "teams": "Progreso - Danubio",
-      "channels": [
-        {
-          "name": "CH109es",
-          "url": "https://envivo.govoet.my.id/109"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-24T16:30:00+02:00",
       "competition": "Liga Portugal",
