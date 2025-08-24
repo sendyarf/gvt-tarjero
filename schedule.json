@@ -1,51 +1,7 @@
 {
-  "last_updated": "2025-08-24T01:56:43.772830+00:00",
+  "last_updated": "2025-08-24T03:22:15.975944+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-23T22:30:00+02:00",
-      "competition": "Liga 1 Te Apuesto",
-      "teams": "Comerciantes Unidos - Alianza Huanuco",
-      "channels": [
-        {
-          "name": "CH84es",
-          "url": "https://envivo.govoet.my.id/84"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-23T22:30:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Rosario - Newells Old Boys",
-      "channels": [
-        {
-          "name": "CH76es",
-          "url": "https://envivo.govoet.my.id/76"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-23T23:00:00+02:00",
-      "competition": "Liga AUF Uruguaya",
-      "teams": "Nacional - Boston River",
-      "channels": [
-        {
-          "name": "CH109es",
-          "url": "https://envivo.govoet.my.id/109"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-23T23:10:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Envigado - Pereira",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-23T23:30:00+02:00",
       "competition": "Campeonato Itaú Chile",
