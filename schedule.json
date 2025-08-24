@@ -1,113 +1,7 @@
 {
-  "last_updated": "2025-08-24T15:20:10.070244+00:00",
+  "last_updated": "2025-08-24T15:39:19.817123+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-24T14:00:00+02:00",
-      "competition": "MotoGP",
-      "teams": "La course des Moto GP -",
-      "channels": [
-        {
-          "name": "CH11fr",
-          "url": "https://envivo.govoet.my.id/11"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-24T14:30:00+02:00",
-      "competition": "Eredivisie",
-      "teams": "Nijmegen - Breda",
-      "channels": [
-        {
-          "name": "CH141nl",
-          "url": "https://envivo.govoet.my.id/141"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-24T14:30:00+02:00",
-      "competition": "Eredivisie",
-      "teams": "Utrecht - Excelsior",
-      "channels": [
-        {
-          "name": "CH143nl",
-          "url": "https://envivo.govoet.my.id/143"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-24T15:00:00+02:00",
-      "competition": "Ligue 1",
-      "teams": "Lorient - Rennes",
-      "channels": [
-        {
-          "name": "CH20fr",
-          "url": "https://envivo.govoet.my.id/20"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        },
-        {
-          "name": "CH90es",
-          "url": "https://envivo.govoet.my.id/90"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-24T15:00:00+02:00",
-      "competition": "Premier League",
-      "teams": "Crystal Palace - Nottingham",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH129us",
-          "url": "https://envivo.govoet.my.id/129"
-        },
-        {
-          "name": "CH57es",
-          "url": "https://envivo.govoet.my.id/57"
-        },
-        {
-          "name": "CH91es",
-          "url": "https://envivo.govoet.my.id/91"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-24T15:00:00+02:00",
-      "competition": "Premier League",
-      "teams": "Everton - Brighton",
-      "channels": [
-        {
-          "name": "CH32fr",
-          "url": "https://envivo.govoet.my.id/32"
-        },
-        {
-          "name": "CH127gb",
-          "url": "https://envivo.govoet.my.id/127"
-        },
-        {
-          "name": "CH58es",
-          "url": "https://envivo.govoet.my.id/58"
-        },
-        {
-          "name": "CH120de",
-          "url": "https://envivo.govoet.my.id/120"
-        },
-        {
-          "name": "CH73es",
-          "url": "https://envivo.govoet.my.id/73"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-24T15:30:00+02:00",
       "competition": "Bundesliga",
@@ -212,8 +106,8 @@
       "teams": "Multiplex Ligue 1 -",
       "channels": [
         {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
+          "name": "CH20fr",
+          "url": "https://envivo.govoet.my.id/20"
         }
       ]
     },
