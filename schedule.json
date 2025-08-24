@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-08-24T03:22:15.975944+00:00",
+  "last_updated": "2025-08-24T04:00:22.290212+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-23T23:30:00+02:00",
-      "competition": "Campeonato Itaú Chile",
-      "teams": "A. Italiano - Coquimbo",
-      "channels": [
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-23T23:30:00+02:00",
-      "competition": "Ecuador Ligapro",
-      "teams": "Manta - Dep. Cuenca",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-24T01:00:00+02:00",
       "competition": "Liga 1 Te Apuesto",
