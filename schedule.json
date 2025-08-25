@@ -1,45 +1,7 @@
 {
-  "last_updated": "2025-08-25T22:20:58.923511+00:00",
+  "last_updated": "2025-08-25T22:42:17.882845+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-25T18:30:00+02:00",
-      "competition": "Betfred Super League",
-      "teams": "Levadiakos - Kifisia",
-      "channels": [
-        {
-          "name": "CH150gr",
-          "url": "https://envivo.govoet.my.id/150"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-25T18:30:00+02:00",
-      "competition": "Serie A",
-      "teams": "Udinese - Hellas Vérone",
-      "channels": [
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        },
-        {
-          "name": "CH90es",
-          "url": "https://envivo.govoet.my.id/90"
-        },
-        {
-          "name": "CH100es",
-          "url": "https://envivo.govoet.my.id/100"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-25T19:30:00+02:00",
       "competition": "Laliga",
