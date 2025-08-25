@@ -1,59 +1,7 @@
 {
-  "last_updated": "2025-08-25T04:35:36.341322+00:00",
+  "last_updated": "2025-08-25T05:23:28.124559+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-25T01:00:00+02:00",
-      "competition": "Ecuador Ligapro",
-      "teams": "U. Catolica - Tecnico U.",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-25T01:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "U.N.A.M. - Puebla",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        },
-        {
-          "name": "CH107es",
-          "url": "https://envivo.govoet.my.id/107"
-        },
-        {
-          "name": "CH106es",
-          "url": "https://envivo.govoet.my.id/106"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-25T01:00:00+02:00",
-      "competition": "MLS",
-      "teams": "Charlotte - New York Red Bulls",
-      "channels": [
-        {
-          "name": "CH181es",
-          "url": "https://envivo.govoet.my.id/181"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-25T01:20:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "America De Cali - Atl. Nacional",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-25T01:30:00+02:00",
       "competition": "Liga AUF Uruguaya",
