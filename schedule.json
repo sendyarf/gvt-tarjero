@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-08-25T05:23:28.124559+00:00",
+  "last_updated": "2025-08-25T05:44:20.813864+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-25T01:30:00+02:00",
-      "competition": "Liga AUF Uruguaya",
-      "teams": "Montevideo City - Racing Montevideo",
-      "channels": [
-        {
-          "name": "CH109es",
-          "url": "https://envivo.govoet.my.id/109"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-25T01:30:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Independiente - Platense",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-25T03:05:00+02:00",
       "competition": "Liga Mx",
