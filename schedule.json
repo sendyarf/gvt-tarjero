@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-08-25T03:17:15.591986+00:00",
+  "last_updated": "2025-08-25T03:59:07.492646+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-24T23:30:00+02:00",
-      "competition": "Campeonato Itaú Chile",
-      "teams": "Deportes Iquique - Nublense",
-      "channels": [
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-25T00:30:00+02:00",
       "competition": "Liga 1 Te Apuesto",
