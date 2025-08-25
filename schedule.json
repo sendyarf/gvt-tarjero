@@ -1,41 +1,7 @@
 {
-  "last_updated": "2025-08-25T06:35:33.479264+00:00",
+  "last_updated": "2025-08-25T07:22:09.219662+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-25T03:05:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Atlas - Club America",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        },
-        {
-          "name": "CH107es",
-          "url": "https://envivo.govoet.my.id/107"
-        },
-        {
-          "name": "CH106es",
-          "url": "https://envivo.govoet.my.id/106"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-25T03:15:00+02:00",
-      "competition": "MLS",
-      "teams": "Seattle Sounders - Sporting Kansas City",
-      "channels": [
-        {
-          "name": "CH182us",
-          "url": "https://envivo.govoet.my.id/182"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-25T03:30:00+02:00",
       "competition": "Liga Betplay Dimayor",
