@@ -1,30 +1,7 @@
 {
-  "last_updated": "2025-08-26T22:41:38.993451+00:00",
+  "last_updated": "2025-08-26T23:19:02.062171+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-26T18:45:00+02:00",
-      "competition": "Ligue Des Champions",
-      "teams": "Kairat Almaty - Celtic",
-      "channels": [
-        {
-          "name": "CH12fr",
-          "url": "https://envivo.govoet.my.id/12"
-        },
-        {
-          "name": "CH61es",
-          "url": "https://envivo.govoet.my.id/61"
-        },
-        {
-          "name": "CH130us",
-          "url": "https://envivo.govoet.my.id/130"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-26T19:30:00+02:00",
       "competition": "CHAN",
