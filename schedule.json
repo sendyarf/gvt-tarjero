@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-08-26T03:54:25.677220+00:00",
+  "last_updated": "2025-08-26T04:26:27.256344+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-26T00:00:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Belgrano - Central Cordoba",
-      "channels": [
-        {
-          "name": "CH76es",
-          "url": "https://envivo.govoet.my.id/76"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-26T00:15:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Estudiantes - Aldosivi",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-26T01:00:00+02:00",
       "competition": "Liga Betplay Dimayor",
