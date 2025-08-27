@@ -1,28 +1,5 @@
 {
-  "last_updated": "2025-08-27T06:31:30.003093+00:00",
+  "last_updated": "2025-08-27T07:20:15.395341+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-08-27T03:07:00+02:00",
-      "competition": "Liga Mx Women",
-      "teams": "Guadalajara F - Monterrey F",
-      "channels": [
-        {
-          "name": "CH72es",
-          "url": "https://envivo.govoet.my.id/72"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-27T03:10:00+02:00",
-      "competition": "Copa Colombia",
-      "teams": "Real Cartagena - Millonarios",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
