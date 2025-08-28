@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-08-28T03:03:42.882653+00:00",
+  "last_updated": "2025-08-28T03:49:38.340920+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-28T02:30:00+02:00",
-      "competition": "Copa Ecuador",
-      "teams": "LDU Portoviejo - Macara",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-28T02:30:00+02:00",
-      "competition": "Leagues Cup",
-      "teams": "Inter Miami - Orlando City",
-      "channels": [
-        {
-          "name": "CH160es",
-          "url": "https://envivo.govoet.my.id/160"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-28T03:30:00+02:00",
       "competition": "Copa Colombia",
