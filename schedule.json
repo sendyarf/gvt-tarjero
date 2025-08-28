@@ -1,73 +1,7 @@
 {
-  "last_updated": "2025-08-28T21:38:21.981597+00:00",
+  "last_updated": "2025-08-28T22:19:48.223762+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-28T20:45:00+02:00",
-      "competition": "Conference League",
-      "teams": "Din. Tirana (Alb) - Jagiellonia (Pol)",
-      "channels": [
-        {
-          "name": "CH181pl",
-          "url": "https://envivo.govoet.my.id/181"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-28T21:00:00+02:00",
-      "competition": "Conference League",
-      "teams": "Legia (Pol) - Hibernian (Sco)",
-      "channels": [
-        {
-          "name": "CH182pl",
-          "url": "https://envivo.govoet.my.id/182"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-28T21:00:00+02:00",
-      "competition": "Conference League",
-      "teams": "Mayence (Ger) - Rosenborg (Nor)",
-      "channels": [
-        {
-          "name": "CH183hr",
-          "url": "https://envivo.govoet.my.id/183"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-28T21:00:00+02:00",
-      "competition": "Conference League",
-      "teams": "Servette (Sui) - Shakhtar (Ukr)",
-      "channels": [
-        {
-          "name": "CH184fr",
-          "url": "https://envivo.govoet.my.id/184"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-28T21:00:00+02:00",
-      "competition": "Conference League",
-      "teams": "Shamrock Rovers (Irl) - Santa Clara (Por)",
-      "channels": [
-        {
-          "name": "CH185pt",
-          "url": "https://envivo.govoet.my.id/185"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-28T21:00:00+02:00",
-      "competition": "Ligue Europa",
-      "teams": "Braga (Por) - Lincoln (Gib)",
-      "channels": [
-        {
-          "name": "CH168pt",
-          "url": "https://envivo.govoet.my.id/168"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-28T23:00:00+02:00",
       "competition": "Copa Colombia",
