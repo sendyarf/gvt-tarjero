@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-08-28T21:19:04.500565+00:00",
+  "last_updated": "2025-08-28T21:38:21.981597+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-28T20:30:00+02:00",
-      "competition": "Eurobasket",
-      "teams": "Grèce - Italie",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-28T20:30:00+02:00",
-      "competition": "Eurobasket",
-      "teams": "Slovénie - Pologne",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-28T20:30:00+02:00",
-      "competition": "Ligue Europa",
-      "teams": "FCSB (Rou) - Aberdeen (Sco)",
-      "channels": [
-        {
-          "name": "CH167ro",
-          "url": "https://envivo.govoet.my.id/167"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-28T20:45:00+02:00",
       "competition": "Conference League",
