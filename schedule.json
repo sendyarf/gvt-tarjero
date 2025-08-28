@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-08-28T18:31:00.122375+00:00",
+  "last_updated": "2025-08-28T19:17:08.050783+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-28T18:00:00+02:00",
-      "competition": "Conference League",
-      "teams": "Fredrikstad (Nor) - Crystal Palace (Eng)",
-      "channels": [
-        {
-          "name": "CH170gb",
-          "url": "https://envivo.govoet.my.id/170"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-28T18:00:00+02:00",
-      "competition": "Conference League",
-      "teams": "Noah (Arm) - O. Ljubljana (Slo)",
-      "channels": [
-        {
-          "name": "CH171si",
-          "url": "https://envivo.govoet.my.id/171"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-28T18:30:00+02:00",
       "competition": "Ligue Europa",
