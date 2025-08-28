@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-08-28T14:44:13.307158+00:00",
+  "last_updated": "2025-08-28T15:22:24.368949+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-28T14:00:00+02:00",
-      "competition": "Eurobasket",
-      "teams": "Géorgie - Espagne",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-28T14:00:00+02:00",
-      "competition": "Eurobasket",
-      "teams": "Israel - Islande",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-28T17:00:00+02:00",
       "competition": "Eurobasket",
