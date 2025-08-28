@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-08-28T19:38:44.429567+00:00",
+  "last_updated": "2025-08-28T20:23:38.577654+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-28T19:00:00+02:00",
-      "competition": "Conference League",
-      "teams": "Besiktas (Tur) - Lausanne (Sui)",
-      "channels": [
-        {
-          "name": "CH172tr",
-          "url": "https://envivo.govoet.my.id/172"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-28T19:00:00+02:00",
-      "competition": "Conference League",
-      "teams": "SK Rapid (Aut) - Győr (Hun)",
-      "channels": [
-        {
-          "name": "CH173hu",
-          "url": "https://envivo.govoet.my.id/173"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-28T19:00:00+02:00",
-      "competition": "Ligue Europa",
-      "teams": "Samsunspor (Tur) - Panathinaikos (Gre)",
-      "channels": [
-        {
-          "name": "CH161gr",
-          "url": "https://envivo.govoet.my.id/161"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-28T19:30:00+02:00",
       "competition": "Conference League",
