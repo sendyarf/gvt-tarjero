@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-08-28T17:40:55.553787+00:00",
+  "last_updated": "2025-08-28T18:31:00.122375+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-28T17:00:00+02:00",
-      "competition": "Eurobasket",
-      "teams": "Belgique - France",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-28T17:15:00+02:00",
-      "competition": "Eurobasket",
-      "teams": "Bosnie-Herzégovine - Chypre",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-28T18:00:00+02:00",
       "competition": "Conference League",
