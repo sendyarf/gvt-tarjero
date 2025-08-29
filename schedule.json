@@ -1,37 +1,7 @@
 {
-  "last_updated": "2025-08-29T13:29:05.436230+00:00",
+  "last_updated": "2025-08-29T13:45:09.298961+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-29T12:30:00+02:00",
-      "competition": "Eurobasket",
-      "teams": "Allemagne - Suède",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-29T12:30:00+02:00",
-      "competition": "formula 1",
-      "teams": "Essais libres 1 -",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        },
-        {
-          "name": "CH60es",
-          "url": "https://envivo.govoet.my.id/60"
-        },
-        {
-          "name": "CH101es",
-          "url": "https://envivo.govoet.my.id/101"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-29T13:45:00+02:00",
       "competition": "Eurobasket",
@@ -3003,6 +2973,17 @@
         {
           "name": "CH5fr",
           "url": "https://envivo.govoet.my.id/5"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-01T15:30:00+02:00",
+      "competition": "Eurobasket",
+      "teams": "Allemagne - Grande Bretagne",
+      "channels": [
+        {
+          "name": "CH1fr",
+          "url": "https://envivo.govoet.my.id/1"
         }
       ]
     }
