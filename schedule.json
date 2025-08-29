@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-29T11:38:48.783480+00:00",
+  "last_updated": "2025-08-29T12:43:13.975541+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -2992,6 +2992,17 @@
         {
           "name": "CH4fr",
           "url": "https://envivo.govoet.my.id/4"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-01T13:45:00+02:00",
+      "competition": "Eurobasket",
+      "teams": "Estonia - Turquie",
+      "channels": [
+        {
+          "name": "CH5fr",
+          "url": "https://envivo.govoet.my.id/5"
         }
       ]
     }
