@@ -1,7 +1,18 @@
 {
-  "last_updated": "2025-08-29T06:31:55.680424+00:00",
+  "last_updated": "2025-08-29T07:20:33.521203+00:00",
   "timezone": "Europe/Paris",
   "matches": [
+    {
+      "datetime": "2025-08-29T12:30:00+02:00",
+      "competition": "Eurobasket",
+      "teams": "Allemagne - Suède",
+      "channels": [
+        {
+          "name": "CH1fr",
+          "url": "https://envivo.govoet.my.id/1"
+        }
+      ]
+    },
     {
       "datetime": "2025-08-29T12:30:00+02:00",
       "competition": "formula 1",
@@ -18,6 +29,28 @@
         {
           "name": "CH101es",
           "url": "https://envivo.govoet.my.id/101"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-29T13:45:00+02:00",
+      "competition": "Eurobasket",
+      "teams": "Turquie - République Tchèque",
+      "channels": [
+        {
+          "name": "CH4fr",
+          "url": "https://envivo.govoet.my.id/4"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-29T15:30:00+02:00",
+      "competition": "Eurobasket",
+      "teams": "Lituanie - Monténégro",
+      "channels": [
+        {
+          "name": "CH5fr",
+          "url": "https://envivo.govoet.my.id/5"
         }
       ]
     },
@@ -48,6 +81,17 @@
         {
           "name": "CH2fr",
           "url": "https://envivo.govoet.my.id/2"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-29T17:00:00+02:00",
+      "competition": "Eurobasket",
+      "teams": "Estonia - Lettonie",
+      "channels": [
+        {
+          "name": "CH9fr",
+          "url": "https://envivo.govoet.my.id/9"
         }
       ]
     },
@@ -115,6 +159,28 @@
       ]
     },
     {
+      "datetime": "2025-08-29T19:00:00+02:00",
+      "competition": "Pro D2",
+      "teams": "Biarritz Olympique - AS Béziers",
+      "channels": [
+        {
+          "name": "CH13fr",
+          "url": "https://envivo.govoet.my.id/13"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-29T19:30:00+02:00",
+      "competition": "Eurobasket",
+      "teams": "Finlande - Grande Bretagne",
+      "channels": [
+        {
+          "name": "CH9fr",
+          "url": "https://envivo.govoet.my.id/9"
+        }
+      ]
+    },
+    {
       "datetime": "2025-08-29T19:30:00+02:00",
       "competition": "Laliga",
       "teams": "Elche - Levante",
@@ -145,6 +211,61 @@
         {
           "name": "CH53es",
           "url": "https://envivo.govoet.my.id/53"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-29T19:30:00+02:00",
+      "competition": "Pro D2",
+      "teams": "Soyaux Angoulême - Provence Rugby",
+      "channels": [
+        {
+          "name": "CH33fr",
+          "url": "https://envivo.govoet.my.id/33"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-29T19:30:00+02:00",
+      "competition": "Pro D2",
+      "teams": "Stade Aurillacois - US Carcassonne",
+      "channels": [
+        {
+          "name": "CH32fr",
+          "url": "https://envivo.govoet.my.id/32"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-29T19:30:00+02:00",
+      "competition": "Pro D2",
+      "teams": "Stade Montois - Colomiers Rugby",
+      "channels": [
+        {
+          "name": "CH34fr",
+          "url": "https://envivo.govoet.my.id/34"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-29T19:30:00+02:00",
+      "competition": "Pro D2",
+      "teams": "USO Nevers Rugby - SU Agen",
+      "channels": [
+        {
+          "name": "CH35fr",
+          "url": "https://envivo.govoet.my.id/35"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-29T19:30:00+02:00",
+      "competition": "Pro D2",
+      "teams": "Valence Romans - US Dax",
+      "channels": [
+        {
+          "name": "CH36fr",
+          "url": "https://envivo.govoet.my.id/36"
         }
       ]
     },
@@ -248,6 +369,17 @@
       ]
     },
     {
+      "datetime": "2025-08-29T20:15:00+02:00",
+      "competition": "Eurobasket",
+      "teams": "Portugal - Serbie",
+      "channels": [
+        {
+          "name": "CH3fr",
+          "url": "https://envivo.govoet.my.id/3"
+        }
+      ]
+    },
+    {
       "datetime": "2025-08-29T20:30:00+02:00",
       "competition": "Bundesliga",
       "teams": "Hambourg SV - St. Pauli",
@@ -342,6 +474,17 @@
         {
           "name": "CH79es",
           "url": "https://envivo.govoet.my.id/79"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-29T21:00:00+02:00",
+      "competition": "Pro D2",
+      "teams": "Oyonnax Rugby - FC Grenoble",
+      "channels": [
+        {
+          "name": "CH13fr",
+          "url": "https://envivo.govoet.my.id/13"
         }
       ]
     },
@@ -544,6 +687,17 @@
       ]
     },
     {
+      "datetime": "2025-08-30T12:30:00+02:00",
+      "competition": "Eurobasket",
+      "teams": "Lituanie - Allemagne",
+      "channels": [
+        {
+          "name": "CH3fr",
+          "url": "https://envivo.govoet.my.id/3"
+        }
+      ]
+    },
+    {
       "datetime": "2025-08-30T13:30:00+02:00",
       "competition": "Championship",
       "teams": "Middlesbrough - Sheffield Utd",
@@ -600,6 +754,28 @@
         {
           "name": "CH87xes",
           "url": "https://envivo.govoet.my.id/87"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-30T14:00:00+02:00",
+      "competition": "Eurobasket",
+      "teams": "Islande - Belgique",
+      "channels": [
+        {
+          "name": "CH9fr",
+          "url": "https://envivo.govoet.my.id/9"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-30T14:00:00+02:00",
+      "competition": "Eurobasket",
+      "teams": "Italie - Géorgie",
+      "channels": [
+        {
+          "name": "CH8fr",
+          "url": "https://envivo.govoet.my.id/8"
         }
       ]
     },
@@ -941,6 +1117,17 @@
         {
           "name": "CH144xpt",
           "url": "https://envivo.govoet.my.id/144"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-30T17:00:00+02:00",
+      "competition": "Eurobasket",
+      "teams": "France - Slovénie",
+      "channels": [
+        {
+          "name": "CH3fr",
+          "url": "https://envivo.govoet.my.id/3"
         }
       ]
     },
@@ -1316,6 +1503,28 @@
     },
     {
       "datetime": "2025-08-30T20:30:00+02:00",
+      "competition": "Eurobasket",
+      "teams": "Espagne - Bosnie-Herzégovine",
+      "channels": [
+        {
+          "name": "CH8fr",
+          "url": "https://envivo.govoet.my.id/8"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-30T20:30:00+02:00",
+      "competition": "Eurobasket",
+      "teams": "Pologne - Israel",
+      "channels": [
+        {
+          "name": "CH10fr",
+          "url": "https://envivo.govoet.my.id/10"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-30T20:30:00+02:00",
       "competition": "Super Lig",
       "teams": "Antalyaspor - Karagumruk",
       "channels": [
@@ -1437,6 +1646,17 @@
         {
           "name": "CH81es",
           "url": "https://envivo.govoet.my.id/81"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-30T21:00:00+02:00",
+      "competition": "Pro D2",
+      "teams": "CA Brive - RC Vannes",
+      "channels": [
+        {
+          "name": "CH11fr",
+          "url": "https://envivo.govoet.my.id/11"
         }
       ]
     },
@@ -1722,6 +1942,17 @@
     },
     {
       "datetime": "2025-08-31T14:00:00+02:00",
+      "competition": "Eurobasket",
+      "teams": "Géorgie - Grèce",
+      "channels": [
+        {
+          "name": "CH1fr",
+          "url": "https://envivo.govoet.my.id/1"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-31T14:00:00+02:00",
       "competition": "formula 1",
       "teams": "La Grille -",
       "channels": [
@@ -1912,6 +2143,17 @@
         {
           "name": "CH141xnl",
           "url": "https://envivo.govoet.my.id/141"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-31T17:00:00+02:00",
+      "competition": "Eurobasket",
+      "teams": "Israel - France",
+      "channels": [
+        {
+          "name": "CH1fr",
+          "url": "https://envivo.govoet.my.id/1"
         }
       ]
     },
