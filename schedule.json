@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-29T17:18:01.638186+00:00",
+  "last_updated": "2025-08-29T17:40:10.142911+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -2950,6 +2950,17 @@
       "datetime": "2025-09-01T17:00:00+02:00",
       "competition": "Eurobasket",
       "teams": "Portugal - Lettonie",
+      "channels": [
+        {
+          "name": "CH4fr",
+          "url": "https://envivo.govoet.my.id/4"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-01T19:30:00+02:00",
+      "competition": "Eurobasket",
+      "teams": "Finlande - Lituanie",
       "channels": [
         {
           "name": "CH4fr",
