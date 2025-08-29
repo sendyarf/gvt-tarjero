@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-08-29T17:40:10.142911+00:00",
+  "last_updated": "2025-08-29T18:28:03.062170+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-29T17:00:00+02:00",
-      "competition": "CHAN",
-      "teams": "Soudan - Sénégal",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-29T17:00:00+02:00",
-      "competition": "Eurobasket",
-      "teams": "Estonia - Lettonie",
-      "channels": [
-        {
-          "name": "CH9fr",
-          "url": "https://envivo.govoet.my.id/9"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-29T17:50:00+02:00",
       "competition": "Saudi Pro League",
@@ -2965,6 +2943,17 @@
         {
           "name": "CH4fr",
           "url": "https://envivo.govoet.my.id/4"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-01T20:15:00+02:00",
+      "competition": "Eurobasket",
+      "teams": "Serbie - République Tchèque",
+      "channels": [
+        {
+          "name": "CH1fr",
+          "url": "https://envivo.govoet.my.id/1"
         }
       ]
     }
