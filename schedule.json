@@ -1,17 +1,5 @@
 {
-  "last_updated": "2025-08-29T03:03:42.045449+00:00",
+  "last_updated": "2025-08-29T03:49:31.046586+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-08-29T02:15:00+02:00",
-      "competition": "Copa Argentina",
-      "teams": "Union Santa Fe - River Plate",
-      "channels": [
-        {
-          "name": "CH77es",
-          "url": "https://envivo.govoet.my.id/77"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
