@@ -1,37 +1,7 @@
 {
-  "last_updated": "2025-08-29T21:18:35.393297+00:00",
+  "last_updated": "2025-08-29T21:37:47.474491+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-29T20:30:00+02:00",
-      "competition": "Bundesliga",
-      "teams": "Hambourg SV - St. Pauli",
-      "channels": [
-        {
-          "name": "CH10fr",
-          "url": "https://envivo.govoet.my.id/10"
-        },
-        {
-          "name": "CH111de",
-          "url": "https://envivo.govoet.my.id/111"
-        },
-        {
-          "name": "CH161es",
-          "url": "https://envivo.govoet.my.id/161"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-29T20:30:00+02:00",
-      "competition": "Super Lig",
-      "teams": "Goztepe - Konyaspor",
-      "channels": [
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-29T20:45:00+02:00",
       "competition": "Ligue 1",
