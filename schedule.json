@@ -1,117 +1,7 @@
 {
-  "last_updated": "2025-08-29T20:40:19.751011+00:00",
+  "last_updated": "2025-08-29T21:18:35.393297+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-29T20:00:00+02:00",
-      "competition": "Eredivisie",
-      "teams": "Groningen - Heracles",
-      "channels": [
-        {
-          "name": "CH142nl",
-          "url": "https://envivo.govoet.my.id/142"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-29T20:00:00+02:00",
-      "competition": "Ligue 2",
-      "teams": "Multiplex Ligue 2 -",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-29T20:00:00+02:00",
-      "competition": "Ligue 2",
-      "teams": "Dunkerque - Troyes",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-29T20:00:00+02:00",
-      "competition": "Ligue 2",
-      "teams": "Laval - Clermont",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-29T20:00:00+02:00",
-      "competition": "Ligue 2",
-      "teams": "Montpellier - Amiens",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-29T20:00:00+02:00",
-      "competition": "Ligue 2",
-      "teams": "Nancy - Pau FC",
-      "channels": [
-        {
-          "name": "CH8fr",
-          "url": "https://envivo.govoet.my.id/8"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-29T20:00:00+02:00",
-      "competition": "Ligue 2",
-      "teams": "Red Star - Annecy",
-      "channels": [
-        {
-          "name": "CH5fr",
-          "url": "https://envivo.govoet.my.id/5"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-29T20:00:00+02:00",
-      "competition": "Ligue 2",
-      "teams": "Rodez - Boulogne",
-      "channels": [
-        {
-          "name": "CH7fr",
-          "url": "https://envivo.govoet.my.id/7"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-29T20:00:00+02:00",
-      "competition": "Saudi Pro League",
-      "teams": "Al-Taawon - Al-Nassr",
-      "channels": [
-        {
-          "name": "CH160us",
-          "url": "https://envivo.govoet.my.id/160"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-29T20:15:00+02:00",
-      "competition": "Eurobasket",
-      "teams": "Portugal - Serbie",
-      "channels": [
-        {
-          "name": "CH3fr",
-          "url": "https://envivo.govoet.my.id/3"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-29T20:30:00+02:00",
       "competition": "Bundesliga",
@@ -319,6 +209,17 @@
       ]
     },
     {
+      "datetime": "2025-08-30T01:00:00+02:00",
+      "competition": "Liga De Expansion Mx",
+      "teams": "Tapatio - Atlante",
+      "channels": [
+        {
+          "name": "CH158es",
+          "url": "https://envivo.govoet.my.id/158"
+        }
+      ]
+    },
+    {
       "datetime": "2025-08-30T02:00:00+02:00",
       "competition": "Ecuador Ligapro",
       "teams": "Vinotinto - El Nacional",
@@ -337,6 +238,17 @@
         {
           "name": "CH75es",
           "url": "https://envivo.govoet.my.id/75"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-30T03:00:00+02:00",
+      "competition": "Liga De Expansion Mx",
+      "teams": "Correcaminos - Tepatitlan de Morelos",
+      "channels": [
+        {
+          "name": "CH158es",
+          "url": "https://envivo.govoet.my.id/158"
         }
       ]
     },
@@ -382,6 +294,17 @@
         {
           "name": "CH81es",
           "url": "https://envivo.govoet.my.id/81"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-30T05:00:00+02:00",
+      "competition": "Liga De Expansion Mx",
+      "teams": "Atletico La Paz - Dorados",
+      "channels": [
+        {
+          "name": "CH158es",
+          "url": "https://envivo.govoet.my.id/158"
         }
       ]
     },
