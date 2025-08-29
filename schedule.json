@@ -1,59 +1,7 @@
 {
-  "last_updated": "2025-08-29T19:16:13.066374+00:00",
+  "last_updated": "2025-08-29T19:38:25.975326+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-29T18:30:00+02:00",
-      "competition": "Bundesliga 2",
-      "teams": "2.bundesliga konferenz -",
-      "channels": [
-        {
-          "name": "CH112de",
-          "url": "https://envivo.govoet.my.id/112"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-29T18:30:00+02:00",
-      "competition": "Bundesliga 2",
-      "teams": "Hertha Berlin - Elversberg",
-      "channels": [
-        {
-          "name": "CH113de",
-          "url": "https://envivo.govoet.my.id/113"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-29T18:30:00+02:00",
-      "competition": "Bundesliga 2",
-      "teams": "Nurnberg - Paderborn",
-      "channels": [
-        {
-          "name": "CH114de",
-          "url": "https://envivo.govoet.my.id/114"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-29T18:30:00+02:00",
-      "competition": "Serie A",
-      "teams": "Cremonese - Sassuolo",
-      "channels": [
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH90es",
-          "url": "https://envivo.govoet.my.id/90"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-29T19:00:00+02:00",
       "competition": "Pro D2",
