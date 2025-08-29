@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-08-29T14:42:34.074378+00:00",
+  "last_updated": "2025-08-29T15:19:30.831369+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-29T13:45:00+02:00",
-      "competition": "Eurobasket",
-      "teams": "Turquie - République Tchèque",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-29T15:30:00+02:00",
       "competition": "Eurobasket",
@@ -2984,6 +2973,17 @@
         {
           "name": "CH1fr",
           "url": "https://envivo.govoet.my.id/1"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-01T17:00:00+02:00",
+      "competition": "Eurobasket",
+      "teams": "Portugal - Lettonie",
+      "channels": [
+        {
+          "name": "CH4fr",
+          "url": "https://envivo.govoet.my.id/4"
         }
       ]
     }
