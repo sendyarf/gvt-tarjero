@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-08-30T05:39:44.993495+00:00",
+  "last_updated": "2025-08-30T06:28:32.428522+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-30T05:00:00+02:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Atletico La Paz - Dorados",
-      "channels": [
-        {
-          "name": "CH158es",
-          "url": "https://envivo.govoet.my.id/158"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-30T05:05:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Puebla - Monterrey",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        },
-        {
-          "name": "CH108es",
-          "url": "https://envivo.govoet.my.id/108"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-30T11:30:00+02:00",
       "competition": "formula 1",
