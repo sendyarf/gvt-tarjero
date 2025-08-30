@@ -1,75 +1,7 @@
 {
-  "last_updated": "2025-08-30T14:17:13.200250+00:00",
+  "last_updated": "2025-08-30T14:38:41.783688+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-30T13:30:00+02:00",
-      "competition": "Championship",
-      "teams": "Middlesbrough - Sheffield Utd",
-      "channels": [
-        {
-          "name": "CH10fr",
-          "url": "https://envivo.govoet.my.id/10"
-        },
-        {
-          "name": "CH127gb",
-          "url": "https://envivo.govoet.my.id/127"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-30T13:30:00+02:00",
-      "competition": "Championship",
-      "teams": "QPR - Charlton",
-      "channels": [
-        {
-          "name": "CH180us",
-          "url": "https://envivo.govoet.my.id/180"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-30T13:30:00+02:00",
-      "competition": "Championship",
-      "teams": "Stoke - West Brom",
-      "channels": [
-        {
-          "name": "CH181us",
-          "url": "https://envivo.govoet.my.id/181"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-30T13:30:00+02:00",
-      "competition": "Premier League",
-      "teams": "Chelsea - Fulham",
-      "channels": [
-        {
-          "name": "CH12fr",
-          "url": "https://envivo.govoet.my.id/12"
-        },
-        {
-          "name": "CH126gb",
-          "url": "https://envivo.govoet.my.id/126"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        },
-        {
-          "name": "CH120de",
-          "url": "https://envivo.govoet.my.id/120"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH72es",
-          "url": "https://envivo.govoet.my.id/72"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-30T14:00:00+02:00",
       "competition": "Eurobasket",
