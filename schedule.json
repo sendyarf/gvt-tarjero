@@ -1,71 +1,7 @@
 {
-  "last_updated": "2025-08-30T17:38:03.409462+00:00",
+  "last_updated": "2025-08-30T18:27:18.418713+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-30T17:00:00+02:00",
-      "competition": "Eurobasket",
-      "teams": "France - Slovénie",
-      "channels": [
-        {
-          "name": "CH3fr",
-          "url": "https://envivo.govoet.my.id/3"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-30T17:00:00+02:00",
-      "competition": "Laliga",
-      "teams": "Alaves - Atl. Madrid",
-      "channels": [
-        {
-          "name": "CH9fr",
-          "url": "https://envivo.govoet.my.id/9"
-        },
-        {
-          "name": "CH49es",
-          "url": "https://envivo.govoet.my.id/49"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH91es",
-          "url": "https://envivo.govoet.my.id/91"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-30T17:00:00+02:00",
-      "competition": "Laliga 2",
-      "teams": "Racing Santander - Ceuta",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-30T17:00:00+02:00",
-      "competition": "Ligue 1",
-      "teams": "Lorient - Lille",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-30T18:00:00+02:00",
       "competition": "Betfred Super League",
