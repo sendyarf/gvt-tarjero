@@ -1,51 +1,7 @@
 {
-  "last_updated": "2025-08-30T14:38:41.783688+00:00",
+  "last_updated": "2025-08-30T15:19:04.280242+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-30T14:00:00+02:00",
-      "competition": "Eurobasket",
-      "teams": "Islande - Belgique",
-      "channels": [
-        {
-          "name": "CH9fr",
-          "url": "https://envivo.govoet.my.id/9"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-30T14:00:00+02:00",
-      "competition": "Eurobasket",
-      "teams": "Italie - Géorgie",
-      "channels": [
-        {
-          "name": "CH8fr",
-          "url": "https://envivo.govoet.my.id/8"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-30T14:00:00+02:00",
-      "competition": "Ligue 2",
-      "teams": "Bastia - Guingamp",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-30T14:00:00+02:00",
-      "competition": "Ligue 2",
-      "teams": "Reims - Le Mans",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-30T15:00:00+02:00",
       "competition": "formula 1",
