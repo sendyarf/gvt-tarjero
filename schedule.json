@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-30T07:18:00.787710+00:00",
+  "last_updated": "2025-08-30T07:38:00.396953+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -137,6 +137,10 @@
         {
           "name": "CH87es",
           "url": "https://envivo.govoet.my.id/87"
+        },
+        {
+          "name": "CH72es",
+          "url": "https://envivo.govoet.my.id/72"
         }
       ]
     },
@@ -271,6 +275,10 @@
         {
           "name": "CH113de",
           "url": "https://envivo.govoet.my.id/113"
+        },
+        {
+          "name": "CH156es",
+          "url": "https://envivo.govoet.my.id/156"
         }
       ]
     },
@@ -391,8 +399,8 @@
           "url": "https://envivo.govoet.my.id/57"
         },
         {
-          "name": "CH87xes",
-          "url": "https://envivo.govoet.my.id/87"
+          "name": "CH88es",
+          "url": "https://envivo.govoet.my.id/88"
         }
       ]
     },
@@ -414,8 +422,8 @@
           "url": "https://envivo.govoet.my.id/59"
         },
         {
-          "name": "CH87xes",
-          "url": "https://envivo.govoet.my.id/87"
+          "name": "CH72es",
+          "url": "https://envivo.govoet.my.id/72"
         }
       ]
     },
@@ -439,10 +447,6 @@
         {
           "name": "CH119de",
           "url": "https://envivo.govoet.my.id/119"
-        },
-        {
-          "name": "CH87xes",
-          "url": "https://envivo.govoet.my.id/87"
         }
       ]
     },
@@ -464,8 +468,8 @@
           "url": "https://envivo.govoet.my.id/58"
         },
         {
-          "name": "CH87xes",
-          "url": "https://envivo.govoet.my.id/87"
+          "name": "CH157es",
+          "url": "https://envivo.govoet.my.id/157"
         }
       ]
     },
@@ -501,7 +505,7 @@
       "teams": "Casa Pia - Nacional",
       "channels": [
         {
-          "name": "CH144xpt",
+          "name": "CH144pt",
           "url": "https://envivo.govoet.my.id/144"
         }
       ]
@@ -535,12 +539,12 @@
           "url": "https://envivo.govoet.my.id/123"
         },
         {
-          "name": "CH71xes",
+          "name": "CH71es",
           "url": "https://envivo.govoet.my.id/71"
         },
         {
-          "name": "CH87xes",
-          "url": "https://envivo.govoet.my.id/87"
+          "name": "CH91es",
+          "url": "https://envivo.govoet.my.id/91"
         }
       ]
     },
@@ -576,7 +580,7 @@
       "teams": "Volos - Olympiakos",
       "channels": [
         {
-          "name": "CH148xgr",
+          "name": "CH148gr",
           "url": "https://envivo.govoet.my.id/148"
         }
       ]
@@ -620,8 +624,8 @@
       "teams": "Panserraikos - OFI Crete",
       "channels": [
         {
-          "name": "CH148xgr",
-          "url": "https://envivo.govoet.my.id/148"
+          "name": "CH149gr",
+          "url": "https://envivo.govoet.my.id/149"
         }
       ]
     },
@@ -637,6 +641,10 @@
         {
           "name": "CH110xde",
           "url": "https://envivo.govoet.my.id/110"
+        },
+        {
+          "name": "CH156es",
+          "url": "https://envivo.govoet.my.id/156"
         }
       ]
     },
@@ -682,10 +690,6 @@
         {
           "name": "CH120de",
           "url": "https://envivo.govoet.my.id/120"
-        },
-        {
-          "name": "CH87xes",
-          "url": "https://envivo.govoet.my.id/87"
         }
       ]
     },
@@ -722,8 +726,12 @@
           "url": "https://envivo.govoet.my.id/124"
         },
         {
-          "name": "CH97xes",
+          "name": "CH97es",
           "url": "https://envivo.govoet.my.id/97"
+        },
+        {
+          "name": "CH70es",
+          "url": "https://envivo.govoet.my.id/70"
         }
       ]
     },
@@ -756,12 +764,8 @@
           "url": "https://envivo.govoet.my.id/123"
         },
         {
-          "name": "CH71xes",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH87xes",
-          "url": "https://envivo.govoet.my.id/87"
+          "name": "CH94es",
+          "url": "https://envivo.govoet.my.id/94"
         }
       ]
     },
@@ -782,8 +786,8 @@
       "teams": "AFS - Famalicao",
       "channels": [
         {
-          "name": "CH144xpt",
-          "url": "https://envivo.govoet.my.id/144"
+          "name": "CH146pt",
+          "url": "https://envivo.govoet.my.id/146"
         }
       ]
     },
@@ -793,8 +797,8 @@
       "teams": "Guimaraes - Arouca",
       "channels": [
         {
-          "name": "CH144xpt",
-          "url": "https://envivo.govoet.my.id/144"
+          "name": "CH145pt",
+          "url": "https://envivo.govoet.my.id/145"
         }
       ]
     },
@@ -831,12 +835,12 @@
           "url": "https://envivo.govoet.my.id/123"
         },
         {
-          "name": "CH71xes",
+          "name": "CH71es",
           "url": "https://envivo.govoet.my.id/71"
         },
         {
-          "name": "CH87xes",
-          "url": "https://envivo.govoet.my.id/87"
+          "name": "CH91es",
+          "url": "https://envivo.govoet.my.id/91"
         }
       ]
     },
@@ -846,7 +850,7 @@
       "teams": "San Lorenzo - Huracan",
       "channels": [
         {
-          "name": "CH75xes",
+          "name": "CH75es",
           "url": "https://envivo.govoet.my.id/75"
         },
         {
@@ -861,8 +865,8 @@
       "teams": "Aris - Panetolikos",
       "channels": [
         {
-          "name": "CH148xgr",
-          "url": "https://envivo.govoet.my.id/148"
+          "name": "CH150gr",
+          "url": "https://envivo.govoet.my.id/150"
         }
       ]
     },
@@ -894,8 +898,8 @@
       "teams": "Al Okhdood - Al-Ittihad FC",
       "channels": [
         {
-          "name": "CH81xes",
-          "url": "https://envivo.govoet.my.id/81"
+          "name": "CH70es",
+          "url": "https://envivo.govoet.my.id/70"
         }
       ]
     },
@@ -905,7 +909,7 @@
       "teams": "AEL Larissa - Kifisia",
       "channels": [
         {
-          "name": "CH148xgr",
+          "name": "CH148gr",
           "url": "https://envivo.govoet.my.id/148"
         }
       ]
@@ -994,8 +998,12 @@
           "url": "https://envivo.govoet.my.id/124"
         },
         {
-          "name": "CH97xes",
+          "name": "CH97es",
           "url": "https://envivo.govoet.my.id/97"
+        },
+        {
+          "name": "CH89es",
+          "url": "https://envivo.govoet.my.id/89"
         }
       ]
     },
@@ -1013,8 +1021,8 @@
           "url": "https://envivo.govoet.my.id/124"
         },
         {
-          "name": "CH97xes",
-          "url": "https://envivo.govoet.my.id/97"
+          "name": "CH155es",
+          "url": "https://envivo.govoet.my.id/155"
         }
       ]
     },
@@ -1117,12 +1125,12 @@
           "url": "https://envivo.govoet.my.id/123"
         },
         {
-          "name": "CH71xes",
+          "name": "CH71es",
           "url": "https://envivo.govoet.my.id/71"
         },
         {
-          "name": "CH87xes",
-          "url": "https://envivo.govoet.my.id/87"
+          "name": "CH94es",
+          "url": "https://envivo.govoet.my.id/94"
         }
       ]
     },
@@ -1151,7 +1159,7 @@
           "url": "https://envivo.govoet.my.id/4"
         },
         {
-          "name": "CH144xpt",
+          "name": "CH144pt",
           "url": "https://envivo.govoet.my.id/144"
         }
       ]
@@ -1173,7 +1181,7 @@
       "teams": "Central Cordoba - Estudiantes",
       "channels": [
         {
-          "name": "CH75xes",
+          "name": "CH75es",
           "url": "https://envivo.govoet.my.id/75"
         }
       ]
@@ -1184,8 +1192,8 @@
       "teams": "Ind. Rivadavia - Argentinos Jrs",
       "channels": [
         {
-          "name": "CH75xes",
-          "url": "https://envivo.govoet.my.id/75"
+          "name": "CH76es",
+          "url": "https://envivo.govoet.my.id/76"
         }
       ]
     },
@@ -1250,7 +1258,7 @@
       "teams": "Sarmiento Junin - Rosario",
       "channels": [
         {
-          "name": "CH75xes",
+          "name": "CH75es",
           "url": "https://envivo.govoet.my.id/75"
         }
       ]
@@ -1274,6 +1282,61 @@
         {
           "name": "CH81es",
           "url": "https://envivo.govoet.my.id/81"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-31T01:30:00+02:00",
+      "competition": "MLS",
+      "teams": "Cincinnati - Philadelphia Union",
+      "channels": [
+        {
+          "name": "CH180us",
+          "url": "https://envivo.govoet.my.id/180"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-31T01:30:00+02:00",
+      "competition": "MLS",
+      "teams": "New England Revolution - Charlotte",
+      "channels": [
+        {
+          "name": "CH181us",
+          "url": "https://envivo.govoet.my.id/181"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-31T01:30:00+02:00",
+      "competition": "MLS",
+      "teams": "New York City - DC United",
+      "channels": [
+        {
+          "name": "CH182us",
+          "url": "https://envivo.govoet.my.id/182"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-31T01:30:00+02:00",
+      "competition": "MLS",
+      "teams": "New York Red Bulls - Columbus Crew",
+      "channels": [
+        {
+          "name": "CH183us",
+          "url": "https://envivo.govoet.my.id/183"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-31T01:30:00+02:00",
+      "competition": "MLS",
+      "teams": "Toronto FC - CF Montreal",
+      "channels": [
+        {
+          "name": "CH184us",
+          "url": "https://envivo.govoet.my.id/184"
         }
       ]
     },
@@ -1312,12 +1375,67 @@
     },
     {
       "datetime": "2025-08-31T02:30:00+02:00",
+      "competition": "MLS",
+      "teams": "Austin FC - San Jose Earthquakes",
+      "channels": [
+        {
+          "name": "CH185us",
+          "url": "https://envivo.govoet.my.id/185"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-31T02:30:00+02:00",
+      "competition": "MLS",
+      "teams": "Minnesota - Portland Timbers",
+      "channels": [
+        {
+          "name": "CH186us",
+          "url": "https://envivo.govoet.my.id/186"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-31T02:30:00+02:00",
+      "competition": "MLS",
+      "teams": "Nashville SC - Atlanta Utd",
+      "channels": [
+        {
+          "name": "CH187us",
+          "url": "https://envivo.govoet.my.id/187"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-31T02:30:00+02:00",
+      "competition": "MLS",
+      "teams": "Sporting Kansas City - Colorado Rapids",
+      "channels": [
+        {
+          "name": "CH188us",
+          "url": "https://envivo.govoet.my.id/188"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-31T02:30:00+02:00",
+      "competition": "MLS",
+      "teams": "St. Louis City - Houston Dynamo",
+      "channels": [
+        {
+          "name": "CH189us",
+          "url": "https://envivo.govoet.my.id/189"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-31T02:30:00+02:00",
       "competition": "Torneo LPF",
       "teams": "Velez Sarsfield - Lanus",
       "channels": [
         {
-          "name": "CH75xes",
-          "url": "https://envivo.govoet.my.id/75"
+          "name": "CH76es",
+          "url": "https://envivo.govoet.my.id/76"
         }
       ]
     },
@@ -1334,12 +1452,38 @@
     },
     {
       "datetime": "2025-08-31T03:00:00+02:00",
+      "competition": "Liga Mx",
+      "teams": "Santos Laguna - Tigres",
+      "channels": [
+        {
+          "name": "CH68es",
+          "url": "https://envivo.govoet.my.id/68"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-31T03:00:00+02:00",
       "competition": "Liga Mx Women",
       "teams": "Tijuana F - Necaxa F",
       "channels": [
         {
           "name": "CH1xxes",
           "url": "https://envivo.govoet.my.id/1"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-31T03:07:00+02:00",
+      "competition": "Liga Mx",
+      "teams": "Guadalajara - Cruz Azul",
+      "channels": [
+        {
+          "name": "CH72es",
+          "url": "https://envivo.govoet.my.id/72"
+        },
+        {
+          "name": "CH73es",
+          "url": "https://envivo.govoet.my.id/73"
         }
       ]
     },
@@ -1351,6 +1495,17 @@
         {
           "name": "CH81es",
           "url": "https://envivo.govoet.my.id/81"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-08-31T05:05:00+02:00",
+      "competition": "Liga Mx",
+      "teams": "Club America - Pachuca",
+      "channels": [
+        {
+          "name": "CH68es",
+          "url": "https://envivo.govoet.my.id/68"
         }
       ]
     },
@@ -1466,6 +1621,10 @@
         {
           "name": "CH69es",
           "url": "https://envivo.govoet.my.id/69"
+        },
+        {
+          "name": "CH89es",
+          "url": "https://envivo.govoet.my.id/89"
         }
       ]
     },
@@ -1489,10 +1648,6 @@
         {
           "name": "CH120xde",
           "url": "https://envivo.govoet.my.id/120"
-        },
-        {
-          "name": "CH87xes",
-          "url": "https://envivo.govoet.my.id/87"
         }
       ]
     },
@@ -1506,7 +1661,7 @@
           "url": "https://envivo.govoet.my.id/32"
         },
         {
-          "name": "CH129xus",
+          "name": "CH129us",
           "url": "https://envivo.govoet.my.id/129"
         },
         {
@@ -1518,8 +1673,12 @@
           "url": "https://envivo.govoet.my.id/120"
         },
         {
-          "name": "CH87xes",
+          "name": "CH87es",
           "url": "https://envivo.govoet.my.id/87"
+        },
+        {
+          "name": "CH73es",
+          "url": "https://envivo.govoet.my.id/73"
         }
       ]
     },
@@ -1565,6 +1724,10 @@
         {
           "name": "CH110xde",
           "url": "https://envivo.govoet.my.id/110"
+        },
+        {
+          "name": "CH156es",
+          "url": "https://envivo.govoet.my.id/156"
         }
       ]
     },
@@ -1596,8 +1759,8 @@
       "teams": "Tondela - Estoril",
       "channels": [
         {
-          "name": "CH144xpt",
-          "url": "https://envivo.govoet.my.id/144"
+          "name": "CH145pt",
+          "url": "https://envivo.govoet.my.id/145"
         }
       ]
     },
@@ -1641,12 +1804,12 @@
           "url": "https://envivo.govoet.my.id/123"
         },
         {
-          "name": "CH71xes",
+          "name": "CH71es",
           "url": "https://envivo.govoet.my.id/71"
         },
         {
-          "name": "CH87xes",
-          "url": "https://envivo.govoet.my.id/87"
+          "name": "CH94es",
+          "url": "https://envivo.govoet.my.id/94"
         }
       ]
     },
@@ -1765,8 +1928,16 @@
           "url": "https://envivo.govoet.my.id/120"
         },
         {
-          "name": "CH87xes",
+          "name": "CH87es",
           "url": "https://envivo.govoet.my.id/87"
+        },
+        {
+          "name": "CH73es",
+          "url": "https://envivo.govoet.my.id/73"
+        },
+        {
+          "name": "CH157es",
+          "url": "https://envivo.govoet.my.id/157"
         }
       ]
     },
@@ -1843,8 +2014,16 @@
           "url": "https://envivo.govoet.my.id/124"
         },
         {
-          "name": "CH97xes",
+          "name": "CH97es",
           "url": "https://envivo.govoet.my.id/97"
+        },
+        {
+          "name": "CH70es",
+          "url": "https://envivo.govoet.my.id/70"
+        },
+        {
+          "name": "CH90es",
+          "url": "https://envivo.govoet.my.id/90"
         }
       ]
     },
@@ -1862,8 +2041,8 @@
           "url": "https://envivo.govoet.my.id/124"
         },
         {
-          "name": "CH97xes",
-          "url": "https://envivo.govoet.my.id/97"
+          "name": "CH155es",
+          "url": "https://envivo.govoet.my.id/155"
         }
       ]
     },
@@ -1873,7 +2052,7 @@
       "teams": "AEK - Asteras T.",
       "channels": [
         {
-          "name": "CH148xgr",
+          "name": "CH148gr",
           "url": "https://envivo.govoet.my.id/148"
         }
       ]
@@ -1896,12 +2075,12 @@
           "url": "https://envivo.govoet.my.id/123"
         },
         {
-          "name": "CH71xes",
+          "name": "CH71es",
           "url": "https://envivo.govoet.my.id/71"
         },
         {
-          "name": "CH87xes",
-          "url": "https://envivo.govoet.my.id/87"
+          "name": "CH88es",
+          "url": "https://envivo.govoet.my.id/88"
         }
       ]
     },
@@ -1915,7 +2094,7 @@
           "url": "https://envivo.govoet.my.id/8"
         },
         {
-          "name": "CH144xpt",
+          "name": "CH144pt",
           "url": "https://envivo.govoet.my.id/144"
         }
       ]
@@ -1926,8 +2105,8 @@
       "teams": "Guadalajara F - Tigres F",
       "channels": [
         {
-          "name": "CH1xxes",
-          "url": "https://envivo.govoet.my.id/1"
+          "name": "CH72es",
+          "url": "https://envivo.govoet.my.id/72"
         }
       ]
     },
@@ -1975,12 +2154,8 @@
           "url": "https://envivo.govoet.my.id/123"
         },
         {
-          "name": "CH71xes",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH87xes",
-          "url": "https://envivo.govoet.my.id/87"
+          "name": "CH94es",
+          "url": "https://envivo.govoet.my.id/94"
         }
       ]
     },
@@ -2005,8 +2180,8 @@
       "teams": "Aldosivi - Boca Juniors",
       "channels": [
         {
-          "name": "CH75xes",
-          "url": "https://envivo.govoet.my.id/75"
+          "name": "CH76es",
+          "url": "https://envivo.govoet.my.id/76"
         }
       ]
     },
@@ -2016,8 +2191,8 @@
       "teams": "PAOK - Atromitos",
       "channels": [
         {
-          "name": "CH148xgr",
-          "url": "https://envivo.govoet.my.id/148"
+          "name": "CH149gr",
+          "url": "https://envivo.govoet.my.id/149"
         }
       ]
     },
@@ -2065,8 +2240,8 @@
           "url": "https://envivo.govoet.my.id/120"
         },
         {
-          "name": "CH87xes",
-          "url": "https://envivo.govoet.my.id/87"
+          "name": "CH157es",
+          "url": "https://envivo.govoet.my.id/157"
         }
       ]
     },
@@ -2127,6 +2302,10 @@
         {
           "name": "CH69es",
           "url": "https://envivo.govoet.my.id/69"
+        },
+        {
+          "name": "CH90es",
+          "url": "https://envivo.govoet.my.id/90"
         }
       ]
     },
@@ -2146,6 +2325,10 @@
         {
           "name": "CH97xes",
           "url": "https://envivo.govoet.my.id/97"
+        },
+        {
+          "name": "CH70es",
+          "url": "https://envivo.govoet.my.id/70"
         }
       ]
     },
@@ -2174,8 +2357,8 @@
       "teams": "Panathinaikos - Levadiakos",
       "channels": [
         {
-          "name": "CH148xgr",
-          "url": "https://envivo.govoet.my.id/148"
+          "name": "CH150gr",
+          "url": "https://envivo.govoet.my.id/150"
         }
       ]
     },
@@ -2230,11 +2413,11 @@
           "url": "https://envivo.govoet.my.id/123"
         },
         {
-          "name": "CH71xes",
+          "name": "CH71es",
           "url": "https://envivo.govoet.my.id/71"
         },
         {
-          "name": "CH87xes",
+          "name": "CH87es",
           "url": "https://envivo.govoet.my.id/87"
         }
       ]
@@ -2256,8 +2439,8 @@
       "teams": "Rio Ave - Braga",
       "channels": [
         {
-          "name": "CH144xpt",
-          "url": "https://envivo.govoet.my.id/144"
+          "name": "CH145pt",
+          "url": "https://envivo.govoet.my.id/145"
         }
       ]
     },
@@ -2267,8 +2450,8 @@
       "teams": "Santa Clara - Estrela",
       "channels": [
         {
-          "name": "CH144xpt",
-          "url": "https://envivo.govoet.my.id/144"
+          "name": "CH146pt",
+          "url": "https://envivo.govoet.my.id/146"
         }
       ]
     },
@@ -2278,7 +2461,7 @@
       "teams": "Defensa y Justicia - Belgrano",
       "channels": [
         {
-          "name": "CH75xes",
+          "name": "CH75es",
           "url": "https://envivo.govoet.my.id/75"
         }
       ]
@@ -2289,8 +2472,8 @@
       "teams": "Talleres Cordoba - Dep. Riestra",
       "channels": [
         {
-          "name": "CH75xes",
-          "url": "https://envivo.govoet.my.id/75"
+          "name": "CH76es",
+          "url": "https://envivo.govoet.my.id/76"
         }
       ]
     },
@@ -2366,7 +2549,7 @@
       "teams": "River Plate - San Martin S.J.",
       "channels": [
         {
-          "name": "CH75xes",
+          "name": "CH75es",
           "url": "https://envivo.govoet.my.id/75"
         },
         {
@@ -2436,8 +2619,8 @@
       "teams": "Seattle Sounders - Inter Miami",
       "channels": [
         {
-          "name": "CH00us",
-          "url": "https://envivo.govoet.my.id/00"
+          "name": "CH68es",
+          "url": "https://envivo.govoet.my.id/68"
         }
       ]
     },
@@ -2447,8 +2630,8 @@
       "teams": "Racing Club - Union Santa Fe",
       "channels": [
         {
-          "name": "CH75xes",
-          "url": "https://envivo.govoet.my.id/75"
+          "name": "CH76es",
+          "url": "https://envivo.govoet.my.id/76"
         }
       ]
     },
@@ -2460,6 +2643,17 @@
         {
           "name": "CH1xxes",
           "url": "https://envivo.govoet.my.id/1"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-01T04:45:00+02:00",
+      "competition": "MLS",
+      "teams": "Los Angeles FC - San Diego FC",
+      "channels": [
+        {
+          "name": "CH180us",
+          "url": "https://envivo.govoet.my.id/180"
         }
       ]
     }
