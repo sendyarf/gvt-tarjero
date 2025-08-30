@@ -1,34 +1,7 @@
 {
-  "last_updated": "2025-08-30T20:21:06.678731+00:00",
+  "last_updated": "2025-08-30T20:39:30.743944+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-30T19:30:00+02:00",
-      "competition": "Laliga",
-      "teams": "Gérone - FC Séville",
-      "channels": [
-        {
-          "name": "CH6fr",
-          "url": "https://envivo.govoet.my.id/6"
-        },
-        {
-          "name": "CH52es",
-          "url": "https://envivo.govoet.my.id/52"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH91es",
-          "url": "https://envivo.govoet.my.id/91"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-30T19:45:00+02:00",
       "competition": "Torneo LPF",
