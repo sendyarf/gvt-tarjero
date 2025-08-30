@@ -1,26 +1,7 @@
 {
-  "last_updated": "2025-08-30T15:37:55.595753+00:00",
+  "last_updated": "2025-08-30T16:23:46.471124+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-30T15:00:00+02:00",
-      "competition": "formula 1",
-      "teams": "Essais qualificatifs -",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        },
-        {
-          "name": "CH60es",
-          "url": "https://envivo.govoet.my.id/60"
-        },
-        {
-          "name": "CH101es",
-          "url": "https://envivo.govoet.my.id/101"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-30T15:30:00+02:00",
       "competition": "Bundesliga",
