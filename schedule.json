@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-08-30T22:39:55.368848+00:00",
+  "last_updated": "2025-08-30T23:18:41.945393+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-30T22:00:00+02:00",
-      "competition": "Liga 1 Te Apuesto",
-      "teams": "Alianza Huanuco - Los Chankas",
-      "channels": [
-        {
-          "name": "CH84es",
-          "url": "https://envivo.govoet.my.id/84"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-30T22:00:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Central Cordoba - Estudiantes",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-30T22:00:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Ind. Rivadavia - Argentinos Jrs",
-      "channels": [
-        {
-          "name": "CH76es",
-          "url": "https://envivo.govoet.my.id/76"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-30T23:30:00+02:00",
       "competition": "Campeonato Itaú Chile",
