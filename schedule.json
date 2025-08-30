@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-08-30T18:45:53.304483+00:00",
+  "last_updated": "2025-08-30T19:15:10.897878+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-30T18:00:00+02:00",
-      "competition": "Betfred Super League",
-      "teams": "Volos - Olympiakos",
-      "channels": [
-        {
-          "name": "CH148gr",
-          "url": "https://envivo.govoet.my.id/148"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-30T18:00:00+02:00",
-      "competition": "Super Lig",
-      "teams": "Kasimpasa - Gaziantep",
-      "channels": [
-        {
-          "name": "CH152tr",
-          "url": "https://envivo.govoet.my.id/152"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-30T18:00:00+02:00",
-      "competition": "Super Lig",
-      "teams": "Kocaelispor - Kayserispor",
-      "channels": [
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-30T18:15:00+02:00",
       "competition": "Pro League",
