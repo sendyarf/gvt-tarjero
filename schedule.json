@@ -1,26 +1,7 @@
 {
-  "last_updated": "2025-08-30T11:38:14.848038+00:00",
+  "last_updated": "2025-08-30T12:39:09.445823+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-30T11:30:00+02:00",
-      "competition": "formula 1",
-      "teams": "Essais libres 3 -",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        },
-        {
-          "name": "CH60es",
-          "url": "https://envivo.govoet.my.id/60"
-        },
-        {
-          "name": "CH101es",
-          "url": "https://envivo.govoet.my.id/101"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-30T12:30:00+02:00",
       "competition": "Eurobasket",
