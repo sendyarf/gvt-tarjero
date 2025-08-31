@@ -1,37 +1,7 @@
 {
-  "last_updated": "2025-08-31T15:19:20.058803+00:00",
+  "last_updated": "2025-08-31T15:38:17.686260+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-31T14:30:00+02:00",
-      "competition": "Eredivisie",
-      "teams": "Sparta Rotterdam - Feyenoord",
-      "channels": [
-        {
-          "name": "CH142nl",
-          "url": "https://envivo.govoet.my.id/142"
-        },
-        {
-          "name": "CH61es",
-          "url": "https://envivo.govoet.my.id/61"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-31T14:30:00+02:00",
-      "competition": "Eredivisie",
-      "teams": "Zwolle - Utrecht",
-      "channels": [
-        {
-          "name": "CH141nl",
-          "url": "https://envivo.govoet.my.id/141"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-31T15:00:00+02:00",
       "competition": "Ligue 1",
