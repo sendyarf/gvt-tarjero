@@ -1,71 +1,7 @@
 {
-  "last_updated": "2025-08-31T22:19:09.959561+00:00",
+  "last_updated": "2025-08-31T22:40:26.043567+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-31T21:30:00+02:00",
-      "competition": "Laliga",
-      "teams": "Vallecano - Barcelone",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH51es",
-          "url": "https://envivo.govoet.my.id/51"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-31T21:30:00+02:00",
-      "competition": "Laliga 2",
-      "teams": "Grenade - Mirandes",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-31T21:30:00+02:00",
-      "competition": "Liga Portugal",
-      "teams": "Rio Ave - Braga",
-      "channels": [
-        {
-          "name": "CH145pt",
-          "url": "https://envivo.govoet.my.id/145"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-31T21:30:00+02:00",
-      "competition": "Liga Portugal",
-      "teams": "Santa Clara - Estrela",
-      "channels": [
-        {
-          "name": "CH146pt",
-          "url": "https://envivo.govoet.my.id/146"
-        },
-        {
-          "name": "CH74es",
-          "url": "https://envivo.govoet.my.id/74"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-31T21:45:00+02:00",
       "competition": "Torneo LPF",
