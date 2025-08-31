@@ -1,37 +1,7 @@
 {
-  "last_updated": "2025-08-31T14:39:04.892512+00:00",
+  "last_updated": "2025-08-31T15:19:20.058803+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-31T14:00:00+02:00",
-      "competition": "Eurobasket",
-      "teams": "Géorgie - Grèce",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-31T14:00:00+02:00",
-      "competition": "formula 1",
-      "teams": "La Grille -",
-      "channels": [
-        {
-          "name": "CH11fr",
-          "url": "https://envivo.govoet.my.id/11"
-        },
-        {
-          "name": "CH60es",
-          "url": "https://envivo.govoet.my.id/60"
-        },
-        {
-          "name": "CH104es",
-          "url": "https://envivo.govoet.my.id/104"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-31T14:30:00+02:00",
       "competition": "Eredivisie",
