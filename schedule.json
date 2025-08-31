@@ -1,56 +1,7 @@
 {
-  "last_updated": "2025-08-31T19:15:48.507584+00:00",
+  "last_updated": "2025-08-31T19:38:13.280320+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-31T18:30:00+02:00",
-      "competition": "Pro League",
-      "teams": "Royale Union SG - Anderlecht",
-      "channels": [
-        {
-          "name": "CH153fr",
-          "url": "https://envivo.govoet.my.id/153"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-31T18:30:00+02:00",
-      "competition": "Serie A",
-      "teams": "Genoa - Juventus",
-      "channels": [
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        },
-        {
-          "name": "CH90es",
-          "url": "https://envivo.govoet.my.id/90"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-31T18:30:00+02:00",
-      "competition": "Serie A",
-      "teams": "Torino - Fiorentina",
-      "channels": [
-        {
-          "name": "CH138it",
-          "url": "https://envivo.govoet.my.id/138"
-        },
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-31T19:00:00+02:00",
       "competition": "Betfred Super League",
