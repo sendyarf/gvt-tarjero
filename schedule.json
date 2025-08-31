@@ -1,56 +1,7 @@
 {
-  "last_updated": "2025-08-31T20:39:44.913661+00:00",
+  "last_updated": "2025-08-31T21:18:17.172311+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-31T20:00:00+02:00",
-      "competition": "Betfred Super League",
-      "teams": "PAOK - Atromitos",
-      "channels": [
-        {
-          "name": "CH149gr",
-          "url": "https://envivo.govoet.my.id/149"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-31T20:00:00+02:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Leones Negros - Tlaxcala",
-      "channels": [
-        {
-          "name": "CH158es",
-          "url": "https://envivo.govoet.my.id/158"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-31T20:00:00+02:00",
-      "competition": "Premier League",
-      "teams": "Aston Villa - Crystal Palace",
-      "channels": [
-        {
-          "name": "CH12fr",
-          "url": "https://envivo.govoet.my.id/12"
-        },
-        {
-          "name": "CH127gb",
-          "url": "https://envivo.govoet.my.id/127"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        },
-        {
-          "name": "CH120de",
-          "url": "https://envivo.govoet.my.id/120"
-        },
-        {
-          "name": "CH157es",
-          "url": "https://envivo.govoet.my.id/157"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-31T20:30:00+02:00",
       "competition": "Liga AUF Uruguaya",
