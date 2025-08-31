@@ -1,52 +1,7 @@
 {
-  "last_updated": "2025-08-31T03:50:48.078466+00:00",
+  "last_updated": "2025-08-31T04:24:50.258507+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-31T03:00:00+02:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Atl. Morelia - Zacatecas Mineros",
-      "channels": [
-        {
-          "name": "CH158es",
-          "url": "https://envivo.govoet.my.id/158"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-31T03:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Santos Laguna - Tigres",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        },
-        {
-          "name": "CH106es",
-          "url": "https://envivo.govoet.my.id/106"
-        },
-        {
-          "name": "CH107es",
-          "url": "https://envivo.govoet.my.id/107"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-31T03:07:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Guadalajara - Cruz Azul",
-      "channels": [
-        {
-          "name": "CH72es",
-          "url": "https://envivo.govoet.my.id/72"
-        },
-        {
-          "name": "CH73es",
-          "url": "https://envivo.govoet.my.id/73"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-31T03:30:00+02:00",
       "competition": "Liga Betplay Dimayor",
