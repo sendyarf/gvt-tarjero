@@ -1,62 +1,7 @@
 {
-  "last_updated": "2025-08-30T23:38:28.197189+00:00",
+  "last_updated": "2025-08-31T01:48:27.292139+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-30T23:30:00+02:00",
-      "competition": "Campeonato Itaú Chile",
-      "teams": "U. Catolica - Cobresal",
-      "channels": [
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-30T23:30:00+02:00",
-      "competition": "Ecuador Ligapro",
-      "teams": "LDU Quito - Macara",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-30T23:30:00+02:00",
-      "competition": "Ecuador Ligapro",
-      "teams": "Mushuc Runa - Manta",
-      "channels": [
-        {
-          "name": "CH77es",
-          "url": "https://envivo.govoet.my.id/77"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-30T23:30:00+02:00",
-      "competition": "Serie A Bresil",
-      "teams": "Botafogo - RB Bragantino",
-      "channels": [
-        {
-          "name": "CH55es",
-          "url": "https://envivo.govoet.my.id/55"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-31T00:15:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Sarmiento Junin - Rosario",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-31T01:00:00+02:00",
       "competition": "Liga De Expansion Mx",
