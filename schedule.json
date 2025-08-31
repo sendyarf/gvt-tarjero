@@ -1,26 +1,7 @@
 {
-  "last_updated": "2025-08-31T05:40:36.877813+00:00",
+  "last_updated": "2025-08-31T06:29:20.792477+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-31T05:05:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Club America - Pachuca",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        },
-        {
-          "name": "CH106es",
-          "url": "https://envivo.govoet.my.id/106"
-        },
-        {
-          "name": "CH107es",
-          "url": "https://envivo.govoet.my.id/107"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-31T12:15:00+02:00",
       "competition": "Eredivisie",
