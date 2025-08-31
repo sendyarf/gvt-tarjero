@@ -1,41 +1,7 @@
 {
-  "last_updated": "2025-08-31T16:23:56.674568+00:00",
+  "last_updated": "2025-08-31T16:40:00.938352+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-31T15:30:00+02:00",
-      "competition": "Bundesliga",
-      "teams": "Wolfsburg - Mayence",
-      "channels": [
-        {
-          "name": "CH3fr",
-          "url": "https://envivo.govoet.my.id/3"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH91es",
-          "url": "https://envivo.govoet.my.id/91"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-31T15:30:00+02:00",
-      "competition": "Liga AUF Uruguaya",
-      "teams": "Plaza Colonia - Montevideo City",
-      "channels": [
-        {
-          "name": "CH109es",
-          "url": "https://envivo.govoet.my.id/109"
-        },
-        {
-          "name": "CH74es",
-          "url": "https://envivo.govoet.my.id/74"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-31T16:00:00+02:00",
       "competition": "Pro League",
