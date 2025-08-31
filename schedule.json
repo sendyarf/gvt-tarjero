@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-08-31T12:40:00.099478+00:00",
+  "last_updated": "2025-08-31T13:24:51.440794+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-31T12:15:00+02:00",
-      "competition": "Eredivisie",
-      "teams": "Sittard - Nijmegen",
-      "channels": [
-        {
-          "name": "CH142nl",
-          "url": "https://envivo.govoet.my.id/142"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-31T13:00:00+02:00",
       "competition": "Premiership",
