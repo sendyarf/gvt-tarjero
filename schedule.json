@@ -1,56 +1,7 @@
 {
-  "last_updated": "2025-08-31T21:18:17.172311+00:00",
+  "last_updated": "2025-08-31T21:37:58.821445+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-31T20:30:00+02:00",
-      "competition": "Liga AUF Uruguaya",
-      "teams": "Juventud - Cerro CA",
-      "channels": [
-        {
-          "name": "CH109es",
-          "url": "https://envivo.govoet.my.id/109"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-31T20:30:00+02:00",
-      "competition": "Super Lig",
-      "teams": "Alanyaspor - Besiktas",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        },
-        {
-          "name": "CH79es",
-          "url": "https://envivo.govoet.my.id/79"
-        },
-        {
-          "name": "CH92es",
-          "url": "https://envivo.govoet.my.id/92"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-31T20:30:00+02:00",
-      "competition": "Super Lig",
-      "teams": "Trabzonspor - Samsunspor",
-      "channels": [
-        {
-          "name": "CH10fr",
-          "url": "https://envivo.govoet.my.id/10"
-        },
-        {
-          "name": "CH152tr",
-          "url": "https://envivo.govoet.my.id/152"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-31T20:45:00+02:00",
       "competition": "Ligue 1",
