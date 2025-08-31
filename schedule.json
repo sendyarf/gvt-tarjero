@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-08-31T04:24:50.258507+00:00",
+  "last_updated": "2025-08-31T04:42:33.004306+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-31T03:30:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Dep. Cali - Ind. Medellin",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-31T05:05:00+02:00",
       "competition": "Liga Mx",
