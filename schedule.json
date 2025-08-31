@@ -1,51 +1,7 @@
 {
-  "last_updated": "2025-08-31T22:40:26.043567+00:00",
+  "last_updated": "2025-08-31T23:18:55.847839+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-08-31T21:45:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Defensa y Justicia - Belgrano",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-31T21:45:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Talleres Cordoba - Dep. Riestra",
-      "channels": [
-        {
-          "name": "CH76es",
-          "url": "https://envivo.govoet.my.id/76"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-31T22:00:00+02:00",
-      "competition": "Liga 1 Te Apuesto",
-      "teams": "Grau - AD Tarma",
-      "channels": [
-        {
-          "name": "CH84es",
-          "url": "https://envivo.govoet.my.id/84"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-08-31T22:30:00+02:00",
-      "competition": "Ecuador Ligapro",
-      "teams": "Dep. Cuenca - Orense",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
     {
       "datetime": "2025-08-31T23:00:00+02:00",
       "competition": "Leagues Cup",
@@ -163,8 +119,8 @@
           "url": "https://envivo.govoet.my.id/109"
         },
         {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
+          "name": "CH74es",
+          "url": "https://envivo.govoet.my.id/74"
         }
       ]
     },
