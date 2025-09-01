@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-09-01T20:22:02.534300+00:00",
+  "last_updated": "2025-09-01T20:40:14.200943+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-01T19:30:00+02:00",
-      "competition": "Eurobasket",
-      "teams": "Finlande - Lituanie",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-01T19:30:00+02:00",
-      "competition": "Laliga 2",
-      "teams": "Huesca - Eibar",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-01T20:15:00+02:00",
       "competition": "Eurobasket",
