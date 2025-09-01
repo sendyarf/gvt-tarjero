@@ -1,28 +1,5 @@
 {
-  "last_updated": "2025-09-01T05:42:53.816991+00:00",
+  "last_updated": "2025-09-01T06:35:28.680783+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-09-01T04:45:00+02:00",
-      "competition": "MLS",
-      "teams": "Los Angeles FC - San Diego FC",
-      "channels": [
-        {
-          "name": "CH180us",
-          "url": "https://envivo.govoet.my.id/180"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-01T05:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Tijuana - Necaxa",
-      "channels": [
-        {
-          "name": "CH159es",
-          "url": "https://envivo.govoet.my.id/159"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
