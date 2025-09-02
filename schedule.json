@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-09-02T03:07:47.856176+00:00",
+  "last_updated": "2025-09-02T03:51:46.229052+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-02T02:30:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Santa Fe - Once Caldas",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-02T04:00:00+02:00",
       "competition": "Liga Mx Women",
