@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-09-02T14:44:30.928254+00:00",
+  "last_updated": "2025-09-02T15:23:36.881899+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-02T14:00:00+02:00",
-      "competition": "Eurobasket",
-      "teams": "Belgique - Israel",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-02T14:00:00+02:00",
-      "competition": "Eurobasket",
-      "teams": "Grèce - Bosnie-Herzégovine",
-      "channels": [
-        {
-          "name": "CH5fr",
-          "url": "https://envivo.govoet.my.id/5"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-02T17:00:00+02:00",
       "competition": "Eurobasket",
