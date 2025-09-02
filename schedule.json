@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-09-02T04:45:36.050728+00:00",
+  "last_updated": "2025-09-02T05:21:35.360076+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-02T04:00:00+02:00",
-      "competition": "Liga Mx Women",
-      "teams": "Santos Laguna F - U.N.A.M. F",
-      "channels": [
-        {
-          "name": "CH156es",
-          "url": "https://envivo.govoet.my.id/156"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-02T14:00:00+02:00",
       "competition": "Eurobasket",
