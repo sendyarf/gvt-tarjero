@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-09-02T17:39:39.824755+00:00",
+  "last_updated": "2025-09-02T18:28:24.695563+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-02T17:00:00+02:00",
-      "competition": "Eurobasket",
-      "teams": "Islande - Slovénie",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-02T17:15:00+02:00",
-      "competition": "Eurobasket",
-      "teams": "Chypre - Géorgie",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-02T20:30:00+02:00",
       "competition": "Eurobasket",
