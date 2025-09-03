@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-09-03T20:22:58.376799+00:00",
+  "last_updated": "2025-09-03T20:40:25.997381+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-03T19:30:00+02:00",
-      "competition": "Eurobasket",
-      "teams": "Finlande - Allemagne",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-03T20:15:00+02:00",
       "competition": "Eurobasket",
