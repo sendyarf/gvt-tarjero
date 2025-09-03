@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-09-03T16:26:43.090109+00:00",
+  "last_updated": "2025-09-03T16:42:22.751954+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-03T15:30:00+02:00",
-      "competition": "Eurobasket",
-      "teams": "Lituanie - Suède",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-03T17:00:00+02:00",
       "competition": "Eurobasket",
