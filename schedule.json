@@ -1,17 +1,5 @@
 {
-  "last_updated": "2025-09-03T20:40:25.997381+00:00",
+  "last_updated": "2025-09-03T21:18:26.342371+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-09-03T20:15:00+02:00",
-      "competition": "Eurobasket",
-      "teams": "Turquie - Serbie",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
