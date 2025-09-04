@@ -1,5 +1,454 @@
 {
-  "last_updated": "2025-09-04T11:17:14.172428+00:00",
+  "last_updated": "2025-09-04T11:38:08.374782+00:00",
   "timezone": "Europe/Paris",
-  "matches": []
+  "matches": [
+    {
+      "datetime": "2025-09-04T15:00:00+02:00",
+      "competition": "Amical International",
+      "teams": "Malaisie - Singapour",
+      "channels": [
+        {
+          "name": "CH111us",
+          "url": "https://envivo.govoet.my.id/111"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-04T15:00:00+02:00",
+      "competition": "Qualif. Cm Afrique",
+      "teams": "Tchad - Ghana",
+      "channels": [
+        {
+          "name": "CH125de",
+          "url": "https://envivo.govoet.my.id/125"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-04T16:00:00+02:00",
+      "competition": "Qualif. Cm Europe",
+      "teams": "Kazakhstan - Pays de Galles",
+      "channels": [
+        {
+          "name": "CH132us",
+          "url": "https://envivo.govoet.my.id/132"
+        },
+        {
+          "name": "CH91es",
+          "url": "https://envivo.govoet.my.id/91"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-04T18:00:00+02:00",
+      "competition": "Amical International",
+      "teams": "Gibraltar - Albanie",
+      "channels": [
+        {
+          "name": "CH112al",
+          "url": "https://envivo.govoet.my.id/112"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-04T18:00:00+02:00",
+      "competition": "Amical International",
+      "teams": "Norvège - Finlande",
+      "channels": [
+        {
+          "name": "CH130us",
+          "url": "https://envivo.govoet.my.id/130"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-04T18:00:00+02:00",
+      "competition": "Qualif. Cm Afrique",
+      "teams": "Angola - Libye",
+      "channels": [
+        {
+          "name": "CH147pt",
+          "url": "https://envivo.govoet.my.id/147"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-04T18:00:00+02:00",
+      "competition": "Qualif. Cm Afrique",
+      "teams": "Guinée-Bissau - Sierra Leone",
+      "channels": [
+        {
+          "name": "CH144pt",
+          "url": "https://envivo.govoet.my.id/144"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-04T18:00:00+02:00",
+      "competition": "Qualif. Cm Afrique",
+      "teams": "Madagascar - centrafricaine",
+      "channels": [
+        {
+          "name": "CH148hr",
+          "url": "https://envivo.govoet.my.id/148"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-04T18:00:00+02:00",
+      "competition": "Qualif. Cm Afrique",
+      "teams": "Maurice - Cap-Vert",
+      "channels": [
+        {
+          "name": "CH145pt",
+          "url": "https://envivo.govoet.my.id/145"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-04T18:00:00+02:00",
+      "competition": "Qualif. Cm Afrique",
+      "teams": "Sao Tomé-et-Principe - Guinée Équatoriale",
+      "channels": [
+        {
+          "name": "CH146pt",
+          "url": "https://envivo.govoet.my.id/146"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-04T18:00:00+02:00",
+      "competition": "Qualif. Cm Europe",
+      "teams": "Géorgie - Turquie",
+      "channels": [
+        {
+          "name": "CH160fr",
+          "url": "https://envivo.govoet.my.id/160"
+        },
+        {
+          "name": "CH132us",
+          "url": "https://envivo.govoet.my.id/132"
+        },
+        {
+          "name": "CH88es",
+          "url": "https://envivo.govoet.my.id/88"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-04T18:00:00+02:00",
+      "competition": "Qualif. Cm Europe",
+      "teams": "Lituanie - Malte",
+      "channels": [
+        {
+          "name": "CH131us",
+          "url": "https://envivo.govoet.my.id/131"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-04T18:30:00+02:00",
+      "competition": "Amical International",
+      "teams": "Emirats Arabes Unis - Syrie",
+      "channels": [
+        {
+          "name": "CH113ae",
+          "url": "https://envivo.govoet.my.id/113"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-04T20:45:00+02:00",
+      "competition": "Qualif. Cm Europe",
+      "teams": "Multiplex Coupe du Monde 2026 -",
+      "channels": [
+        {
+          "name": "CH19fr",
+          "url": "https://envivo.govoet.my.id/19"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-04T20:45:00+02:00",
+      "competition": "Qualif. Cm Europe",
+      "teams": "Bulgarie - Espagne",
+      "channels": [
+        {
+          "name": "CH162fr",
+          "url": "https://envivo.govoet.my.id/162"
+        },
+        {
+          "name": "CH132us",
+          "url": "https://envivo.govoet.my.id/132"
+        },
+        {
+          "name": "CH50es",
+          "url": "https://envivo.govoet.my.id/50"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-04T20:45:00+02:00",
+      "competition": "Qualif. Cm Europe",
+      "teams": "Liechtenstein - Belgique",
+      "channels": [
+        {
+          "name": "CH161fr",
+          "url": "https://envivo.govoet.my.id/161"
+        },
+        {
+          "name": "CH131us",
+          "url": "https://envivo.govoet.my.id/131"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-04T20:45:00+02:00",
+      "competition": "Qualif. Cm Europe",
+      "teams": "Luxembourg - Irlande du Nord",
+      "channels": [
+        {
+          "name": "CH129gb",
+          "url": "https://envivo.govoet.my.id/129"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-04T20:45:00+02:00",
+      "competition": "Qualif. Cm Europe",
+      "teams": "Pays-Bas - Pologne",
+      "channels": [
+        {
+          "name": "CH164fr",
+          "url": "https://envivo.govoet.my.id/164"
+        },
+        {
+          "name": "CH114pl",
+          "url": "https://envivo.govoet.my.id/114"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-04T20:45:00+02:00",
+      "competition": "Qualif. Cm Europe",
+      "teams": "Slovaquie - Allemagne",
+      "channels": [
+        {
+          "name": "CH163fr",
+          "url": "https://envivo.govoet.my.id/163"
+        },
+        {
+          "name": "CH130us",
+          "url": "https://envivo.govoet.my.id/130"
+        },
+        {
+          "name": "CH87es",
+          "url": "https://envivo.govoet.my.id/87"
+        },
+        {
+          "name": "CH115de",
+          "url": "https://envivo.govoet.my.id/115"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-04T21:00:00+02:00",
+      "competition": "Qualif. Cm Afrique",
+      "teams": "Algérie - Botswana",
+      "channels": [
+        {
+          "name": "CH168fr",
+          "url": "https://envivo.govoet.my.id/168"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-04T21:00:00+02:00",
+      "competition": "Qualif. Cm Afrique",
+      "teams": "Cameroun - Eswatini",
+      "channels": [
+        {
+          "name": "CH169fr",
+          "url": "https://envivo.govoet.my.id/169"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-04T21:00:00+02:00",
+      "competition": "Qualif. Cm Afrique",
+      "teams": "Mali - Comores",
+      "channels": [
+        {
+          "name": "CH149fr",
+          "url": "https://envivo.govoet.my.id/149"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-04T21:00:00+02:00",
+      "competition": "Qualif. Cm Afrique",
+      "teams": "Tunisie - Libéria",
+      "channels": [
+        {
+          "name": "CH125de",
+          "url": "https://envivo.govoet.my.id/125"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-04T23:30:00+02:00",
+      "competition": "Qualif. Cm Concacaf",
+      "teams": "Suriname - Panama",
+      "channels": [
+        {
+          "name": "CH70es",
+          "url": "https://envivo.govoet.my.id/70"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-05T01:30:00+02:00",
+      "competition": "Qualif. Cm Amsud",
+      "teams": "Argentine - Venezuela",
+      "channels": [
+        {
+          "name": "CH170fr",
+          "url": "https://envivo.govoet.my.id/170"
+        },
+        {
+          "name": "CH72es",
+          "url": "https://envivo.govoet.my.id/72"
+        },
+        {
+          "name": "CH55es",
+          "url": "https://envivo.govoet.my.id/55"
+        },
+        {
+          "name": "CH61es",
+          "url": "https://envivo.govoet.my.id/61"
+        },
+        {
+          "name": "CH192es",
+          "url": "https://envivo.govoet.my.id/192"
+        },
+        {
+          "name": "CH197es",
+          "url": "https://envivo.govoet.my.id/197"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-05T01:30:00+02:00",
+      "competition": "Qualif. Cm Amsud",
+      "teams": "Colombie - Bolivie",
+      "channels": [
+        {
+          "name": "CH63es",
+          "url": "https://envivo.govoet.my.id/63"
+        },
+        {
+          "name": "CH190es",
+          "url": "https://envivo.govoet.my.id/190"
+        },
+        {
+          "name": "CH191es",
+          "url": "https://envivo.govoet.my.id/191"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-05T01:30:00+02:00",
+      "competition": "Qualif. Cm Amsud",
+      "teams": "Paraguay - Equateur",
+      "channels": [
+        {
+          "name": "CH65es",
+          "url": "https://envivo.govoet.my.id/65"
+        },
+        {
+          "name": "CH195es",
+          "url": "https://envivo.govoet.my.id/195"
+        },
+        {
+          "name": "CH196es",
+          "url": "https://envivo.govoet.my.id/196"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-05T01:30:00+02:00",
+      "competition": "Qualif. Cm Amsud",
+      "teams": "Uruguay - Pérou",
+      "channels": [
+        {
+          "name": "CH64es",
+          "url": "https://envivo.govoet.my.id/64"
+        },
+        {
+          "name": "CH193es",
+          "url": "https://envivo.govoet.my.id/193"
+        },
+        {
+          "name": "CH194es",
+          "url": "https://envivo.govoet.my.id/194"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-05T02:30:00+02:00",
+      "competition": "Qualif. Cm Amsud",
+      "teams": "Brésil - Chili",
+      "channels": [
+        {
+          "name": "CH171fr",
+          "url": "https://envivo.govoet.my.id/171"
+        },
+        {
+          "name": "CH72es",
+          "url": "https://envivo.govoet.my.id/72"
+        },
+        {
+          "name": "CH62es",
+          "url": "https://envivo.govoet.my.id/62"
+        },
+        {
+          "name": "CH198es",
+          "url": "https://envivo.govoet.my.id/198"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-05T03:00:00+02:00",
+      "competition": "Liga De Expansion Mx",
+      "teams": "Venados - Atl. Morelia",
+      "channels": [
+        {
+          "name": "CH155es",
+          "url": "https://envivo.govoet.my.id/155"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-05T03:00:00+02:00",
+      "competition": "Liga Mx Women",
+      "teams": "Santos Laguna F - Necaxa F",
+      "channels": [
+        {
+          "name": "CH156es",
+          "url": "https://envivo.govoet.my.id/156"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-05T04:00:00+02:00",
+      "competition": "Qualif. Cm Concacaf",
+      "teams": "Guatemala - Salvador",
+      "channels": [
+        {
+          "name": "CH73es",
+          "url": "https://envivo.govoet.my.id/73"
+        }
+      ]
+    }
+  ]
 }
