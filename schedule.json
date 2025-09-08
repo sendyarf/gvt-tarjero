@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-09-08T22:40:20.024341+00:00",
+  "last_updated": "2025-09-08T23:19:48.861861+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-08T22:00:00+02:00",
-      "competition": "tennis",
-      "teams": "Tennis Open de Guadalajara Mexico 2025 -",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-09T00:30:00+02:00",
       "competition": "MLB",
