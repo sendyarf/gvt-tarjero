@@ -1,44 +1,7 @@
 {
-  "last_updated": "2025-09-08T15:42:02.586963+00:00",
+  "last_updated": "2025-09-08T16:26:38.603220+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-08T15:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Guinée Équatoriale - Tunisie",
-      "channels": [
-        {
-          "name": "CH42tn",
-          "url": "https://envivo.govoet.my.id/42"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-08T15:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Mozambique - Botswana",
-      "channels": [
-        {
-          "name": "CH43pt",
-          "url": "https://envivo.govoet.my.id/43"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-08T15:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Zambie - Maroc",
-      "channels": [
-        {
-          "name": "CH41fr",
-          "url": "https://envivo.govoet.my.id/41"
-        },
-        {
-          "name": "CH125de",
-          "url": "https://envivo.govoet.my.id/125"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-08T18:00:00+02:00",
       "competition": "Qualif. Cm Afrique",
