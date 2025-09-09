@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-09-09T20:40:10.316567+00:00",
+  "last_updated": "2025-09-09T21:18:09.021495+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-09T20:00:00+02:00",
-      "competition": "Eurobasket",
-      "teams": "Lituanie - Grèce",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-09T20:45:00+02:00",
       "competition": "Amical International",
