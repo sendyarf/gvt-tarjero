@@ -1,17 +1,5 @@
 {
-  "last_updated": "2025-09-09T04:26:30.091214+00:00",
+  "last_updated": "2025-09-09T04:44:29.488187+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-09-09T03:30:00+02:00",
-      "competition": "Qualif. Cm Concacaf",
-      "teams": "Panama - Guatemala",
-      "channels": [
-        {
-          "name": "CH72es",
-          "url": "https://envivo.govoet.my.id/72"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
