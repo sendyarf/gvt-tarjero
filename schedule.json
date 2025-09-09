@@ -1,48 +1,7 @@
 {
-  "last_updated": "2025-09-09T03:02:40.406666+00:00",
+  "last_updated": "2025-09-09T03:48:51.349133+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-09T02:10:00+02:00",
-      "competition": "Copa Argentina",
-      "teams": "Argentinos Jrs - Lanus",
-      "channels": [
-        {
-          "name": "CH77es",
-          "url": "https://envivo.govoet.my.id/77"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-09T02:15:00+02:00",
-      "competition": "NFL",
-      "teams": "Chicago Bears - Minnesota Vikings",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH173us",
-          "url": "https://envivo.govoet.my.id/173"
-        },
-        {
-          "name": "CH89es",
-          "url": "https://envivo.govoet.my.id/89"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-09T02:30:00+02:00",
-      "competition": "Qualif. Cm Concacaf",
-      "teams": "Salvador - Suriname",
-      "channels": [
-        {
-          "name": "CH160es",
-          "url": "https://envivo.govoet.my.id/160"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-09T03:30:00+02:00",
       "competition": "Qualif. Cm Concacaf",
