@@ -1,26 +1,7 @@
 {
-  "last_updated": "2025-09-08T23:38:05.383365+00:00",
+  "last_updated": "2025-09-09T01:42:38.965874+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-09T00:30:00+02:00",
-      "competition": "MLB",
-      "teams": "Philadelphia Phillies - New York Mets",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        },
-        {
-          "name": "CH89es",
-          "url": "https://envivo.govoet.my.id/89"
-        },
-        {
-          "name": "CH99es",
-          "url": "https://envivo.govoet.my.id/99"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-09T02:10:00+02:00",
       "competition": "Copa Argentina",
