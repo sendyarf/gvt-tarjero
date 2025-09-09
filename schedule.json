@@ -1,62 +1,7 @@
 {
-  "last_updated": "2025-09-09T15:43:02.275447+00:00",
+  "last_updated": "2025-09-09T16:27:21.605418+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-09T15:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Kenya - Seychelles",
-      "channels": [
-        {
-          "name": "CH160us",
-          "url": "https://envivo.govoet.my.id/160"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-09T15:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Namibie - Sao Tomé-et-Principe",
-      "channels": [
-        {
-          "name": "CH161us",
-          "url": "https://envivo.govoet.my.id/161"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-09T15:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Sierra Leone - Ethiopie",
-      "channels": [
-        {
-          "name": "CH162us",
-          "url": "https://envivo.govoet.my.id/162"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-09T15:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Tanzanie - Niger",
-      "channels": [
-        {
-          "name": "CH163us",
-          "url": "https://envivo.govoet.my.id/163"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-09T15:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Zimbabwe - Rwanda",
-      "channels": [
-        {
-          "name": "CH164us",
-          "url": "https://envivo.govoet.my.id/164"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-09T16:00:00+02:00",
       "competition": "Eurobasket",
