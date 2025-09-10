@@ -1,34 +1,7 @@
 {
-  "last_updated": "2025-09-10T03:30:37.648848+00:00",
+  "last_updated": "2025-09-10T04:23:56.007304+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-10T03:00:00+02:00",
-      "competition": "Amical International",
-      "teams": "Mexique - Corée du Sud",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        },
-        {
-          "name": "CH106es",
-          "url": "https://envivo.govoet.my.id/106"
-        },
-        {
-          "name": "CH107es",
-          "url": "https://envivo.govoet.my.id/107"
-        },
-        {
-          "name": "CH108es",
-          "url": "https://envivo.govoet.my.id/108"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-10T04:00:00+02:00",
       "competition": "Qualif. Cm Concacaf",
