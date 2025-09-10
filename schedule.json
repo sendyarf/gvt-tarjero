@@ -1,28 +1,5 @@
 {
-  "last_updated": "2025-09-10T04:41:12.164294+00:00",
+  "last_updated": "2025-09-10T05:19:46.442954+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-09-10T04:00:00+02:00",
-      "competition": "Qualif. Cm Concacaf",
-      "teams": "Costa Rica - Haïti",
-      "channels": [
-        {
-          "name": "CH174es",
-          "url": "https://envivo.govoet.my.id/174"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-10T04:00:00+02:00",
-      "competition": "Qualif. Cm Concacaf",
-      "teams": "Honduras - Nicaragua",
-      "channels": [
-        {
-          "name": "CH72es",
-          "url": "https://envivo.govoet.my.id/72"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
