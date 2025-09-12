@@ -1,37 +1,7 @@
 {
-  "last_updated": "2025-09-12T21:17:42.337255+00:00",
+  "last_updated": "2025-09-12T21:38:09.002844+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-12T20:30:00+02:00",
-      "competition": "Bundesliga",
-      "teams": "Bayer Leverkusen - Eintracht Francfort",
-      "channels": [
-        {
-          "name": "CH111de",
-          "url": "https://envivo.govoet.my.id/111"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-12T20:30:00+02:00",
-      "competition": "Laliga 2",
-      "teams": "Las Palmas - Real Sociedad B",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-12T20:45:00+02:00",
       "competition": "Ligue 1",
