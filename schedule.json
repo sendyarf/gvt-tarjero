@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-09-12T19:16:03.211297+00:00",
+  "last_updated": "2025-09-12T19:38:20.068412+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-12T18:30:00+02:00",
-      "competition": "Bundesliga 2",
-      "teams": "bundesliga 2 konferenz -",
-      "channels": [
-        {
-          "name": "CH112de",
-          "url": "https://envivo.govoet.my.id/112"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-12T18:30:00+02:00",
-      "competition": "Bundesliga 2",
-      "teams": "Arminia Bielefeld - Magdeburg",
-      "channels": [
-        {
-          "name": "CH113de",
-          "url": "https://envivo.govoet.my.id/113"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-12T18:30:00+02:00",
-      "competition": "Bundesliga 2",
-      "teams": "Paderborn - Bochum",
-      "channels": [
-        {
-          "name": "CH114de",
-          "url": "https://envivo.govoet.my.id/114"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-12T19:30:00+02:00",
       "competition": "National",
