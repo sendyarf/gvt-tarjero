@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12T17:17:21.334121+00:00",
+  "last_updated": "2025-09-12T17:38:42.556556+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -120,6 +120,72 @@
         {
           "name": "CH187fr",
           "url": "https://envivo.govoet.my.id/187"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-12T19:30:00+02:00",
+      "competition": "Pro D2",
+      "teams": "CA Brive - Valence Romans",
+      "channels": [
+        {
+          "name": "CH33fr",
+          "url": "https://envivo.govoet.my.id/33"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-12T19:30:00+02:00",
+      "competition": "Pro D2",
+      "teams": "Oyonnax Rugby - Colomiers Rugby",
+      "channels": [
+        {
+          "name": "CH32fr",
+          "url": "https://envivo.govoet.my.id/32"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-12T19:30:00+02:00",
+      "competition": "Pro D2",
+      "teams": "Provence Rugby - Biarritz",
+      "channels": [
+        {
+          "name": "CH13fr",
+          "url": "https://envivo.govoet.my.id/13"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-12T19:30:00+02:00",
+      "competition": "Pro D2",
+      "teams": "Soyaux Angoulême - US Dax",
+      "channels": [
+        {
+          "name": "CH34fr",
+          "url": "https://envivo.govoet.my.id/34"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-12T19:30:00+02:00",
+      "competition": "Pro D2",
+      "teams": "Stade Aurillacois - AS Béziers",
+      "channels": [
+        {
+          "name": "CH35fr",
+          "url": "https://envivo.govoet.my.id/35"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-12T19:30:00+02:00",
+      "competition": "Pro D2",
+      "teams": "USO Nevers Rugby - US Carcassonne",
+      "channels": [
+        {
+          "name": "CH36fr",
+          "url": "https://envivo.govoet.my.id/36"
         }
       ]
     },
@@ -321,6 +387,17 @@
         {
           "name": "CH107es",
           "url": "https://envivo.govoet.my.id/107"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-12T21:00:00+02:00",
+      "competition": "Pro D2",
+      "teams": "Stade Montois - RC Vannes",
+      "channels": [
+        {
+          "name": "CH13fr",
+          "url": "https://envivo.govoet.my.id/13"
         }
       ]
     },
