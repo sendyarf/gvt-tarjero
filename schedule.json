@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-09-13T17:37:14.390415+00:00",
+  "last_updated": "2025-09-13T18:25:44.193034+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-13T17:00:00+02:00",
-      "competition": "Betfred Super League",
-      "teams": "Olympiakos - Panserraikos",
-      "channels": [
-        {
-          "name": "CH148gr",
-          "url": "https://envivo.govoet.my.id/148"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-13T17:00:00+02:00",
-      "competition": "Ligue 1",
-      "teams": "Nice - Nantes",
-      "channels": [
-        {
-          "name": "CH21fr",
-          "url": "https://envivo.govoet.my.id/21"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-13T17:30:00+02:00",
       "competition": "Campeonato Itaú Chile",
