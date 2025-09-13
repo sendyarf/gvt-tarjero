@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-09-13T04:40:27.637743+00:00",
+  "last_updated": "2025-09-13T05:18:20.217433+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-13T04:00:00+02:00",
-      "competition": "Liga Mx Women",
-      "teams": "Tigres F - U.N.A.M. F",
-      "channels": [
-        {
-          "name": "CH101es",
-          "url": "https://envivo.govoet.my.id/101"
-        },
-        {
-          "name": "CH104es",
-          "url": "https://envivo.govoet.my.id/104"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-13T05:00:00+02:00",
       "competition": "Liga Mx",
