@@ -1,56 +1,7 @@
 {
-  "last_updated": "2025-09-13T18:25:44.193034+00:00",
+  "last_updated": "2025-09-13T18:42:08.983535+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-13T17:30:00+02:00",
-      "competition": "Campeonato Itaú Chile",
-      "teams": "U. Espanola - A. Italiano",
-      "channels": [
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-13T18:00:00+02:00",
-      "competition": "Liga AUF Uruguaya",
-      "teams": "Racing Montevideo - Boston River",
-      "channels": [
-        {
-          "name": "CH109es",
-          "url": "https://envivo.govoet.my.id/109"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-13T18:00:00+02:00",
-      "competition": "Serie A",
-      "teams": "Juventus - Inter",
-      "channels": [
-        {
-          "name": "CH45fr",
-          "url": "https://envivo.govoet.my.id/45"
-        },
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-13T18:15:00+02:00",
       "competition": "Pro League",
