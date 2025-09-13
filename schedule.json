@@ -1,37 +1,7 @@
 {
-  "last_updated": "2025-09-13T21:16:26.262803+00:00",
+  "last_updated": "2025-09-13T21:37:49.809070+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-13T20:30:00+02:00",
-      "competition": "Bundesliga 2",
-      "teams": "Hanovre - Hertha Berlin",
-      "channels": [
-        {
-          "name": "CH5fr",
-          "url": "https://envivo.govoet.my.id/5"
-        },
-        {
-          "name": "CH112de",
-          "url": "https://envivo.govoet.my.id/112"
-        },
-        {
-          "name": "CH78es",
-          "url": "https://envivo.govoet.my.id/78"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-13T20:30:00+02:00",
-      "competition": "Liga AUF Uruguaya",
-      "teams": "Liverpool M. - Penarol",
-      "channels": [
-        {
-          "name": "CH109es",
-          "url": "https://envivo.govoet.my.id/109"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-13T20:45:00+02:00",
       "competition": "Pro League",
