@@ -1,67 +1,7 @@
 {
-  "last_updated": "2025-09-13T14:37:00.957588+00:00",
+  "last_updated": "2025-09-13T15:17:22.852684+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-13T13:40:00+02:00",
-      "competition": "Moto2",
-      "teams": "Moto2 Qualifications 1 et 2 -",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-13T14:00:00+02:00",
-      "competition": "Laliga",
-      "teams": "Getafe - R. Oviedo",
-      "channels": [
-        {
-          "name": "CH10fr",
-          "url": "https://envivo.govoet.my.id/10"
-        },
-        {
-          "name": "CH49es",
-          "url": "https://envivo.govoet.my.id/49"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH90es",
-          "url": "https://envivo.govoet.my.id/90"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-13T14:00:00+02:00",
-      "competition": "Ligue 2",
-      "teams": "Annecy - Reims",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-13T14:00:00+02:00",
-      "competition": "Ligue 2",
-      "teams": "Grenoble - Dunkerque",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-13T14:30:00+02:00",
       "competition": "Top 14",
