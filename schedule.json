@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-09-13T15:17:22.852684+00:00",
+  "last_updated": "2025-09-13T15:37:43.647913+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-13T14:30:00+02:00",
-      "competition": "Top 14",
-      "teams": "US Montauban - Lyon OU",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-13T15:00:00+02:00",
       "competition": "Serie A",
