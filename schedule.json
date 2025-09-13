@@ -1,48 +1,7 @@
 {
-  "last_updated": "2025-09-13T22:17:29.503910+00:00",
+  "last_updated": "2025-09-13T22:37:56.965647+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-13T21:30:00+02:00",
-      "competition": "Liga Portugal",
-      "teams": "Famalicao - Sporting",
-      "channels": [
-        {
-          "name": "CH6fr",
-          "url": "https://envivo.govoet.my.id/6"
-        },
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        },
-        {
-          "name": "CH74es",
-          "url": "https://envivo.govoet.my.id/74"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-13T21:45:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Independiente - Banfield",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-13T22:15:00+02:00",
-      "competition": "Liga 1 Te Apuesto",
-      "teams": "Alianza Atl. - Juan Pablo II",
-      "channels": [
-        {
-          "name": "CH84es",
-          "url": "https://envivo.govoet.my.id/84"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-13T22:30:00+02:00",
       "competition": "Campeonato Itaú Chile",
