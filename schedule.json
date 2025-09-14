@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-09-14T17:15:23.573938+00:00",
+  "last_updated": "2025-09-14T17:37:31.097255+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-14T16:30:00+02:00",
-      "competition": "Liga Portugal",
-      "teams": "Estrela - Guimaraes",
-      "channels": [
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-14T16:45:00+02:00",
       "competition": "Eredivisie",
