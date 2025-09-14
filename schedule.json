@@ -1,62 +1,7 @@
 {
-  "last_updated": "2025-09-14T03:03:36.973548+00:00",
+  "last_updated": "2025-09-14T03:47:28.487949+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-14T02:15:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Sarmiento Junin - Aldosivi",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-14T02:30:00+02:00",
-      "competition": "MLS",
-      "teams": "Chicago Fire - New York City",
-      "channels": [
-        {
-          "name": "CH187es",
-          "url": "https://envivo.govoet.my.id/187"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-14T02:30:00+02:00",
-      "competition": "MLS",
-      "teams": "FC Dallas - Austin FC",
-      "channels": [
-        {
-          "name": "CH188es",
-          "url": "https://envivo.govoet.my.id/188"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-14T02:30:00+02:00",
-      "competition": "MLS",
-      "teams": "San Jose Earthquakes - Los Angeles FC",
-      "channels": [
-        {
-          "name": "CH189es",
-          "url": "https://envivo.govoet.my.id/189"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-14T02:30:00+02:00",
-      "competition": "MLS",
-      "teams": "Seattle Sounders - Los Angeles Galaxy",
-      "channels": [
-        {
-          "name": "CH190es",
-          "url": "https://envivo.govoet.my.id/190"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-14T03:00:00+02:00",
       "competition": "Liga De Expansion Mx",
