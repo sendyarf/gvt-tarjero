@@ -1,37 +1,7 @@
 {
-  "last_updated": "2025-09-14T22:18:01.338486+00:00",
+  "last_updated": "2025-09-14T22:38:51.608453+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-14T21:30:00+02:00",
-      "competition": "Liga Portugal",
-      "teams": "Braga - Gil Vicente",
-      "channels": [
-        {
-          "name": "CH5fr",
-          "url": "https://envivo.govoet.my.id/5"
-        },
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        },
-        {
-          "name": "CH74es",
-          "url": "https://envivo.govoet.my.id/74"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-14T22:00:00+02:00",
-      "competition": "Liga 1 Te Apuesto",
-      "teams": "Melgar - U. de Deportes",
-      "channels": [
-        {
-          "name": "CH84es",
-          "url": "https://envivo.govoet.my.id/84"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-14T22:05:00+02:00",
       "competition": "NFL",
