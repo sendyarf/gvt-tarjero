@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-09-14T15:18:20.922060+00:00",
+  "last_updated": "2025-09-14T15:37:34.840065+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-14T14:30:00+02:00",
-      "competition": "Eredivisie",
-      "teams": "Heracles - Alkmaar",
-      "channels": [
-        {
-          "name": "CH141nl",
-          "url": "https://envivo.govoet.my.id/141"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-14T14:30:00+02:00",
-      "competition": "Eredivisie",
-      "teams": "Utrecht - Groningen",
-      "channels": [
-        {
-          "name": "CH142nl",
-          "url": "https://envivo.govoet.my.id/142"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-14T15:00:00+02:00",
       "competition": "Ligue 1",
