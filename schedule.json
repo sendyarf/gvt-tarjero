@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-09-14T21:17:09.058893+00:00",
+  "last_updated": "2025-09-14T21:38:01.096408+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-14T20:30:00+02:00",
-      "competition": "Betfred Super League",
-      "teams": "OFI Crete - PAOK",
-      "channels": [
-        {
-          "name": "CH148gr",
-          "url": "https://envivo.govoet.my.id/148"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-14T20:30:00+02:00",
-      "competition": "Liga AUF Uruguaya",
-      "teams": "Danubio - Cerro CA",
-      "channels": [
-        {
-          "name": "CH109es",
-          "url": "https://envivo.govoet.my.id/109"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-14T20:45:00+02:00",
       "competition": "Ligue 1",
