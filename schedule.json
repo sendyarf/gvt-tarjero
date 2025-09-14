@@ -1,70 +1,7 @@
 {
-  "last_updated": "2025-09-13T23:38:16.368067+00:00",
+  "last_updated": "2025-09-14T01:45:55.128133+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-13T23:00:00+02:00",
-      "competition": "Liga AUF Uruguaya",
-      "teams": "Cerro Largo - Defensor Sp.",
-      "channels": [
-        {
-          "name": "CH109es",
-          "url": "https://envivo.govoet.my.id/109"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-13T23:10:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Alianza - Millonarios",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-13T23:30:00+02:00",
-      "competition": "Ecuador Ligapro",
-      "teams": "U. Catolica - Delfin",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-14T00:00:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Estudiantes - River Plate",
-      "channels": [
-        {
-          "name": "CH76es",
-          "url": "https://envivo.govoet.my.id/76"
-        },
-        {
-          "name": "CH55es",
-          "url": "https://envivo.govoet.my.id/55"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-14T00:00:00+02:00",
-      "competition": "Ufc",
-      "teams": "Diego Lopes - Jean Silva",
-      "channels": [
-        {
-          "name": "CH17fr",
-          "url": "https://envivo.govoet.my.id/17"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-14T01:00:00+02:00",
       "competition": "Campeonato Itaú Chile",
