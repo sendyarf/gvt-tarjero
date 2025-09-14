@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-09-14T11:37:35.110042+00:00",
+  "last_updated": "2025-09-14T12:37:35.351447+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-14T10:55:00+02:00",
-      "competition": "Moto3",
-      "teams": "Course Moto3 -",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-14T12:10:00+02:00",
       "competition": "Moto2",
