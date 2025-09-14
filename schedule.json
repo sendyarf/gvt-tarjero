@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-09-14T12:37:35.351447+00:00",
+  "last_updated": "2025-09-14T13:20:50.263342+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-14T12:10:00+02:00",
-      "competition": "Moto2",
-      "teams": "Course Moto2 -",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-14T12:15:00+02:00",
-      "competition": "Eredivisie",
-      "teams": "Excelsior - Sparta Rotterdam",
-      "channels": [
-        {
-          "name": "CH141nl",
-          "url": "https://envivo.govoet.my.id/141"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-14T12:30:00+02:00",
       "competition": "Serie A",
