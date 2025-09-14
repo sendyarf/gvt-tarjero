@@ -1,41 +1,7 @@
 {
-  "last_updated": "2025-09-14T22:38:51.608453+00:00",
+  "last_updated": "2025-09-14T23:17:43.741547+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-14T22:05:00+02:00",
-      "competition": "NFL",
-      "teams": "Arizona Cardinals - Carolina Panthers",
-      "channels": [
-        {
-          "name": "CH169us",
-          "url": "https://envivo.govoet.my.id/169"
-        },
-        {
-          "name": "CH79es",
-          "url": "https://envivo.govoet.my.id/79"
-        },
-        {
-          "name": "CH93es",
-          "url": "https://envivo.govoet.my.id/93"
-        },
-        {
-          "name": "CH102es",
-          "url": "https://envivo.govoet.my.id/102"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-14T22:05:00+02:00",
-      "competition": "NFL",
-      "teams": "Indianapolis Colts - Denver Broncos",
-      "channels": [
-        {
-          "name": "CH170us",
-          "url": "https://envivo.govoet.my.id/170"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-14T22:25:00+02:00",
       "competition": "NFL",
