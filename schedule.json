@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-09-14T05:18:44.183369+00:00",
+  "last_updated": "2025-09-14T05:38:55.765135+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-14T04:30:00+02:00",
-      "competition": "MLS",
-      "teams": "Portland Timbers - New York Red Bulls",
-      "channels": [
-        {
-          "name": "CH194es",
-          "url": "https://envivo.govoet.my.id/194"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-14T04:30:00+02:00",
-      "competition": "MLS",
-      "teams": "San Diego FC - Minnesota",
-      "channels": [
-        {
-          "name": "CH195es",
-          "url": "https://envivo.govoet.my.id/195"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-14T05:00:00+02:00",
       "competition": "Liga Mx",
