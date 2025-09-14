@@ -1,63 +1,7 @@
 {
-  "last_updated": "2025-09-14T03:47:28.487949+00:00",
+  "last_updated": "2025-09-14T04:23:36.828919+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-14T03:00:00+02:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Atl. Morelia - Dorados",
-      "channels": [
-        {
-          "name": "CH197es",
-          "url": "https://envivo.govoet.my.id/197"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-14T03:00:00+02:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Cancun - Venados",
-      "channels": [
-        {
-          "name": "CH198es",
-          "url": "https://envivo.govoet.my.id/198"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-14T03:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Atlas - Santos Laguna",
-      "channels": [
-        {
-          "name": "CH158es",
-          "url": "https://envivo.govoet.my.id/158"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-14T03:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Tigres - Leon",
-      "channels": [
-        {
-          "name": "CH108es",
-          "url": "https://envivo.govoet.my.id/108"
-        },
-        {
-          "name": "CH72es",
-          "url": "https://envivo.govoet.my.id/72"
-        },
-        {
-          "name": "CH73es",
-          "url": "https://envivo.govoet.my.id/73"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-14T03:30:00+02:00",
       "competition": "Liga Betplay Dimayor",
