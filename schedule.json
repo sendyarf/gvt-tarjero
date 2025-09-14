@@ -1,51 +1,7 @@
 {
-  "last_updated": "2025-09-14T04:23:36.828919+00:00",
+  "last_updated": "2025-09-14T04:40:57.975003+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-14T03:30:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Atl. Nacional - Bucaramanga",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-14T03:30:00+02:00",
-      "competition": "MLS",
-      "teams": "Colorado Rapids - Houston Dynamo",
-      "channels": [
-        {
-          "name": "CH191es",
-          "url": "https://envivo.govoet.my.id/191"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-14T03:30:00+02:00",
-      "competition": "MLS",
-      "teams": "Real Salt Lake - Sporting Kansas City",
-      "channels": [
-        {
-          "name": "CH192es",
-          "url": "https://envivo.govoet.my.id/192"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-14T03:35:00+02:00",
-      "competition": "MLS",
-      "teams": "Vancouver Whitecaps - Philadelphia Union",
-      "channels": [
-        {
-          "name": "CH193es",
-          "url": "https://envivo.govoet.my.id/193"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-14T04:30:00+02:00",
       "competition": "MLS",
