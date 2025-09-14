@@ -1,37 +1,7 @@
 {
-  "last_updated": "2025-09-14T05:38:55.765135+00:00",
+  "last_updated": "2025-09-14T06:28:32.802123+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-14T05:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Toluca - Puebla",
-      "channels": [
-        {
-          "name": "CH157es",
-          "url": "https://envivo.govoet.my.id/157"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-14T05:15:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Club America - Guadalajara",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        },
-        {
-          "name": "CH106es",
-          "url": "https://envivo.govoet.my.id/106"
-        },
-        {
-          "name": "CH107es",
-          "url": "https://envivo.govoet.my.id/107"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-14T09:35:00+02:00",
       "competition": "MotoGP",
