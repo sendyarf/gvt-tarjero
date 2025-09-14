@@ -1,53 +1,7 @@
 {
-  "last_updated": "2025-09-14T18:25:50.899761+00:00",
+  "last_updated": "2025-09-14T18:43:14.105533+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-14T17:30:00+02:00",
-      "competition": "Bundesliga",
-      "teams": "B. Monchengladbach - Werder Brême",
-      "channels": [
-        {
-          "name": "CH5fr",
-          "url": "https://envivo.govoet.my.id/5"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-14T17:30:00+02:00",
-      "competition": "Premier League",
-      "teams": "Manchester City - Manchester Utd",
-      "channels": [
-        {
-          "name": "CH11fr",
-          "url": "https://envivo.govoet.my.id/11"
-        },
-        {
-          "name": "CH127gb",
-          "url": "https://envivo.govoet.my.id/127"
-        },
-        {
-          "name": "CH57es",
-          "url": "https://envivo.govoet.my.id/57"
-        },
-        {
-          "name": "CH61es",
-          "url": "https://envivo.govoet.my.id/61"
-        },
-        {
-          "name": "CH120de",
-          "url": "https://envivo.govoet.my.id/120"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-14T18:00:00+02:00",
       "competition": "Liga AUF Uruguaya",
