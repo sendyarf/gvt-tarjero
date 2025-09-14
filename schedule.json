@@ -1,34 +1,7 @@
 {
-  "last_updated": "2025-09-14T13:20:50.263342+00:00",
+  "last_updated": "2025-09-14T13:37:06.487715+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-14T12:30:00+02:00",
-      "competition": "Serie A",
-      "teams": "AS Rome - Torino",
-      "channels": [
-        {
-          "name": "CH45fr",
-          "url": "https://envivo.govoet.my.id/45"
-        },
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-14T13:00:00+02:00",
       "competition": "Championship",
