@@ -1,51 +1,7 @@
 {
-  "last_updated": "2025-09-14T23:38:20.500701+00:00",
+  "last_updated": "2025-09-15T01:47:20.466924+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-14T23:00:00+02:00",
-      "competition": "Liga AUF Uruguaya",
-      "teams": "Plaza Colonia - Nacional",
-      "channels": [
-        {
-          "name": "CH109es",
-          "url": "https://envivo.govoet.my.id/109"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-14T23:10:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Dep. Cali - Pasto",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-15T00:30:00+02:00",
-      "competition": "Ecuador Ligapro",
-      "teams": "Emelec - Barcelone SC",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-15T00:30:00+02:00",
-      "competition": "Liga 1 Te Apuesto",
-      "teams": "Cusco - Sporting Cristal",
-      "channels": [
-        {
-          "name": "CH84es",
-          "url": "https://envivo.govoet.my.id/84"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-15T01:00:00+02:00",
       "competition": "Liga Mx",
