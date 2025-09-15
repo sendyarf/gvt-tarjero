@@ -1,34 +1,7 @@
 {
-  "last_updated": "2025-09-15T03:09:10.687736+00:00",
+  "last_updated": "2025-09-15T03:52:17.460552+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-15T02:20:00+02:00",
-      "competition": "NFL",
-      "teams": "Minnesota Vikings - Atlanta Falcons",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH172us",
-          "url": "https://envivo.govoet.my.id/172"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        },
-        {
-          "name": "CH72es",
-          "url": "https://envivo.govoet.my.id/72"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-15T03:00:00+02:00",
       "competition": "Liga Mx",
