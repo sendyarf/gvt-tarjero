@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-09-15T15:41:09.576312+00:00",
+  "last_updated": "2025-09-15T16:27:29.955370+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-15T15:45:00+02:00",
-      "competition": "Afc Ligue Des Champions",
-      "teams": "Al Sharjah (Uae) - Al-Gharafa (Qat)",
-      "channels": [
-        {
-          "name": "CH160us",
-          "url": "https://envivo.govoet.my.id/160"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-15T18:00:00+02:00",
       "competition": "Afc Ligue Des Champions",
@@ -21,6 +10,10 @@
         {
           "name": "CH161us",
           "url": "https://envivo.govoet.my.id/161"
+        },
+        {
+          "name": "CH97es",
+          "url": "https://envivo.govoet.my.id/97"
         }
       ]
     },
