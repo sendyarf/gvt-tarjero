@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-09-15T21:18:20.979599+00:00",
+  "last_updated": "2025-09-15T21:37:31.453889+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-15T20:30:00+02:00",
-      "competition": "Laliga 2",
-      "teams": "Saragosse - Albacete",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-15T20:45:00+02:00",
       "competition": "Ligue 2",
