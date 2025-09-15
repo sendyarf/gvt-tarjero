@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-09-15T04:26:12.181157+00:00",
+  "last_updated": "2025-09-15T04:44:47.356721+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-15T03:30:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Tolima - Chico",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-15T15:45:00+02:00",
       "competition": "Afc Ligue Des Champions",
