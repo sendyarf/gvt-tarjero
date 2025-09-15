@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-09-15T19:38:23.922415+00:00",
+  "last_updated": "2025-09-15T20:22:41.631381+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-15T19:00:00+02:00",
-      "competition": "Super Lig",
-      "teams": "Rizespor - Genclerbirligi",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        },
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-15T20:15:00+02:00",
       "competition": "Afc Ligue Des Champions",
