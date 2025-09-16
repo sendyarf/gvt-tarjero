@@ -1,30 +1,7 @@
 {
-  "last_updated": "2025-09-16T04:42:45.279479+00:00",
+  "last_updated": "2025-09-16T05:19:50.746449+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-16T04:00:00+02:00",
-      "competition": "NFL",
-      "teams": "Las Vegas Raiders - Los Angeles Chargers",
-      "channels": [
-        {
-          "name": "CH160us",
-          "url": "https://envivo.govoet.my.id/160"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-16T09:45:00+02:00",
       "competition": "Afc Ligue Des Champions",
