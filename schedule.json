@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-09-16T14:43:40.513938+00:00",
+  "last_updated": "2025-09-16T15:23:36.252009+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-16T14:00:00+02:00",
-      "competition": "Youth League",
-      "teams": "Juventus -19 - Dortmund -19",
-      "channels": [
-        {
-          "name": "CH162es",
-          "url": "https://envivo.govoet.my.id/162"
-        },
-        {
-          "name": "CH138it",
-          "url": "https://envivo.govoet.my.id/138"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-16T14:15:00+02:00",
-      "competition": "Afc Ligue Des Champions",
-      "teams": "Buriram (Tha) - Johor DT (Mys)",
-      "channels": [
-        {
-          "name": "CH171bg",
-          "url": "https://envivo.govoet.my.id/171"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-16T16:00:00+02:00",
       "competition": "Youth League",
