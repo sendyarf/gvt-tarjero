@@ -1,26 +1,7 @@
 {
-  "last_updated": "2025-09-16T16:47:16.233210+00:00",
+  "last_updated": "2025-09-16T17:18:14.443698+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-16T16:00:00+02:00",
-      "competition": "Youth League",
-      "teams": "Real Madrid -19 - Marseille -19",
-      "channels": [
-        {
-          "name": "CH12fr",
-          "url": "https://envivo.govoet.my.id/12"
-        },
-        {
-          "name": "CH55es",
-          "url": "https://envivo.govoet.my.id/55"
-        },
-        {
-          "name": "CH161es",
-          "url": "https://envivo.govoet.my.id/161"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-16T18:00:00+02:00",
       "competition": "Afc Ligue Des Champions",
