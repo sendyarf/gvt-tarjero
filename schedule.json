@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-09-17T01:39:16.354057+00:00",
+  "last_updated": "2025-09-17T02:56:51.497809+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-17T01:30:00+02:00",
-      "competition": "MLS",
-      "teams": "Inter Miami - Seattle Sounders",
-      "channels": [
-        {
-          "name": "CH175es",
-          "url": "https://envivo.govoet.my.id/175"
-        },
-        {
-          "name": "CH176us",
-          "url": "https://envivo.govoet.my.id/176"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-17T02:30:00+02:00",
       "competition": "Copa Sudamericana",
