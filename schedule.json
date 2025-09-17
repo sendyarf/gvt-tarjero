@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-09-17T16:47:04.401906+00:00",
+  "last_updated": "2025-09-17T17:17:37.437302+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-17T16:00:00+02:00",
-      "competition": "Youth League",
-      "teams": "Liverpool -19 - Atl. Madrid -19",
-      "channels": [
-        {
-          "name": "CH12fr",
-          "url": "https://envivo.govoet.my.id/12"
-        },
-        {
-          "name": "CH161es",
-          "url": "https://envivo.govoet.my.id/161"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-17T16:30:00+02:00",
       "competition": "Coupe De Grèce",
