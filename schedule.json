@@ -1,65 +1,7 @@
 {
-  "last_updated": "2025-09-17T18:30:31.857147+00:00",
+  "last_updated": "2025-09-17T19:16:14.753614+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-17T18:45:00+02:00",
-      "competition": "Ligue Des Champions",
-      "teams": "Olympiakos - Pafos",
-      "channels": [
-        {
-          "name": "CH12fr",
-          "url": "https://envivo.govoet.my.id/12"
-        },
-        {
-          "name": "CH162es",
-          "url": "https://envivo.govoet.my.id/162"
-        },
-        {
-          "name": "CH130gb",
-          "url": "https://envivo.govoet.my.id/130"
-        },
-        {
-          "name": "CH138it",
-          "url": "https://envivo.govoet.my.id/138"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-17T18:45:00+02:00",
-      "competition": "Ligue Des Champions",
-      "teams": "Slavia Prague - Bodo/Glimt",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        },
-        {
-          "name": "CH163es",
-          "url": "https://envivo.govoet.my.id/163"
-        },
-        {
-          "name": "CH131gb",
-          "url": "https://envivo.govoet.my.id/131"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        },
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-17T19:00:00+02:00",
       "competition": "Super Lig",
@@ -160,8 +102,8 @@
           "url": "https://envivo.govoet.my.id/34"
         },
         {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
+          "name": "CH165es",
+          "url": "https://envivo.govoet.my.id/165"
         },
         {
           "name": "CH131gb",
