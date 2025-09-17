@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-09-17T17:17:37.437302+00:00",
+  "last_updated": "2025-09-17T17:39:06.717875+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-17T16:30:00+02:00",
-      "competition": "Coupe De Grèce",
-      "teams": "Levadiakos - PAOK",
-      "channels": [
-        {
-          "name": "CH149gr",
-          "url": "https://envivo.govoet.my.id/149"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-17T16:30:00+02:00",
-      "competition": "Coupe De Grèce",
-      "teams": "Panathinaikos - Athens Kallithea",
-      "channels": [
-        {
-          "name": "CH150gr",
-          "url": "https://envivo.govoet.my.id/150"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-17T18:45:00+02:00",
       "competition": "Ligue Des Champions",
