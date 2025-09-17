@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-09-17T12:43:51.439425+00:00",
+  "last_updated": "2025-09-17T13:28:56.334614+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-17T12:00:00+02:00",
-      "competition": "Afc Ligue Des Champions",
-      "teams": "Ulsan HD (Kor) - Chengdu Rongcheng (Chn)",
-      "channels": [
-        {
-          "name": "CH193qa",
-          "url": "https://envivo.govoet.my.id/193"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-17T14:15:00+02:00",
       "competition": "Afc Ligue Des Champions",
