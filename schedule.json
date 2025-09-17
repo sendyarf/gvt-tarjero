@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-09-17T14:42:25.968034+00:00",
+  "last_updated": "2025-09-17T15:22:02.250671+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-17T14:15:00+02:00",
-      "competition": "Afc Ligue Des Champions",
-      "teams": "Shanghai Port (Chn) - Kobe (Jpn)",
-      "channels": [
-        {
-          "name": "CH193qa",
-          "url": "https://envivo.govoet.my.id/193"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-17T15:00:00+02:00",
       "competition": "Coupe De Grèce",
