@@ -1,26 +1,7 @@
 {
-  "last_updated": "2025-09-17T19:38:56.120772+00:00",
+  "last_updated": "2025-09-17T20:22:49.418136+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-17T19:00:00+02:00",
-      "competition": "Super Lig",
-      "teams": "Fenerbahce - Alanyaspor",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-17T20:00:00+02:00",
       "competition": "Eredivisie",
