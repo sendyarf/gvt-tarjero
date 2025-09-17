@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-09-17T20:40:27.713537+00:00",
+  "last_updated": "2025-09-17T21:18:04.890698+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-17T20:00:00+02:00",
-      "competition": "Eredivisie",
-      "teams": "Feyenoord - Sittard",
-      "channels": [
-        {
-          "name": "CH141nl",
-          "url": "https://envivo.govoet.my.id/141"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-17T20:00:00+02:00",
-      "competition": "Liga 1 Te Apuesto",
-      "teams": "Sporting Cristal - Alianza Atl.",
-      "channels": [
-        {
-          "name": "CH84es",
-          "url": "https://envivo.govoet.my.id/84"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-17T20:30:00+02:00",
       "competition": "Pro League",
