@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-09-18T16:45:47.638241+00:00",
+  "last_updated": "2025-09-18T17:17:56.391638+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-18T16:00:00+02:00",
-      "competition": "Youth League",
-      "teams": "Manchester City -19 - Naples -19",
-      "channels": [
-        {
-          "name": "CH161es",
-          "url": "https://envivo.govoet.my.id/161"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-18T18:45:00+02:00",
       "competition": "Ligue Des Champions",
