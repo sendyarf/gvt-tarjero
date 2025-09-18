@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-09-17T23:38:17.588052+00:00",
+  "last_updated": "2025-09-18T01:39:05.302520+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-17T23:00:00+02:00",
-      "competition": "Copa Argentina",
-      "teams": "Newells Old Boys - Belgrano",
-      "channels": [
-        {
-          "name": "CH77es",
-          "url": "https://envivo.govoet.my.id/77"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-18T00:00:00+02:00",
-      "competition": "Copa Sudamericana",
-      "teams": "Bolivar (Bol) - Atletico-MG (Bra)",
-      "channels": [
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-18T01:30:00+02:00",
       "competition": "MLS",
