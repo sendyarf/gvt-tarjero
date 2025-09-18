@@ -1,73 +1,7 @@
 {
-  "last_updated": "2025-09-18T19:38:33.188315+00:00",
+  "last_updated": "2025-09-18T20:23:28.358322+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-18T18:45:00+02:00",
-      "competition": "Ligue Des Champions",
-      "teams": "Club Brugge - Monaco",
-      "channels": [
-        {
-          "name": "CH12fr",
-          "url": "https://envivo.govoet.my.id/12"
-        },
-        {
-          "name": "CH163es",
-          "url": "https://envivo.govoet.my.id/163"
-        },
-        {
-          "name": "CH130us",
-          "url": "https://envivo.govoet.my.id/130"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-18T18:45:00+02:00",
-      "competition": "Ligue Des Champions",
-      "teams": "FC Copenhague - Bayer Leverkusen",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        },
-        {
-          "name": "CH162es",
-          "url": "https://envivo.govoet.my.id/162"
-        },
-        {
-          "name": "CH114de",
-          "url": "https://envivo.govoet.my.id/114"
-        },
-        {
-          "name": "CH138it",
-          "url": "https://envivo.govoet.my.id/138"
-        },
-        {
-          "name": "CH131us",
-          "url": "https://envivo.govoet.my.id/131"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        },
-        {
-          "name": "CH78es",
-          "url": "https://envivo.govoet.my.id/78"
-        },
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-18T20:00:00+02:00",
       "competition": "Liga 1 Te Apuesto",
