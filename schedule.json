@@ -1,17 +1,5 @@
 {
-  "last_updated": "2025-09-18T04:25:47.747253+00:00",
+  "last_updated": "2025-09-18T04:43:06.832524+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-09-18T03:30:00+02:00",
-      "competition": "MLS",
-      "teams": "Real Salt Lake - Los Angeles FC",
-      "channels": [
-        {
-          "name": "CH191es",
-          "url": "https://envivo.govoet.my.id/191"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
