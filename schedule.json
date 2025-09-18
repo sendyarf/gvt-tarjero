@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-09-18T03:34:13.518050+00:00",
+  "last_updated": "2025-09-18T04:25:47.747253+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-18T03:05:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Guadalajara - Tigres",
-      "channels": [
-        {
-          "name": "CH72es",
-          "url": "https://envivo.govoet.my.id/72"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-18T03:30:00+02:00",
       "competition": "MLS",
