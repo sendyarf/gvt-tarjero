@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-09-19T11:18:00.464895+00:00",
+  "last_updated": "2025-09-19T11:38:31.267166+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-19T10:30:00+02:00",
-      "competition": "formula 1",
-      "teams": "Grand Prix d'Azerbaïdjan Essais libres 1 -",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        },
-        {
-          "name": "CH60es",
-          "url": "https://envivo.govoet.my.id/60"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-19T14:00:00+02:00",
       "competition": "formula 1",
