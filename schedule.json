@@ -1,41 +1,7 @@
 {
-  "last_updated": "2025-09-18T23:38:25.243136+00:00",
+  "last_updated": "2025-09-19T01:41:53.318500+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-19T00:00:00+02:00",
-      "competition": "Copa Ecuador",
-      "teams": "Nueve de Octubre - El Nacional",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-19T00:00:00+02:00",
-      "competition": "Copa Libertadores",
-      "teams": "LDU Quito (Ecu) - Sao Paulo (Bra)",
-      "channels": [
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        },
-        {
-          "name": "CH78es",
-          "url": "https://envivo.govoet.my.id/78"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-19T02:15:00+02:00",
       "competition": "NFL",
