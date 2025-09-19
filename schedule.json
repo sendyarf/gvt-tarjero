@@ -1,37 +1,7 @@
 {
-  "last_updated": "2025-09-19T19:38:18.175424+00:00",
+  "last_updated": "2025-09-19T20:22:29.099792+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-19T19:00:00+02:00",
-      "competition": "Pro D2",
-      "teams": "Biarritz Olympique - CA Brive",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-19T19:00:00+02:00",
-      "competition": "Super Lig",
-      "teams": "Goztepe - Besiktas",
-      "channels": [
-        {
-          "name": "CH10fr",
-          "url": "https://envivo.govoet.my.id/10"
-        },
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        },
-        {
-          "name": "CH93es",
-          "url": "https://envivo.govoet.my.id/93"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-19T19:30:00+02:00",
       "competition": "National",
