@@ -1,37 +1,7 @@
 {
-  "last_updated": "2025-09-19T21:18:03.928813+00:00",
+  "last_updated": "2025-09-19T21:37:41.252509+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-19T20:30:00+02:00",
-      "competition": "Bundesliga",
-      "teams": "Stuttgart - St. Pauli",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH111de",
-          "url": "https://envivo.govoet.my.id/111"
-        },
-        {
-          "name": "CH91es",
-          "url": "https://envivo.govoet.my.id/91"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-19T20:30:00+02:00",
-      "competition": "Laliga 2",
-      "teams": "La Corogne - Huesca",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-19T20:45:00+02:00",
       "competition": "Ligue 1",
