@@ -1,55 +1,7 @@
 {
-  "last_updated": "2025-09-20T03:46:32.429645+00:00",
+  "last_updated": "2025-09-20T04:24:22.769343+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-20T03:00:00+02:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Tepatitlan de Morelos - Tlaxcala",
-      "channels": [
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-20T03:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Cruz Azul - Juarez",
-      "channels": [
-        {
-          "name": "CH157es",
-          "url": "https://envivo.govoet.my.id/157"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-20T03:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Necaxa - Puebla",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        },
-        {
-          "name": "CH108es",
-          "url": "https://envivo.govoet.my.id/108"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-20T03:10:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "America De Cali - Once Caldas",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-20T05:00:00+02:00",
       "competition": "Liga De Expansion Mx",
@@ -91,6 +43,2941 @@
         {
           "name": "CH68es",
           "url": "https://envivo.govoet.my.id/68"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T10:30:00+02:00",
+      "competition": "formula 1",
+      "teams": "Essais libres 3 -",
+      "channels": [
+        {
+          "name": "CH13fr",
+          "url": "https://envivo.govoet.my.id/13"
+        },
+        {
+          "name": "CH60es",
+          "url": "https://envivo.govoet.my.id/60"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T13:00:00+02:00",
+      "competition": "Bundesliga 2",
+      "teams": "bundesliga 2 konferenz -",
+      "channels": [
+        {
+          "name": "CH112de",
+          "url": "https://envivo.govoet.my.id/112"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T13:00:00+02:00",
+      "competition": "Bundesliga 2",
+      "teams": "Braunschweig - Elversberg",
+      "channels": [
+        {
+          "name": "CH115de",
+          "url": "https://envivo.govoet.my.id/115"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T13:00:00+02:00",
+      "competition": "Bundesliga 2",
+      "teams": "Hertha Berlin - Paderborn",
+      "channels": [
+        {
+          "name": "CH114de",
+          "url": "https://envivo.govoet.my.id/114"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T13:00:00+02:00",
+      "competition": "Bundesliga 2",
+      "teams": "Magdeburg - Schalke 04",
+      "channels": [
+        {
+          "name": "CH113de",
+          "url": "https://envivo.govoet.my.id/113"
+        },
+        {
+          "name": "CH79es",
+          "url": "https://envivo.govoet.my.id/79"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T13:30:00+02:00",
+      "competition": "Championship",
+      "teams": "Birmingham - Swansea",
+      "channels": [
+        {
+          "name": "CH190us",
+          "url": "https://envivo.govoet.my.id/190"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T13:30:00+02:00",
+      "competition": "Championship",
+      "teams": "Leicester - Coventry",
+      "channels": [
+        {
+          "name": "CH10fr",
+          "url": "https://envivo.govoet.my.id/10"
+        },
+        {
+          "name": "CH127gb",
+          "url": "https://envivo.govoet.my.id/127"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T13:30:00+02:00",
+      "competition": "Championship",
+      "teams": "QPR - Stoke",
+      "channels": [
+        {
+          "name": "CH191us",
+          "url": "https://envivo.govoet.my.id/191"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T13:30:00+02:00",
+      "competition": "Premier League",
+      "teams": "Liverpool - Everton",
+      "channels": [
+        {
+          "name": "CH11fr",
+          "url": "https://envivo.govoet.my.id/11"
+        },
+        {
+          "name": "CH126us",
+          "url": "https://envivo.govoet.my.id/126"
+        },
+        {
+          "name": "CH56es",
+          "url": "https://envivo.govoet.my.id/56"
+        },
+        {
+          "name": "CH120de",
+          "url": "https://envivo.govoet.my.id/120"
+        },
+        {
+          "name": "CH87es",
+          "url": "https://envivo.govoet.my.id/87"
+        },
+        {
+          "name": "CH155es",
+          "url": "https://envivo.govoet.my.id/155"
+        },
+        {
+          "name": "CH72es",
+          "url": "https://envivo.govoet.my.id/72"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T14:00:00+02:00",
+      "competition": "Laliga",
+      "teams": "Gérone - Levante",
+      "channels": [
+        {
+          "name": "CH51es",
+          "url": "https://envivo.govoet.my.id/51"
+        },
+        {
+          "name": "CH71es",
+          "url": "https://envivo.govoet.my.id/71"
+        },
+        {
+          "name": "CH89es",
+          "url": "https://envivo.govoet.my.id/89"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T14:00:00+02:00",
+      "competition": "Ligue 2",
+      "teams": "Montpellier - Bastia",
+      "channels": [
+        {
+          "name": "CH1fr",
+          "url": "https://envivo.govoet.my.id/1"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T14:00:00+02:00",
+      "competition": "Ligue 2",
+      "teams": "Troyes - Guingamp",
+      "channels": [
+        {
+          "name": "CH4fr",
+          "url": "https://envivo.govoet.my.id/4"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T14:30:00+02:00",
+      "competition": "Top 14",
+      "teams": "ASM Clermont - Section Paloise",
+      "channels": [
+        {
+          "name": "CH14fr",
+          "url": "https://envivo.govoet.my.id/14"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T15:00:00+02:00",
+      "competition": "Serie A",
+      "teams": "Bologne - Genoa",
+      "channels": [
+        {
+          "name": "CH45fr",
+          "url": "https://envivo.govoet.my.id/45"
+        },
+        {
+          "name": "CH137it",
+          "url": "https://envivo.govoet.my.id/137"
+        },
+        {
+          "name": "CH97es",
+          "url": "https://envivo.govoet.my.id/97"
+        },
+        {
+          "name": "CH90es",
+          "url": "https://envivo.govoet.my.id/90"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T15:30:00+02:00",
+      "competition": "Bundesliga",
+      "teams": "bundesliga konferenz -",
+      "channels": [
+        {
+          "name": "CH123de",
+          "url": "https://envivo.govoet.my.id/123"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T15:30:00+02:00",
+      "competition": "Bundesliga",
+      "teams": "Augsburg - Mayence",
+      "channels": [
+        {
+          "name": "CH10fr",
+          "url": "https://envivo.govoet.my.id/10"
+        },
+        {
+          "name": "CH114de",
+          "url": "https://envivo.govoet.my.id/114"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T15:30:00+02:00",
+      "competition": "Bundesliga",
+      "teams": "Hambourg SV - Heidenheim",
+      "channels": [
+        {
+          "name": "CH8fr",
+          "url": "https://envivo.govoet.my.id/8"
+        },
+        {
+          "name": "CH113de",
+          "url": "https://envivo.govoet.my.id/113"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T15:30:00+02:00",
+      "competition": "Bundesliga",
+      "teams": "Hoffenheim - Bayern Munich",
+      "channels": [
+        {
+          "name": "CH6fr",
+          "url": "https://envivo.govoet.my.id/6"
+        },
+        {
+          "name": "CH111de",
+          "url": "https://envivo.govoet.my.id/111"
+        },
+        {
+          "name": "CH87es",
+          "url": "https://envivo.govoet.my.id/87"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T15:30:00+02:00",
+      "competition": "Bundesliga",
+      "teams": "Werder Brême - Fribourg",
+      "channels": [
+        {
+          "name": "CH7fr",
+          "url": "https://envivo.govoet.my.id/7"
+        },
+        {
+          "name": "CH112de",
+          "url": "https://envivo.govoet.my.id/112"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T16:00:00+02:00",
+      "competition": "Championship",
+      "teams": "Blackburn - Ipswich",
+      "channels": [
+        {
+          "name": "CH190us",
+          "url": "https://envivo.govoet.my.id/190"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T16:00:00+02:00",
+      "competition": "Championship",
+      "teams": "Derby - Preston",
+      "channels": [
+        {
+          "name": "CH191us",
+          "url": "https://envivo.govoet.my.id/191"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T16:00:00+02:00",
+      "competition": "Championship",
+      "teams": "Hull - Southampton",
+      "channels": [
+        {
+          "name": "CH192us",
+          "url": "https://envivo.govoet.my.id/192"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T16:00:00+02:00",
+      "competition": "Championship",
+      "teams": "Norwich - Wrexham",
+      "channels": [
+        {
+          "name": "CH193us",
+          "url": "https://envivo.govoet.my.id/193"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T16:00:00+02:00",
+      "competition": "Championship",
+      "teams": "Portsmouth - Sheffield Wed",
+      "channels": [
+        {
+          "name": "CH194us",
+          "url": "https://envivo.govoet.my.id/194"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T16:00:00+02:00",
+      "competition": "Championship",
+      "teams": "Sheffield Utd - Charlton",
+      "channels": [
+        {
+          "name": "CH195us",
+          "url": "https://envivo.govoet.my.id/195"
+        },
+        {
+          "name": "CH91es",
+          "url": "https://envivo.govoet.my.id/91"
+        },
+        {
+          "name": "CH98es",
+          "url": "https://envivo.govoet.my.id/98"
+        },
+        {
+          "name": "CH78es",
+          "url": "https://envivo.govoet.my.id/78"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T16:00:00+02:00",
+      "competition": "Premier League",
+      "teams": "Multiplex Premier League -",
+      "channels": [
+        {
+          "name": "CH12fr",
+          "url": "https://envivo.govoet.my.id/12"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T16:00:00+02:00",
+      "competition": "Premier League",
+      "teams": "Brighton - Tottenham",
+      "channels": [
+        {
+          "name": "CH38fr",
+          "url": "https://envivo.govoet.my.id/38"
+        },
+        {
+          "name": "CH129us",
+          "url": "https://envivo.govoet.my.id/129"
+        },
+        {
+          "name": "CH56es",
+          "url": "https://envivo.govoet.my.id/56"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T16:00:00+02:00",
+      "competition": "Premier League",
+      "teams": "Burnley - Nottingham",
+      "channels": [
+        {
+          "name": "CH40fr",
+          "url": "https://envivo.govoet.my.id/40"
+        },
+        {
+          "name": "CH130us",
+          "url": "https://envivo.govoet.my.id/130"
+        },
+        {
+          "name": "CH58es",
+          "url": "https://envivo.govoet.my.id/58"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T16:00:00+02:00",
+      "competition": "Premier League",
+      "teams": "West Ham - Crystal Palace",
+      "channels": [
+        {
+          "name": "CH39fr",
+          "url": "https://envivo.govoet.my.id/39"
+        },
+        {
+          "name": "CH131us",
+          "url": "https://envivo.govoet.my.id/131"
+        },
+        {
+          "name": "CH57es",
+          "url": "https://envivo.govoet.my.id/57"
+        },
+        {
+          "name": "CH155es",
+          "url": "https://envivo.govoet.my.id/155"
+        },
+        {
+          "name": "CH72es",
+          "url": "https://envivo.govoet.my.id/72"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T16:00:00+02:00",
+      "competition": "Premier League",
+      "teams": "Wolves - Leeds",
+      "channels": [
+        {
+          "name": "CH41fr",
+          "url": "https://envivo.govoet.my.id/41"
+        },
+        {
+          "name": "CH132us",
+          "url": "https://envivo.govoet.my.id/132"
+        },
+        {
+          "name": "CH59es",
+          "url": "https://envivo.govoet.my.id/59"
+        },
+        {
+          "name": "CH88es",
+          "url": "https://envivo.govoet.my.id/88"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T16:00:00+02:00",
+      "competition": "Pro League",
+      "teams": "Louvain - RAAL La Louviere",
+      "channels": [
+        {
+          "name": "CH153fr",
+          "url": "https://envivo.govoet.my.id/153"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T16:00:00+02:00",
+      "competition": "Super Lig",
+      "teams": "Genclerbirligi - Eyupspor",
+      "channels": [
+        {
+          "name": "CH151tr",
+          "url": "https://envivo.govoet.my.id/151"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T16:15:00+02:00",
+      "competition": "Laliga",
+      "teams": "Real Madrid - Espanyol",
+      "channels": [
+        {
+          "name": "CH2fr",
+          "url": "https://envivo.govoet.my.id/2"
+        },
+        {
+          "name": "CH49es",
+          "url": "https://envivo.govoet.my.id/49"
+        },
+        {
+          "name": "CH124de",
+          "url": "https://envivo.govoet.my.id/124"
+        },
+        {
+          "name": "CH71es",
+          "url": "https://envivo.govoet.my.id/71"
+        },
+        {
+          "name": "CH94es",
+          "url": "https://envivo.govoet.my.id/94"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T16:15:00+02:00",
+      "competition": "Laliga 2",
+      "teams": "Cultural Leonesa - Castellon",
+      "channels": [
+        {
+          "name": "CH53es",
+          "url": "https://envivo.govoet.my.id/53"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T16:30:00+02:00",
+      "competition": "Eredivisie",
+      "teams": "FC Volendam - Excelsior",
+      "channels": [
+        {
+          "name": "CH141nl",
+          "url": "https://envivo.govoet.my.id/141"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T16:30:00+02:00",
+      "competition": "Liga Portugal",
+      "teams": "Nacional - Arouca",
+      "channels": [
+        {
+          "name": "CH146pt",
+          "url": "https://envivo.govoet.my.id/146"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T16:30:00+02:00",
+      "competition": "Liga Portugal",
+      "teams": "Santa Clara - Alverca",
+      "channels": [
+        {
+          "name": "CH145pt",
+          "url": "https://envivo.govoet.my.id/145"
+        },
+        {
+          "name": "CH74es",
+          "url": "https://envivo.govoet.my.id/74"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T17:00:00+02:00",
+      "competition": "Betfred Super League",
+      "teams": "Kifisia - Aris",
+      "channels": [
+        {
+          "name": "CH148gr",
+          "url": "https://envivo.govoet.my.id/148"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T17:00:00+02:00",
+      "competition": "Betfred Super League",
+      "teams": "Panserraikos - Atromitos",
+      "channels": [
+        {
+          "name": "CH149gr",
+          "url": "https://envivo.govoet.my.id/149"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T17:00:00+02:00",
+      "competition": "Ligue 1",
+      "teams": "Nantes - Rennes",
+      "channels": [
+        {
+          "name": "CH1fr",
+          "url": "https://envivo.govoet.my.id/1"
+        },
+        {
+          "name": "CH69es",
+          "url": "https://envivo.govoet.my.id/69"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T18:00:00+02:00",
+      "competition": "Liga AUF Uruguaya",
+      "teams": "Montevideo City - Cerro Largo",
+      "channels": [
+        {
+          "name": "CH109es",
+          "url": "https://envivo.govoet.my.id/109"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T18:00:00+02:00",
+      "competition": "MLS",
+      "teams": "New York City - Charlotte",
+      "channels": [
+        {
+          "name": "CH180es",
+          "url": "https://envivo.govoet.my.id/180"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T18:00:00+02:00",
+      "competition": "Serie A",
+      "teams": "Hellas Vérone - Juventus",
+      "channels": [
+        {
+          "name": "CH45fr",
+          "url": "https://envivo.govoet.my.id/45"
+        },
+        {
+          "name": "CH137it",
+          "url": "https://envivo.govoet.my.id/137"
+        },
+        {
+          "name": "CH97es",
+          "url": "https://envivo.govoet.my.id/97"
+        },
+        {
+          "name": "CH89es",
+          "url": "https://envivo.govoet.my.id/89"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T18:15:00+02:00",
+      "competition": "Pro League",
+      "teams": "Charleroi - Zulte-Waregem",
+      "channels": [
+        {
+          "name": "CH153fr",
+          "url": "https://envivo.govoet.my.id/153"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T18:30:00+02:00",
+      "competition": "Bundesliga",
+      "teams": "RB Leipzig - FC Cologne",
+      "channels": [
+        {
+          "name": "CH2fr",
+          "url": "https://envivo.govoet.my.id/2"
+        },
+        {
+          "name": "CH111de",
+          "url": "https://envivo.govoet.my.id/111"
+        },
+        {
+          "name": "CH159es",
+          "url": "https://envivo.govoet.my.id/159"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T18:30:00+02:00",
+      "competition": "Laliga",
+      "teams": "Alaves - FC Séville",
+      "channels": [
+        {
+          "name": "CH51es",
+          "url": "https://envivo.govoet.my.id/51"
+        },
+        {
+          "name": "CH124de",
+          "url": "https://envivo.govoet.my.id/124"
+        },
+        {
+          "name": "CH88es",
+          "url": "https://envivo.govoet.my.id/88"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T18:30:00+02:00",
+      "competition": "Laliga",
+      "teams": "Villarreal - Osasuna",
+      "channels": [
+        {
+          "name": "CH49es",
+          "url": "https://envivo.govoet.my.id/49"
+        },
+        {
+          "name": "CH71es",
+          "url": "https://envivo.govoet.my.id/71"
+        },
+        {
+          "name": "CH94es",
+          "url": "https://envivo.govoet.my.id/94"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T18:30:00+02:00",
+      "competition": "Laliga 2",
+      "teams": "Andorra - Mirandes",
+      "channels": [
+        {
+          "name": "CH54es",
+          "url": "https://envivo.govoet.my.id/54"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T18:30:00+02:00",
+      "competition": "Laliga 2",
+      "teams": "Leganes - Las Palmas",
+      "channels": [
+        {
+          "name": "CH53es",
+          "url": "https://envivo.govoet.my.id/53"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T18:30:00+02:00",
+      "competition": "Premier League",
+      "teams": "Manchester Utd - Chelsea",
+      "channels": [
+        {
+          "name": "CH12fr",
+          "url": "https://envivo.govoet.my.id/12"
+        },
+        {
+          "name": "CH127us",
+          "url": "https://envivo.govoet.my.id/127"
+        },
+        {
+          "name": "CH56es",
+          "url": "https://envivo.govoet.my.id/56"
+        },
+        {
+          "name": "CH120de",
+          "url": "https://envivo.govoet.my.id/120"
+        },
+        {
+          "name": "CH87es",
+          "url": "https://envivo.govoet.my.id/87"
+        },
+        {
+          "name": "CH72es",
+          "url": "https://envivo.govoet.my.id/72"
+        },
+        {
+          "name": "CH73es",
+          "url": "https://envivo.govoet.my.id/73"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T18:30:00+02:00",
+      "competition": "Top 14",
+      "teams": "Bordeaux Bègles - US Montauban",
+      "channels": [
+        {
+          "name": "CH32fr",
+          "url": "https://envivo.govoet.my.id/32"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T18:30:00+02:00",
+      "competition": "Top 14",
+      "teams": "Castres Olympique - Aviron Bayonnais",
+      "channels": [
+        {
+          "name": "CH34fr",
+          "url": "https://envivo.govoet.my.id/34"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T18:30:00+02:00",
+      "competition": "Top 14",
+      "teams": "Lyon OU - Stade Français",
+      "channels": [
+        {
+          "name": "CH35fr",
+          "url": "https://envivo.govoet.my.id/35"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T18:30:00+02:00",
+      "competition": "Top 14",
+      "teams": "Multirugby -",
+      "channels": [
+        {
+          "name": "CH11fr",
+          "url": "https://envivo.govoet.my.id/11"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T18:30:00+02:00",
+      "competition": "Top 14",
+      "teams": "USA Perpignan - Racing 92",
+      "channels": [
+        {
+          "name": "CH36fr",
+          "url": "https://envivo.govoet.my.id/36"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T18:45:00+02:00",
+      "competition": "Eredivisie",
+      "teams": "Groningen - Telstar",
+      "channels": [
+        {
+          "name": "CH143nl",
+          "url": "https://envivo.govoet.my.id/143"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T19:00:00+02:00",
+      "competition": "Betfred Super League",
+      "teams": "Volos - Asteras T.",
+      "channels": [
+        {
+          "name": "CH150gr",
+          "url": "https://envivo.govoet.my.id/150"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T19:00:00+02:00",
+      "competition": "Liga Portugal",
+      "teams": "AFS - Benfica",
+      "channels": [
+        {
+          "name": "CH4fr",
+          "url": "https://envivo.govoet.my.id/4"
+        },
+        {
+          "name": "CH144pt",
+          "url": "https://envivo.govoet.my.id/144"
+        },
+        {
+          "name": "CH74es",
+          "url": "https://envivo.govoet.my.id/74"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T19:00:00+02:00",
+      "competition": "Ligue 1",
+      "teams": "Brest - Nice",
+      "channels": [
+        {
+          "name": "CH21fr",
+          "url": "https://envivo.govoet.my.id/21"
+        },
+        {
+          "name": "CH69es",
+          "url": "https://envivo.govoet.my.id/69"
+        },
+        {
+          "name": "CH90es",
+          "url": "https://envivo.govoet.my.id/90"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T19:00:00+02:00",
+      "competition": "Super Lig",
+      "teams": "Antalyaspor - Kayserispor",
+      "channels": [
+        {
+          "name": "CH152tr",
+          "url": "https://envivo.govoet.my.id/152"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T19:00:00+02:00",
+      "competition": "Super Lig",
+      "teams": "Trabzonspor - Gaziantep",
+      "channels": [
+        {
+          "name": "CH7fr",
+          "url": "https://envivo.govoet.my.id/7"
+        },
+        {
+          "name": "CH151tr",
+          "url": "https://envivo.govoet.my.id/151"
+        },
+        {
+          "name": "CH79es",
+          "url": "https://envivo.govoet.my.id/79"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T19:30:00+02:00",
+      "competition": "Betfred Super League",
+      "teams": "PAOK - Panetolikos",
+      "channels": [
+        {
+          "name": "CH148gr",
+          "url": "https://envivo.govoet.my.id/148"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T19:30:00+02:00",
+      "competition": "Torneo LPF",
+      "teams": "Barracas Central - Sarmiento Junin",
+      "channels": [
+        {
+          "name": "CH76es",
+          "url": "https://envivo.govoet.my.id/76"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T20:00:00+02:00",
+      "competition": "Eredivisie",
+      "teams": "Sittard - Utrecht",
+      "channels": [
+        {
+          "name": "CH141nl",
+          "url": "https://envivo.govoet.my.id/141"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T20:00:00+02:00",
+      "competition": "Ligue 2",
+      "teams": "Saint-Étienne - Reims",
+      "channels": [
+        {
+          "name": "CH1fr",
+          "url": "https://envivo.govoet.my.id/1"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T20:00:00+02:00",
+      "competition": "Saudi Pro League",
+      "teams": "Al-Nassr - Al Riyadh",
+      "channels": [
+        {
+          "name": "CH55es",
+          "url": "https://envivo.govoet.my.id/55"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T20:30:00+02:00",
+      "competition": "Bundesliga 2",
+      "teams": "Nurnberg - Bochum",
+      "channels": [
+        {
+          "name": "CH5fr",
+          "url": "https://envivo.govoet.my.id/5"
+        },
+        {
+          "name": "CH112de",
+          "url": "https://envivo.govoet.my.id/112"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T20:30:00+02:00",
+      "competition": "Liga AUF Uruguaya",
+      "teams": "Boston River - Plaza Colonia",
+      "channels": [
+        {
+          "name": "CH109es",
+          "url": "https://envivo.govoet.my.id/109"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T20:30:00+02:00",
+      "competition": "MLS",
+      "teams": "Philadelphia Union - New England Revolution",
+      "channels": [
+        {
+          "name": "CH181es",
+          "url": "https://envivo.govoet.my.id/181"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T20:45:00+02:00",
+      "competition": "Pro League",
+      "teams": "Anderlecht - Antwerp",
+      "channels": [
+        {
+          "name": "CH153fr",
+          "url": "https://envivo.govoet.my.id/153"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T20:45:00+02:00",
+      "competition": "Serie A",
+      "teams": "Udinese - AC Milan",
+      "channels": [
+        {
+          "name": "CH45fr",
+          "url": "https://envivo.govoet.my.id/45"
+        },
+        {
+          "name": "CH138it",
+          "url": "https://envivo.govoet.my.id/138"
+        },
+        {
+          "name": "CH124de",
+          "url": "https://envivo.govoet.my.id/124"
+        },
+        {
+          "name": "CH97es",
+          "url": "https://envivo.govoet.my.id/97"
+        },
+        {
+          "name": "CH87es",
+          "url": "https://envivo.govoet.my.id/87"
+        },
+        {
+          "name": "CH70es",
+          "url": "https://envivo.govoet.my.id/70"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T21:00:00+02:00",
+      "competition": "Ecuador Ligapro",
+      "teams": "Mushuc Runa - Ind. del Valle",
+      "channels": [
+        {
+          "name": "CH86es",
+          "url": "https://envivo.govoet.my.id/86"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T21:00:00+02:00",
+      "competition": "Eredivisie",
+      "teams": "Breda - Heracles",
+      "channels": [
+        {
+          "name": "CH142nl",
+          "url": "https://envivo.govoet.my.id/142"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T21:00:00+02:00",
+      "competition": "Laliga",
+      "teams": "Valence - Ath. Bilbao",
+      "channels": [
+        {
+          "name": "CH2fr",
+          "url": "https://envivo.govoet.my.id/2"
+        },
+        {
+          "name": "CH49es",
+          "url": "https://envivo.govoet.my.id/49"
+        },
+        {
+          "name": "CH71es",
+          "url": "https://envivo.govoet.my.id/71"
+        },
+        {
+          "name": "CH94es",
+          "url": "https://envivo.govoet.my.id/94"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T21:00:00+02:00",
+      "competition": "Laliga 2",
+      "teams": "Almeria - Gijon",
+      "channels": [
+        {
+          "name": "CH8fr",
+          "url": "https://envivo.govoet.my.id/8"
+        },
+        {
+          "name": "CH53es",
+          "url": "https://envivo.govoet.my.id/53"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T21:00:00+02:00",
+      "competition": "Liga Betplay Dimayor",
+      "teams": "Envigado - Alianza",
+      "channels": [
+        {
+          "name": "CH81es",
+          "url": "https://envivo.govoet.my.id/81"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T21:00:00+02:00",
+      "competition": "Premier League",
+      "teams": "Fulham - Brentford",
+      "channels": [
+        {
+          "name": "CH12fr",
+          "url": "https://envivo.govoet.my.id/12"
+        },
+        {
+          "name": "CH127us",
+          "url": "https://envivo.govoet.my.id/127"
+        },
+        {
+          "name": "CH56es",
+          "url": "https://envivo.govoet.my.id/56"
+        },
+        {
+          "name": "CH120de",
+          "url": "https://envivo.govoet.my.id/120"
+        },
+        {
+          "name": "CH89es",
+          "url": "https://envivo.govoet.my.id/89"
+        },
+        {
+          "name": "CH72es",
+          "url": "https://envivo.govoet.my.id/72"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T21:00:00+02:00",
+      "competition": "Top 14",
+      "teams": "Montpellier - Stade Toulousain",
+      "channels": [
+        {
+          "name": "CH11fr",
+          "url": "https://envivo.govoet.my.id/11"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T21:05:00+02:00",
+      "competition": "Ligue 1",
+      "teams": "Lens - Lille",
+      "channels": [
+        {
+          "name": "CH20fr",
+          "url": "https://envivo.govoet.my.id/20"
+        },
+        {
+          "name": "CH69es",
+          "url": "https://envivo.govoet.my.id/69"
+        },
+        {
+          "name": "CH90es",
+          "url": "https://envivo.govoet.my.id/90"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T21:30:00+02:00",
+      "competition": "Liga Portugal",
+      "teams": "Guimaraes - Braga",
+      "channels": [
+        {
+          "name": "CH4fr",
+          "url": "https://envivo.govoet.my.id/4"
+        },
+        {
+          "name": "CH145pt",
+          "url": "https://envivo.govoet.my.id/145"
+        },
+        {
+          "name": "CH74es",
+          "url": "https://envivo.govoet.my.id/74"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T21:45:00+02:00",
+      "competition": "Torneo LPF",
+      "teams": "Union Santa Fe - Ind. Rivadavia",
+      "channels": [
+        {
+          "name": "CH75es",
+          "url": "https://envivo.govoet.my.id/75"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T22:30:00+02:00",
+      "competition": "MLS",
+      "teams": "Atlanta Utd - San Diego FC",
+      "channels": [
+        {
+          "name": "CH182es",
+          "url": "https://envivo.govoet.my.id/182"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T23:10:00+02:00",
+      "competition": "Liga Betplay Dimayor",
+      "teams": "Llaneros - Aguilas",
+      "channels": [
+        {
+          "name": "CH81es",
+          "url": "https://envivo.govoet.my.id/81"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T23:30:00+02:00",
+      "competition": "Ecuador Ligapro",
+      "teams": "Delfin - Tecnico U.",
+      "channels": [
+        {
+          "name": "CH86es",
+          "url": "https://envivo.govoet.my.id/86"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T23:30:00+02:00",
+      "competition": "Ecuador Ligapro",
+      "teams": "Vinotinto - Manta",
+      "channels": [
+        {
+          "name": "CH86es",
+          "url": "https://envivo.govoet.my.id/86"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-20T23:30:00+02:00",
+      "competition": "Liga AUF Uruguaya",
+      "teams": "Nacional - Liverpool M.",
+      "channels": [
+        {
+          "name": "CH109es",
+          "url": "https://envivo.govoet.my.id/109"
+        },
+        {
+          "name": "CH74es",
+          "url": "https://envivo.govoet.my.id/74"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T00:00:00+02:00",
+      "competition": "Torneo LPF",
+      "teams": "Tigre - Aldosivi",
+      "channels": [
+        {
+          "name": "CH76es",
+          "url": "https://envivo.govoet.my.id/76"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T01:00:00+02:00",
+      "competition": "Liga Mx",
+      "teams": "Pachuca - Queretaro",
+      "channels": [
+        {
+          "name": "CH158es",
+          "url": "https://envivo.govoet.my.id/158"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T01:20:00+02:00",
+      "competition": "Liga Betplay Dimayor",
+      "teams": "Pasto - Santa Fe",
+      "channels": [
+        {
+          "name": "CH81es",
+          "url": "https://envivo.govoet.my.id/81"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T01:30:00+02:00",
+      "competition": "MLS",
+      "teams": "CF Montreal - New York Red Bulls",
+      "channels": [
+        {
+          "name": "CH180es",
+          "url": "https://envivo.govoet.my.id/180"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T01:30:00+02:00",
+      "competition": "MLS",
+      "teams": "Columbus Crew - Toronto FC",
+      "channels": [
+        {
+          "name": "CH181es",
+          "url": "https://envivo.govoet.my.id/181"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T01:30:00+02:00",
+      "competition": "MLS",
+      "teams": "Inter Miami - DC United",
+      "channels": [
+        {
+          "name": "CH182es",
+          "url": "https://envivo.govoet.my.id/182"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T01:30:00+02:00",
+      "competition": "MLS",
+      "teams": "Orlando City - Nashville SC",
+      "channels": [
+        {
+          "name": "CH183es",
+          "url": "https://envivo.govoet.my.id/183"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T02:00:00+02:00",
+      "competition": "Liga 1 Te Apuesto",
+      "teams": "Cajamarca - U. de Deportes",
+      "channels": [
+        {
+          "name": "CH84es",
+          "url": "https://envivo.govoet.my.id/84"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T02:00:00+02:00",
+      "competition": "Liga De Expansion Mx",
+      "teams": "Atlante - Leones Negros",
+      "channels": [
+        {
+          "name": "CH105es",
+          "url": "https://envivo.govoet.my.id/105"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T02:00:00+02:00",
+      "competition": "Serie A Bresil",
+      "teams": "Palmeiras - Fortaleza",
+      "channels": [
+        {
+          "name": "CH98es",
+          "url": "https://envivo.govoet.my.id/98"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T02:15:00+02:00",
+      "competition": "Torneo LPF",
+      "teams": "Atl. Tucuman - River Plate",
+      "channels": [
+        {
+          "name": "CH75es",
+          "url": "https://envivo.govoet.my.id/75"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T02:30:00+02:00",
+      "competition": "MLS",
+      "teams": "FC Dallas - Colorado Rapids",
+      "channels": [
+        {
+          "name": "CH184es",
+          "url": "https://envivo.govoet.my.id/184"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T02:30:00+02:00",
+      "competition": "MLS",
+      "teams": "Houston Dynamo - Portland Timbers",
+      "channels": [
+        {
+          "name": "CH185es",
+          "url": "https://envivo.govoet.my.id/185"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T02:30:00+02:00",
+      "competition": "MLS",
+      "teams": "Minnesota - Chicago Fire",
+      "channels": [
+        {
+          "name": "CH186es",
+          "url": "https://envivo.govoet.my.id/186"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T02:30:00+02:00",
+      "competition": "MLS",
+      "teams": "Sporting Kansas City - Vancouver Whitecaps",
+      "channels": [
+        {
+          "name": "CH187es",
+          "url": "https://envivo.govoet.my.id/187"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T03:00:00+02:00",
+      "competition": "Liga De Expansion Mx",
+      "teams": "Tampico Madero - Cancun",
+      "channels": [
+        {
+          "name": "CH156es",
+          "url": "https://envivo.govoet.my.id/156"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T03:00:00+02:00",
+      "competition": "Liga De Expansion Mx",
+      "teams": "Venados - Zacatecas Mineros",
+      "channels": [
+        {
+          "name": "CH157es",
+          "url": "https://envivo.govoet.my.id/157"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T03:00:00+02:00",
+      "competition": "Liga Mx",
+      "teams": "U.N.A.M. - Tigres",
+      "channels": [
+        {
+          "name": "CH68es",
+          "url": "https://envivo.govoet.my.id/68"
+        },
+        {
+          "name": "CH106es",
+          "url": "https://envivo.govoet.my.id/106"
+        },
+        {
+          "name": "CH107es",
+          "url": "https://envivo.govoet.my.id/107"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T03:07:00+02:00",
+      "competition": "Liga Mx",
+      "teams": "Guadalajara - Toluca",
+      "channels": [
+        {
+          "name": "CH72es",
+          "url": "https://envivo.govoet.my.id/72"
+        },
+        {
+          "name": "CH73es",
+          "url": "https://envivo.govoet.my.id/73"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T03:30:00+02:00",
+      "competition": "Liga Betplay Dimayor",
+      "teams": "La Equidad - Dep. Cali",
+      "channels": [
+        {
+          "name": "CH81es",
+          "url": "https://envivo.govoet.my.id/81"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T04:30:00+02:00",
+      "competition": "MLS",
+      "teams": "Los Angeles Galaxy - Cincinnati",
+      "channels": [
+        {
+          "name": "CH188es",
+          "url": "https://envivo.govoet.my.id/188"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T04:30:00+02:00",
+      "competition": "MLS",
+      "teams": "San Jose Earthquakes - St. Louis City",
+      "channels": [
+        {
+          "name": "CH189es",
+          "url": "https://envivo.govoet.my.id/189"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T05:00:00+02:00",
+      "competition": "Liga De Expansion Mx",
+      "teams": "Dorados - Alebrijes Oaxaca",
+      "channels": [
+        {
+          "name": "CH156es",
+          "url": "https://envivo.govoet.my.id/156"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T05:05:00+02:00",
+      "competition": "Liga Mx",
+      "teams": "Monterrey - Club America",
+      "channels": [
+        {
+          "name": "CH68es",
+          "url": "https://envivo.govoet.my.id/68"
+        },
+        {
+          "name": "CH106es",
+          "url": "https://envivo.govoet.my.id/106"
+        },
+        {
+          "name": "CH107es",
+          "url": "https://envivo.govoet.my.id/107"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T12:15:00+02:00",
+      "competition": "Eredivisie",
+      "teams": "Zwolle - G.A. Eagles",
+      "channels": [
+        {
+          "name": "CH142nl",
+          "url": "https://envivo.govoet.my.id/142"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T12:30:00+02:00",
+      "competition": "Serie A",
+      "teams": "Lazio - AS Rome",
+      "channels": [
+        {
+          "name": "CH45fr",
+          "url": "https://envivo.govoet.my.id/45"
+        },
+        {
+          "name": "CH137it",
+          "url": "https://envivo.govoet.my.id/137"
+        },
+        {
+          "name": "CH97es",
+          "url": "https://envivo.govoet.my.id/97"
+        },
+        {
+          "name": "CH87es",
+          "url": "https://envivo.govoet.my.id/87"
+        },
+        {
+          "name": "CH70es",
+          "url": "https://envivo.govoet.my.id/70"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T13:00:00+02:00",
+      "competition": "formula 1",
+      "teams": "Grand Prix Azerbaïdjan -",
+      "channels": [
+        {
+          "name": "CH11fr",
+          "url": "https://envivo.govoet.my.id/11"
+        },
+        {
+          "name": "CH60es",
+          "url": "https://envivo.govoet.my.id/60"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T13:30:00+02:00",
+      "competition": "Bundesliga 2",
+      "teams": "bundesliga 2 konferenz -",
+      "channels": [
+        {
+          "name": "CH111de",
+          "url": "https://envivo.govoet.my.id/111"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T13:30:00+02:00",
+      "competition": "Bundesliga 2",
+      "teams": "Dynamo Dresde - Hanovre",
+      "channels": [
+        {
+          "name": "CH4fr",
+          "url": "https://envivo.govoet.my.id/4"
+        },
+        {
+          "name": "CH114de",
+          "url": "https://envivo.govoet.my.id/114"
+        },
+        {
+          "name": "CH79es",
+          "url": "https://envivo.govoet.my.id/79"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T13:30:00+02:00",
+      "competition": "Bundesliga 2",
+      "teams": "Düsseldorf - Darmstadt",
+      "channels": [
+        {
+          "name": "CH113de",
+          "url": "https://envivo.govoet.my.id/113"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T13:30:00+02:00",
+      "competition": "Bundesliga 2",
+      "teams": "Holstein Kiel - Karlsruher",
+      "channels": [
+        {
+          "name": "CH112de",
+          "url": "https://envivo.govoet.my.id/112"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T13:30:00+02:00",
+      "competition": "Pro League",
+      "teams": "Genk - Royale Union SG",
+      "channels": [
+        {
+          "name": "CH153fr",
+          "url": "https://envivo.govoet.my.id/153"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T14:00:00+02:00",
+      "competition": "Laliga",
+      "teams": "Vallecano - Celta Vigo",
+      "channels": [
+        {
+          "name": "CH5fr",
+          "url": "https://envivo.govoet.my.id/5"
+        },
+        {
+          "name": "CH49es",
+          "url": "https://envivo.govoet.my.id/49"
+        },
+        {
+          "name": "CH71es",
+          "url": "https://envivo.govoet.my.id/71"
+        },
+        {
+          "name": "CH94es",
+          "url": "https://envivo.govoet.my.id/94"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T14:00:00+02:00",
+      "competition": "Laliga 2",
+      "teams": "Ceuta - Saragosse",
+      "channels": [
+        {
+          "name": "CH53es",
+          "url": "https://envivo.govoet.my.id/53"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T14:00:00+02:00",
+      "competition": "formula 1",
+      "teams": "Essais qualificatifs -",
+      "channels": [
+        {
+          "name": "CH13fr",
+          "url": "https://envivo.govoet.my.id/13"
+        },
+        {
+          "name": "CH60es",
+          "url": "https://envivo.govoet.my.id/60"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T14:30:00+02:00",
+      "competition": "Eredivisie",
+      "teams": "Heerenveen - Nijmegen",
+      "channels": [
+        {
+          "name": "CH143nl",
+          "url": "https://envivo.govoet.my.id/143"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T14:30:00+02:00",
+      "competition": "Eredivisie",
+      "teams": "PSV - Ajax",
+      "channels": [
+        {
+          "name": "CH141nl",
+          "url": "https://envivo.govoet.my.id/141"
+        },
+        {
+          "name": "CH89es",
+          "url": "https://envivo.govoet.my.id/89"
+        },
+        {
+          "name": "CH98es",
+          "url": "https://envivo.govoet.my.id/98"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T15:00:00+02:00",
+      "competition": "D1 Féminin",
+      "teams": "Fleury 91 F - Paris FC F",
+      "channels": [
+        {
+          "name": "CH14fr",
+          "url": "https://envivo.govoet.my.id/14"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T15:00:00+02:00",
+      "competition": "Ligue 1",
+      "teams": "Paris FC - Strasbourg",
+      "channels": [
+        {
+          "name": "CH20fr",
+          "url": "https://envivo.govoet.my.id/20"
+        },
+        {
+          "name": "CH69es",
+          "url": "https://envivo.govoet.my.id/69"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T15:00:00+02:00",
+      "competition": "Premier League",
+      "teams": "Bournemouth - Newcastle",
+      "channels": [
+        {
+          "name": "CH12fr",
+          "url": "https://envivo.govoet.my.id/12"
+        },
+        {
+          "name": "CH129us",
+          "url": "https://envivo.govoet.my.id/129"
+        },
+        {
+          "name": "CH59es",
+          "url": "https://envivo.govoet.my.id/59"
+        },
+        {
+          "name": "CH120de",
+          "url": "https://envivo.govoet.my.id/120"
+        },
+        {
+          "name": "CH73es",
+          "url": "https://envivo.govoet.my.id/73"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T15:00:00+02:00",
+      "competition": "Premier League",
+      "teams": "Sunderland - Aston Villa",
+      "channels": [
+        {
+          "name": "CH13fr",
+          "url": "https://envivo.govoet.my.id/13"
+        },
+        {
+          "name": "CH127us",
+          "url": "https://envivo.govoet.my.id/127"
+        },
+        {
+          "name": "CH56es",
+          "url": "https://envivo.govoet.my.id/56"
+        },
+        {
+          "name": "CH87es",
+          "url": "https://envivo.govoet.my.id/87"
+        },
+        {
+          "name": "CH155es",
+          "url": "https://envivo.govoet.my.id/155"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T15:00:00+02:00",
+      "competition": "Serie A",
+      "teams": "Cremonese - Parme",
+      "channels": [
+        {
+          "name": "CH139it",
+          "url": "https://envivo.govoet.my.id/139"
+        },
+        {
+          "name": "CH70es",
+          "url": "https://envivo.govoet.my.id/70"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T15:00:00+02:00",
+      "competition": "Serie A",
+      "teams": "Torino - Atalanta",
+      "channels": [
+        {
+          "name": "CH45fr",
+          "url": "https://envivo.govoet.my.id/45"
+        },
+        {
+          "name": "CH137it",
+          "url": "https://envivo.govoet.my.id/137"
+        },
+        {
+          "name": "CH97es",
+          "url": "https://envivo.govoet.my.id/97"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T15:30:00+02:00",
+      "competition": "Bundesliga",
+      "teams": "Eintracht Francfort - Union Berlin",
+      "channels": [
+        {
+          "name": "CH6fr",
+          "url": "https://envivo.govoet.my.id/6"
+        },
+        {
+          "name": "CH124de",
+          "url": "https://envivo.govoet.my.id/124"
+        },
+        {
+          "name": "CH159es",
+          "url": "https://envivo.govoet.my.id/159"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T15:30:00+02:00",
+      "competition": "Liga AUF Uruguaya",
+      "teams": "Progreso - Wanderers",
+      "channels": [
+        {
+          "name": "CH109es",
+          "url": "https://envivo.govoet.my.id/109"
+        },
+        {
+          "name": "CH74es",
+          "url": "https://envivo.govoet.my.id/74"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T16:00:00+02:00",
+      "competition": "Championship",
+      "teams": "Bristol City - Oxford Utd",
+      "channels": [
+        {
+          "name": "CH127us",
+          "url": "https://envivo.govoet.my.id/127"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T16:00:00+02:00",
+      "competition": "Pro League",
+      "teams": "Westerlo - Standard Liège",
+      "channels": [
+        {
+          "name": "CH153fr",
+          "url": "https://envivo.govoet.my.id/153"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T16:00:00+02:00",
+      "competition": "Super Lig",
+      "teams": "Basaksehir - Alanyaspor",
+      "channels": [
+        {
+          "name": "CH151tr",
+          "url": "https://envivo.govoet.my.id/151"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T16:00:00+02:00",
+      "competition": "Super Lig",
+      "teams": "Kocaelispor - Rizespor",
+      "channels": [
+        {
+          "name": "CH152tr",
+          "url": "https://envivo.govoet.my.id/152"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T16:15:00+02:00",
+      "competition": "Laliga",
+      "teams": "Majorque - Atl. Madrid",
+      "channels": [
+        {
+          "name": "CH1fr",
+          "url": "https://envivo.govoet.my.id/1"
+        },
+        {
+          "name": "CH51es",
+          "url": "https://envivo.govoet.my.id/51"
+        },
+        {
+          "name": "CH71es",
+          "url": "https://envivo.govoet.my.id/71"
+        },
+        {
+          "name": "CH88es",
+          "url": "https://envivo.govoet.my.id/88"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T16:15:00+02:00",
+      "competition": "Laliga 2",
+      "teams": "Albacete - Valladolid",
+      "channels": [
+        {
+          "name": "CH53es",
+          "url": "https://envivo.govoet.my.id/53"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T16:30:00+02:00",
+      "competition": "Betfred Super League",
+      "teams": "AEL Larissa - AEK",
+      "channels": [
+        {
+          "name": "CH148gr",
+          "url": "https://envivo.govoet.my.id/148"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T16:30:00+02:00",
+      "competition": "Liga Portugal",
+      "teams": "Tondela - Estrela",
+      "channels": [
+        {
+          "name": "CH144pt",
+          "url": "https://envivo.govoet.my.id/144"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T16:45:00+02:00",
+      "competition": "Eredivisie",
+      "teams": "Alkmaar - Feyenoord",
+      "channels": [
+        {
+          "name": "CH142nl",
+          "url": "https://envivo.govoet.my.id/142"
+        },
+        {
+          "name": "CH98es",
+          "url": "https://envivo.govoet.my.id/98"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T17:00:00+02:00",
+      "competition": "Betfred Super League",
+      "teams": "Levadiakos - OFI Crete",
+      "channels": [
+        {
+          "name": "CH149gr",
+          "url": "https://envivo.govoet.my.id/149"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T17:15:00+02:00",
+      "competition": "Ligue 1",
+      "teams": "Multiplex Ligue 1 -",
+      "channels": [
+        {
+          "name": "CH20fr",
+          "url": "https://envivo.govoet.my.id/20"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T17:15:00+02:00",
+      "competition": "Ligue 1",
+      "teams": "Auxerre - Toulouse",
+      "channels": [
+        {
+          "name": "CH22fr",
+          "url": "https://envivo.govoet.my.id/22"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T17:15:00+02:00",
+      "competition": "Ligue 1",
+      "teams": "Le Havre - Lorient",
+      "channels": [
+        {
+          "name": "CH21fr",
+          "url": "https://envivo.govoet.my.id/21"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T17:15:00+02:00",
+      "competition": "Ligue 1",
+      "teams": "Monaco - Metz",
+      "channels": [
+        {
+          "name": "CH40fr",
+          "url": "https://envivo.govoet.my.id/40"
+        },
+        {
+          "name": "CH69es",
+          "url": "https://envivo.govoet.my.id/69"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T17:30:00+02:00",
+      "competition": "Bundesliga",
+      "teams": "Bayer Leverkusen - B. Monchengladbach",
+      "channels": [
+        {
+          "name": "CH5fr",
+          "url": "https://envivo.govoet.my.id/5"
+        },
+        {
+          "name": "CH123de",
+          "url": "https://envivo.govoet.my.id/123"
+        },
+        {
+          "name": "CH159es",
+          "url": "https://envivo.govoet.my.id/159"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T17:30:00+02:00",
+      "competition": "Premier League",
+      "teams": "Arsenal - Manchester City",
+      "channels": [
+        {
+          "name": "CH11fr",
+          "url": "https://envivo.govoet.my.id/11"
+        },
+        {
+          "name": "CH127us",
+          "url": "https://envivo.govoet.my.id/127"
+        },
+        {
+          "name": "CH56es",
+          "url": "https://envivo.govoet.my.id/56"
+        },
+        {
+          "name": "CH120de",
+          "url": "https://envivo.govoet.my.id/120"
+        },
+        {
+          "name": "CH87es",
+          "url": "https://envivo.govoet.my.id/87"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T18:00:00+02:00",
+      "competition": "Liga AUF Uruguaya",
+      "teams": "Cerro CA - Miramar",
+      "channels": [
+        {
+          "name": "CH109es",
+          "url": "https://envivo.govoet.my.id/109"
+        },
+        {
+          "name": "CH74es",
+          "url": "https://envivo.govoet.my.id/74"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T18:00:00+02:00",
+      "competition": "Serie A",
+      "teams": "Fiorentina - Como",
+      "channels": [
+        {
+          "name": "CH45fr",
+          "url": "https://envivo.govoet.my.id/45"
+        },
+        {
+          "name": "CH138it",
+          "url": "https://envivo.govoet.my.id/138"
+        },
+        {
+          "name": "CH70es",
+          "url": "https://envivo.govoet.my.id/70"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T18:30:00+02:00",
+      "competition": "Laliga",
+      "teams": "Elche - R. Oviedo",
+      "channels": [
+        {
+          "name": "CH6fr",
+          "url": "https://envivo.govoet.my.id/6"
+        },
+        {
+          "name": "CH49es",
+          "url": "https://envivo.govoet.my.id/49"
+        },
+        {
+          "name": "CH71es",
+          "url": "https://envivo.govoet.my.id/71"
+        },
+        {
+          "name": "CH88es",
+          "url": "https://envivo.govoet.my.id/88"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T18:30:00+02:00",
+      "competition": "Laliga 2",
+      "teams": "Eibar - Real Sociedad B",
+      "channels": [
+        {
+          "name": "CH54es",
+          "url": "https://envivo.govoet.my.id/54"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T18:30:00+02:00",
+      "competition": "Laliga 2",
+      "teams": "Malaga - Cadix CF",
+      "channels": [
+        {
+          "name": "CH53es",
+          "url": "https://envivo.govoet.my.id/53"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T18:30:00+02:00",
+      "competition": "Pro League",
+      "teams": "Club Brugge - Saint-Trond",
+      "channels": [
+        {
+          "name": "CH153fr",
+          "url": "https://envivo.govoet.my.id/153"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T19:00:00+02:00",
+      "competition": "Liga Portugal",
+      "teams": "Gil Vicente - Estoril",
+      "channels": [
+        {
+          "name": "CH144pt",
+          "url": "https://envivo.govoet.my.id/144"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T19:00:00+02:00",
+      "competition": "NFL",
+      "teams": "Carolina Panthers - Atlanta Falcons",
+      "channels": [
+        {
+          "name": "CH160us",
+          "url": "https://envivo.govoet.my.id/160"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T19:00:00+02:00",
+      "competition": "NFL",
+      "teams": "Cleveland Browns - Green Bay Packers",
+      "channels": [
+        {
+          "name": "CH161us",
+          "url": "https://envivo.govoet.my.id/161"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T19:00:00+02:00",
+      "competition": "NFL",
+      "teams": "Jacksonville Jaguars - Houston Texans",
+      "channels": [
+        {
+          "name": "CH162us",
+          "url": "https://envivo.govoet.my.id/162"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T19:00:00+02:00",
+      "competition": "NFL",
+      "teams": "Minnesota Vikings - Cincinnati Bengals",
+      "channels": [
+        {
+          "name": "CH163us",
+          "url": "https://envivo.govoet.my.id/163"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T19:00:00+02:00",
+      "competition": "NFL",
+      "teams": "New England Patriots - Pittsburgh Steelers",
+      "channels": [
+        {
+          "name": "CH164us",
+          "url": "https://envivo.govoet.my.id/164"
+        },
+        {
+          "name": "CH79es",
+          "url": "https://envivo.govoet.my.id/79"
+        },
+        {
+          "name": "CH93es",
+          "url": "https://envivo.govoet.my.id/93"
+        },
+        {
+          "name": "CH101es",
+          "url": "https://envivo.govoet.my.id/101"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T19:00:00+02:00",
+      "competition": "NFL",
+      "teams": "Philadelphia Eagles - Los Angeles Rams",
+      "channels": [
+        {
+          "name": "CH165us",
+          "url": "https://envivo.govoet.my.id/165"
+        },
+        {
+          "name": "CH80es",
+          "url": "https://envivo.govoet.my.id/80"
+        },
+        {
+          "name": "CH91es",
+          "url": "https://envivo.govoet.my.id/91"
+        },
+        {
+          "name": "CH102es",
+          "url": "https://envivo.govoet.my.id/102"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T19:00:00+02:00",
+      "competition": "NFL",
+      "teams": "RedZone -",
+      "channels": [
+        {
+          "name": "CH4fr",
+          "url": "https://envivo.govoet.my.id/4"
+        },
+        {
+          "name": "CH100es",
+          "url": "https://envivo.govoet.my.id/100"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T19:00:00+02:00",
+      "competition": "NFL",
+      "teams": "Tampa Bay Buccaneers - New York Jets",
+      "channels": [
+        {
+          "name": "CH166us",
+          "url": "https://envivo.govoet.my.id/166"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T19:00:00+02:00",
+      "competition": "NFL",
+      "teams": "Tennessee Titans - Indianapolis Colts",
+      "channels": [
+        {
+          "name": "CH167us",
+          "url": "https://envivo.govoet.my.id/167"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T19:00:00+02:00",
+      "competition": "NFL",
+      "teams": "Washington Commanders - Las Vegas Raiders",
+      "channels": [
+        {
+          "name": "CH168us",
+          "url": "https://envivo.govoet.my.id/168"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T19:00:00+02:00",
+      "competition": "Super Lig",
+      "teams": "Kasimpasa - Fenerbahce",
+      "channels": [
+        {
+          "name": "CH8fr",
+          "url": "https://envivo.govoet.my.id/8"
+        },
+        {
+          "name": "CH151tr",
+          "url": "https://envivo.govoet.my.id/151"
+        },
+        {
+          "name": "CH92es",
+          "url": "https://envivo.govoet.my.id/92"
+        },
+        {
+          "name": "CH97es",
+          "url": "https://envivo.govoet.my.id/97"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T19:00:00+02:00",
+      "competition": "Super Lig",
+      "teams": "Samsunspor - Karagumruk",
+      "channels": [
+        {
+          "name": "CH152tr",
+          "url": "https://envivo.govoet.my.id/152"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T19:15:00+02:00",
+      "competition": "Pro League",
+      "teams": "Malines - Cercle Bruges",
+      "channels": [
+        {
+          "name": "CH154fr",
+          "url": "https://envivo.govoet.my.id/154"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T19:30:00+02:00",
+      "competition": "Bundesliga",
+      "teams": "Dortmund - Wolfsburg",
+      "channels": [
+        {
+          "name": "CH2fr",
+          "url": "https://envivo.govoet.my.id/2"
+        },
+        {
+          "name": "CH123de",
+          "url": "https://envivo.govoet.my.id/123"
+        },
+        {
+          "name": "CH159es",
+          "url": "https://envivo.govoet.my.id/159"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T19:30:00+02:00",
+      "competition": "Torneo LPF",
+      "teams": "Independiente - San Lorenzo",
+      "channels": [
+        {
+          "name": "CH75es",
+          "url": "https://envivo.govoet.my.id/75"
+        },
+        {
+          "name": "CH55es",
+          "url": "https://envivo.govoet.my.id/55"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T20:00:00+02:00",
+      "competition": "Betfred Super League",
+      "teams": "Panathinaikos - Olympiakos",
+      "channels": [
+        {
+          "name": "CH150gr",
+          "url": "https://envivo.govoet.my.id/150"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T20:00:00+02:00",
+      "competition": "Liga 1 Te Apuesto",
+      "teams": "Melgar - Los Chankas",
+      "channels": [
+        {
+          "name": "CH84es",
+          "url": "https://envivo.govoet.my.id/84"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T20:30:00+02:00",
+      "competition": "Liga AUF Uruguaya",
+      "teams": "River Plate - Racing Montevideo",
+      "channels": [
+        {
+          "name": "CH109es",
+          "url": "https://envivo.govoet.my.id/109"
+        },
+        {
+          "name": "CH74es",
+          "url": "https://envivo.govoet.my.id/74"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T20:45:00+02:00",
+      "competition": "Ligue 1",
+      "teams": "Marseille - PSG",
+      "channels": [
+        {
+          "name": "CH20fr",
+          "url": "https://envivo.govoet.my.id/20"
+        },
+        {
+          "name": "CH69es",
+          "url": "https://envivo.govoet.my.id/69"
+        },
+        {
+          "name": "CH89es",
+          "url": "https://envivo.govoet.my.id/89"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T20:45:00+02:00",
+      "competition": "Serie A",
+      "teams": "Inter - Sassuolo",
+      "channels": [
+        {
+          "name": "CH45fr",
+          "url": "https://envivo.govoet.my.id/45"
+        },
+        {
+          "name": "CH137it",
+          "url": "https://envivo.govoet.my.id/137"
+        },
+        {
+          "name": "CH99es",
+          "url": "https://envivo.govoet.my.id/99"
+        },
+        {
+          "name": "CH88es",
+          "url": "https://envivo.govoet.my.id/88"
+        },
+        {
+          "name": "CH70es",
+          "url": "https://envivo.govoet.my.id/70"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T21:00:00+02:00",
+      "competition": "Laliga",
+      "teams": "Barcelone - Getafe",
+      "channels": [
+        {
+          "name": "CH1fr",
+          "url": "https://envivo.govoet.my.id/1"
+        },
+        {
+          "name": "CH51es",
+          "url": "https://envivo.govoet.my.id/51"
+        },
+        {
+          "name": "CH71es",
+          "url": "https://envivo.govoet.my.id/71"
+        },
+        {
+          "name": "CH87es",
+          "url": "https://envivo.govoet.my.id/87"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T21:00:00+02:00",
+      "competition": "Laliga 2",
+      "teams": "Cordoba - Racing Santander",
+      "channels": [
+        {
+          "name": "CH53es",
+          "url": "https://envivo.govoet.my.id/53"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T21:00:00+02:00",
+      "competition": "Liga Betplay Dimayor",
+      "teams": "Millonarios - Fortaleza",
+      "channels": [
+        {
+          "name": "CH81es",
+          "url": "https://envivo.govoet.my.id/81"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T21:05:00+02:00",
+      "competition": "Top 14",
+      "teams": "RC Toulon - Stade Rochelais",
+      "channels": [
+        {
+          "name": "CH11fr",
+          "url": "https://envivo.govoet.my.id/11"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T21:30:00+02:00",
+      "competition": "Liga Portugal",
+      "teams": "Casa Pia - Famalicao",
+      "channels": [
+        {
+          "name": "CH144pt",
+          "url": "https://envivo.govoet.my.id/144"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T21:45:00+02:00",
+      "competition": "Torneo LPF",
+      "teams": "Godoy Cruz - Instituto",
+      "channels": [
+        {
+          "name": "CH76es",
+          "url": "https://envivo.govoet.my.id/76"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T22:05:00+02:00",
+      "competition": "NFL",
+      "teams": "Los Angeles Chargers - Denver Broncos",
+      "channels": [
+        {
+          "name": "CH169us",
+          "url": "https://envivo.govoet.my.id/169"
+        },
+        {
+          "name": "CH79es",
+          "url": "https://envivo.govoet.my.id/79"
+        },
+        {
+          "name": "CH93es",
+          "url": "https://envivo.govoet.my.id/93"
+        },
+        {
+          "name": "CH102es",
+          "url": "https://envivo.govoet.my.id/102"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T22:05:00+02:00",
+      "competition": "NFL",
+      "teams": "Seattle Seahawks - New Orleans Saints",
+      "channels": [
+        {
+          "name": "CH170us",
+          "url": "https://envivo.govoet.my.id/170"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T22:15:00+02:00",
+      "competition": "Liga 1 Te Apuesto",
+      "teams": "Juan Pablo II - Sporting Cristal",
+      "channels": [
+        {
+          "name": "CH84es",
+          "url": "https://envivo.govoet.my.id/84"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T22:25:00+02:00",
+      "competition": "NFL",
+      "teams": "Chicago Bears - Dallas Cowboys",
+      "channels": [
+        {
+          "name": "CH171us",
+          "url": "https://envivo.govoet.my.id/171"
+        },
+        {
+          "name": "CH80es",
+          "url": "https://envivo.govoet.my.id/80"
+        },
+        {
+          "name": "CH91es",
+          "url": "https://envivo.govoet.my.id/91"
+        },
+        {
+          "name": "CH107es",
+          "url": "https://envivo.govoet.my.id/107"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T22:25:00+02:00",
+      "competition": "NFL",
+      "teams": "San Francisco 49ers - Arizona Cardinals",
+      "channels": [
+        {
+          "name": "CH2fr",
+          "url": "https://envivo.govoet.my.id/2"
+        },
+        {
+          "name": "CH172us",
+          "url": "https://envivo.govoet.my.id/172"
+        },
+        {
+          "name": "CH101es",
+          "url": "https://envivo.govoet.my.id/101"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T22:30:00+02:00",
+      "competition": "Serie A Bresil",
+      "teams": "Internacional - Grêmio",
+      "channels": [
+        {
+          "name": "CH55es",
+          "url": "https://envivo.govoet.my.id/55"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T23:00:00+02:00",
+      "competition": "Ecuador Ligapro",
+      "teams": "Dep. Cuenca - Barcelone SC",
+      "channels": [
+        {
+          "name": "CH86es",
+          "url": "https://envivo.govoet.my.id/86"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T23:00:00+02:00",
+      "competition": "Ecuador Ligapro",
+      "teams": "Emelec - El Nacional",
+      "channels": [
+        {
+          "name": "CH195es",
+          "url": "https://envivo.govoet.my.id/195"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T23:00:00+02:00",
+      "competition": "Ecuador Ligapro",
+      "teams": "LDU Quito - U. Catolica",
+      "channels": [
+        {
+          "name": "CH196es",
+          "url": "https://envivo.govoet.my.id/196"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T23:10:00+02:00",
+      "competition": "Liga Betplay Dimayor",
+      "teams": "U. Magdalena - Atl. Nacional",
+      "channels": [
+        {
+          "name": "CH81es",
+          "url": "https://envivo.govoet.my.id/81"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T23:30:00+02:00",
+      "competition": "Liga AUF Uruguaya",
+      "teams": "Penarol - Juventud",
+      "channels": [
+        {
+          "name": "CH109es",
+          "url": "https://envivo.govoet.my.id/109"
+        },
+        {
+          "name": "CH74es",
+          "url": "https://envivo.govoet.my.id/74"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-21T23:30:00+02:00",
+      "competition": "Serie A Bresil",
+      "teams": "Botafogo - Atlético Mineiro",
+      "channels": [
+        {
+          "name": "CH55es",
+          "url": "https://envivo.govoet.my.id/55"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-22T00:00:00+02:00",
+      "competition": "Torneo LPF",
+      "teams": "Argentinos Jrs - Banfield",
+      "channels": [
+        {
+          "name": "CH75es",
+          "url": "https://envivo.govoet.my.id/75"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-22T00:00:00+02:00",
+      "competition": "Torneo LPF",
+      "teams": "Rosario - Talleres Cordoba",
+      "channels": [
+        {
+          "name": "CH75es",
+          "url": "https://envivo.govoet.my.id/75"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-22T00:30:00+02:00",
+      "competition": "Liga 1 Te Apuesto",
+      "teams": "Huancayo - Cienciano",
+      "channels": [
+        {
+          "name": "CH84es",
+          "url": "https://envivo.govoet.my.id/84"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-22T01:00:00+02:00",
+      "competition": "Liga Mx",
+      "teams": "Santos Laguna - Atl. San Luis",
+      "channels": [
+        {
+          "name": "CH68es",
+          "url": "https://envivo.govoet.my.id/68"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-22T01:00:00+02:00",
+      "competition": "MLS",
+      "teams": "Austin FC - Seattle Sounders",
+      "channels": [
+        {
+          "name": "CH180es",
+          "url": "https://envivo.govoet.my.id/180"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-22T01:20:00+02:00",
+      "competition": "Liga Betplay Dimayor",
+      "teams": "Ind. Medellin - Junior",
+      "channels": [
+        {
+          "name": "CH81es",
+          "url": "https://envivo.govoet.my.id/81"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-22T02:00:00+02:00",
+      "competition": "Liga Mx Women",
+      "teams": "Atl. San Luis F - Mazatlan FC F",
+      "channels": [
+        {
+          "name": "CH100es",
+          "url": "https://envivo.govoet.my.id/100"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-22T02:15:00+02:00",
+      "competition": "Torneo LPF",
+      "teams": "Boca Juniors - Central Cordoba",
+      "channels": [
+        {
+          "name": "CH75es",
+          "url": "https://envivo.govoet.my.id/75"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-22T02:20:00+02:00",
+      "competition": "NFL",
+      "teams": "New York Giants - Kansas City Chiefs",
+      "channels": [
+        {
+          "name": "CH1fr",
+          "url": "https://envivo.govoet.my.id/1"
+        },
+        {
+          "name": "CH173us",
+          "url": "https://envivo.govoet.my.id/173"
+        },
+        {
+          "name": "CH88es",
+          "url": "https://envivo.govoet.my.id/88"
+        },
+        {
+          "name": "CH97es",
+          "url": "https://envivo.govoet.my.id/97"
+        },
+        {
+          "name": "CH72es",
+          "url": "https://envivo.govoet.my.id/72"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-22T03:00:00+02:00",
+      "competition": "Liga 1 Te Apuesto",
+      "teams": "A. Lima - Comerciantes Unidos",
+      "channels": [
+        {
+          "name": "CH84es",
+          "url": "https://envivo.govoet.my.id/84"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-22T03:00:00+02:00",
+      "competition": "MLS",
+      "teams": "Los Angeles FC - Real Salt Lake",
+      "channels": [
+        {
+          "name": "CH180es",
+          "url": "https://envivo.govoet.my.id/180"
+        },
+        {
+          "name": "CH70es",
+          "url": "https://envivo.govoet.my.id/70"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-22T03:30:00+02:00",
+      "competition": "Liga Betplay Dimayor",
+      "teams": "Chico - Pereira",
+      "channels": [
+        {
+          "name": "CH81es",
+          "url": "https://envivo.govoet.my.id/81"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-23T02:15:00+02:00",
+      "competition": "NFL",
+      "teams": "Baltimore Ravens - Detroit Lions",
+      "channels": [
+        {
+          "name": "CH160us",
+          "url": "https://envivo.govoet.my.id/160"
+        },
+        {
+          "name": "CH88es",
+          "url": "https://envivo.govoet.my.id/88"
+        },
+        {
+          "name": "CH97es",
+          "url": "https://envivo.govoet.my.id/97"
+        },
+        {
+          "name": "CH71es",
+          "url": "https://envivo.govoet.my.id/71"
         }
       ]
     }
