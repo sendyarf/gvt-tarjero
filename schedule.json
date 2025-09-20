@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-09-20T02:55:17.924290+00:00",
+  "last_updated": "2025-09-20T03:29:13.653529+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-20T02:15:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Lanus - Platense",
-      "channels": [
-        {
-          "name": "CH76es",
-          "url": "https://envivo.govoet.my.id/76"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-20T03:00:00+02:00",
       "competition": "Liga De Expansion Mx",
