@@ -1,44 +1,7 @@
 {
-  "last_updated": "2025-09-20T17:15:09.258233+00:00",
+  "last_updated": "2025-09-20T17:37:31.773538+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-20T16:30:00+02:00",
-      "competition": "Eredivisie",
-      "teams": "FC Volendam - Excelsior",
-      "channels": [
-        {
-          "name": "CH141nl",
-          "url": "https://envivo.govoet.my.id/141"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-20T16:30:00+02:00",
-      "competition": "Liga Portugal",
-      "teams": "Nacional - Arouca",
-      "channels": [
-        {
-          "name": "CH146pt",
-          "url": "https://envivo.govoet.my.id/146"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-20T16:30:00+02:00",
-      "competition": "Liga Portugal",
-      "teams": "Santa Clara - Alverca",
-      "channels": [
-        {
-          "name": "CH145pt",
-          "url": "https://envivo.govoet.my.id/145"
-        },
-        {
-          "name": "CH74es",
-          "url": "https://envivo.govoet.my.id/74"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-20T17:00:00+02:00",
       "competition": "Betfred Super League",
