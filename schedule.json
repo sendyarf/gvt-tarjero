@@ -1,55 +1,7 @@
 {
-  "last_updated": "2025-09-20T13:38:53.786293+00:00",
+  "last_updated": "2025-09-20T14:17:15.589171+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-20T13:00:00+02:00",
-      "competition": "Bundesliga 2",
-      "teams": "bundesliga 2 konferenz -",
-      "channels": [
-        {
-          "name": "CH112de",
-          "url": "https://envivo.govoet.my.id/112"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-20T13:00:00+02:00",
-      "competition": "Bundesliga 2",
-      "teams": "Braunschweig - Elversberg",
-      "channels": [
-        {
-          "name": "CH115de",
-          "url": "https://envivo.govoet.my.id/115"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-20T13:00:00+02:00",
-      "competition": "Bundesliga 2",
-      "teams": "Hertha Berlin - Paderborn",
-      "channels": [
-        {
-          "name": "CH114de",
-          "url": "https://envivo.govoet.my.id/114"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-20T13:00:00+02:00",
-      "competition": "Bundesliga 2",
-      "teams": "Magdeburg - Schalke 04",
-      "channels": [
-        {
-          "name": "CH113de",
-          "url": "https://envivo.govoet.my.id/113"
-        },
-        {
-          "name": "CH79es",
-          "url": "https://envivo.govoet.my.id/79"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-20T13:30:00+02:00",
       "competition": "Championship",
