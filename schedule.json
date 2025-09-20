@@ -1,44 +1,7 @@
 {
-  "last_updated": "2025-09-20T17:37:31.773538+00:00",
+  "last_updated": "2025-09-20T18:26:30.329994+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-20T17:00:00+02:00",
-      "competition": "Betfred Super League",
-      "teams": "Kifisia - Aris",
-      "channels": [
-        {
-          "name": "CH148gr",
-          "url": "https://envivo.govoet.my.id/148"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-20T17:00:00+02:00",
-      "competition": "Betfred Super League",
-      "teams": "Panserraikos - Atromitos",
-      "channels": [
-        {
-          "name": "CH149gr",
-          "url": "https://envivo.govoet.my.id/149"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-20T17:00:00+02:00",
-      "competition": "Ligue 1",
-      "teams": "Nantes - Rennes",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-20T18:00:00+02:00",
       "competition": "Liga AUF Uruguaya",
