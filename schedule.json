@@ -1,26 +1,7 @@
 {
-  "last_updated": "2025-09-20T22:17:51.231048+00:00",
+  "last_updated": "2025-09-20T22:38:33.952838+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-20T21:30:00+02:00",
-      "competition": "Liga Portugal",
-      "teams": "Guimaraes - Braga",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        },
-        {
-          "name": "CH145pt",
-          "url": "https://envivo.govoet.my.id/145"
-        },
-        {
-          "name": "CH74es",
-          "url": "https://envivo.govoet.my.id/74"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-20T21:45:00+02:00",
       "competition": "Torneo LPF",
