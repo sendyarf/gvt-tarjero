@@ -1,51 +1,7 @@
 {
-  "last_updated": "2025-09-20T05:40:03.587251+00:00",
+  "last_updated": "2025-09-20T06:29:09.087351+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-20T05:00:00+02:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Atletico La Paz - Atl. Morelia",
-      "channels": [
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-20T05:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Mazatlan FC - Atlas",
-      "channels": [
-        {
-          "name": "CH108es",
-          "url": "https://envivo.govoet.my.id/108"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-20T05:00:00+02:00",
-      "competition": "Liga Mx Women",
-      "teams": "Juarez F - Tigres F",
-      "channels": [
-        {
-          "name": "CH156es",
-          "url": "https://envivo.govoet.my.id/156"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-20T05:05:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Tijuana - Leon",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-20T10:30:00+02:00",
       "competition": "formula 1",
