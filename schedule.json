@@ -1,53 +1,7 @@
 {
-  "last_updated": "2025-09-21T18:27:37.689660+00:00",
+  "last_updated": "2025-09-21T18:45:43.241188+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-21T17:30:00+02:00",
-      "competition": "Bundesliga",
-      "teams": "Bayer Leverkusen - B. Monchengladbach",
-      "channels": [
-        {
-          "name": "CH5fr",
-          "url": "https://envivo.govoet.my.id/5"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH159es",
-          "url": "https://envivo.govoet.my.id/159"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-21T17:30:00+02:00",
-      "competition": "Premier League",
-      "teams": "Arsenal - Manchester City",
-      "channels": [
-        {
-          "name": "CH11fr",
-          "url": "https://envivo.govoet.my.id/11"
-        },
-        {
-          "name": "CH127us",
-          "url": "https://envivo.govoet.my.id/127"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        },
-        {
-          "name": "CH120de",
-          "url": "https://envivo.govoet.my.id/120"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-21T18:00:00+02:00",
       "competition": "Liga AUF Uruguaya",
