@@ -1,45 +1,7 @@
 {
-  "last_updated": "2025-09-21T12:39:32.395741+00:00",
+  "last_updated": "2025-09-21T13:23:27.339065+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-21T12:15:00+02:00",
-      "competition": "Eredivisie",
-      "teams": "Zwolle - G.A. Eagles",
-      "channels": [
-        {
-          "name": "CH142nl",
-          "url": "https://envivo.govoet.my.id/142"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-21T12:30:00+02:00",
-      "competition": "Serie A",
-      "teams": "Lazio - AS Rome",
-      "channels": [
-        {
-          "name": "CH45fr",
-          "url": "https://envivo.govoet.my.id/45"
-        },
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-21T13:00:00+02:00",
       "competition": "formula 1",
@@ -256,8 +218,8 @@
       "teams": "Sunderland - Aston Villa",
       "channels": [
         {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
+          "name": "CH14fr",
+          "url": "https://envivo.govoet.my.id/14"
         },
         {
           "name": "CH127us",
@@ -351,8 +313,8 @@
       "teams": "Bristol City - Oxford Utd",
       "channels": [
         {
-          "name": "CH127us",
-          "url": "https://envivo.govoet.my.id/127"
+          "name": "CH190us",
+          "url": "https://envivo.govoet.my.id/190"
         }
       ]
     },
