@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-09-21T05:19:51.916633+00:00",
+  "last_updated": "2025-09-21T05:40:21.583556+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-21T04:30:00+02:00",
-      "competition": "MLS",
-      "teams": "Los Angeles Galaxy - Cincinnati",
-      "channels": [
-        {
-          "name": "CH188es",
-          "url": "https://envivo.govoet.my.id/188"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-21T04:30:00+02:00",
-      "competition": "MLS",
-      "teams": "San Jose Earthquakes - St. Louis City",
-      "channels": [
-        {
-          "name": "CH189es",
-          "url": "https://envivo.govoet.my.id/189"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-21T05:00:00+02:00",
       "competition": "Liga De Expansion Mx",
