@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-09-21T04:24:54.180447+00:00",
+  "last_updated": "2025-09-21T04:42:17.356684+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-21T03:30:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "La Equidad - Dep. Cali",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-21T04:30:00+02:00",
       "competition": "MLS",
