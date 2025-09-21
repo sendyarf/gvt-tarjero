@@ -1,37 +1,7 @@
 {
-  "last_updated": "2025-09-21T05:40:21.583556+00:00",
+  "last_updated": "2025-09-21T06:30:36.423669+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-21T05:00:00+02:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Dorados - Alebrijes Oaxaca",
-      "channels": [
-        {
-          "name": "CH156es",
-          "url": "https://envivo.govoet.my.id/156"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-21T05:05:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Monterrey - Club America",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        },
-        {
-          "name": "CH106es",
-          "url": "https://envivo.govoet.my.id/106"
-        },
-        {
-          "name": "CH107es",
-          "url": "https://envivo.govoet.my.id/107"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-21T12:15:00+02:00",
       "competition": "Eredivisie",
