@@ -1,41 +1,7 @@
 {
-  "last_updated": "2025-09-21T20:21:28.282393+00:00",
+  "last_updated": "2025-09-21T20:39:28.054998+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-21T19:30:00+02:00",
-      "competition": "Bundesliga",
-      "teams": "Dortmund - Wolfsburg",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH159es",
-          "url": "https://envivo.govoet.my.id/159"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-21T19:30:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Independiente - San Lorenzo",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        },
-        {
-          "name": "CH55es",
-          "url": "https://envivo.govoet.my.id/55"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-21T20:00:00+02:00",
       "competition": "Betfred Super League",
