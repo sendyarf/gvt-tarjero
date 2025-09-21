@@ -1,131 +1,7 @@
 {
-  "last_updated": "2025-09-21T21:38:02.652240+00:00",
+  "last_updated": "2025-09-21T22:18:32.966524+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-21T20:45:00+02:00",
-      "competition": "Ligue 1",
-      "teams": "Marseille - PSG",
-      "channels": [
-        {
-          "name": "CH20fr",
-          "url": "https://envivo.govoet.my.id/20"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        },
-        {
-          "name": "CH89es",
-          "url": "https://envivo.govoet.my.id/89"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-21T20:45:00+02:00",
-      "competition": "Serie A",
-      "teams": "Inter - Sassuolo",
-      "channels": [
-        {
-          "name": "CH45fr",
-          "url": "https://envivo.govoet.my.id/45"
-        },
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH99es",
-          "url": "https://envivo.govoet.my.id/99"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-21T21:00:00+02:00",
-      "competition": "Laliga",
-      "teams": "Barcelone - Getafe",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH51es",
-          "url": "https://envivo.govoet.my.id/51"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-21T21:00:00+02:00",
-      "competition": "Laliga 2",
-      "teams": "Cordoba - Racing Santander",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-21T21:00:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Millonarios - Fortaleza",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-21T21:05:00+02:00",
-      "competition": "Top 14",
-      "teams": "RC Toulon - Stade Rochelais",
-      "channels": [
-        {
-          "name": "CH11fr",
-          "url": "https://envivo.govoet.my.id/11"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-21T21:30:00+02:00",
-      "competition": "Liga Portugal",
-      "teams": "Casa Pia - Famalicao",
-      "channels": [
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-21T21:45:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Godoy Cruz - Instituto",
-      "channels": [
-        {
-          "name": "CH76es",
-          "url": "https://envivo.govoet.my.id/76"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-21T22:05:00+02:00",
       "competition": "NFL",
@@ -311,8 +187,8 @@
       "teams": "Rosario - Talleres Cordoba",
       "channels": [
         {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
+          "name": "CH76es",
+          "url": "https://envivo.govoet.my.id/76"
         }
       ]
     },
@@ -377,8 +253,8 @@
       "teams": "Boca Juniors - Central Cordoba",
       "channels": [
         {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
+          "name": "CH76es",
+          "url": "https://envivo.govoet.my.id/76"
         }
       ]
     },
