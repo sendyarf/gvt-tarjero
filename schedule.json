@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-09-21T21:17:39.752836+00:00",
+  "last_updated": "2025-09-21T21:38:02.652240+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-21T20:30:00+02:00",
-      "competition": "Liga AUF Uruguaya",
-      "teams": "River Plate - Racing Montevideo",
-      "channels": [
-        {
-          "name": "CH109es",
-          "url": "https://envivo.govoet.my.id/109"
-        },
-        {
-          "name": "CH74es",
-          "url": "https://envivo.govoet.my.id/74"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-21T20:45:00+02:00",
       "competition": "Ligue 1",
