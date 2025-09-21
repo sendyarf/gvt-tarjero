@@ -1,63 +1,7 @@
 {
-  "last_updated": "2025-09-21T19:15:28.184314+00:00",
+  "last_updated": "2025-09-21T19:38:06.419422+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-21T18:30:00+02:00",
-      "competition": "Laliga",
-      "teams": "Elche - R. Oviedo",
-      "channels": [
-        {
-          "name": "CH6fr",
-          "url": "https://envivo.govoet.my.id/6"
-        },
-        {
-          "name": "CH49es",
-          "url": "https://envivo.govoet.my.id/49"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-21T18:30:00+02:00",
-      "competition": "Laliga 2",
-      "teams": "Eibar - Real Sociedad B",
-      "channels": [
-        {
-          "name": "CH54es",
-          "url": "https://envivo.govoet.my.id/54"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-21T18:30:00+02:00",
-      "competition": "Laliga 2",
-      "teams": "Malaga - Cadix CF",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-21T18:30:00+02:00",
-      "competition": "Pro League",
-      "teams": "Club Brugge - Saint-Trond",
-      "channels": [
-        {
-          "name": "CH153fr",
-          "url": "https://envivo.govoet.my.id/153"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-21T19:00:00+02:00",
       "competition": "Liga Portugal",
