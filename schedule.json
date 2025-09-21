@@ -1,41 +1,7 @@
 {
-  "last_updated": "2025-09-21T18:45:43.241188+00:00",
+  "last_updated": "2025-09-21T19:15:28.184314+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-21T18:00:00+02:00",
-      "competition": "Liga AUF Uruguaya",
-      "teams": "Cerro CA - Miramar",
-      "channels": [
-        {
-          "name": "CH109es",
-          "url": "https://envivo.govoet.my.id/109"
-        },
-        {
-          "name": "CH74es",
-          "url": "https://envivo.govoet.my.id/74"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-21T18:00:00+02:00",
-      "competition": "Serie A",
-      "teams": "Fiorentina - Como",
-      "channels": [
-        {
-          "name": "CH45fr",
-          "url": "https://envivo.govoet.my.id/45"
-        },
-        {
-          "name": "CH138it",
-          "url": "https://envivo.govoet.my.id/138"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-21T18:30:00+02:00",
       "competition": "Laliga",
