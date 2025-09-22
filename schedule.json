@@ -1,56 +1,7 @@
 {
-  "last_updated": "2025-09-22T21:37:04.893055+00:00",
+  "last_updated": "2025-09-22T22:19:06.297221+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-22T20:45:00+02:00",
-      "competition": "Serie A",
-      "teams": "Naples - Pisa",
-      "channels": [
-        {
-          "name": "CH138it",
-          "url": "https://envivo.govoet.my.id/138"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH156es",
-          "url": "https://envivo.govoet.my.id/156"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-22T21:00:00+02:00",
-      "competition": "Championship",
-      "teams": "Millwall - Watford",
-      "channels": [
-        {
-          "name": "CH127gb",
-          "url": "https://envivo.govoet.my.id/127"
-        },
-        {
-          "name": "CH78es",
-          "url": "https://envivo.govoet.my.id/78"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-22T21:15:00+02:00",
-      "competition": "Liga Portugal",
-      "teams": "Sporting - Moreirense",
-      "channels": [
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        },
-        {
-          "name": "CH74es",
-          "url": "https://envivo.govoet.my.id/74"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-22T22:00:00+02:00",
       "competition": "Liga 1 Te Apuesto",
