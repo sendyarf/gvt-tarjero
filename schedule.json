@@ -1,45 +1,7 @@
 {
-  "last_updated": "2025-09-22T19:38:52.913098+00:00",
+  "last_updated": "2025-09-22T20:23:03.104941+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-22T19:00:00+02:00",
-      "competition": "Super Lig",
-      "teams": "Galatasaray - Konyaspor",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-22T20:00:00+02:00",
-      "competition": "Ligue 1",
-      "teams": "Marseille - PSG",
-      "channels": [
-        {
-          "name": "CH20fr",
-          "url": "https://envivo.govoet.my.id/20"
-        },
-        {
-          "name": "CH21fr",
-          "url": "https://envivo.govoet.my.id/21"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-22T20:30:00+02:00",
       "competition": "Laliga 2",
@@ -108,17 +70,6 @@
         {
           "name": "CH84es",
           "url": "https://envivo.govoet.my.id/84"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-22T22:00:00+02:00",
-      "competition": "Liga 1 Te Apuesto",
-      "teams": "Alianza Huanuco - Deportivo Garcilaso",
-      "channels": [
-        {
-          "name": "CH157es",
-          "url": "https://envivo.govoet.my.id/157"
         }
       ]
     },
