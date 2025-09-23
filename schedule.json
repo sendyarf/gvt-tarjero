@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-09-22T23:37:58.857361+00:00",
+  "last_updated": "2025-09-23T01:39:49.051728+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-23T00:00:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Estudiantes - Defensa y Justicia",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-23T02:00:00+02:00",
       "competition": "Torneo LPF",
