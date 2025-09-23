@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-09-23T20:40:53.073316+00:00",
+  "last_updated": "2025-09-23T21:18:22.798936+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-23T20:00:00+02:00",
-      "competition": "Knvb Beker",
-      "teams": "Kozakken Boys - Barendrecht",
-      "channels": [
-        {
-          "name": "CH141nl",
-          "url": "https://envivo.govoet.my.id/141"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-23T20:30:00+02:00",
       "competition": "Ligue 2",
