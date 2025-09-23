@@ -1,45 +1,7 @@
 {
-  "last_updated": "2025-09-23T19:38:08.774693+00:00",
+  "last_updated": "2025-09-23T20:23:31.003665+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-23T19:00:00+02:00",
-      "competition": "Laliga",
-      "teams": "Ath. Bilbao - Gérone",
-      "channels": [
-        {
-          "name": "CH3fr",
-          "url": "https://envivo.govoet.my.id/3"
-        },
-        {
-          "name": "CH51es",
-          "url": "https://envivo.govoet.my.id/51"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH95es",
-          "url": "https://envivo.govoet.my.id/95"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-23T19:00:00+02:00",
-      "competition": "Laliga",
-      "teams": "Espanyol - Valence",
-      "channels": [
-        {
-          "name": "CH49es",
-          "url": "https://envivo.govoet.my.id/49"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-23T20:00:00+02:00",
       "competition": "Knvb Beker",
