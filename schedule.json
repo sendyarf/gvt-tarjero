@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-09-23T17:39:06.956117+00:00",
+  "last_updated": "2025-09-23T18:31:33.288320+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-23T17:00:00+02:00",
-      "competition": "Coppa Italia",
-      "teams": "Cagliari - Frosinone",
-      "channels": [
-        {
-          "name": "CH138it",
-          "url": "https://envivo.govoet.my.id/138"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-23T18:30:00+02:00",
       "competition": "Coppa Italia",
