@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-09-23T04:42:47.381564+00:00",
+  "last_updated": "2025-09-23T05:20:24.034251+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-23T04:00:00+02:00",
-      "competition": "Liga Mx Women",
-      "teams": "Monterrey F - Pachuca F",
-      "channels": [
-        {
-          "name": "CH106es",
-          "url": "https://envivo.govoet.my.id/106"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-23T17:00:00+02:00",
       "competition": "Coppa Italia",
