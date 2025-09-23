@@ -1,49 +1,7 @@
 {
-  "last_updated": "2025-09-23T22:19:07.642766+00:00",
+  "last_updated": "2025-09-23T22:40:12.020333+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-23T21:30:00+02:00",
-      "competition": "Laliga",
-      "teams": "FC Séville - Villarreal",
-      "channels": [
-        {
-          "name": "CH51es",
-          "url": "https://envivo.govoet.my.id/51"
-        },
-        {
-          "name": "CH95es",
-          "url": "https://envivo.govoet.my.id/95"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-23T21:30:00+02:00",
-      "competition": "Laliga",
-      "teams": "Levante - Real Madrid",
-      "channels": [
-        {
-          "name": "CH3fr",
-          "url": "https://envivo.govoet.my.id/3"
-        },
-        {
-          "name": "CH49es",
-          "url": "https://envivo.govoet.my.id/49"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-24T00:00:00+02:00",
       "competition": "Copa Libertadores",
