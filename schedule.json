@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-09-24T05:40:45.565694+00:00",
+  "last_updated": "2025-09-24T06:32:09.416307+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-24T05:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Juarez - U.N.A.M.",
-      "channels": [
-        {
-          "name": "CH108es",
-          "url": "https://envivo.govoet.my.id/108"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-24T05:05:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Leon - Mazatlan FC",
-      "channels": [
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-24T16:00:00+02:00",
       "competition": "Coupe De Grèce",
