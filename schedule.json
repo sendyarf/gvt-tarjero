@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-09-24T21:18:15.974874+00:00",
+  "last_updated": "2025-09-24T21:38:32.983642+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-24T20:30:00+02:00",
-      "competition": "Pro League",
-      "teams": "Club Brugge - Westerlo",
-      "channels": [
-        {
-          "name": "CH153fr",
-          "url": "https://envivo.govoet.my.id/153"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-24T20:45:00+02:00",
       "competition": "Efl Cup",
