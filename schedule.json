@@ -1,53 +1,7 @@
 {
-  "last_updated": "2025-09-24T22:19:29.756188+00:00",
+  "last_updated": "2025-09-24T22:37:48.255349+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-24T21:30:00+02:00",
-      "competition": "Laliga",
-      "teams": "Atl. Madrid - Vallecano",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH49es",
-          "url": "https://envivo.govoet.my.id/49"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-24T21:30:00+02:00",
-      "competition": "Laliga",
-      "teams": "Real Sociedad - Majorque",
-      "channels": [
-        {
-          "name": "CH7fr",
-          "url": "https://envivo.govoet.my.id/7"
-        },
-        {
-          "name": "CH52es",
-          "url": "https://envivo.govoet.my.id/52"
-        },
-        {
-          "name": "CH90es",
-          "url": "https://envivo.govoet.my.id/90"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-25T00:00:00+02:00",
       "competition": "Copa Sudamericana",
