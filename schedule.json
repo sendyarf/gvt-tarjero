@@ -1,113 +1,7 @@
 {
-  "last_updated": "2025-09-24T18:47:52.983673+00:00",
+  "last_updated": "2025-09-24T19:17:41.183477+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-24T18:00:00+02:00",
-      "competition": "Coupe De Grèce",
-      "teams": "AEK - Panetolikos",
-      "channels": [
-        {
-          "name": "CH149gr",
-          "url": "https://envivo.govoet.my.id/149"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-24T18:30:00+02:00",
-      "competition": "Coppa Italia",
-      "teams": "Hellas Vérone - Venezia",
-      "channels": [
-        {
-          "name": "CH138it",
-          "url": "https://envivo.govoet.my.id/138"
-        },
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-24T18:45:00+02:00",
-      "competition": "Ligue Europa",
-      "teams": "Midtjylland - Sturm Graz",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        },
-        {
-          "name": "CH163es",
-          "url": "https://envivo.govoet.my.id/163"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-24T18:45:00+02:00",
-      "competition": "Ligue Europa",
-      "teams": "PAOK - M. Tel Aviv",
-      "channels": [
-        {
-          "name": "CH12fr",
-          "url": "https://envivo.govoet.my.id/12"
-        },
-        {
-          "name": "CH162es",
-          "url": "https://envivo.govoet.my.id/162"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-24T19:00:00+02:00",
-      "competition": "Laliga",
-      "teams": "Getafe - Alaves",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH51es",
-          "url": "https://envivo.govoet.my.id/51"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH90es",
-          "url": "https://envivo.govoet.my.id/90"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-24T19:00:00+02:00",
-      "competition": "Super Lig",
-      "teams": "Kayserispor - Besiktas",
-      "channels": [
-        {
-          "name": "CH7tr",
-          "url": "https://envivo.govoet.my.id/7"
-        },
-        {
-          "name": "CH91es",
-          "url": "https://envivo.govoet.my.id/91"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-24T20:00:00+02:00",
       "competition": "Eredivisie",
@@ -300,8 +194,8 @@
           "url": "https://envivo.govoet.my.id/34"
         },
         {
-          "name": "CH137es",
-          "url": "https://envivo.govoet.my.id/137"
+          "name": "CH167es",
+          "url": "https://envivo.govoet.my.id/167"
         },
         {
           "name": "CH91es",
@@ -380,8 +274,8 @@
           "url": "https://envivo.govoet.my.id/35"
         },
         {
-          "name": "CH135es",
-          "url": "https://envivo.govoet.my.id/135"
+          "name": "CH165es",
+          "url": "https://envivo.govoet.my.id/165"
         },
         {
           "name": "CH93es",
