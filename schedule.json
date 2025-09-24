@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-09-24T20:39:23.199072+00:00",
+  "last_updated": "2025-09-24T21:18:15.974874+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-24T20:00:00+02:00",
-      "competition": "Eredivisie",
-      "teams": "Alkmaar - Zwolle",
-      "channels": [
-        {
-          "name": "CH141nl",
-          "url": "https://envivo.govoet.my.id/141"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-24T20:30:00+02:00",
       "competition": "Pro League",
