@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-09-24T16:48:55.905563+00:00",
+  "last_updated": "2025-09-24T17:19:05.586933+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-24T16:00:00+02:00",
-      "competition": "Coupe De Grèce",
-      "teams": "Asteras T. - Olympiakos",
-      "channels": [
-        {
-          "name": "CH148gr",
-          "url": "https://envivo.govoet.my.id/148"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-24T17:00:00+02:00",
       "competition": "Coppa Italia",
