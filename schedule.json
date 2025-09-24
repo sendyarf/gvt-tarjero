@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-09-24T03:00:08.084546+00:00",
+  "last_updated": "2025-09-24T03:36:43.849132+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-24T02:30:00+02:00",
-      "competition": "Copa Sudamericana",
-      "teams": "Fluminense (Bra) - Lanus (Arg)",
-      "channels": [
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-24T03:00:00+02:00",
       "competition": "Liga Mx",
