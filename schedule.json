@@ -1,26 +1,7 @@
 {
-  "last_updated": "2025-09-24T17:41:07.806044+00:00",
+  "last_updated": "2025-09-24T18:28:16.627192+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-24T17:00:00+02:00",
-      "competition": "Coppa Italia",
-      "teams": "Parme - Spezia",
-      "channels": [
-        {
-          "name": "CH139it",
-          "url": "https://envivo.govoet.my.id/139"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        },
-        {
-          "name": "CH82es",
-          "url": "https://envivo.govoet.my.id/82"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-24T18:00:00+02:00",
       "competition": "Coupe De Grèce",
