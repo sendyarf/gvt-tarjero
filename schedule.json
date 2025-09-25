@@ -1,34 +1,7 @@
 {
-  "last_updated": "2025-09-25T22:17:49.207105+00:00",
+  "last_updated": "2025-09-25T22:39:51.211236+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-25T21:30:00+02:00",
-      "competition": "Laliga",
-      "teams": "R. Oviedo - Barcelone",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH51es",
-          "url": "https://envivo.govoet.my.id/51"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-25T22:00:00+02:00",
       "competition": "Liga 1 Te Apuesto",
