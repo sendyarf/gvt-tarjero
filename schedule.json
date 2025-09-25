@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-09-24T23:37:57.921242+00:00",
+  "last_updated": "2025-09-25T01:41:40.801880+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-25T00:00:00+02:00",
-      "competition": "Copa Sudamericana",
-      "teams": "Atletico-MG (Bra) - Bolivar (Bol)",
-      "channels": [
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-25T01:00:00+02:00",
       "competition": "Copa Colombia",
