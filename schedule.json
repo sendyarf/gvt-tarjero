@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-09-25T18:31:32.849429+00:00",
+  "last_updated": "2025-09-25T19:17:43.179956+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-25T18:00:00+02:00",
-      "competition": "Liga Mx Women",
-      "teams": "Mazatlan FC F - U.N.A.M. F",
-      "channels": [
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-25T18:30:00+02:00",
       "competition": "Coppa Italia",
