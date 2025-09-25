@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-09-25T19:17:43.179956+00:00",
+  "last_updated": "2025-09-25T19:38:27.614916+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-25T18:30:00+02:00",
-      "competition": "Coppa Italia",
-      "teams": "Genoa - Empoli",
-      "channels": [
-        {
-          "name": "CH138it",
-          "url": "https://envivo.govoet.my.id/138"
-        },
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-25T18:45:00+02:00",
       "competition": "Ligue Europa",
