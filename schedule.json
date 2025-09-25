@@ -1,26 +1,7 @@
 {
-  "last_updated": "2025-09-25T04:43:35.444716+00:00",
+  "last_updated": "2025-09-25T05:20:26.432934+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-25T04:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Toluca - Monterrey",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        },
-        {
-          "name": "CH106es",
-          "url": "https://envivo.govoet.my.id/106"
-        },
-        {
-          "name": "CH107es",
-          "url": "https://envivo.govoet.my.id/107"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-25T04:30:00+02:00",
       "competition": "MLS",
