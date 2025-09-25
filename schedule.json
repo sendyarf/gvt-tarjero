@@ -1,41 +1,7 @@
 {
-  "last_updated": "2025-09-25T03:02:39.337393+00:00",
+  "last_updated": "2025-09-25T03:49:04.440753+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-25T02:30:00+02:00",
-      "competition": "Copa Libertadores",
-      "teams": "Palmeiras (Bra) - River Plate (Arg)",
-      "channels": [
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        },
-        {
-          "name": "CH78es",
-          "url": "https://envivo.govoet.my.id/78"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-25T02:30:00+02:00",
-      "competition": "Copa Sudamericana",
-      "teams": "Once Caldas (Col) - Ind. del Valle (Ecu)",
-      "channels": [
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-25T03:00:00+02:00",
       "competition": "Liga Betplay Dimayor",
