@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-09-25T03:49:04.440753+00:00",
+  "last_updated": "2025-09-25T04:25:39.557699+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-25T03:00:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Pasto - America De Cali",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-25T03:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Tigres - Atlas",
-      "channels": [
-        {
-          "name": "CH108es",
-          "url": "https://envivo.govoet.my.id/108"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-25T04:00:00+02:00",
       "competition": "Liga Mx",
