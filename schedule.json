@@ -1,57 +1,7 @@
 {
-  "last_updated": "2025-09-25T19:38:27.614916+00:00",
+  "last_updated": "2025-09-25T20:23:47.399755+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-25T18:45:00+02:00",
-      "competition": "Ligue Europa",
-      "teams": "G.A. Eagles - FCSB",
-      "channels": [
-        {
-          "name": "CH12fr",
-          "url": "https://envivo.govoet.my.id/12"
-        },
-        {
-          "name": "CH163es",
-          "url": "https://envivo.govoet.my.id/163"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH100es",
-          "url": "https://envivo.govoet.my.id/100"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-25T18:45:00+02:00",
-      "competition": "Ligue Europa",
-      "teams": "Lille - Brann",
-      "channels": [
-        {
-          "name": "CH11fr",
-          "url": "https://envivo.govoet.my.id/11"
-        },
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH162es",
-          "url": "https://envivo.govoet.my.id/162"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-25T19:30:00+02:00",
       "competition": "Laliga",
