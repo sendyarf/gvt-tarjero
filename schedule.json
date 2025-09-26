@@ -1,41 +1,7 @@
 {
-  "last_updated": "2025-09-26T21:17:47.092550+00:00",
+  "last_updated": "2025-09-26T21:37:48.139568+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-26T20:30:00+02:00",
-      "competition": "Bundesliga",
-      "teams": "Bayern Munich - Werder Brême",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH111de",
-          "url": "https://envivo.govoet.my.id/111"
-        },
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-26T20:30:00+02:00",
-      "competition": "Laliga 2",
-      "teams": "Mirandes - Saragosse",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-26T20:45:00+02:00",
       "competition": "Ligue 1",
