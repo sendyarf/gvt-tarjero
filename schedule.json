@@ -1,60 +1,7 @@
 {
-  "last_updated": "2025-09-26T03:01:26.545661+00:00",
+  "last_updated": "2025-09-26T03:46:55.399268+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-26T02:15:00+02:00",
-      "competition": "NFL",
-      "teams": "Arizona Cardinals - Seattle Seahawks",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH180us",
-          "url": "https://envivo.govoet.my.id/180"
-        },
-        {
-          "name": "CH91es",
-          "url": "https://envivo.govoet.my.id/91"
-        },
-        {
-          "name": "CH101es",
-          "url": "https://envivo.govoet.my.id/101"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-26T02:30:00+02:00",
-      "competition": "Copa Libertadores",
-      "teams": "Estudiantes (Arg) - Flamengo (Bra)",
-      "channels": [
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-26T02:30:00+02:00",
-      "competition": "Copa Sudamericana",
-      "teams": "U. De Chile (Chi) - A. Lima (Per)",
-      "channels": [
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-26T02:50:00+02:00",
       "competition": "Moto2",
