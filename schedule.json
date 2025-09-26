@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-26T17:18:24.537453+00:00",
+  "last_updated": "2025-09-26T17:39:49.666957+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -71,28 +71,6 @@
     {
       "datetime": "2025-09-26T19:30:00+02:00",
       "competition": "National",
-      "teams": "Chateauroux - Caen",
-      "channels": [
-        {
-          "name": "CH190fr",
-          "url": "https://envivo.govoet.my.id/190"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-26T19:30:00+02:00",
-      "competition": "National",
-      "teams": "Dijon - Concarneau",
-      "channels": [
-        {
-          "name": "CH191fr",
-          "url": "https://envivo.govoet.my.id/191"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-26T19:30:00+02:00",
-      "competition": "National",
       "teams": "Fleury-Mérogis - Aubagne",
       "channels": [
         {
@@ -104,55 +82,11 @@
     {
       "datetime": "2025-09-26T19:30:00+02:00",
       "competition": "National",
-      "teams": "Le Puy-en-Velay - Paris 13 Atl.",
-      "channels": [
-        {
-          "name": "CH193fr",
-          "url": "https://envivo.govoet.my.id/193"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-26T19:30:00+02:00",
-      "competition": "National",
-      "teams": "Orléans - Stade Briochin",
-      "channels": [
-        {
-          "name": "CH194fr",
-          "url": "https://envivo.govoet.my.id/194"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-26T19:30:00+02:00",
-      "competition": "National",
-      "teams": "Rouen - Bourg-en-Bresse",
-      "channels": [
-        {
-          "name": "CH195fr",
-          "url": "https://envivo.govoet.my.id/195"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-26T19:30:00+02:00",
-      "competition": "National",
       "teams": "Valenciennes - Villefranche",
       "channels": [
         {
           "name": "CH196fr",
           "url": "https://envivo.govoet.my.id/196"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-26T19:30:00+02:00",
-      "competition": "National",
-      "teams": "Versailles 78 - QRM",
-      "channels": [
-        {
-          "name": "CH197fr",
-          "url": "https://envivo.govoet.my.id/197"
         }
       ]
     },
