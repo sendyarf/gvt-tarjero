@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-09-27T15:18:03.052302+00:00",
+  "last_updated": "2025-09-27T15:37:55.489967+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-27T14:30:00+02:00",
-      "competition": "Top 14",
-      "teams": "Stade Français - Bordeaux Bègles",
-      "channels": [
-        {
-          "name": "CH31fr",
-          "url": "https://envivo.govoet.my.id/31"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-27T15:00:00+02:00",
       "competition": "Serie A",
