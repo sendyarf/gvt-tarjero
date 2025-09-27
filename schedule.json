@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-09-27T22:38:57.164847+00:00",
+  "last_updated": "2025-09-27T23:18:06.779026+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-27T21:45:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "San Lorenzo - Godoy Cruz",
-      "channels": [
-        {
-          "name": "CH76es",
-          "url": "https://envivo.govoet.my.id/76"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-27T22:00:00+02:00",
-      "competition": "Liga 1 Te Apuesto",
-      "teams": "Comerciantes Unidos - Melgar",
-      "channels": [
-        {
-          "name": "CH84es",
-          "url": "https://envivo.govoet.my.id/84"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-27T22:30:00+02:00",
       "competition": "MLS",
