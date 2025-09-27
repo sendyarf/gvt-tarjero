@@ -1,74 +1,7 @@
 {
-  "last_updated": "2025-09-27T03:46:33.048732+00:00",
+  "last_updated": "2025-09-27T04:24:23.463019+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-27T03:00:00+02:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Correcaminos - Venados",
-      "channels": [
-        {
-          "name": "CH156es",
-          "url": "https://envivo.govoet.my.id/156"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-27T03:00:00+02:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Zacatecas Mineros - Tepatitlan de Morelos",
-      "channels": [
-        {
-          "name": "CH157es",
-          "url": "https://envivo.govoet.my.id/157"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-27T03:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Juarez - Leon",
-      "channels": [
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        },
-        {
-          "name": "CH72es",
-          "url": "https://envivo.govoet.my.id/72"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-27T03:00:00+02:00",
-      "competition": "MotoGP",
-      "teams": "Essais libres 2 des Moto GP -",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-27T03:10:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Fortaleza - Bucaramanga",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-27T03:50:00+02:00",
       "competition": "MotoGP",
