@@ -1,37 +1,7 @@
 {
-  "last_updated": "2025-09-27T04:42:02.976966+00:00",
+  "last_updated": "2025-09-27T05:19:22.972275+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-27T03:50:00+02:00",
-      "competition": "MotoGP",
-      "teams": "Essais qualificatifs 1 et 2 des Moto GP -",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-27T04:00:00+02:00",
-      "competition": "Liga Mx Women",
-      "teams": "Tigres F - Leon F",
-      "channels": [
-        {
-          "name": "CH101es",
-          "url": "https://envivo.govoet.my.id/101"
-        },
-        {
-          "name": "CH104es",
-          "url": "https://envivo.govoet.my.id/104"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-27T05:00:00+02:00",
       "competition": "Liga Mx",
