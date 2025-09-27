@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-09-27T17:37:53.879135+00:00",
+  "last_updated": "2025-09-27T18:26:57.820248+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-27T17:00:00+02:00",
-      "competition": "Betfred Super League",
-      "teams": "Olympiakos - Levadiakos",
-      "channels": [
-        {
-          "name": "CH148gr",
-          "url": "https://envivo.govoet.my.id/148"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-27T17:00:00+02:00",
-      "competition": "Ligue 1",
-      "teams": "Lorient - Monaco",
-      "channels": [
-        {
-          "name": "CH21fr",
-          "url": "https://envivo.govoet.my.id/21"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-27T17:30:00+02:00",
       "competition": "Liga Portugal",
