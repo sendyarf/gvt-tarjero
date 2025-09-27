@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-09-27T20:38:46.330437+00:00",
+  "last_updated": "2025-09-27T21:16:57.954904+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-27T20:00:00+02:00",
-      "competition": "Eredivisie",
-      "teams": "Excelsior - PSV",
-      "channels": [
-        {
-          "name": "CH141nl",
-          "url": "https://envivo.govoet.my.id/141"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-27T20:00:00+02:00",
-      "competition": "Ligue 2",
-      "teams": "Saint-Étienne - Guingamp",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-27T20:30:00+02:00",
       "competition": "Bundesliga 2",
