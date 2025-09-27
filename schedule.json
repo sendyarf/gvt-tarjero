@@ -1,26 +1,7 @@
 {
-  "last_updated": "2025-09-27T05:39:19.046987+00:00",
+  "last_updated": "2025-09-27T06:27:54.623163+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-27T05:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Puebla - Guadalajara",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        },
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        },
-        {
-          "name": "CH108es",
-          "url": "https://envivo.govoet.my.id/108"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-27T05:45:00+02:00",
       "competition": "Moto3",
