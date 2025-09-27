@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-09-27T07:37:45.247675+00:00",
+  "last_updated": "2025-09-27T08:24:22.782529+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-27T06:40:00+02:00",
-      "competition": "Moto2",
-      "teams": "Essais qualificatifs 1 et 2 des Moto 2 -",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-27T08:00:00+02:00",
       "competition": "MotoGP",
