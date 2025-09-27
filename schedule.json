@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-09-27T15:37:55.489967+00:00",
+  "last_updated": "2025-09-27T16:23:14.480559+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-27T15:00:00+02:00",
-      "competition": "Serie A",
-      "teams": "Como - Cremonese",
-      "channels": [
-        {
-          "name": "CH45fr",
-          "url": "https://envivo.govoet.my.id/45"
-        },
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-27T15:30:00+02:00",
       "competition": "Bundesliga",
