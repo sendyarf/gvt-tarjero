@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-09-26T23:38:06.889594+00:00",
+  "last_updated": "2025-09-27T01:37:00.394673+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-27T00:00:00+02:00",
-      "competition": "Campeonato Itaú Chile",
-      "teams": "Colo Colo - Deportes Iquique",
-      "channels": [
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-27T00:00:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Banfield - Union Santa Fe",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-27T00:00:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Platense - San Martin S.J.",
-      "channels": [
-        {
-          "name": "CH76es",
-          "url": "https://envivo.govoet.my.id/76"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-27T01:00:00+02:00",
       "competition": "Liga AUF Uruguaya",
