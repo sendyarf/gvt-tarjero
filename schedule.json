@@ -1,41 +1,7 @@
 {
-  "last_updated": "2025-09-28T04:41:49.892473+00:00",
+  "last_updated": "2025-09-28T05:19:42.268290+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-28T03:55:00+02:00",
-      "competition": "Moto3",
-      "teams": "La course des Moto 3 -",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-28T04:00:00+02:00",
-      "competition": "UFC",
-      "teams": "Carlos Ulberg - Dominick Reyes",
-      "channels": [
-        {
-          "name": "CH17fr",
-          "url": "https://envivo.govoet.my.id/17"
-        },
-        {
-          "name": "CH91es",
-          "url": "https://envivo.govoet.my.id/91"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-28T04:30:00+02:00",
       "competition": "MLS",
