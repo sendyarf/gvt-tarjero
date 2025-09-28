@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-09-28T04:24:55.311929+00:00",
+  "last_updated": "2025-09-28T04:41:49.892473+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-28T03:30:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Atl. Nacional - Millonarios",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-28T03:30:00+02:00",
-      "competition": "MLS",
-      "teams": "Colorado Rapids - Minnesota",
-      "channels": [
-        {
-          "name": "CH189es",
-          "url": "https://envivo.govoet.my.id/189"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-28T03:30:00+02:00",
-      "competition": "MLS",
-      "teams": "Real Salt Lake - Austin FC",
-      "channels": [
-        {
-          "name": "CH190es",
-          "url": "https://envivo.govoet.my.id/190"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-28T03:55:00+02:00",
       "competition": "Moto3",
