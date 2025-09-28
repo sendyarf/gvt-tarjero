@@ -1,53 +1,7 @@
 {
-  "last_updated": "2025-09-28T18:26:49.152216+00:00",
+  "last_updated": "2025-09-28T18:44:04.796198+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-28T17:30:00+02:00",
-      "competition": "Bundesliga",
-      "teams": "FC Cologne - Stuttgart",
-      "channels": [
-        {
-          "name": "CH7fr",
-          "url": "https://envivo.govoet.my.id/7"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH119es",
-          "url": "https://envivo.govoet.my.id/119"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-28T17:30:00+02:00",
-      "competition": "Premier League",
-      "teams": "Newcastle - Arsenal",
-      "channels": [
-        {
-          "name": "CH11fr",
-          "url": "https://envivo.govoet.my.id/11"
-        },
-        {
-          "name": "CH127gb",
-          "url": "https://envivo.govoet.my.id/127"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        },
-        {
-          "name": "CH120de",
-          "url": "https://envivo.govoet.my.id/120"
-        },
-        {
-          "name": "CH73es",
-          "url": "https://envivo.govoet.my.id/73"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-28T18:00:00+02:00",
       "competition": "Betfred Super League",
