@@ -1,41 +1,7 @@
 {
-  "last_updated": "2025-09-28T18:44:04.796198+00:00",
+  "last_updated": "2025-09-28T19:15:08.154698+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-28T18:00:00+02:00",
-      "competition": "Betfred Super League",
-      "teams": "OFI Crete - Kifisia",
-      "channels": [
-        {
-          "name": "CH149gr",
-          "url": "https://envivo.govoet.my.id/149"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-28T18:00:00+02:00",
-      "competition": "Serie A",
-      "teams": "Lecce - Bologne",
-      "channels": [
-        {
-          "name": "CH45fr",
-          "url": "https://envivo.govoet.my.id/45"
-        },
-        {
-          "name": "CH138it",
-          "url": "https://envivo.govoet.my.id/138"
-        },
-        {
-          "name": "CH99es",
-          "url": "https://envivo.govoet.my.id/99"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-28T18:30:00+02:00",
       "competition": "Laliga",
