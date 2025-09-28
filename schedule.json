@@ -1,37 +1,7 @@
 {
-  "last_updated": "2025-09-28T20:20:58.468996+00:00",
+  "last_updated": "2025-09-28T20:38:29.833621+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-28T19:30:00+02:00",
-      "competition": "Betfred Super League",
-      "teams": "Asteras T. - PAOK",
-      "channels": [
-        {
-          "name": "CH150gr",
-          "url": "https://envivo.govoet.my.id/150"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-28T19:30:00+02:00",
-      "competition": "Bundesliga",
-      "teams": "Union Berlin - Hambourg SV",
-      "channels": [
-        {
-          "name": "CH6fr",
-          "url": "https://envivo.govoet.my.id/6"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH119es",
-          "url": "https://envivo.govoet.my.id/119"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-28T20:00:00+02:00",
       "competition": "Betfred Super League",
