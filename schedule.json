@@ -1,59 +1,7 @@
 {
-  "last_updated": "2025-09-27T23:38:08.258447+00:00",
+  "last_updated": "2025-09-28T01:49:34.425193+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-27T23:00:00+02:00",
-      "competition": "Liga AUF Uruguaya",
-      "teams": "Cerro Largo - Penarol",
-      "channels": [
-        {
-          "name": "CH109es",
-          "url": "https://envivo.govoet.my.id/109"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-27T23:10:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Alianza - Llaneros",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-27T23:30:00+02:00",
-      "competition": "Ecuador Ligapro",
-      "teams": "El Nacional - Mushuc Runa",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-28T00:00:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Defensa y Justicia - Boca Juniors",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        },
-        {
-          "name": "CH55es",
-          "url": "https://envivo.govoet.my.id/55"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-28T01:00:00+02:00",
       "competition": "Liga 1 Te Apuesto",
