@@ -1,26 +1,7 @@
 {
-  "last_updated": "2025-09-28T07:37:28.934990+00:00",
+  "last_updated": "2025-09-28T08:24:13.758424+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-28T07:00:00+02:00",
-      "competition": "MotoGP",
-      "teams": "La course des Moto GP -",
-      "channels": [
-        {
-          "name": "CH11fr",
-          "url": "https://envivo.govoet.my.id/11"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-28T12:15:00+02:00",
       "competition": "Eredivisie",
