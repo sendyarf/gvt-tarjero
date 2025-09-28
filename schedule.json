@@ -1,59 +1,7 @@
 {
-  "last_updated": "2025-09-28T03:50:44.119375+00:00",
+  "last_updated": "2025-09-28T04:24:55.311929+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-28T03:00:00+02:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Atl. Morelia - Atlante",
-      "channels": [
-        {
-          "name": "CH105es",
-          "url": "https://envivo.govoet.my.id/105"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-28T03:00:00+02:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Cancun - Tapatio",
-      "channels": [
-        {
-          "name": "CH158es",
-          "url": "https://envivo.govoet.my.id/158"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-28T03:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Monterrey - Santos Laguna",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        },
-        {
-          "name": "CH106es",
-          "url": "https://envivo.govoet.my.id/106"
-        },
-        {
-          "name": "CH107es",
-          "url": "https://envivo.govoet.my.id/107"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-28T03:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Toluca - Mazatlan FC",
-      "channels": [
-        {
-          "name": "CH157es",
-          "url": "https://envivo.govoet.my.id/157"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-28T03:30:00+02:00",
       "competition": "Liga Betplay Dimayor",
