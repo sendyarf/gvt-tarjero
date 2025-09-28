@@ -1,74 +1,7 @@
 {
-  "last_updated": "2025-09-28T19:15:08.154698+00:00",
+  "last_updated": "2025-09-28T19:37:57.217496+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-28T18:30:00+02:00",
-      "competition": "Laliga",
-      "teams": "Barcelone - Real Sociedad",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH49es",
-          "url": "https://envivo.govoet.my.id/49"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-28T18:30:00+02:00",
-      "competition": "Laliga 2",
-      "teams": "Gijon - Albacete",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-28T18:30:00+02:00",
-      "competition": "Laliga 2",
-      "teams": "Valladolid - Cultural Leonesa",
-      "channels": [
-        {
-          "name": "CH54es",
-          "url": "https://envivo.govoet.my.id/54"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-28T18:30:00+02:00",
-      "competition": "Liga AUF Uruguaya",
-      "teams": "Danubio - Montevideo City",
-      "channels": [
-        {
-          "name": "CH109es",
-          "url": "https://envivo.govoet.my.id/109"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-28T18:30:00+02:00",
-      "competition": "Pro League",
-      "teams": "Charleroi - Malines",
-      "channels": [
-        {
-          "name": "CH153fr",
-          "url": "https://envivo.govoet.my.id/153"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-28T19:00:00+02:00",
       "competition": "Liga Portugal",
