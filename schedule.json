@@ -1,51 +1,7 @@
 {
-  "last_updated": "2025-09-28T05:19:42.268290+00:00",
+  "last_updated": "2025-09-28T05:40:09.620217+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-28T04:30:00+02:00",
-      "competition": "MLS",
-      "teams": "Los Angeles Galaxy - Sporting Kansas City",
-      "channels": [
-        {
-          "name": "CH191es",
-          "url": "https://envivo.govoet.my.id/191"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-28T04:30:00+02:00",
-      "competition": "MLS",
-      "teams": "Portland Timbers - FC Dallas",
-      "channels": [
-        {
-          "name": "CH192es",
-          "url": "https://envivo.govoet.my.id/192"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-28T04:30:00+02:00",
-      "competition": "MLS",
-      "teams": "San Diego FC - San Jose Earthquakes",
-      "channels": [
-        {
-          "name": "CH193es",
-          "url": "https://envivo.govoet.my.id/193"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-28T04:30:00+02:00",
-      "competition": "MLS",
-      "teams": "Seattle Sounders - Vancouver Whitecaps",
-      "channels": [
-        {
-          "name": "CH194es",
-          "url": "https://envivo.govoet.my.id/194"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-28T04:55:00+02:00",
       "competition": "Moto2",
