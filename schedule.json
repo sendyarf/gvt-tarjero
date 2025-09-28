@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-09-28T22:39:20.830589+00:00",
+  "last_updated": "2025-09-28T23:18:17.330306+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-28T22:05:00+02:00",
-      "competition": "NFL",
-      "teams": "Los Angeles Rams - Indianapolis Colts",
-      "channels": [
-        {
-          "name": "CH168us",
-          "url": "https://envivo.govoet.my.id/168"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-28T22:05:00+02:00",
-      "competition": "NFL",
-      "teams": "San Francisco 49ers - Jacksonville Jaguars",
-      "channels": [
-        {
-          "name": "CH169us",
-          "url": "https://envivo.govoet.my.id/169"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-28T22:25:00+02:00",
       "competition": "NFL",
