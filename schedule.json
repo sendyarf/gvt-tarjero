@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-29T14:21:59.221736+00:00",
+  "last_updated": "2025-09-29T14:43:41.338903+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -219,6 +219,36 @@
       ]
     },
     {
+      "datetime": "2025-09-29T22:00:00+02:00",
+      "competition": "Coupe Du Monde U20",
+      "teams": "France - Afrique du Sud",
+      "channels": [
+        {
+          "name": "CH19fr",
+          "url": "https://envivo.govoet.my.id/19"
+        },
+        {
+          "name": "CH96es",
+          "url": "https://envivo.govoet.my.id/96"
+        },
+        {
+          "name": "CH106es",
+          "url": "https://envivo.govoet.my.id/106"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-29T22:00:00+02:00",
+      "competition": "Coupe Du Monde U20",
+      "teams": "Norvège - Nigéria",
+      "channels": [
+        {
+          "name": "CH95es",
+          "url": "https://envivo.govoet.my.id/95"
+        }
+      ]
+    },
+    {
       "datetime": "2025-09-29T22:15:00+02:00",
       "competition": "Liga 1 Te Apuesto",
       "teams": "Sporting Cristal - Ayacucho",
@@ -237,6 +267,32 @@
         {
           "name": "CH83es",
           "url": "https://envivo.govoet.my.id/83"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-30T01:00:00+02:00",
+      "competition": "Coupe Du Monde U20",
+      "teams": "Colombie - Arabie Saoudite",
+      "channels": [
+        {
+          "name": "CH94es",
+          "url": "https://envivo.govoet.my.id/94"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-09-30T01:00:00+02:00",
+      "competition": "Coupe Du Monde U20",
+      "teams": "Etats-Unis - Nouvelle-Calédonie",
+      "channels": [
+        {
+          "name": "CH96es",
+          "url": "https://envivo.govoet.my.id/96"
+        },
+        {
+          "name": "CH72es",
+          "url": "https://envivo.govoet.my.id/72"
         }
       ]
     },
