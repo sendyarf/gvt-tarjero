@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-09-29T17:38:17.528727+00:00",
+  "last_updated": "2025-09-29T18:31:31.042293+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-29T17:00:00+02:00",
-      "competition": "Betfred Super League",
-      "teams": "Atromitos - AEL Larissa",
-      "channels": [
-        {
-          "name": "CH148gr",
-          "url": "https://envivo.govoet.my.id/148"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-29T18:30:00+02:00",
       "competition": "Serie A",
