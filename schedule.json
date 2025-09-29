@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-09-29T21:17:46.154102+00:00",
+  "last_updated": "2025-09-29T21:38:40.105944+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-29T20:30:00+02:00",
-      "competition": "Laliga 2",
-      "teams": "Leganes - Castellon",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-29T20:30:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Barracas Central - Belgrano",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-29T20:45:00+02:00",
       "competition": "Ligue 2",
