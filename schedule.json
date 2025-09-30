@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-09-30T18:48:33.724016+00:00",
+  "last_updated": "2025-09-30T19:17:08.825274+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-30T18:00:00+02:00",
-      "competition": "Afc Ligue Des Champions",
-      "teams": "Al-Sadd (Qat) - Al Sharjah (Uae)",
-      "channels": [
-        {
-          "name": "CH115qa",
-          "url": "https://envivo.govoet.my.id/115"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-30T18:00:00+02:00",
-      "competition": "EuroLeague",
-      "teams": "Dubai - Partizan",
-      "channels": [
-        {
-          "name": "CH63es",
-          "url": "https://envivo.govoet.my.id/63"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-30T18:00:00+02:00",
-      "competition": "EuroLeague",
-      "teams": "Hapoel Tel-Aviv - Barcelone",
-      "channels": [
-        {
-          "name": "CH62es",
-          "url": "https://envivo.govoet.my.id/62"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-30T18:45:00+02:00",
       "competition": "Ligue Des Champions",
