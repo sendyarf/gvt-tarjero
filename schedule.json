@@ -1,71 +1,7 @@
 {
-  "last_updated": "2025-09-30T01:38:47.239628+00:00",
+  "last_updated": "2025-09-30T02:59:27.447956+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-30T01:00:00+02:00",
-      "competition": "Coupe Du Monde U20",
-      "teams": "Colombie - Arabie Saoudite",
-      "channels": [
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-30T01:00:00+02:00",
-      "competition": "Coupe Du Monde U20",
-      "teams": "Etats-Unis - Nouvelle-Calédonie",
-      "channels": [
-        {
-          "name": "CH96es",
-          "url": "https://envivo.govoet.my.id/96"
-        },
-        {
-          "name": "CH72es",
-          "url": "https://envivo.govoet.my.id/72"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-30T01:00:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Velez Sarsfield - Atl. Tucuman",
-      "channels": [
-        {
-          "name": "CH76es",
-          "url": "https://envivo.govoet.my.id/76"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-30T01:15:00+02:00",
-      "competition": "NFL",
-      "teams": "Miami Dolphins - New York Jets",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH160us",
-          "url": "https://envivo.govoet.my.id/160"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-30T02:15:00+02:00",
       "competition": "NFL",
