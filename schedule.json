@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-09-30T21:18:39.151762+00:00",
+  "last_updated": "2025-09-30T21:38:04.811858+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-30T20:30:00+02:00",
-      "competition": "EuroLeague",
-      "teams": "Baskonia - Olympiakos",
-      "channels": [
-        {
-          "name": "CH63es",
-          "url": "https://envivo.govoet.my.id/63"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-30T20:45:00+02:00",
       "competition": "Championship",
