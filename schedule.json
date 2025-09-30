@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-09-30T22:40:10.739370+00:00",
+  "last_updated": "2025-09-30T23:18:29.907282+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-30T22:00:00+02:00",
-      "competition": "Coupe Du Monde U20",
-      "teams": "Egypte - Nouvelle-Zélande",
-      "channels": [
-        {
-          "name": "CH95es",
-          "url": "https://envivo.govoet.my.id/95"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-30T22:00:00+02:00",
-      "competition": "Coupe Du Monde U20",
-      "teams": "Panama - Ukraine",
-      "channels": [
-        {
-          "name": "CH96es",
-          "url": "https://envivo.govoet.my.id/96"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-09-30T22:15:00+02:00",
-      "competition": "Liga 1 Te Apuesto",
-      "teams": "Juan Pablo II - AD Tarma",
-      "channels": [
-        {
-          "name": "CH84es",
-          "url": "https://envivo.govoet.my.id/84"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-01T00:00:00+02:00",
       "competition": "Torneo LPF",
