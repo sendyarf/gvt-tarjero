@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-09-29T23:38:00.236125+00:00",
+  "last_updated": "2025-09-30T01:38:47.239628+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-09-30T00:00:00+02:00",
-      "competition": "Copa Chili",
-      "teams": "A. Italiano - Huachipato",
-      "channels": [
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
     {
       "datetime": "2025-09-30T01:00:00+02:00",
       "competition": "Coupe Du Monde U20",
