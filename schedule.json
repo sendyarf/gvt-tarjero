@@ -1,25 +1,5 @@
 {
-  "last_updated": "2025-09-30T02:59:27.447956+00:00",
+  "last_updated": "2025-09-30T03:35:43.661668+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-09-30T02:15:00+02:00",
-      "competition": "NFL",
-      "teams": "Denver Broncos - Cincinnati Bengals",
-      "channels": [
-        {
-          "name": "CH161us",
-          "url": "https://envivo.govoet.my.id/161"
-        },
-        {
-          "name": "CH89es",
-          "url": "https://envivo.govoet.my.id/89"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
