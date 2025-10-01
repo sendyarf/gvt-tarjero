@@ -1,17 +1,5 @@
 {
-  "last_updated": "2025-10-01T03:53:42.309664+00:00",
+  "last_updated": "2025-10-01T04:25:16.321522+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-10-01T03:00:00+02:00",
-      "competition": "Liga Mx Women",
-      "teams": "Mazatlan FC F - Guadalajara F",
-      "channels": [
-        {
-          "name": "CH158es",
-          "url": "https://envivo.govoet.my.id/158"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
