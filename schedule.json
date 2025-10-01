@@ -1,44 +1,7 @@
 {
-  "last_updated": "2025-10-01T01:51:00.072779+00:00",
+  "last_updated": "2025-10-01T03:13:11.346765+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-01T01:00:00+02:00",
-      "competition": "Coupe Du Monde U20",
-      "teams": "Chili - Japon",
-      "channels": [
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-01T01:00:00+02:00",
-      "competition": "Coupe Du Monde U20",
-      "teams": "Corée Sud - Paraguay",
-      "channels": [
-        {
-          "name": "CH96es",
-          "url": "https://envivo.govoet.my.id/96"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-01T01:30:00+02:00",
-      "competition": "MLS",
-      "teams": "Inter Miami - Chicago Fire",
-      "channels": [
-        {
-          "name": "CH180us",
-          "url": "https://envivo.govoet.my.id/180"
-        },
-        {
-          "name": "CH181es",
-          "url": "https://envivo.govoet.my.id/181"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-01T02:30:00+02:00",
       "competition": "Liga 1 Te Apuesto",
