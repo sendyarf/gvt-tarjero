@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-10-01T22:40:06.807031+00:00",
+  "last_updated": "2025-10-01T23:17:58.341782+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-01T22:00:00+02:00",
-      "competition": "Coupe Du Monde U20",
-      "teams": "Espagne - Mexique",
-      "channels": [
-        {
-          "name": "CH61es",
-          "url": "https://envivo.govoet.my.id/61"
-        },
-        {
-          "name": "CH96es",
-          "url": "https://envivo.govoet.my.id/96"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-01T22:00:00+02:00",
-      "competition": "Coupe Du Monde U20",
-      "teams": "Italie - Curaçao",
-      "channels": [
-        {
-          "name": "CH95es",
-          "url": "https://envivo.govoet.my.id/95"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-02T01:00:00+02:00",
       "competition": "Coupe Du Monde U20",
