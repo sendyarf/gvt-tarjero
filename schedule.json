@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-09-30T23:38:08.221220+00:00",
+  "last_updated": "2025-10-01T01:51:00.072779+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-01T00:00:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Newells Old Boys - Estudiantes",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-01T01:00:00+02:00",
       "competition": "Coupe Du Monde U20",
