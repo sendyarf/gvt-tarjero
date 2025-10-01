@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-10-01T20:40:58.462756+00:00",
+  "last_updated": "2025-10-01T21:18:51.514419+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-01T19:45:00+02:00",
-      "competition": "EuroLeague",
-      "teams": "Fenerbahce - Paris",
-      "channels": [
-        {
-          "name": "CH63es",
-          "url": "https://envivo.govoet.my.id/63"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-01T20:00:00+02:00",
-      "competition": "EuroLeague",
-      "teams": "Lyon-Villeurbanne - Valence",
-      "channels": [
-        {
-          "name": "CH55es",
-          "url": "https://envivo.govoet.my.id/55"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-01T20:45:00+02:00",
       "competition": "Championship",
