@@ -1,65 +1,7 @@
 {
-  "last_updated": "2025-10-01T19:38:34.434281+00:00",
+  "last_updated": "2025-10-01T20:23:35.524252+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-01T18:45:00+02:00",
-      "competition": "Ligue Des Champions",
-      "teams": "Qarabag - FC Copenhague",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        },
-        {
-          "name": "CH163es",
-          "url": "https://envivo.govoet.my.id/163"
-        },
-        {
-          "name": "CH130gb",
-          "url": "https://envivo.govoet.my.id/130"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-01T18:45:00+02:00",
-      "competition": "Ligue Des Champions",
-      "teams": "Royale Union SG - Newcastle",
-      "channels": [
-        {
-          "name": "CH12fr",
-          "url": "https://envivo.govoet.my.id/12"
-        },
-        {
-          "name": "CH162es",
-          "url": "https://envivo.govoet.my.id/162"
-        },
-        {
-          "name": "CH129gb",
-          "url": "https://envivo.govoet.my.id/129"
-        },
-        {
-          "name": "CH138it",
-          "url": "https://envivo.govoet.my.id/138"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        },
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-01T19:30:00+02:00",
       "competition": "EuroLeague",
