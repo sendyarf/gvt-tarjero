@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-10-02T02:58:26.112645+00:00",
+  "last_updated": "2025-10-02T03:33:07.119079+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-02T02:00:00+02:00",
-      "competition": "Copa Ecuador",
-      "teams": "LDU Portoviejo - U. Catolica",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-02T03:00:00+02:00",
       "competition": "Copa Colombia",
