@@ -1,44 +1,7 @@
 {
-  "last_updated": "2025-10-02T01:39:23.379465+00:00",
+  "last_updated": "2025-10-02T02:58:26.112645+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-02T01:00:00+02:00",
-      "competition": "Coupe Du Monde U20",
-      "teams": "Argentine - Australie",
-      "channels": [
-        {
-          "name": "CH64es",
-          "url": "https://envivo.govoet.my.id/64"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-02T01:00:00+02:00",
-      "competition": "Coupe Du Monde U20",
-      "teams": "Brésil - Maroc",
-      "channels": [
-        {
-          "name": "CH96es",
-          "url": "https://envivo.govoet.my.id/96"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-02T01:00:00+02:00",
-      "competition": "Liga 1 Te Apuesto",
-      "teams": "Alianza Atl. - U. de Deportes",
-      "channels": [
-        {
-          "name": "CH84es",
-          "url": "https://envivo.govoet.my.id/84"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-02T02:00:00+02:00",
       "competition": "Copa Ecuador",
