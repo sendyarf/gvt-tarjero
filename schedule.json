@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-10-02T21:17:59.450183+00:00",
+  "last_updated": "2025-10-02T21:37:19.718615+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-02T20:30:00+02:00",
-      "competition": "EuroLeague",
-      "teams": "Bayern - Étoile Rouge Belgrade",
-      "channels": [
-        {
-          "name": "CH62es",
-          "url": "https://envivo.govoet.my.id/62"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-02T20:30:00+02:00",
-      "competition": "EuroLeague",
-      "teams": "Partizan - Milano",
-      "channels": [
-        {
-          "name": "CH63es",
-          "url": "https://envivo.govoet.my.id/63"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-02T20:45:00+02:00",
       "competition": "EuroLeague",
