@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-10-02T18:30:17.921948+00:00",
+  "last_updated": "2025-10-02T19:16:05.079219+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-02T18:00:00+02:00",
-      "competition": "NBA",
-      "teams": "New York Knicks - Philadelphia 76ers",
-      "channels": [
-        {
-          "name": "CH190us",
-          "url": "https://envivo.govoet.my.id/190"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-02T18:45:00+02:00",
       "competition": "Conference League",
