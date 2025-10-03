@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-10-03T22:38:37.712747+00:00",
+  "last_updated": "2025-10-03T23:18:07.885607+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-03T22:00:00+02:00",
-      "competition": "Coupe Du Monde U20",
-      "teams": "Panama - Corée Sud",
-      "channels": [
-        {
-          "name": "CH95es",
-          "url": "https://envivo.govoet.my.id/95"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-03T22:00:00+02:00",
-      "competition": "Coupe Du Monde U20",
-      "teams": "Ukraine - Paraguay",
-      "channels": [
-        {
-          "name": "CH96es",
-          "url": "https://envivo.govoet.my.id/96"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-03T22:00:00+02:00",
-      "competition": "Liga 1 Te Apuesto",
-      "teams": "Comerciantes Unidos - Cajamarca",
-      "channels": [
-        {
-          "name": "CH84es",
-          "url": "https://envivo.govoet.my.id/84"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-04T00:00:00+02:00",
       "competition": "Liga AUF Uruguaya",
