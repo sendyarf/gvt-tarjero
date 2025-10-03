@@ -1,48 +1,7 @@
 {
-  "last_updated": "2025-10-03T21:17:19.844281+00:00",
+  "last_updated": "2025-10-03T21:38:00.219773+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-03T20:30:00+02:00",
-      "competition": "Bundesliga",
-      "teams": "Hoffenheim - FC Cologne",
-      "channels": [
-        {
-          "name": "CH111de",
-          "url": "https://envivo.govoet.my.id/111"
-        },
-        {
-          "name": "CH91es",
-          "url": "https://envivo.govoet.my.id/91"
-        },
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-03T20:30:00+02:00",
-      "competition": "EuroLeague",
-      "teams": "Valence - Virtus Bologna",
-      "channels": [
-        {
-          "name": "CH62es",
-          "url": "https://envivo.govoet.my.id/62"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-03T20:30:00+02:00",
-      "competition": "Laliga 2",
-      "teams": "Ceuta - Eibar",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-03T20:45:00+02:00",
       "competition": "Ligue 1",
