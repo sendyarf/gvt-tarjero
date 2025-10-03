@@ -1,55 +1,7 @@
 {
-  "last_updated": "2025-10-03T19:38:00.953146+00:00",
+  "last_updated": "2025-10-03T20:22:26.188129+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-03T19:00:00+02:00",
-      "competition": "EuroLeague",
-      "teams": "Zalgiris Kaunas - Fenerbahce",
-      "channels": [
-        {
-          "name": "CH65es",
-          "url": "https://envivo.govoet.my.id/65"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-03T19:00:00+02:00",
-      "competition": "Pro D2",
-      "teams": "CA Brive - Oyonnax Rugby",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-03T19:00:00+02:00",
-      "competition": "Super Lig",
-      "teams": "Antalyaspor - Rizespor",
-      "channels": [
-        {
-          "name": "CH152tr",
-          "url": "https://envivo.govoet.my.id/152"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-03T19:00:00+02:00",
-      "competition": "Super Lig",
-      "teams": "Trabzonspor - Kayserispor",
-      "channels": [
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        },
-        {
-          "name": "CH93es",
-          "url": "https://envivo.govoet.my.id/93"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-03T19:30:00+02:00",
       "competition": "EuroLeague",
