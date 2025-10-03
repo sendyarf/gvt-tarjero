@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-10-03T03:32:11.574805+00:00",
+  "last_updated": "2025-10-03T04:24:06.175859+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-03T03:00:00+02:00",
-      "competition": "Copa Colombia",
-      "teams": "Junior - America De Cali",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-03T03:00:00+02:00",
-      "competition": "Moto3",
-      "teams": "Essais libres 1 des Moto 3 -",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-03T03:50:00+02:00",
       "competition": "Moto2",
