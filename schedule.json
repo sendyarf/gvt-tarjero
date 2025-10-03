@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-10-02T23:38:25.877773+00:00",
+  "last_updated": "2025-10-03T01:39:06.424254+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-02T23:00:00+02:00",
-      "competition": "Copa Argentina",
-      "teams": "Racing Club - River Plate",
-      "channels": [
-        {
-          "name": "CH77es",
-          "url": "https://envivo.govoet.my.id/77"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-03T01:00:00+02:00",
       "competition": "Coupe Du Monde U20",
