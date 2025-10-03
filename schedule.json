@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-10-03T11:38:17.599882+00:00",
+  "last_updated": "2025-10-03T12:42:20.797133+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-03T11:30:00+02:00",
-      "competition": "formula 1",
-      "teams": "Essais libres 1 -",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        },
-        {
-          "name": "CH60es",
-          "url": "https://envivo.govoet.my.id/60"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-03T15:00:00+02:00",
       "competition": "formula 1",
