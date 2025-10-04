@@ -1,55 +1,7 @@
 {
-  "last_updated": "2025-10-04T22:38:37.483859+00:00",
+  "last_updated": "2025-10-04T23:18:20.093904+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-04T21:45:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "San Martin S.J. - Instituto",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-04T22:00:00+02:00",
-      "competition": "Coupe Du Monde U20",
-      "teams": "Espagne - Brésil",
-      "channels": [
-        {
-          "name": "CH19fr",
-          "url": "https://envivo.govoet.my.id/19"
-        },
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-04T22:00:00+02:00",
-      "competition": "Coupe Du Monde U20",
-      "teams": "Mexique - Maroc",
-      "channels": [
-        {
-          "name": "CH96es",
-          "url": "https://envivo.govoet.my.id/96"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-04T22:15:00+02:00",
-      "competition": "Liga 1 Te Apuesto",
-      "teams": "AD Tarma - Sporting Cristal",
-      "channels": [
-        {
-          "name": "CH84es",
-          "url": "https://envivo.govoet.my.id/84"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-04T22:30:00+02:00",
       "competition": "MLS",
