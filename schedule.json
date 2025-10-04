@@ -1,44 +1,7 @@
 {
-  "last_updated": "2025-10-04T03:42:54.291719+00:00",
+  "last_updated": "2025-10-04T04:23:34.645720+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-04T03:00:00+02:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Irapuato - Correcaminos",
-      "channels": [
-        {
-          "name": "CH156es",
-          "url": "https://envivo.govoet.my.id/156"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-04T03:00:00+02:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Tepatitlan de Morelos - Atl. Morelia",
-      "channels": [
-        {
-          "name": "CH105es",
-          "url": "https://envivo.govoet.my.id/105"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-04T03:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Necaxa - Pachuca",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        },
-        {
-          "name": "CH108es",
-          "url": "https://envivo.govoet.my.id/108"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-04T03:25:00+02:00",
       "competition": "Moto2",
