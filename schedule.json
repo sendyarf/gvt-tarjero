@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-10-04T03:26:18.177349+00:00",
+  "last_updated": "2025-10-04T03:42:54.291719+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-04T02:30:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Dep. Cali - Pereira",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-04T02:40:00+02:00",
-      "competition": "Moto3",
-      "teams": "Essais libres 2 des Moto 3 -",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-04T03:00:00+02:00",
       "competition": "Liga De Expansion Mx",
