@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-10-04T20:20:20.873979+00:00",
+  "last_updated": "2025-10-04T20:39:02.180242+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-04T19:30:00+02:00",
-      "competition": "Betfred Super League",
-      "teams": "AEL Larissa - Volos",
-      "channels": [
-        {
-          "name": "CH150gr",
-          "url": "https://envivo.govoet.my.id/150"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-04T19:30:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Sarmiento Junin - Gimnasia L.P.",
-      "channels": [
-        {
-          "name": "CH76es",
-          "url": "https://envivo.govoet.my.id/76"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-04T20:00:00+02:00",
       "competition": "Eredivisie",
