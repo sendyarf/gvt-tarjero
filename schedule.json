@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-10-04T11:38:08.474501+00:00",
+  "last_updated": "2025-10-04T12:38:51.208760+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-04T11:30:00+02:00",
-      "competition": "formula 1",
-      "teams": "Essais libres 3 -",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        },
-        {
-          "name": "CH60es",
-          "url": "https://envivo.govoet.my.id/60"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-04T13:00:00+02:00",
       "competition": "Bundesliga 2",
