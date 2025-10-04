@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-10-04T15:18:41.132652+00:00",
+  "last_updated": "2025-10-04T15:37:56.031404+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-04T14:30:00+02:00",
-      "competition": "Top 14",
-      "teams": "Montpellier - Stade Rochelais",
-      "channels": [
-        {
-          "name": "CH31fr",
-          "url": "https://envivo.govoet.my.id/31"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-04T15:00:00+02:00",
       "competition": "Serie A",
