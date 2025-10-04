@@ -1,59 +1,7 @@
 {
-  "last_updated": "2025-10-04T05:39:11.724584+00:00",
+  "last_updated": "2025-10-04T06:28:33.183051+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-04T04:50:00+02:00",
-      "competition": "MotoGP",
-      "teams": "Essais qualificatifs 1 et 2 des Moto GP -",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-04T05:00:00+02:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Atletico La Paz - Cancun",
-      "channels": [
-        {
-          "name": "CH156es",
-          "url": "https://envivo.govoet.my.id/156"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-04T05:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Mazatlan FC - Atl. San Luis",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        },
-        {
-          "name": "CH158es",
-          "url": "https://envivo.govoet.my.id/158"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-04T05:05:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Atlas - Juarez",
-      "channels": [
-        {
-          "name": "CH159es",
-          "url": "https://envivo.govoet.my.id/159"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-04T06:50:00+02:00",
       "competition": "Moto3",
