@@ -1,48 +1,7 @@
 {
-  "last_updated": "2025-10-04T17:37:22.987016+00:00",
+  "last_updated": "2025-10-04T18:27:24.112356+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-04T17:00:00+02:00",
-      "competition": "Betfred Super League",
-      "teams": "OFI Crete - Aris",
-      "channels": [
-        {
-          "name": "CH148gr",
-          "url": "https://envivo.govoet.my.id/148"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-04T17:00:00+02:00",
-      "competition": "Betfred Super League",
-      "teams": "Panserraikos - Asteras T.",
-      "channels": [
-        {
-          "name": "CH149gr",
-          "url": "https://envivo.govoet.my.id/149"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-04T17:00:00+02:00",
-      "competition": "Ligue 1",
-      "teams": "Metz - Marseille",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        },
-        {
-          "name": "CH90es",
-          "url": "https://envivo.govoet.my.id/90"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-04T18:00:00+02:00",
       "competition": "Serie A",
