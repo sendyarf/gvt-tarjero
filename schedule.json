@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-10-05T04:23:32.746528+00:00",
+  "last_updated": "2025-10-05T04:40:52.964552+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-05T03:30:00+02:00",
-      "competition": "MLS",
-      "teams": "Real Salt Lake - Colorado Rapids",
-      "channels": [
-        {
-          "name": "CH187us",
-          "url": "https://envivo.govoet.my.id/187"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-05T04:30:00+02:00",
       "competition": "MLS",
