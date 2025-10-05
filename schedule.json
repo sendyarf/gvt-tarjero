@@ -1,52 +1,7 @@
 {
-  "last_updated": "2025-10-05T05:39:06.043605+00:00",
+  "last_updated": "2025-10-05T06:28:48.686461+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-05T04:55:00+02:00",
-      "competition": "MotoGP",
-      "teams": "La parade des pilotes -",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-05T05:00:00+02:00",
-      "competition": "UFC",
-      "teams": "Magomed Ankalaev - Alex Pereira",
-      "channels": [
-        {
-          "name": "CH17fr",
-          "url": "https://envivo.govoet.my.id/17"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-05T05:05:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Club America - Santos Laguna",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        },
-        {
-          "name": "CH106es",
-          "url": "https://envivo.govoet.my.id/106"
-        },
-        {
-          "name": "CH107es",
-          "url": "https://envivo.govoet.my.id/107"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-05T06:00:00+02:00",
       "competition": "Moto3",
