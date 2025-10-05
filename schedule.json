@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-10-05T21:17:06.442733+00:00",
+  "last_updated": "2025-10-05T21:37:41.896733+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-05T20:30:00+02:00",
-      "competition": "Betfred Super League",
-      "teams": "Panathinaikos - Atromitos",
-      "channels": [
-        {
-          "name": "CH148gr",
-          "url": "https://envivo.govoet.my.id/148"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-05T20:30:00+02:00",
-      "competition": "Liga AUF Uruguaya",
-      "teams": "Racing Montevideo - Plaza Colonia",
-      "channels": [
-        {
-          "name": "CH109es",
-          "url": "https://envivo.govoet.my.id/109"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-05T20:45:00+02:00",
       "competition": "Ligue 1",
