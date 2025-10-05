@@ -1,62 +1,7 @@
 {
-  "last_updated": "2025-10-04T23:38:08.349456+00:00",
+  "last_updated": "2025-10-05T01:48:40.932735+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-04T23:00:00+02:00",
-      "competition": "Liga AUF Uruguaya",
-      "teams": "Nacional - Cerro Largo",
-      "channels": [
-        {
-          "name": "CH109es",
-          "url": "https://envivo.govoet.my.id/109"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-04T23:10:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "U. Magdalena - Aguilas",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-04T23:30:00+02:00",
-      "competition": "Ecuador Ligapro",
-      "teams": "Emelec - Dep. Cuenca",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-05T00:00:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Atl. Tucuman - Platense",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-05T00:00:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Huracan - Banfield",
-      "channels": [
-        {
-          "name": "CH76es",
-          "url": "https://envivo.govoet.my.id/76"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-05T01:00:00+02:00",
       "competition": "Coupe Du Monde U20",
