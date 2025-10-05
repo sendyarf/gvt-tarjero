@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-10-05T09:37:48.746667+00:00",
+  "last_updated": "2025-10-05T10:19:31.702186+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-05T09:00:00+02:00",
-      "competition": "MotoGP",
-      "teams": "Grand Prix d’Indonésie -",
-      "channels": [
-        {
-          "name": "CH11fr",
-          "url": "https://envivo.govoet.my.id/11"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-05T12:15:00+02:00",
       "competition": "Eredivisie",
