@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-10-05T05:18:49.700540+00:00",
+  "last_updated": "2025-10-05T05:39:06.043605+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-05T04:30:00+02:00",
-      "competition": "MLS",
-      "teams": "Seattle Sounders - Portland Timbers",
-      "channels": [
-        {
-          "name": "CH188us",
-          "url": "https://envivo.govoet.my.id/188"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-05T04:35:00+02:00",
-      "competition": "MotoGP",
-      "teams": "Warm Up des Moto GP -",
-      "channels": [
-        {
-          "name": "CH31fr",
-          "url": "https://envivo.govoet.my.id/31"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-05T04:55:00+02:00",
       "competition": "MotoGP",
