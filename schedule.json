@@ -1,44 +1,7 @@
 {
-  "last_updated": "2025-10-05T03:48:17.498534+00:00",
+  "last_updated": "2025-10-05T04:23:32.746528+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-05T03:00:00+02:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Leones Negros - Dorados",
-      "channels": [
-        {
-          "name": "CH105es",
-          "url": "https://envivo.govoet.my.id/105"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-05T03:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Leon - Toluca",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-05T03:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Tigres - Cruz Azul",
-      "channels": [
-        {
-          "name": "CH72es",
-          "url": "https://envivo.govoet.my.id/72"
-        },
-        {
-          "name": "CH73es",
-          "url": "https://envivo.govoet.my.id/73"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-05T03:30:00+02:00",
       "competition": "MLS",
