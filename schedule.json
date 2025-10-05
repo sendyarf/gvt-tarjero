@@ -1,45 +1,7 @@
 {
-  "last_updated": "2025-10-05T13:22:55.738331+00:00",
+  "last_updated": "2025-10-05T13:38:16.321255+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-05T12:30:00+02:00",
-      "competition": "Liga Endesa",
-      "teams": "Real Madrid - Gran Canaria",
-      "channels": [
-        {
-          "name": "CH62es",
-          "url": "https://envivo.govoet.my.id/62"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-05T12:30:00+02:00",
-      "competition": "Serie A",
-      "teams": "Udinese - Cagliari",
-      "channels": [
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-05T13:00:00+02:00",
       "competition": "Championship",
