@@ -1,56 +1,7 @@
 {
-  "last_updated": "2025-10-05T14:38:18.200898+00:00",
+  "last_updated": "2025-10-05T15:18:18.519059+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-05T14:00:00+02:00",
-      "competition": "Laliga",
-      "teams": "Alaves - Elche",
-      "channels": [
-        {
-          "name": "CH5fr",
-          "url": "https://envivo.govoet.my.id/5"
-        },
-        {
-          "name": "CH51es",
-          "url": "https://envivo.govoet.my.id/51"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-05T14:00:00+02:00",
-      "competition": "Laliga 2",
-      "teams": "Saragosse - Cordoba",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-05T14:00:00+02:00",
-      "competition": "formula 1",
-      "teams": "Grand Prix de Singapour -",
-      "channels": [
-        {
-          "name": "CH11fr",
-          "url": "https://envivo.govoet.my.id/11"
-        },
-        {
-          "name": "CH60es",
-          "url": "https://envivo.govoet.my.id/60"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-05T14:30:00+02:00",
       "competition": "Eredivisie",
