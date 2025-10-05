@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-10-05T13:38:16.321255+00:00",
+  "last_updated": "2025-10-05T14:17:11.631240+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-05T13:00:00+02:00",
-      "competition": "Championship",
-      "teams": "Ipswich - Norwich",
-      "channels": [
-        {
-          "name": "CH128us",
-          "url": "https://envivo.govoet.my.id/128"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-05T13:30:00+02:00",
       "competition": "Bundesliga 2",
