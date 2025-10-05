@@ -1,48 +1,7 @@
 {
-  "last_updated": "2025-10-05T20:38:32.147222+00:00",
+  "last_updated": "2025-10-05T21:17:06.442733+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-05T20:00:00+02:00",
-      "competition": "Eredivisie",
-      "teams": "G.A. Eagles - Nijmegen",
-      "channels": [
-        {
-          "name": "CH141nl",
-          "url": "https://envivo.govoet.my.id/141"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-05T20:00:00+02:00",
-      "competition": "Liga Mx Women",
-      "teams": "Puebla F - Tigres F",
-      "channels": [
-        {
-          "name": "CH157es",
-          "url": "https://envivo.govoet.my.id/157"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-05T20:15:00+02:00",
-      "competition": "Liga Portugal",
-      "teams": "Sporting - Braga",
-      "channels": [
-        {
-          "name": "CH6fr",
-          "url": "https://envivo.govoet.my.id/6"
-        },
-        {
-          "name": "CH145pt",
-          "url": "https://envivo.govoet.my.id/145"
-        },
-        {
-          "name": "CH74es",
-          "url": "https://envivo.govoet.my.id/74"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-05T20:30:00+02:00",
       "competition": "Betfred Super League",
