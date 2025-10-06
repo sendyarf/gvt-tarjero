@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-06T15:21:56.543743+00:00",
+  "last_updated": "2025-10-06T15:41:25.009198+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -66,6 +66,10 @@
       "competition": "NFL",
       "teams": "Jacksonville Jaguars - Kansas City Chiefs",
       "channels": [
+        {
+          "name": "CH2fr",
+          "url": "https://envivo.govoet.my.id/2"
+        },
         {
           "name": "CH160us",
           "url": "https://envivo.govoet.my.id/160"
