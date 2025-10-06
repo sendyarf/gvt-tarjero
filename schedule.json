@@ -1,48 +1,7 @@
 {
-  "last_updated": "2025-10-06T03:48:22.915755+00:00",
+  "last_updated": "2025-10-06T04:25:21.945871+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-06T03:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "U.N.A.M. - Guadalajara",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        },
-        {
-          "name": "CH106es",
-          "url": "https://envivo.govoet.my.id/106"
-        },
-        {
-          "name": "CH107es",
-          "url": "https://envivo.govoet.my.id/107"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-06T03:00:00+02:00",
-      "competition": "Liga Mx Women",
-      "teams": "Pachuca F - Atl. San Luis F",
-      "channels": [
-        {
-          "name": "CH157es",
-          "url": "https://envivo.govoet.my.id/157"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-06T03:00:00+02:00",
-      "competition": "MLS",
-      "teams": "Los Angeles FC - Atlanta Utd",
-      "channels": [
-        {
-          "name": "CH190us",
-          "url": "https://envivo.govoet.my.id/190"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-06T05:05:00+02:00",
       "competition": "Liga Mx",
