@@ -1,60 +1,7 @@
 {
-  "last_updated": "2025-10-06T03:03:08.124447+00:00",
+  "last_updated": "2025-10-06T03:48:22.915755+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-06T02:15:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Rosario - River Plate",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        },
-        {
-          "name": "CH55es",
-          "url": "https://envivo.govoet.my.id/55"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-06T02:20:00+02:00",
-      "competition": "NFL",
-      "teams": "Buffalo Bills - New England Patriots",
-      "channels": [
-        {
-          "name": "CH160us",
-          "url": "https://envivo.govoet.my.id/160"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
-          "name": "CH72es",
-          "url": "https://envivo.govoet.my.id/72"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-06T02:30:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Chico - Atl. Nacional",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-06T03:00:00+02:00",
       "competition": "Liga Mx",
