@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-10-07T01:40:12.771683+00:00",
+  "last_updated": "2025-10-07T02:59:18.815995+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-07T02:00:00+02:00",
-      "competition": "Liga Mx Women",
-      "teams": "Santos Laguna F - Juarez F",
-      "channels": [
-        {
-          "name": "CH157es",
-          "url": "https://envivo.govoet.my.id/157"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-07T02:00:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Racing Club - Ind. Rivadavia",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-07T02:15:00+02:00",
       "competition": "NFL",
@@ -74,13 +52,143 @@
       ]
     },
     {
-      "datetime": "2025-10-09T04:30:00+02:00",
-      "competition": "MLS",
-      "teams": "Los Angeles FC - Toronto FC",
+      "datetime": "2025-10-07T18:45:00+02:00",
+      "competition": "Ligue Des Champions Femmes",
+      "teams": "Juventus F - Benfica F",
+      "channels": [
+        {
+          "name": "CH71es",
+          "url": "https://envivo.govoet.my.id/71"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-07T19:30:00+02:00",
+      "competition": "National",
+      "teams": "Versailles 78 - Villefranche",
+      "channels": [
+        {
+          "name": "CH40fr",
+          "url": "https://envivo.govoet.my.id/40"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-07T21:00:00+02:00",
+      "competition": "Ligue Des Champions Femmes",
+      "teams": "Arsenal F - Lyon F",
+      "channels": [
+        {
+          "name": "CH19fr",
+          "url": "https://envivo.govoet.my.id/19"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-07T21:00:00+02:00",
+      "competition": "Ligue Des Champions Femmes",
+      "teams": "Barcelone F - Bayern Munich F",
+      "channels": [
+        {
+          "name": "CH71es",
+          "url": "https://envivo.govoet.my.id/71"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-07T21:00:00+02:00",
+      "competition": "Ligue Des Champions Femmes",
+      "teams": "Paris FC F - Leuven F",
+      "channels": [
+        {
+          "name": "CH129us",
+          "url": "https://envivo.govoet.my.id/129"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-07T21:30:00+02:00",
+      "competition": "Coupe Du Monde U20",
+      "teams": "Ukraine -20 - Espagne -20",
+      "channels": [
+        {
+          "name": "CH40fr",
+          "url": "https://envivo.govoet.my.id/40"
+        },
+        {
+          "name": "CH96es",
+          "url": "https://envivo.govoet.my.id/96"
+        },
+        {
+          "name": "CH155es",
+          "url": "https://envivo.govoet.my.id/155"
+        },
+        {
+          "name": "CH61es",
+          "url": "https://envivo.govoet.my.id/61"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-07T22:00:00+02:00",
+      "competition": "Copa Colombia",
+      "teams": "Envigado - Pereira",
+      "channels": [
+        {
+          "name": "CH81es",
+          "url": "https://envivo.govoet.my.id/81"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-08T01:00:00+02:00",
+      "competition": "Coupe Du Monde U20",
+      "teams": "Chili -20 - Mexique -20",
+      "channels": [
+        {
+          "name": "CH40fr",
+          "url": "https://envivo.govoet.my.id/40"
+        },
+        {
+          "name": "CH94es",
+          "url": "https://envivo.govoet.my.id/94"
+        },
+        {
+          "name": "CH156es",
+          "url": "https://envivo.govoet.my.id/156"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-08T01:00:00+02:00",
+      "competition": "NBA",
+      "teams": "Cleveland Cavaliers - Chicago Bulls",
+      "channels": [
+        {
+          "name": "CH190us",
+          "url": "https://envivo.govoet.my.id/190"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-08T02:00:00+02:00",
+      "competition": "NBA",
+      "teams": "Minnesota Timberwolves - Indiana Pacers",
       "channels": [
         {
           "name": "CH191us",
           "url": "https://envivo.govoet.my.id/191"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-08T02:30:00+02:00",
+      "competition": "Liga Betplay Dimayor",
+      "teams": "Millonarios - America De Cali",
+      "channels": [
+        {
+          "name": "CH81es",
+          "url": "https://envivo.govoet.my.id/81"
         }
       ]
     }
