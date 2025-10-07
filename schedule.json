@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-10-07T04:43:06.738596+00:00",
+  "last_updated": "2025-10-07T05:20:04.057089+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-07T04:00:00+02:00",
-      "competition": "Liga Mx Women",
-      "teams": "Monterrey F - Club America F",
-      "channels": [
-        {
-          "name": "CH106es",
-          "url": "https://envivo.govoet.my.id/106"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-07T18:45:00+02:00",
       "competition": "Ligue Des Champions Femmes",
