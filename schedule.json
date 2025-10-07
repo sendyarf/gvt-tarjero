@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-10-07T21:38:03.721175+00:00",
+  "last_updated": "2025-10-07T22:19:21.802625+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-07T21:00:00+02:00",
-      "competition": "Ligue Des Champions Femmes",
-      "teams": "Arsenal F - Lyon F",
-      "channels": [
-        {
-          "name": "CH19fr",
-          "url": "https://envivo.govoet.my.id/19"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-07T21:00:00+02:00",
-      "competition": "Ligue Des Champions Femmes",
-      "teams": "Barcelone F - Bayern Munich F",
-      "channels": [
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-07T21:00:00+02:00",
-      "competition": "Ligue Des Champions Femmes",
-      "teams": "Paris FC F - Leuven F",
-      "channels": [
-        {
-          "name": "CH129us",
-          "url": "https://envivo.govoet.my.id/129"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-07T21:30:00+02:00",
       "competition": "Coupe Du Monde U20",
