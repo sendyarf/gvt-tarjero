@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-10-08T23:18:52.633700+00:00",
+  "last_updated": "2025-10-08T23:38:29.923815+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-08T22:30:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Aguilas - Ind. Medellin",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-08T23:00:00+02:00",
       "competition": "Copa Ecuador",
