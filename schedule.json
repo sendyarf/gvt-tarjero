@@ -1,55 +1,7 @@
 {
-  "last_updated": "2025-10-08T21:38:10.620556+00:00",
+  "last_updated": "2025-10-08T22:19:40.946196+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-08T21:00:00+02:00",
-      "competition": "Ligue Des Champions Femmes",
-      "teams": "St. Polten F - Atletico Madrid F",
-      "channels": [
-        {
-          "name": "CH129us",
-          "url": "https://envivo.govoet.my.id/129"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-08T21:00:00+02:00",
-      "competition": "Ligue Des Champions Femmes",
-      "teams": "Wolfsburg F - PSG F",
-      "channels": [
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-08T21:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Niger - Congo",
-      "channels": [
-        {
-          "name": "CH162us",
-          "url": "https://envivo.govoet.my.id/162"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-08T21:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Tanzanie - Zambie",
-      "channels": [
-        {
-          "name": "CH163us",
-          "url": "https://envivo.govoet.my.id/163"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-08T21:30:00+02:00",
       "competition": "Coupe Du Monde U20",
