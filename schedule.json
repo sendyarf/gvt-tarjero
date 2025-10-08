@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-08T16:47:34.611512+00:00",
+  "last_updated": "2025-10-08T17:18:53.106298+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -63,8 +63,8 @@
       "teams": "Real Madrid F - AS Rome F",
       "channels": [
         {
-          "name": "CH78es",
-          "url": "https://envivo.govoet.my.id/78"
+          "name": "CH87es",
+          "url": "https://envivo.govoet.my.id/87"
         },
         {
           "name": "CH71es",
@@ -100,8 +100,8 @@
       "teams": "Wolfsburg F - PSG F",
       "channels": [
         {
-          "name": "CH78es",
-          "url": "https://envivo.govoet.my.id/78"
+          "name": "CH87es",
+          "url": "https://envivo.govoet.my.id/87"
         },
         {
           "name": "CH71es",
