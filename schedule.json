@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-10-08T19:38:44.914277+00:00",
+  "last_updated": "2025-10-08T20:23:37.953119+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-08T18:45:00+02:00",
-      "competition": "Ligue Des Champions Femmes",
-      "teams": "Real Madrid F - AS Rome F",
-      "channels": [
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-08T19:15:00+02:00",
-      "competition": "Qualif. Cm Asie",
-      "teams": "Indonésie - Arabie Saoudite",
-      "channels": [
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-08T21:00:00+02:00",
       "competition": "Ligue Des Champions Femmes",
