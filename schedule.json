@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-10-08T22:19:40.946196+00:00",
+  "last_updated": "2025-10-08T22:40:44.874556+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-08T21:30:00+02:00",
-      "competition": "Coupe Du Monde U20",
-      "teams": "Argentine -20 - Nigéria -20",
-      "channels": [
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-08T21:30:00+02:00",
-      "competition": "Coupe Du Monde U20",
-      "teams": "Colombie -20 - Afrique du Sud -20",
-      "channels": [
-        {
-          "name": "CH96es",
-          "url": "https://envivo.govoet.my.id/96"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-08T22:30:00+02:00",
       "competition": "Liga Betplay Dimayor",
