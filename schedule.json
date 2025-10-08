@@ -1,55 +1,7 @@
 {
-  "last_updated": "2025-10-08T15:42:28.434911+00:00",
+  "last_updated": "2025-10-08T16:27:17.743573+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-08T15:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Eswatini - Angola",
-      "channels": [
-        {
-          "name": "CH146pt",
-          "url": "https://envivo.govoet.my.id/146"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-08T15:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Ethiopie - Guinée-Bissau",
-      "channels": [
-        {
-          "name": "CH147pt",
-          "url": "https://envivo.govoet.my.id/147"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-08T15:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Libye - Cap-Vert",
-      "channels": [
-        {
-          "name": "CH42fr",
-          "url": "https://envivo.govoet.my.id/42"
-        },
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-08T15:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Maurice - Cameroun",
-      "channels": [
-        {
-          "name": "CH41fr",
-          "url": "https://envivo.govoet.my.id/41"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-08T18:00:00+02:00",
       "competition": "Qualif. Cm Afrique",
