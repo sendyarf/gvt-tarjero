@@ -1,62 +1,7 @@
 {
-  "last_updated": "2025-10-08T18:32:22.065715+00:00",
+  "last_updated": "2025-10-08T19:17:02.018982+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-08T18:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Centrafrique - Ghana",
-      "channels": [
-        {
-          "name": "CH160us",
-          "url": "https://envivo.govoet.my.id/160"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-08T18:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Comores - Madagascar",
-      "channels": [
-        {
-          "name": "CH43fr",
-          "url": "https://envivo.govoet.my.id/43"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-08T18:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Djibouti - Egypte",
-      "channels": [
-        {
-          "name": "CH44fr",
-          "url": "https://envivo.govoet.my.id/44"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-08T18:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Sierra Leone - Burkina Faso",
-      "channels": [
-        {
-          "name": "CH161us",
-          "url": "https://envivo.govoet.my.id/161"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-08T18:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Tchad - Mali",
-      "channels": [
-        {
-          "name": "CH45fr",
-          "url": "https://envivo.govoet.my.id/45"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-08T18:45:00+02:00",
       "competition": "Ligue Des Champions Femmes",
