@@ -1,5 +1,319 @@
 {
-  "last_updated": "2025-10-08T07:39:18.984242+00:00",
+  "last_updated": "2025-10-08T08:29:42.494979+00:00",
   "timezone": "Europe/Paris",
-  "matches": []
+  "matches": [
+    {
+      "datetime": "2025-10-08T15:00:00+02:00",
+      "competition": "Qualif. Cm Afrique",
+      "teams": "Eswatini - Angola",
+      "channels": [
+        {
+          "name": "CH146pt",
+          "url": "https://envivo.govoet.my.id/146"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-08T15:00:00+02:00",
+      "competition": "Qualif. Cm Afrique",
+      "teams": "Ethiopie - Guinée-Bissau",
+      "channels": [
+        {
+          "name": "CH147pt",
+          "url": "https://envivo.govoet.my.id/147"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-08T15:00:00+02:00",
+      "competition": "Qualif. Cm Afrique",
+      "teams": "Libye - Cap-Vert",
+      "channels": [
+        {
+          "name": "CH42fr",
+          "url": "https://envivo.govoet.my.id/42"
+        },
+        {
+          "name": "CH144pt",
+          "url": "https://envivo.govoet.my.id/144"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-08T15:00:00+02:00",
+      "competition": "Qualif. Cm Afrique",
+      "teams": "Maurice - Cameroun",
+      "channels": [
+        {
+          "name": "CH41fr",
+          "url": "https://envivo.govoet.my.id/41"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-08T18:00:00+02:00",
+      "competition": "Qualif. Cm Afrique",
+      "teams": "Centrafrique - Ghana",
+      "channels": [
+        {
+          "name": "CH160us",
+          "url": "https://envivo.govoet.my.id/160"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-08T18:00:00+02:00",
+      "competition": "Qualif. Cm Afrique",
+      "teams": "Comores - Madagascar",
+      "channels": [
+        {
+          "name": "CH43fr",
+          "url": "https://envivo.govoet.my.id/43"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-08T18:00:00+02:00",
+      "competition": "Qualif. Cm Afrique",
+      "teams": "Djibouti - Egypte",
+      "channels": [
+        {
+          "name": "CH44fr",
+          "url": "https://envivo.govoet.my.id/44"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-08T18:00:00+02:00",
+      "competition": "Qualif. Cm Afrique",
+      "teams": "Sierra Leone - Burkina Faso",
+      "channels": [
+        {
+          "name": "CH161us",
+          "url": "https://envivo.govoet.my.id/161"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-08T18:00:00+02:00",
+      "competition": "Qualif. Cm Afrique",
+      "teams": "Tchad - Mali",
+      "channels": [
+        {
+          "name": "CH45fr",
+          "url": "https://envivo.govoet.my.id/45"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-08T18:45:00+02:00",
+      "competition": "Ligue Des Champions Femmes",
+      "teams": "Real Madrid F - AS Rome F",
+      "channels": [
+        {
+          "name": "CH78es",
+          "url": "https://envivo.govoet.my.id/78"
+        },
+        {
+          "name": "CH71es",
+          "url": "https://envivo.govoet.my.id/71"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-08T19:15:00+02:00",
+      "competition": "Qualif. Cm Asie",
+      "teams": "Indonésie - Arabie Saoudite",
+      "channels": [
+        {
+          "name": "CH98es",
+          "url": "https://envivo.govoet.my.id/98"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-08T21:00:00+02:00",
+      "competition": "Ligue Des Champions Femmes",
+      "teams": "St. Polten F - Atletico Madrid F",
+      "channels": [
+        {
+          "name": "CH129us",
+          "url": "https://envivo.govoet.my.id/129"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-08T21:00:00+02:00",
+      "competition": "Ligue Des Champions Femmes",
+      "teams": "Wolfsburg F - PSG F",
+      "channels": [
+        {
+          "name": "CH78es",
+          "url": "https://envivo.govoet.my.id/78"
+        },
+        {
+          "name": "CH71es",
+          "url": "https://envivo.govoet.my.id/71"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-08T21:00:00+02:00",
+      "competition": "Qualif. Cm Afrique",
+      "teams": "Niger - Congo",
+      "channels": [
+        {
+          "name": "CH162us",
+          "url": "https://envivo.govoet.my.id/162"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-08T21:00:00+02:00",
+      "competition": "Qualif. Cm Afrique",
+      "teams": "Tanzanie - Zambie",
+      "channels": [
+        {
+          "name": "CH163us",
+          "url": "https://envivo.govoet.my.id/163"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-08T21:30:00+02:00",
+      "competition": "Coupe Du Monde U20",
+      "teams": "Argentine -20 - Nigéria -20",
+      "channels": [
+        {
+          "name": "CH155es",
+          "url": "https://envivo.govoet.my.id/155"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-08T21:30:00+02:00",
+      "competition": "Coupe Du Monde U20",
+      "teams": "Colombie -20 - Afrique du Sud -20",
+      "channels": [
+        {
+          "name": "CH96es",
+          "url": "https://envivo.govoet.my.id/96"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-08T22:30:00+02:00",
+      "competition": "Liga Betplay Dimayor",
+      "teams": "Aguilas - Ind. Medellin",
+      "channels": [
+        {
+          "name": "CH81es",
+          "url": "https://envivo.govoet.my.id/81"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-08T23:00:00+02:00",
+      "competition": "Copa Ecuador",
+      "teams": "Leones del Norte - Emelec",
+      "channels": [
+        {
+          "name": "CH86es",
+          "url": "https://envivo.govoet.my.id/86"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-09T01:00:00+02:00",
+      "competition": "Coupe Du Monde U20",
+      "teams": "Japon -20 - France -20",
+      "channels": [
+        {
+          "name": "CH19fr",
+          "url": "https://envivo.govoet.my.id/19"
+        },
+        {
+          "name": "CH94es",
+          "url": "https://envivo.govoet.my.id/94"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-09T01:00:00+02:00",
+      "competition": "Coupe Du Monde U20",
+      "teams": "Paraguay -20 - Norvège -20",
+      "channels": [
+        {
+          "name": "CH96es",
+          "url": "https://envivo.govoet.my.id/96"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-09T01:30:00+02:00",
+      "competition": "NBA",
+      "teams": "Miami Heat - San Antonio Spurs",
+      "channels": [
+        {
+          "name": "CH190us",
+          "url": "https://envivo.govoet.my.id/190"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-09T02:00:00+02:00",
+      "competition": "Copa Ecuador",
+      "teams": "Gualaceo - Ind. del Valle",
+      "channels": [
+        {
+          "name": "CH86es",
+          "url": "https://envivo.govoet.my.id/86"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-09T02:00:00+02:00",
+      "competition": "NBA",
+      "teams": "Houston Rockets - Utah Jazz",
+      "channels": [
+        {
+          "name": "CH191us",
+          "url": "https://envivo.govoet.my.id/191"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-09T02:00:00+02:00",
+      "competition": "NBA",
+      "teams": "Memphis Grizzlies - Boston Celtics",
+      "channels": [
+        {
+          "name": "CH192us",
+          "url": "https://envivo.govoet.my.id/192"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-09T04:00:00+02:00",
+      "competition": "NBA",
+      "teams": "Golden State Warriors - Portland Trail Blazers",
+      "channels": [
+        {
+          "name": "CH190us",
+          "url": "https://envivo.govoet.my.id/190"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-09T04:00:00+02:00",
+      "competition": "NBA",
+      "teams": "Sacramento Kings - Toronto Raptors",
+      "channels": [
+        {
+          "name": "CH193us",
+          "url": "https://envivo.govoet.my.id/193"
+        }
+      ]
+    }
+  ]
 }
