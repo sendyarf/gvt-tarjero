@@ -1,28 +1,5 @@
 {
-  "last_updated": "2025-10-09T04:43:44.795644+00:00",
+  "last_updated": "2025-10-09T05:20:57.282657+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-10-09T04:00:00+02:00",
-      "competition": "NBA",
-      "teams": "Golden State Warriors - Portland Trail Blazers",
-      "channels": [
-        {
-          "name": "CH190us",
-          "url": "https://envivo.govoet.my.id/190"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-09T04:00:00+02:00",
-      "competition": "NBA",
-      "teams": "Sacramento Kings - Toronto Raptors",
-      "channels": [
-        {
-          "name": "CH193us",
-          "url": "https://envivo.govoet.my.id/193"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
