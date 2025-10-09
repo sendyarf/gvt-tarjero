@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-10-08T23:38:29.923815+00:00",
+  "last_updated": "2025-10-09T01:41:04.270694+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-08T23:00:00+02:00",
-      "competition": "Copa Ecuador",
-      "teams": "Leones del Norte - Emelec",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-09T01:00:00+02:00",
       "competition": "Coupe Du Monde U20",
