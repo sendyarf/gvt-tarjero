@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-10-09T21:19:08.012683+00:00",
+  "last_updated": "2025-10-09T21:38:35.516140+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-09T20:30:00+02:00",
-      "competition": "EuroLeague",
-      "teams": "Baskonia - Panathinaikos",
-      "channels": [
-        {
-          "name": "CH55es",
-          "url": "https://envivo.govoet.my.id/55"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-09T20:30:00+02:00",
-      "competition": "EuroLeague",
-      "teams": "Milano - Monaco",
-      "channels": [
-        {
-          "name": "CH63es",
-          "url": "https://envivo.govoet.my.id/63"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-09T20:30:00+02:00",
-      "competition": "EuroLeague",
-      "teams": "Partizan - Anadolu Efes",
-      "channels": [
-        {
-          "name": "CH64es",
-          "url": "https://envivo.govoet.my.id/64"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-09T20:45:00+02:00",
       "competition": "Amical International",
