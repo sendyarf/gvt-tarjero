@@ -1,77 +1,7 @@
 {
-  "last_updated": "2025-10-09T01:41:04.270694+00:00",
+  "last_updated": "2025-10-09T03:01:39.180193+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-09T01:00:00+02:00",
-      "competition": "Coupe Du Monde U20",
-      "teams": "Japon -20 - France -20",
-      "channels": [
-        {
-          "name": "CH19fr",
-          "url": "https://envivo.govoet.my.id/19"
-        },
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-09T01:00:00+02:00",
-      "competition": "Coupe Du Monde U20",
-      "teams": "Paraguay -20 - Norvège -20",
-      "channels": [
-        {
-          "name": "CH96es",
-          "url": "https://envivo.govoet.my.id/96"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-09T01:30:00+02:00",
-      "competition": "NBA",
-      "teams": "Miami Heat - San Antonio Spurs",
-      "channels": [
-        {
-          "name": "CH190us",
-          "url": "https://envivo.govoet.my.id/190"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-09T02:00:00+02:00",
-      "competition": "Copa Ecuador",
-      "teams": "Gualaceo - Ind. del Valle",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-09T02:00:00+02:00",
-      "competition": "NBA",
-      "teams": "Houston Rockets - Utah Jazz",
-      "channels": [
-        {
-          "name": "CH191us",
-          "url": "https://envivo.govoet.my.id/191"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-09T02:00:00+02:00",
-      "competition": "NBA",
-      "teams": "Memphis Grizzlies - Boston Celtics",
-      "channels": [
-        {
-          "name": "CH192us",
-          "url": "https://envivo.govoet.my.id/192"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-09T04:00:00+02:00",
       "competition": "NBA",
