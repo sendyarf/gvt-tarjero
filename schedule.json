@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-10-09T15:51:10.503309+00:00",
+  "last_updated": "2025-10-09T16:29:14.237993+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-09T15:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Burundi - Kenya",
-      "channels": [
-        {
-          "name": "CH160fr",
-          "url": "https://envivo.govoet.my.id/160"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-09T18:00:00+02:00",
       "competition": "Qualif. Cm Afrique",
