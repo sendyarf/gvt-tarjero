@@ -1,77 +1,7 @@
 {
-  "last_updated": "2025-10-09T17:41:18.919283+00:00",
+  "last_updated": "2025-10-09T18:30:42.234635+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-09T18:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Botswana - Ouganda",
-      "channels": [
-        {
-          "name": "CH161us",
-          "url": "https://envivo.govoet.my.id/161"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-09T18:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Libéria - Namibie",
-      "channels": [
-        {
-          "name": "CH162us",
-          "url": "https://envivo.govoet.my.id/162"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-09T18:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Malawi - Guinée Équatoriale",
-      "channels": [
-        {
-          "name": "CH163us",
-          "url": "https://envivo.govoet.my.id/163"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-09T18:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Mozambique - Guinée",
-      "channels": [
-        {
-          "name": "CH164us",
-          "url": "https://envivo.govoet.my.id/164"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-09T18:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Somalie - Algérie",
-      "channels": [
-        {
-          "name": "CH41fr",
-          "url": "https://envivo.govoet.my.id/41"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-09T18:00:00+02:00",
-      "competition": "Qualif. Cm Europe",
-      "teams": "Finlande - Lituanie",
-      "channels": [
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-09T20:30:00+02:00",
       "competition": "EuroLeague",
