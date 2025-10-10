@@ -1,51 +1,7 @@
 {
-  "last_updated": "2025-10-10T18:30:19.979047+00:00",
+  "last_updated": "2025-10-10T19:16:55.835105+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-10T18:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Lesotho - Nigéria",
-      "channels": [
-        {
-          "name": "CH164us",
-          "url": "https://envivo.govoet.my.id/164"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-10T18:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Rwanda - Benin",
-      "channels": [
-        {
-          "name": "CH165us",
-          "url": "https://envivo.govoet.my.id/165"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-10T18:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Sao Tomé-et-Principe - Tunisie",
-      "channels": [
-        {
-          "name": "CH166us",
-          "url": "https://envivo.govoet.my.id/166"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-10T18:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Zimbabwe - Afrique du Sud",
-      "channels": [
-        {
-          "name": "CH167us",
-          "url": "https://envivo.govoet.my.id/167"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-10T19:30:00+02:00",
       "competition": "Torneo LPF",
