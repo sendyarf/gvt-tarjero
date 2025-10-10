@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-10-10T03:02:11.997836+00:00",
+  "last_updated": "2025-10-10T03:48:25.459322+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-10T02:15:00+02:00",
-      "competition": "NFL",
-      "teams": "New York Giants - Philadelphia Eagles",
-      "channels": [
-        {
-          "name": "CH190us",
-          "url": "https://envivo.govoet.my.id/190"
-        },
-        {
-          "name": "CH91es",
-          "url": "https://envivo.govoet.my.id/91"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-10T02:30:00+02:00",
-      "competition": "Copa Colombia",
-      "teams": "Once Caldas - Atl. Nacional",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-10T04:00:00+02:00",
       "competition": "Qualif. Cm Concacaf",
