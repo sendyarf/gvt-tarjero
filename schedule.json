@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-10-10T20:23:23.914320+00:00",
+  "last_updated": "2025-10-10T20:40:34.345799+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-10T19:30:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "San Lorenzo - San Martin S.J.",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-10T19:45:00+02:00",
       "competition": "EuroLeague",
