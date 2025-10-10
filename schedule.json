@@ -1,51 +1,7 @@
 {
-  "last_updated": "2025-10-10T15:40:28.309196+00:00",
+  "last_updated": "2025-10-10T16:26:52.006083+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-10T15:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Gambie - Gabon",
-      "channels": [
-        {
-          "name": "CH161fr",
-          "url": "https://envivo.govoet.my.id/161"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-10T15:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Seychelles - Côte d’Ivoire",
-      "channels": [
-        {
-          "name": "CH162fr",
-          "url": "https://envivo.govoet.my.id/162"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-10T15:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Soudan Sud - Sénégal",
-      "channels": [
-        {
-          "name": "CH163fr",
-          "url": "https://envivo.govoet.my.id/163"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-10T15:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Togo - Congo RD",
-      "channels": [
-        {
-          "name": "CH160fr",
-          "url": "https://envivo.govoet.my.id/160"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-10T18:00:00+02:00",
       "competition": "Qualif. Cm Afrique",
