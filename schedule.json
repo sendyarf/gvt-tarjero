@@ -1,63 +1,7 @@
 {
-  "last_updated": "2025-10-11T18:25:39.066098+00:00",
+  "last_updated": "2025-10-11T18:42:17.560808+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-11T17:30:00+02:00",
-      "competition": "Liga AUF Uruguaya",
-      "teams": "Liverpool M. - Racing Montevideo",
-      "channels": [
-        {
-          "name": "CH109es",
-          "url": "https://envivo.govoet.my.id/109"
-        },
-        {
-          "name": "CH74es",
-          "url": "https://envivo.govoet.my.id/74"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-11T18:00:00+02:00",
-      "competition": "Liga Endesa",
-      "teams": "Basquet Girona - Murcia",
-      "channels": [
-        {
-          "name": "CH62es",
-          "url": "https://envivo.govoet.my.id/62"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-11T18:00:00+02:00",
-      "competition": "Qualif. Cm Europe",
-      "teams": "Hongrie - Arménie",
-      "channels": [
-        {
-          "name": "CH111us",
-          "url": "https://envivo.govoet.my.id/111"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-11T18:00:00+02:00",
-      "competition": "Qualif. Cm Europe",
-      "teams": "Norvège - Génocidaire",
-      "channels": [
-        {
-          "name": "CH19fr",
-          "url": "https://envivo.govoet.my.id/19"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-11T18:30:00+02:00",
       "competition": "Laliga 2",
