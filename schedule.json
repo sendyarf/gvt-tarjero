@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-10-11T03:28:25.914507+00:00",
+  "last_updated": "2025-10-11T03:45:11.033980+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-11T02:30:00+02:00",
-      "competition": "Amical International",
-      "teams": "USA - Equateur",
-      "channels": [
-        {
-          "name": "CH72es",
-          "url": "https://envivo.govoet.my.id/72"
-        },
-        {
-          "name": "CH176es",
-          "url": "https://envivo.govoet.my.id/176"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-11T03:00:00+02:00",
       "competition": "Liga De Expansion Mx",
