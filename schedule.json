@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-10-11T04:40:55.179195+00:00",
+  "last_updated": "2025-10-11T05:18:55.576432+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-11T04:00:00+02:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Venados - Tepatitlan de Morelos",
-      "channels": [
-        {
-          "name": "CH156es",
-          "url": "https://envivo.govoet.my.id/156"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-11T04:00:00+02:00",
-      "competition": "NBA",
-      "teams": "Portland Trail Blazers - Sacramento Kings",
-      "channels": [
-        {
-          "name": "CH193us",
-          "url": "https://envivo.govoet.my.id/193"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-11T05:00:00+02:00",
       "competition": "Liga Mx Women",
