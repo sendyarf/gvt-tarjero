@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-10-11T19:14:29.527532+00:00",
+  "last_updated": "2025-10-11T19:37:42.546953+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-11T18:30:00+02:00",
-      "competition": "Laliga 2",
-      "teams": "Almeria - Saragosse",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-11T18:30:00+02:00",
-      "competition": "Laliga 2",
-      "teams": "Real Sociedad B - Andorra",
-      "channels": [
-        {
-          "name": "CH54es",
-          "url": "https://envivo.govoet.my.id/54"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-11T19:15:00+02:00",
       "competition": "Qualif. Cm Asie",
