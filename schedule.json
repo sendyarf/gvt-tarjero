@@ -1,51 +1,7 @@
 {
-  "last_updated": "2025-10-11T03:45:11.033980+00:00",
+  "last_updated": "2025-10-11T04:24:07.440954+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-11T03:00:00+02:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Alebrijes Oaxaca - Atletico La Paz",
-      "channels": [
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-11T03:00:00+02:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Cancun - Irapuato",
-      "channels": [
-        {
-          "name": "CH105es",
-          "url": "https://envivo.govoet.my.id/105"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-11T03:00:00+02:00",
-      "competition": "Liga Mx Women",
-      "teams": "Club America F - Tigres F",
-      "channels": [
-        {
-          "name": "CH106es",
-          "url": "https://envivo.govoet.my.id/106"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-11T03:00:00+02:00",
-      "competition": "Qualif. Cm Concacaf",
-      "teams": "Salvador - Panama",
-      "channels": [
-        {
-          "name": "CH114es",
-          "url": "https://envivo.govoet.my.id/114"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-11T04:00:00+02:00",
       "competition": "Liga De Expansion Mx",
