@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-10-11T19:37:42.546953+00:00",
+  "last_updated": "2025-10-11T20:20:32.946163+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-11T19:15:00+02:00",
-      "competition": "Qualif. Cm Asie",
-      "teams": "Emirats Arabes Unis - Oman",
-      "channels": [
-        {
-          "name": "CH125de",
-          "url": "https://envivo.govoet.my.id/125"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-11T20:00:00+02:00",
       "competition": "Liga AUF Uruguaya",
