@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-10-10T23:38:02.708681+00:00",
+  "last_updated": "2025-10-11T01:37:34.217094+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-10T23:00:00+02:00",
-      "competition": "Qualif. Cm Concacaf",
-      "teams": "Suriname - Guatemala",
-      "channels": [
-        {
-          "name": "CH72us",
-          "url": "https://envivo.govoet.my.id/72"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-10T23:30:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Newells Old Boys - Tigre",
-      "channels": [
-        {
-          "name": "CH76es",
-          "url": "https://envivo.govoet.my.id/76"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-11T00:00:00+02:00",
-      "competition": "Liga AUF Uruguaya",
-      "teams": "Plaza Colonia - Progreso",
-      "channels": [
-        {
-          "name": "CH109es",
-          "url": "https://envivo.govoet.my.id/109"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-11T01:00:00+02:00",
       "competition": "Amical International",
