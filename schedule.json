@@ -1,45 +1,7 @@
 {
-  "last_updated": "2025-10-11T22:38:40.758929+00:00",
+  "last_updated": "2025-10-11T23:18:04.031928+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-11T22:00:00+02:00",
-      "competition": "Coupe Du Monde U20",
-      "teams": "Espagne -20 - Colombie -20",
-      "channels": [
-        {
-          "name": "CH45fr",
-          "url": "https://envivo.govoet.my.id/45"
-        },
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        },
-        {
-          "name": "CH61es",
-          "url": "https://envivo.govoet.my.id/61"
-        },
-        {
-          "name": "CH170es",
-          "url": "https://envivo.govoet.my.id/170"
-        },
-        {
-          "name": "CH171es",
-          "url": "https://envivo.govoet.my.id/171"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-11T22:00:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Tolima - Envigado",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-11T23:00:00+02:00",
       "competition": "Liga AUF Uruguaya",
