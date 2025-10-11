@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-10-11T22:18:08.661318+00:00",
+  "last_updated": "2025-10-11T22:38:40.758929+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-11T21:30:00+02:00",
-      "competition": "Qualif. Cm Asie",
-      "teams": "Iraq - Indonésie",
-      "channels": [
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        },
-        {
-          "name": "CH125de",
-          "url": "https://envivo.govoet.my.id/125"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-11T22:00:00+02:00",
       "competition": "Coupe Du Monde U20",
