@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-10-11T16:41:01.679055+00:00",
+  "last_updated": "2025-10-11T17:16:11.327720+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-11T16:15:00+02:00",
-      "competition": "Laliga 2",
-      "teams": "Mirandes - Leganes",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-11T16:35:00+02:00",
       "competition": "Top 14",
