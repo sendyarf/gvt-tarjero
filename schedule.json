@@ -1,52 +1,7 @@
 {
-  "last_updated": "2025-10-11T20:38:01.187531+00:00",
+  "last_updated": "2025-10-11T21:16:58.263872+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-11T20:00:00+02:00",
-      "competition": "Liga AUF Uruguaya",
-      "teams": "Cerro Largo - Boston River",
-      "channels": [
-        {
-          "name": "CH109es",
-          "url": "https://envivo.govoet.my.id/109"
-        },
-        {
-          "name": "CH74es",
-          "url": "https://envivo.govoet.my.id/74"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-11T20:00:00+02:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Tlaxcala - Tampico Madero",
-      "channels": [
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
-          "name": "CH105es",
-          "url": "https://envivo.govoet.my.id/105"
-        },
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-11T20:00:00+02:00",
-      "competition": "Liga Endesa",
-      "teams": "Gran Canaria - Unicaja",
-      "channels": [
-        {
-          "name": "CH62es",
-          "url": "https://envivo.govoet.my.id/62"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-11T20:45:00+02:00",
       "competition": "Qualif. Cm Europe",
