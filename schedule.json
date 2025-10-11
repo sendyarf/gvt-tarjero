@@ -1,37 +1,7 @@
 {
-  "last_updated": "2025-10-11T02:54:54.605491+00:00",
+  "last_updated": "2025-10-11T03:28:25.914507+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-11T02:00:00+02:00",
-      "competition": "Amical International",
-      "teams": "Argentine - Venezuela",
-      "channels": [
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        },
-        {
-          "name": "CH175es",
-          "url": "https://envivo.govoet.my.id/175"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-11T02:00:00+02:00",
-      "competition": "NBA",
-      "teams": "San Antonio Spurs - Utah Jazz",
-      "channels": [
-        {
-          "name": "CH192us",
-          "url": "https://envivo.govoet.my.id/192"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-11T02:30:00+02:00",
       "competition": "Amical International",
