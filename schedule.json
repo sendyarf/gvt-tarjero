@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-10-12T17:37:31.500934+00:00",
+  "last_updated": "2025-10-12T18:27:41.849345+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-12T17:00:00+02:00",
-      "competition": "Campeonato Itaú Chile",
-      "teams": "U. Espanola - Huachipato",
-      "channels": [
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-12T17:00:00+02:00",
-      "competition": "Liga Endesa",
-      "teams": "Breogan - Valence",
-      "channels": [
-        {
-          "name": "CH67es",
-          "url": "https://envivo.govoet.my.id/67"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-12T18:00:00+02:00",
       "competition": "Liga AUF Uruguaya",
