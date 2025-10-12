@@ -1,41 +1,7 @@
 {
-  "last_updated": "2025-10-12T16:23:31.196251+00:00",
+  "last_updated": "2025-10-12T16:38:49.633040+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-12T15:30:00+02:00",
-      "competition": "Liga AUF Uruguaya",
-      "teams": "Montevideo City - Wanderers",
-      "channels": [
-        {
-          "name": "CH109es",
-          "url": "https://envivo.govoet.my.id/109"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-12T15:30:00+02:00",
-      "competition": "NFL",
-      "teams": "New York Jets - Denver Broncos",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH160us",
-          "url": "https://envivo.govoet.my.id/160"
-        },
-        {
-          "name": "CH91es",
-          "url": "https://envivo.govoet.my.id/91"
-        },
-        {
-          "name": "CH79es",
-          "url": "https://envivo.govoet.my.id/79"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-12T16:15:00+02:00",
       "competition": "Laliga 2",
