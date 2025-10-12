@@ -1,44 +1,7 @@
 {
-  "last_updated": "2025-10-11T23:38:32.397587+00:00",
+  "last_updated": "2025-10-12T01:44:50.224296+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-11T23:00:00+02:00",
-      "competition": "Liga AUF Uruguaya",
-      "teams": "Miramar - Penarol",
-      "channels": [
-        {
-          "name": "CH109es",
-          "url": "https://envivo.govoet.my.id/109"
-        },
-        {
-          "name": "CH74es",
-          "url": "https://envivo.govoet.my.id/74"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-11T23:00:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Banfield - Racing Club",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-11T23:45:00+02:00",
-      "competition": "Liga Mx Women",
-      "teams": "Juarez F - Necaxa F",
-      "channels": [
-        {
-          "name": "CH157es",
-          "url": "https://envivo.govoet.my.id/157"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-12T01:00:00+02:00",
       "competition": "Coupe Du Monde U20",
