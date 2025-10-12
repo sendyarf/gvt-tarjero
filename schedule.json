@@ -1,37 +1,7 @@
 {
-  "last_updated": "2025-10-12T05:39:54.507568+00:00",
+  "last_updated": "2025-10-12T06:29:08.865779+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-12T05:00:00+02:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Dorados - Atlante",
-      "channels": [
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
-          "name": "CH105es",
-          "url": "https://envivo.govoet.my.id/105"
-        },
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-12T05:00:00+02:00",
-      "competition": "Liga Mx Women",
-      "teams": "Mazatlan FC F - Queretaro F",
-      "channels": [
-        {
-          "name": "CH157es",
-          "url": "https://envivo.govoet.my.id/157"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-12T12:15:00+02:00",
       "competition": "Liga Endesa",
