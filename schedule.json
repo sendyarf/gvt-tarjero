@@ -1,75 +1,7 @@
 {
-  "last_updated": "2025-10-12T22:39:05.862067+00:00",
+  "last_updated": "2025-10-12T23:17:56.293266+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-12T21:45:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Ind. Rivadavia - Godoy Cruz",
-      "channels": [
-        {
-          "name": "CH76es",
-          "url": "https://envivo.govoet.my.id/76"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-12T21:45:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Instituto - Atl. Tucuman",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-12T22:00:00+02:00",
-      "competition": "Coupe Du Monde U20",
-      "teams": "USA -20 - Maroc -20",
-      "channels": [
-        {
-          "name": "CH45fr",
-          "url": "https://envivo.govoet.my.id/45"
-        },
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        },
-        {
-          "name": "CH170es",
-          "url": "https://envivo.govoet.my.id/170"
-        },
-        {
-          "name": "CH171es",
-          "url": "https://envivo.govoet.my.id/171"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-12T22:05:00+02:00",
-      "competition": "NFL",
-      "teams": "Las Vegas Raiders - Tennessee Titans",
-      "channels": [
-        {
-          "name": "CH167us",
-          "url": "https://envivo.govoet.my.id/167"
-        },
-        {
-          "name": "CH93es",
-          "url": "https://envivo.govoet.my.id/93"
-        },
-        {
-          "name": "CH102es",
-          "url": "https://envivo.govoet.my.id/102"
-        },
-        {
-          "name": "CH79es",
-          "url": "https://envivo.govoet.my.id/79"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-12T22:25:00+02:00",
       "competition": "NFL",
