@@ -1,56 +1,7 @@
 {
-  "last_updated": "2025-10-12T23:17:56.293266+00:00",
+  "last_updated": "2025-10-12T23:38:17.357320+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-12T22:25:00+02:00",
-      "competition": "NFL",
-      "teams": "Green Bay Packers - Cincinnati Bengals",
-      "channels": [
-        {
-          "name": "CH168us",
-          "url": "https://envivo.govoet.my.id/168"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-12T22:25:00+02:00",
-      "competition": "NFL",
-      "teams": "Tampa Bay Buccaneers - San Francisco 49ers",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH169us",
-          "url": "https://envivo.govoet.my.id/169"
-        },
-        {
-          "name": "CH91es",
-          "url": "https://envivo.govoet.my.id/91"
-        },
-        {
-          "name": "CH101es",
-          "url": "https://envivo.govoet.my.id/101"
-        },
-        {
-          "name": "CH80es",
-          "url": "https://envivo.govoet.my.id/80"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-12T22:30:00+02:00",
-      "competition": "Liga 1 Te Apuesto",
-      "teams": "Alianza Atl. - Los Chankas",
-      "channels": [
-        {
-          "name": "CH84es",
-          "url": "https://envivo.govoet.my.id/84"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-12T23:10:00+02:00",
       "competition": "Liga Betplay Dimayor",
