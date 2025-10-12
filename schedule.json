@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-10-12T15:37:47.393316+00:00",
+  "last_updated": "2025-10-12T16:23:31.196251+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-12T15:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Zambie - Niger",
-      "channels": [
-        {
-          "name": "CH190us",
-          "url": "https://envivo.govoet.my.id/190"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-12T15:00:00+02:00",
-      "competition": "Qualif. Cm Europe",
-      "teams": "Saint-Marin - Chypre",
-      "channels": [
-        {
-          "name": "CH111es",
-          "url": "https://envivo.govoet.my.id/111"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-12T15:30:00+02:00",
       "competition": "Liga AUF Uruguaya",
