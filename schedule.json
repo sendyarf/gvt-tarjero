@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-10-12T20:39:11.986167+00:00",
+  "last_updated": "2025-10-12T21:17:29.833933+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-12T20:00:00+02:00",
-      "competition": "Copa Chili",
-      "teams": "La Serena - Limache",
-      "channels": [
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-12T20:00:00+02:00",
-      "competition": "Liga 1 Te Apuesto",
-      "teams": "Ayacucho - AD Tarma",
-      "channels": [
-        {
-          "name": "CH84es",
-          "url": "https://envivo.govoet.my.id/84"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-12T20:45:00+02:00",
       "competition": "Qualif. Cm Europe",
