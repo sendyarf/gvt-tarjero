@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-10-12T23:38:17.357320+00:00",
+  "last_updated": "2025-10-13T01:48:04.175370+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-12T23:10:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Alianza - Junior",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-13T00:00:00+02:00",
-      "competition": "NBA",
-      "teams": "Orlando Magic - Miami Heat",
-      "channels": [
-        {
-          "name": "CH182us",
-          "url": "https://envivo.govoet.my.id/182"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-13T00:15:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "River Plate - Sarmiento Junin",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-13T01:00:00+02:00",
       "competition": "Coupe Du Monde U20",
