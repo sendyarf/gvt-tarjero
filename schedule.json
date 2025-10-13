@@ -1,77 +1,7 @@
 {
-  "last_updated": "2025-10-13T01:48:04.175370+00:00",
+  "last_updated": "2025-10-13T03:12:20.880200+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-13T01:00:00+02:00",
-      "competition": "Coupe Du Monde U20",
-      "teams": "Norvège -20 - France -20",
-      "channels": [
-        {
-          "name": "CH19fr",
-          "url": "https://envivo.govoet.my.id/19"
-        },
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-13T01:00:00+02:00",
-      "competition": "Liga 1 Te Apuesto",
-      "teams": "Cusco - Comerciantes Unidos",
-      "channels": [
-        {
-          "name": "CH84es",
-          "url": "https://envivo.govoet.my.id/84"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-13T01:00:00+02:00",
-      "competition": "MLS",
-      "teams": "Austin FC - Los Angeles FC",
-      "channels": [
-        {
-          "name": "CH160us",
-          "url": "https://envivo.govoet.my.id/160"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-13T01:00:00+02:00",
-      "competition": "NBA",
-      "teams": "Boston Celtics - Cleveland Cavaliers",
-      "channels": [
-        {
-          "name": "CH183us",
-          "url": "https://envivo.govoet.my.id/183"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-13T01:00:00+02:00",
-      "competition": "NBA",
-      "teams": "Chicago Bulls - Milwaukee Bucks",
-      "channels": [
-        {
-          "name": "CH184us",
-          "url": "https://envivo.govoet.my.id/184"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-13T01:20:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Bucaramanga - U. Magdalena",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-13T02:15:00+02:00",
       "competition": "Torneo LPF",
