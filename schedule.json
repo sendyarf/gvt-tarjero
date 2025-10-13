@@ -1,62 +1,7 @@
 {
-  "last_updated": "2025-10-13T15:41:11.312715+00:00",
+  "last_updated": "2025-10-13T16:27:34.387308+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-13T14:45:00+02:00",
-      "competition": "Amical International",
-      "teams": "Ouzbekistan - Uruguay",
-      "channels": [
-        {
-          "name": "CH157es",
-          "url": "https://envivo.govoet.my.id/157"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-13T15:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Guinée Équatoriale - Libéria",
-      "channels": [
-        {
-          "name": "CH170us",
-          "url": "https://envivo.govoet.my.id/170"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-13T15:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Sao Tomé-et-Principe - Malawi",
-      "channels": [
-        {
-          "name": "CH171us",
-          "url": "https://envivo.govoet.my.id/171"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-13T15:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Soudan du Sud - Togo",
-      "channels": [
-        {
-          "name": "CH172us",
-          "url": "https://envivo.govoet.my.id/172"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-13T15:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Tunisie - Namibie",
-      "channels": [
-        {
-          "name": "CH173us",
-          "url": "https://envivo.govoet.my.id/173"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-13T18:00:00+02:00",
       "competition": "Qualif. Cm Afrique",
