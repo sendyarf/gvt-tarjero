@@ -1,51 +1,7 @@
 {
-  "last_updated": "2025-10-13T18:49:47.052385+00:00",
+  "last_updated": "2025-10-13T19:16:42.242596+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-13T18:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Cameroun - Angola",
-      "channels": [
-        {
-          "name": "CH41fr",
-          "url": "https://envivo.govoet.my.id/41"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-13T18:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Cap-Vert - Eswatini",
-      "channels": [
-        {
-          "name": "CH42fr",
-          "url": "https://envivo.govoet.my.id/42"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-13T18:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Lesotho - Zimbabwe",
-      "channels": [
-        {
-          "name": "CH174us",
-          "url": "https://envivo.govoet.my.id/174"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-13T18:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Maurice - Libye",
-      "channels": [
-        {
-          "name": "CH175us",
-          "url": "https://envivo.govoet.my.id/175"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-13T20:00:00+02:00",
       "competition": "Liga 1 Te Apuesto",
