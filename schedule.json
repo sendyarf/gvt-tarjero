@@ -1,39 +1,5 @@
 {
-  "last_updated": "2025-10-13T04:26:09.084668+00:00",
+  "last_updated": "2025-10-13T04:44:51.130373+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-10-13T03:30:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Aguilas - Pasto",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-13T03:30:00+02:00",
-      "competition": "NBA",
-      "teams": "Los Angeles Clippers - Denver Nuggets",
-      "channels": [
-        {
-          "name": "CH185us",
-          "url": "https://envivo.govoet.my.id/185"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-13T03:30:00+02:00",
-      "competition": "NBA",
-      "teams": "Los Angeles Lakers - Golden State Warriors",
-      "channels": [
-        {
-          "name": "CH186us",
-          "url": "https://envivo.govoet.my.id/186"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
