@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-10-13T23:38:37.777763+00:00",
+  "last_updated": "2025-10-14T01:41:23.998609+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-13T23:30:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Platense - Dep. Riestra",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-14T00:00:00+02:00",
-      "competition": "NBA",
-      "teams": "Atlanta Hawks - Miami Heat",
-      "channels": [
-        {
-          "name": "CH160us",
-          "url": "https://envivo.govoet.my.id/160"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-14T00:15:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Once Caldas - Ind. Medellin",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-14T01:00:00+02:00",
       "competition": "Copa Ecuador",
