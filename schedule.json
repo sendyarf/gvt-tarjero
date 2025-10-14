@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-10-14T03:48:46.202380+00:00",
+  "last_updated": "2025-10-14T04:26:14.094319+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-14T03:00:00+02:00",
-      "competition": "NBA",
-      "teams": "Utah Jazz - Dallas Mavericks",
-      "channels": [
-        {
-          "name": "CH163us",
-          "url": "https://envivo.govoet.my.id/163"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-14T04:00:00+02:00",
       "competition": "Qualif. Cm Concacaf",
