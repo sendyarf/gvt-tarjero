@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-10-14T15:40:25.156806+00:00",
+  "last_updated": "2025-10-14T16:27:53.580429+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-14T15:00:00+02:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Seychelles - Gambie",
-      "channels": [
-        {
-          "name": "CH170us",
-          "url": "https://envivo.govoet.my.id/170"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-14T18:00:00+02:00",
       "competition": "Amical International",
@@ -389,8 +378,8 @@
       "teams": "Curaçao - Trinité-et-Tobago",
       "channels": [
         {
-          "name": "CH00us",
-          "url": "https://envivo.govoet.my.id/00"
+          "name": "CH141nl",
+          "url": "https://envivo.govoet.my.id/141"
         }
       ]
     },
@@ -456,8 +445,8 @@
       "teams": "Jamaique - Bermudes",
       "channels": [
         {
-          "name": "CH00us",
-          "url": "https://envivo.govoet.my.id/00"
+          "name": "CH129us",
+          "url": "https://envivo.govoet.my.id/129"
         }
       ]
     },
@@ -500,8 +489,8 @@
       "teams": "Panama - Suriname",
       "channels": [
         {
-          "name": "CH00us",
-          "url": "https://envivo.govoet.my.id/00"
+          "name": "CH155es",
+          "url": "https://envivo.govoet.my.id/155"
         }
       ]
     },
@@ -533,8 +522,8 @@
       "teams": "Salvador - Guatemala",
       "channels": [
         {
-          "name": "CH00us",
-          "url": "https://envivo.govoet.my.id/00"
+          "name": "CH156es",
+          "url": "https://envivo.govoet.my.id/156"
         }
       ]
     },
