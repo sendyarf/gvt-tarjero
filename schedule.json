@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-10-14T19:38:23.760243+00:00",
+  "last_updated": "2025-10-14T20:23:42.036816+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-14T19:00:00+02:00",
-      "competition": "Amical International",
-      "teams": "Russie - Bolivie",
-      "channels": [
-        {
-          "name": "CH131ru",
-          "url": "https://envivo.govoet.my.id/131"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-14T19:00:00+02:00",
-      "competition": "EuroLeague",
-      "teams": "Maccabi Tel Aviv - Barcelone",
-      "channels": [
-        {
-          "name": "CH55es",
-          "url": "https://envivo.govoet.my.id/55"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-14T19:00:00+02:00",
-      "competition": "Qualif. Cm Asie",
-      "teams": "Qatar - Emirats Arabes Unis",
-      "channels": [
-        {
-          "name": "CH180qa",
-          "url": "https://envivo.govoet.my.id/180"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-14T19:45:00+02:00",
       "competition": "EuroLeague",
