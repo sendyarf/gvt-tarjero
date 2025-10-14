@@ -1,37 +1,7 @@
 {
-  "last_updated": "2025-10-14T03:02:26.209670+00:00",
+  "last_updated": "2025-10-14T03:48:46.202380+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-14T02:15:00+02:00",
-      "competition": "NFL",
-      "teams": "Washington Commanders - Chicago Bears",
-      "channels": [
-        {
-          "name": "CH165us",
-          "url": "https://envivo.govoet.my.id/165"
-        },
-        {
-          "name": "CH89es",
-          "url": "https://envivo.govoet.my.id/89"
-        },
-        {
-          "name": "CH99es",
-          "url": "https://envivo.govoet.my.id/99"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-14T02:30:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Fortaleza - Chico",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-14T03:00:00+02:00",
       "competition": "NBA",
