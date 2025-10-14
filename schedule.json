@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-10-14T04:43:31.439053+00:00",
+  "last_updated": "2025-10-14T05:20:28.590390+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-14T04:00:00+02:00",
-      "competition": "Qualif. Cm Concacaf",
-      "teams": "Costa Rica - Nicaragua",
-      "channels": [
-        {
-          "name": "CH72es",
-          "url": "https://envivo.govoet.my.id/72"
-        },
-        {
-          "name": "CH156es",
-          "url": "https://envivo.govoet.my.id/156"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-14T12:30:00+02:00",
       "competition": "Amical International",
