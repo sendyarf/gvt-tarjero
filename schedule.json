@@ -1,37 +1,7 @@
 {
-  "last_updated": "2025-10-15T19:38:35.493328+00:00",
+  "last_updated": "2025-10-15T20:25:05.850737+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-15T18:45:00+02:00",
-      "competition": "Ligue Des Champions Femmes",
-      "teams": "Lyon F - St. Polten F",
-      "channels": [
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH160us",
-          "url": "https://envivo.govoet.my.id/160"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-15T18:45:00+02:00",
-      "competition": "Ligue Des Champions Femmes",
-      "teams": "Vålerenga F - Wolfsburg F",
-      "channels": [
-        {
-          "name": "CH161us",
-          "url": "https://envivo.govoet.my.id/161"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-15T20:15:00+02:00",
       "competition": "EuroLeague",
