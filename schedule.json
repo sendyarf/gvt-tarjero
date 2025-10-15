@@ -1,26 +1,7 @@
 {
-  "last_updated": "2025-10-15T22:39:53.132888+00:00",
+  "last_updated": "2025-10-15T23:18:56.406572+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-15T22:00:00+02:00",
-      "competition": "Coupe Du Monde U20",
-      "teams": "Maroc -20 - France -20",
-      "channels": [
-        {
-          "name": "CH19fr",
-          "url": "https://envivo.govoet.my.id/19"
-        },
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        },
-        {
-          "name": "CH60es",
-          "url": "https://envivo.govoet.my.id/60"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-16T01:00:00+02:00",
       "competition": "Coupe Du Monde U20",
