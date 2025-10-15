@@ -1,41 +1,5 @@
 {
-  "last_updated": "2025-10-15T05:20:54.082565+00:00",
+  "last_updated": "2025-10-15T05:41:19.987607+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-10-15T04:30:00+02:00",
-      "competition": "Amical International",
-      "teams": "Mexique - Equateur",
-      "channels": [
-        {
-          "name": "CH170es",
-          "url": "https://envivo.govoet.my.id/170"
-        },
-        {
-          "name": "CH171es",
-          "url": "https://envivo.govoet.my.id/171"
-        },
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        },
-        {
-          "name": "CH106es",
-          "url": "https://envivo.govoet.my.id/106"
-        },
-        {
-          "name": "CH107es",
-          "url": "https://envivo.govoet.my.id/107"
-        },
-        {
-          "name": "CH108es",
-          "url": "https://envivo.govoet.my.id/108"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
