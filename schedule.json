@@ -1,66 +1,7 @@
 {
-  "last_updated": "2025-10-15T21:38:17.507093+00:00",
+  "last_updated": "2025-10-15T22:18:38.857076+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-15T20:45:00+02:00",
-      "competition": "EuroLeague",
-      "teams": "Paris - Baskonia",
-      "channels": [
-        {
-          "name": "CH63es",
-          "url": "https://envivo.govoet.my.id/63"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-15T20:45:00+02:00",
-      "competition": "EuroLeague",
-      "teams": "Real Madrid - Partizan",
-      "channels": [
-        {
-          "name": "CH62es",
-          "url": "https://envivo.govoet.my.id/62"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-15T21:00:00+02:00",
-      "competition": "Ligue Des Champions Femmes",
-      "teams": "AS Rome F - Barcelone F",
-      "channels": [
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-15T21:00:00+02:00",
-      "competition": "Ligue Des Champions Femmes",
-      "teams": "Chelsea F - Paris FC F",
-      "channels": [
-        {
-          "name": "CH162us",
-          "url": "https://envivo.govoet.my.id/162"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-15T21:00:00+02:00",
-      "competition": "Ligue Des Champions Femmes",
-      "teams": "Leuven F - Twente F",
-      "channels": [
-        {
-          "name": "CH163us",
-          "url": "https://envivo.govoet.my.id/163"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-15T22:00:00+02:00",
       "competition": "Coupe Du Monde U20",
