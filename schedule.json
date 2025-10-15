@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-10-15T03:50:28.946682+00:00",
+  "last_updated": "2025-10-15T04:25:58.243365+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-15T03:00:00+02:00",
-      "competition": "Amical International",
-      "teams": "USA - Australie",
-      "channels": [
-        {
-          "name": "CH72es",
-          "url": "https://envivo.govoet.my.id/72"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-15T03:00:00+02:00",
-      "competition": "NBA",
-      "teams": "Denver Nuggets - Chicago Bulls",
-      "channels": [
-        {
-          "name": "CH163us",
-          "url": "https://envivo.govoet.my.id/163"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-15T03:00:00+02:00",
-      "competition": "Qualif. Cm Concacaf",
-      "teams": "Panama - Suriname",
-      "channels": [
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-15T04:00:00+02:00",
       "competition": "NBA",
