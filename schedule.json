@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-10-16T19:38:32.949953+00:00",
+  "last_updated": "2025-10-16T20:24:11.786668+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-16T18:45:00+02:00",
-      "competition": "Ligue Des Champions Femmes",
-      "teams": "Atletico Madrid F - Manchester Utd F",
-      "channels": [
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-16T19:00:00+02:00",
-      "competition": "EuroLeague",
-      "teams": "Zalgiris Kaunas - Milano",
-      "channels": [
-        {
-          "name": "CH65es",
-          "url": "https://envivo.govoet.my.id/65"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-16T19:45:00+02:00",
       "competition": "EuroLeague",
