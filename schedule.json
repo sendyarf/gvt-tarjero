@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-10-16T18:31:52.801322+00:00",
+  "last_updated": "2025-10-16T19:16:07.396512+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-16T18:00:00+02:00",
-      "competition": "EuroLeague",
-      "teams": "Dubai - Barcelone",
-      "channels": [
-        {
-          "name": "CH55es",
-          "url": "https://envivo.govoet.my.id/55"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-16T18:45:00+02:00",
       "competition": "Ligue Des Champions Femmes",
