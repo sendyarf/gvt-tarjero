@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-10-16T03:50:41.145444+00:00",
+  "last_updated": "2025-10-16T04:25:20.597027+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-16T03:00:00+02:00",
-      "competition": "Liga Mx Women",
-      "teams": "Atlas F - Club America F",
-      "channels": [
-        {
-          "name": "CH158es",
-          "url": "https://envivo.govoet.my.id/158"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-16T03:20:00+02:00",
-      "competition": "Copa Colombia",
-      "teams": "America De Cali - Junior",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-16T04:00:00+02:00",
       "competition": "NBA",
