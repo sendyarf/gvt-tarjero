@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-10-16T20:41:37.184746+00:00",
+  "last_updated": "2025-10-16T21:18:30.596134+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-16T19:45:00+02:00",
-      "competition": "EuroLeague",
-      "teams": "Fenerbahce - Bayern",
-      "channels": [
-        {
-          "name": "CH63es",
-          "url": "https://envivo.govoet.my.id/63"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-16T21:00:00+02:00",
       "competition": "EuroLeague",
