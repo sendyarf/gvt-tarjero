@@ -1,74 +1,7 @@
 {
-  "last_updated": "2025-10-16T21:38:48.877928+00:00",
+  "last_updated": "2025-10-16T22:17:00.069956+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-16T21:00:00+02:00",
-      "competition": "EuroLeague",
-      "teams": "Maccabi Tel Aviv - Olympiakos",
-      "channels": [
-        {
-          "name": "CH62es",
-          "url": "https://envivo.govoet.my.id/62"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-16T21:00:00+02:00",
-      "competition": "Ligue Des Champions Femmes",
-      "teams": "Bayern Munich F - Juventus F",
-      "channels": [
-        {
-          "name": "CH160us",
-          "url": "https://envivo.govoet.my.id/160"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-16T21:00:00+02:00",
-      "competition": "Ligue Des Champions Femmes",
-      "teams": "Benfica F - Arsenal F",
-      "channels": [
-        {
-          "name": "CH161us",
-          "url": "https://envivo.govoet.my.id/161"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-16T21:00:00+02:00",
-      "competition": "Ligue Des Champions Femmes",
-      "teams": "PSG F - Real Madrid F",
-      "channels": [
-        {
-          "name": "CH19fr",
-          "url": "https://envivo.govoet.my.id/19"
-        },
-        {
-          "name": "CH162us",
-          "url": "https://envivo.govoet.my.id/162"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-16T21:00:00+02:00",
-      "competition": "Pro D2",
-      "teams": "RC Vannes - Oyonnax Rugby",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-16T23:55:00+02:00",
       "competition": "Moto3",
