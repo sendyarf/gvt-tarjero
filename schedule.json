@@ -1,44 +1,7 @@
 {
-  "last_updated": "2025-10-17T19:38:26.827244+00:00",
+  "last_updated": "2025-10-17T20:23:50.995165+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-17T19:00:00+02:00",
-      "competition": "EuroLeague",
-      "teams": "Étoile Rouge Belgrade - Real Madrid",
-      "channels": [
-        {
-          "name": "CH62es",
-          "url": "https://envivo.govoet.my.id/62"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-17T19:00:00+02:00",
-      "competition": "Pro D2",
-      "teams": "Soyaux Angoulême - Biarritz Olympique",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-17T19:20:00+02:00",
-      "competition": "formula 1",
-      "teams": "Essais libres 1 -",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        },
-        {
-          "name": "CH60es",
-          "url": "https://envivo.govoet.my.id/60"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-17T19:30:00+02:00",
       "competition": "EuroLeague",
