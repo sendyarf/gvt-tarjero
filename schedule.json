@@ -1,52 +1,7 @@
 {
-  "last_updated": "2025-10-17T21:18:53.741254+00:00",
+  "last_updated": "2025-10-17T21:38:07.065193+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-17T20:30:00+02:00",
-      "competition": "Bundesliga",
-      "teams": "Union Berlin - B. Monchengladbach",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH111de",
-          "url": "https://envivo.govoet.my.id/111"
-        },
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-17T20:30:00+02:00",
-      "competition": "Coupe Du Portugal",
-      "teams": "Chaves - Benfica",
-      "channels": [
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        },
-        {
-          "name": "CH80es",
-          "url": "https://envivo.govoet.my.id/80"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-17T20:30:00+02:00",
-      "competition": "Laliga 2",
-      "teams": "Andorra - Grenade",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-17T20:45:00+02:00",
       "competition": "EuroLeague",
