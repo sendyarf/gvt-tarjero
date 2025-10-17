@@ -1,21 +1,5 @@
 {
-  "last_updated": "2025-10-17T06:31:55.495589+00:00",
+  "last_updated": "2025-10-17T07:21:05.627352+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-10-17T05:50:00+02:00",
-      "competition": "MotoGP",
-      "teams": "MotoGP Essais -",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
