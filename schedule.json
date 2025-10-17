@@ -1,37 +1,7 @@
 {
-  "last_updated": "2025-10-16T23:38:35.102332+00:00",
+  "last_updated": "2025-10-17T01:42:27.259524+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-16T23:55:00+02:00",
-      "competition": "Moto3",
-      "teams": "Moto 3 Essais libres 1 -",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-17T00:00:00+02:00",
-      "competition": "Serie A Bresil",
-      "teams": "Gremio - Sao Paulo",
-      "channels": [
-        {
-          "name": "CH55es",
-          "url": "https://envivo.govoet.my.id/55"
-        },
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-17T00:45:00+02:00",
       "competition": "Moto2",
