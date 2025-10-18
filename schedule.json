@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-10-18T21:17:20.238532+00:00",
+  "last_updated": "2025-10-18T21:37:58.309370+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-18T20:30:00+02:00",
-      "competition": "Bundesliga 2",
-      "teams": "Bochum - Hertha Berlin",
-      "channels": [
-        {
-          "name": "CH8fr",
-          "url": "https://envivo.govoet.my.id/8"
-        },
-        {
-          "name": "CH112de",
-          "url": "https://envivo.govoet.my.id/112"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T20:30:00+02:00",
-      "competition": "Liga AUF Uruguaya",
-      "teams": "Montevideo City - Cerro CA",
-      "channels": [
-        {
-          "name": "CH109es",
-          "url": "https://envivo.govoet.my.id/109"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-18T20:45:00+02:00",
       "competition": "Championship",
