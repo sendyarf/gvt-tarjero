@@ -1,44 +1,7 @@
 {
-  "last_updated": "2025-10-18T04:41:39.144218+00:00",
+  "last_updated": "2025-10-18T05:19:19.264747+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-18T03:45:00+02:00",
-      "competition": "Moto3",
-      "teams": "Moto3 Essais qualificatifs 1 et 2 -",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T04:00:00+02:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Leones Negros - Alebrijes Oaxaca",
-      "channels": [
-        {
-          "name": "CH105es",
-          "url": "https://envivo.govoet.my.id/105"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T04:00:00+02:00",
-      "competition": "NBA",
-      "teams": "Golden State Warriors - Los Angeles Clippers",
-      "channels": [
-        {
-          "name": "CH166us",
-          "url": "https://envivo.govoet.my.id/166"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-18T04:30:00+02:00",
       "competition": "NBA",
