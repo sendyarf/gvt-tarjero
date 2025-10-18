@@ -1,139 +1,7 @@
 {
-  "last_updated": "2025-10-18T18:27:33.631943+00:00",
+  "last_updated": "2025-10-18T18:45:52.690562+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-18T18:00:00+02:00",
-      "competition": "Liga Endesa",
-      "teams": "Manresa - Gran Canaria",
-      "channels": [
-        {
-          "name": "CH79es",
-          "url": "https://envivo.govoet.my.id/79"
-        },
-        {
-          "name": "CH67es",
-          "url": "https://envivo.govoet.my.id/67"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T18:00:00+02:00",
-      "competition": "Serie A",
-      "teams": "Torino - Naples",
-      "channels": [
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T18:15:00+02:00",
-      "competition": "Pro League",
-      "teams": "Louvain - Club Brugge",
-      "channels": [
-        {
-          "name": "CH153fr",
-          "url": "https://envivo.govoet.my.id/153"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T18:30:00+02:00",
-      "competition": "Betfred Super League",
-      "teams": "Atromitos - Levadiakos",
-      "channels": [
-        {
-          "name": "CH149gr",
-          "url": "https://envivo.govoet.my.id/149"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T18:30:00+02:00",
-      "competition": "Bundesliga",
-      "teams": "Bayern Munich - Dortmund",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH111de",
-          "url": "https://envivo.govoet.my.id/111"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T18:30:00+02:00",
-      "competition": "Laliga",
-      "teams": "Villarreal - Betis",
-      "channels": [
-        {
-          "name": "CH49es",
-          "url": "https://envivo.govoet.my.id/49"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        },
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T18:30:00+02:00",
-      "competition": "Laliga 2",
-      "teams": "Saragosse - Cultural Leonesa",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T18:30:00+02:00",
-      "competition": "Premier League",
-      "teams": "Fulham - Arsenal",
-      "channels": [
-        {
-          "name": "CH12fr",
-          "url": "https://envivo.govoet.my.id/12"
-        },
-        {
-          "name": "CH127us",
-          "url": "https://envivo.govoet.my.id/127"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        },
-        {
-          "name": "CH91es",
-          "url": "https://envivo.govoet.my.id/91"
-        },
-        {
-          "name": "CH72es",
-          "url": "https://envivo.govoet.my.id/72"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-18T18:45:00+02:00",
       "competition": "Eredivisie",
@@ -382,8 +250,8 @@
           "url": "https://envivo.govoet.my.id/48"
         },
         {
-          "name": "CH00es",
-          "url": "https://envivo.govoet.my.id/00"
+          "name": "CH94es",
+          "url": "https://envivo.govoet.my.id/94"
         }
       ]
     },
@@ -2100,8 +1968,8 @@
           "url": "https://envivo.govoet.my.id/19"
         },
         {
-          "name": "CH00es",
-          "url": "https://envivo.govoet.my.id/00"
+          "name": "CH94es",
+          "url": "https://envivo.govoet.my.id/94"
         }
       ]
     },
