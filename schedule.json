@@ -1,52 +1,7 @@
 {
-  "last_updated": "2025-10-18T14:39:00.867717+00:00",
+  "last_updated": "2025-10-18T15:18:50.785640+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-18T14:00:00+02:00",
-      "competition": "Laliga",
-      "teams": "FC Séville - Majorque",
-      "channels": [
-        {
-          "name": "CH7fr",
-          "url": "https://envivo.govoet.my.id/7"
-        },
-        {
-          "name": "CH49es",
-          "url": "https://envivo.govoet.my.id/49"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T14:00:00+02:00",
-      "competition": "Ligue 2",
-      "teams": "Dunkerque - Montpellier",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T14:00:00+02:00",
-      "competition": "Ligue 2",
-      "teams": "Laval - Red Star",
-      "channels": [
-        {
-          "name": "CH3fr",
-          "url": "https://envivo.govoet.my.id/3"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-18T14:30:00+02:00",
       "competition": "Top 14",
