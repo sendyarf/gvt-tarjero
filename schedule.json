@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-10-18T15:18:50.785640+00:00",
+  "last_updated": "2025-10-18T15:37:58.488774+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-18T14:30:00+02:00",
-      "competition": "Top 14",
-      "teams": "Aviron Bayonnais - ASM Clermont",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-18T15:00:00+02:00",
       "competition": "Serie A",
