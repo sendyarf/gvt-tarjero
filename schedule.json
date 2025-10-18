@@ -1,52 +1,7 @@
 {
-  "last_updated": "2025-10-18T05:40:19.470789+00:00",
+  "last_updated": "2025-10-18T06:29:38.642232+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-18T04:40:00+02:00",
-      "competition": "Moto2",
-      "teams": "Moto2 Essais qualificatifs 1 et 2 -",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T05:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Atl. San Luis - Atlas",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T05:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Tigres - Necaxa",
-      "channels": [
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        },
-        {
-          "name": "CH108es",
-          "url": "https://envivo.govoet.my.id/108"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-18T05:55:00+02:00",
       "competition": "MotoGP",
