@@ -1,73 +1,7 @@
 {
-  "last_updated": "2025-10-18T03:31:00.694116+00:00",
+  "last_updated": "2025-10-18T04:24:29.593473+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-18T03:00:00+02:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Correcaminos - Dorados",
-      "channels": [
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T03:00:00+02:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Tepatitlan de Morelos - Cancun",
-      "channels": [
-        {
-          "name": "CH156es",
-          "url": "https://envivo.govoet.my.id/156"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T03:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Puebla - Tijuana",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T03:00:00+02:00",
-      "competition": "Liga Mx Women",
-      "teams": "Santos Laguna F - Mazatlan FC F",
-      "channels": [
-        {
-          "name": "CH157es",
-          "url": "https://envivo.govoet.my.id/157"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T03:10:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "U. Magdalena - Envigado",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T03:15:00+02:00",
-      "competition": "Ecuador Ligapro",
-      "teams": "LDU Quito - Barcelone SC",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-18T03:45:00+02:00",
       "competition": "Moto3",
