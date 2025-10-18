@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-10-18T23:18:56.034756+00:00",
+  "last_updated": "2025-10-18T23:38:13.433325+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-18T22:30:00+02:00",
-      "competition": "Campeonato Itaú Chile",
-      "teams": "Limache - Cobresal",
-      "channels": [
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T22:30:00+02:00",
-      "competition": "Ecuador Ligapro",
-      "teams": "Mushuc Runa - Vinotinto",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-18T22:40:00+02:00",
       "competition": "formula 1",
