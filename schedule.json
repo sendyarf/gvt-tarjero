@@ -1,59 +1,7 @@
 {
-  "last_updated": "2025-10-17T23:37:49.002708+00:00",
+  "last_updated": "2025-10-18T01:37:44.274597+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-17T23:00:00+02:00",
-      "competition": "Campeonato Itaú Chile",
-      "teams": "A. Italiano - U. Calera",
-      "channels": [
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-17T23:20:00+02:00",
-      "competition": "formula 1",
-      "teams": "Qualifications sprint -",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        },
-        {
-          "name": "CH60es",
-          "url": "https://envivo.govoet.my.id/60"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T00:00:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Racing Club - Aldosivi",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T00:20:00+02:00",
-      "competition": "Moto2",
-      "teams": "Moto2 Essais libres 2 -",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-18T01:00:00+02:00",
       "competition": "Ecuador Ligapro",
@@ -226,8 +174,8 @@
       "teams": "Lanus - Godoy Cruz",
       "channels": [
         {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
+          "name": "CH76es",
+          "url": "https://envivo.govoet.my.id/76"
         }
       ]
     },
