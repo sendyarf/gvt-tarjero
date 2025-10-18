@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-10-18T05:19:19.264747+00:00",
+  "last_updated": "2025-10-18T05:40:19.470789+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-18T04:30:00+02:00",
-      "competition": "NBA",
-      "teams": "Los Angeles Lakers - Sacramento Kings",
-      "channels": [
-        {
-          "name": "CH167us",
-          "url": "https://envivo.govoet.my.id/167"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-18T04:40:00+02:00",
       "competition": "Moto2",
