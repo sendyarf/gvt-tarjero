@@ -1,217 +1,7 @@
 {
-  "last_updated": "2025-10-18T21:37:58.309370+00:00",
+  "last_updated": "2025-10-18T22:18:46.270102+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-18T20:45:00+02:00",
-      "competition": "Championship",
-      "teams": "Leicester - Portsmouth",
-      "channels": [
-        {
-          "name": "CH168us",
-          "url": "https://envivo.govoet.my.id/168"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T20:45:00+02:00",
-      "competition": "Pro League",
-      "teams": "Royale Union SG - Charleroi",
-      "channels": [
-        {
-          "name": "CH153fr",
-          "url": "https://envivo.govoet.my.id/153"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T20:45:00+02:00",
-      "competition": "Serie A",
-      "teams": "AS Rome - Inter",
-      "channels": [
-        {
-          "name": "CH138it",
-          "url": "https://envivo.govoet.my.id/138"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T20:45:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Ind. Rivadavia - Banfield",
-      "channels": [
-        {
-          "name": "CH76es",
-          "url": "https://envivo.govoet.my.id/76"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T21:00:00+02:00",
-      "competition": "Coupe Du Monde U20",
-      "teams": "Colombie -20 - France -20",
-      "channels": [
-        {
-          "name": "CH48fr",
-          "url": "https://envivo.govoet.my.id/48"
-        },
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T21:00:00+02:00",
-      "competition": "D1 Féminin",
-      "teams": "Lyon F - Nantes F",
-      "channels": [
-        {
-          "name": "CH12fr",
-          "url": "https://envivo.govoet.my.id/12"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T21:00:00+02:00",
-      "competition": "Eredivisie",
-      "teams": "Ajax - Alkmaar",
-      "channels": [
-        {
-          "name": "CH142nl",
-          "url": "https://envivo.govoet.my.id/142"
-        },
-        {
-          "name": "CH90es",
-          "url": "https://envivo.govoet.my.id/90"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T21:00:00+02:00",
-      "competition": "Eredivisie",
-      "teams": "Breda - Zwolle",
-      "channels": [
-        {
-          "name": "CH141nl",
-          "url": "https://envivo.govoet.my.id/141"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T21:00:00+02:00",
-      "competition": "Laliga",
-      "teams": "Atl. Madrid - Osasuna",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH51es",
-          "url": "https://envivo.govoet.my.id/51"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T21:00:00+02:00",
-      "competition": "Laliga 2",
-      "teams": "Real Sociedad B - Huesca",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T21:00:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Pasto - Atl. Nacional",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T21:00:00+02:00",
-      "competition": "Top 14",
-      "teams": "Section Paloise - Stade Toulousain",
-      "channels": [
-        {
-          "name": "CH11fr",
-          "url": "https://envivo.govoet.my.id/11"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T21:05:00+02:00",
-      "competition": "Ligue 1",
-      "teams": "Marseille - Le Havre",
-      "channels": [
-        {
-          "name": "CH20fr",
-          "url": "https://envivo.govoet.my.id/20"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        },
-        {
-          "name": "CH89es",
-          "url": "https://envivo.govoet.my.id/89"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T21:15:00+02:00",
-      "competition": "Coupe Du Portugal",
-      "teams": "Paços Ferreira - Sporting",
-      "channels": [
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        },
-        {
-          "name": "CH80es",
-          "url": "https://envivo.govoet.my.id/80"
-        },
-        {
-          "name": "CH82es",
-          "url": "https://envivo.govoet.my.id/82"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-18T22:15:00+02:00",
       "competition": "Liga 1 Te Apuesto",
@@ -242,6 +32,25 @@
         {
           "name": "CH86es",
           "url": "https://envivo.govoet.my.id/86"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-18T22:40:00+02:00",
+      "competition": "formula 1",
+      "teams": "Essais qualificatifs -",
+      "channels": [
+        {
+          "name": "CH13fr",
+          "url": "https://envivo.govoet.my.id/13"
+        },
+        {
+          "name": "CH60es",
+          "url": "https://envivo.govoet.my.id/60"
+        },
+        {
+          "name": "CH88es",
+          "url": "https://envivo.govoet.my.id/88"
         }
       ]
     },
@@ -1610,6 +1419,25 @@
         {
           "name": "CH53es",
           "url": "https://envivo.govoet.my.id/53"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-19T21:00:00+02:00",
+      "competition": "formula 1",
+      "teams": "La course -",
+      "channels": [
+        {
+          "name": "CH14fr",
+          "url": "https://envivo.govoet.my.id/14"
+        },
+        {
+          "name": "CH60es",
+          "url": "https://envivo.govoet.my.id/60"
+        },
+        {
+          "name": "CH87es",
+          "url": "https://envivo.govoet.my.id/87"
         }
       ]
     },
