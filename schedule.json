@@ -1,52 +1,7 @@
 {
-  "last_updated": "2025-10-18T16:42:36.800566+00:00",
+  "last_updated": "2025-10-18T17:16:22.612000+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-18T16:15:00+02:00",
-      "competition": "Coupe Du Portugal",
-      "teams": "GD Braganca - Braga",
-      "channels": [
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T16:15:00+02:00",
-      "competition": "Laliga",
-      "teams": "Barcelone - Gérone",
-      "channels": [
-        {
-          "name": "CH3fr",
-          "url": "https://envivo.govoet.my.id/3"
-        },
-        {
-          "name": "CH51es",
-          "url": "https://envivo.govoet.my.id/51"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T16:15:00+02:00",
-      "competition": "Laliga 2",
-      "teams": "Ceuta - Mirandes",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-18T16:30:00+02:00",
       "competition": "Eredivisie",
