@@ -1,51 +1,7 @@
 {
-  "last_updated": "2025-10-18T20:39:24.517749+00:00",
+  "last_updated": "2025-10-18T21:17:20.238532+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-18T20:00:00+02:00",
-      "competition": "Campeonato Itaú Chile",
-      "teams": "La Serena - Nublense",
-      "channels": [
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T20:00:00+02:00",
-      "competition": "Liga 1 Te Apuesto",
-      "teams": "Los Chankas - Juan Pablo II",
-      "channels": [
-        {
-          "name": "CH84es",
-          "url": "https://envivo.govoet.my.id/84"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T20:00:00+02:00",
-      "competition": "Ligue 2",
-      "teams": "Saint-Étienne - Le Mans",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-18T20:00:00+02:00",
-      "competition": "Saudi Pro League",
-      "teams": "Al-Nassr - Al Fateh",
-      "channels": [
-        {
-          "name": "CH61es",
-          "url": "https://envivo.govoet.my.id/61"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-18T20:30:00+02:00",
       "competition": "Bundesliga 2",
