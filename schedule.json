@@ -1,60 +1,7 @@
 {
-  "last_updated": "2025-10-19T16:24:27.094091+00:00",
+  "last_updated": "2025-10-19T16:39:21.062980+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-19T15:30:00+02:00",
-      "competition": "Bundesliga",
-      "teams": "Fribourg - Eintracht Francfort",
-      "channels": [
-        {
-          "name": "CH12fr",
-          "url": "https://envivo.govoet.my.id/12"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        },
-        {
-          "name": "CH116es",
-          "url": "https://envivo.govoet.my.id/116"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-19T15:30:00+02:00",
-      "competition": "Liga AUF Uruguaya",
-      "teams": "River Plate - Cerro Largo",
-      "channels": [
-        {
-          "name": "CH109es",
-          "url": "https://envivo.govoet.my.id/109"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-19T15:30:00+02:00",
-      "competition": "NFL",
-      "teams": "Jacksonville Jaguars - Los Angeles Rams",
-      "channels": [
-        {
-          "name": "CH3fr",
-          "url": "https://envivo.govoet.my.id/3"
-        },
-        {
-          "name": "CH183us",
-          "url": "https://envivo.govoet.my.id/183"
-        },
-        {
-          "name": "CH80es",
-          "url": "https://envivo.govoet.my.id/80"
-        },
-        {
-          "name": "CH91es",
-          "url": "https://envivo.govoet.my.id/91"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-19T16:00:00+02:00",
       "competition": "Coupe Du Portugal",
