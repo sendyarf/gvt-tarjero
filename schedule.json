@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-10-19T12:40:00.286004+00:00",
+  "last_updated": "2025-10-19T13:24:22.323694+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-19T12:15:00+02:00",
-      "competition": "Eredivisie",
-      "teams": "Telstar - Heerenveen",
-      "channels": [
-        {
-          "name": "CH141nl",
-          "url": "https://envivo.govoet.my.id/141"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-19T12:30:00+02:00",
       "competition": "Serie A",
