@@ -1,68 +1,7 @@
 {
-  "last_updated": "2025-10-19T18:28:20.188189+00:00",
+  "last_updated": "2025-10-19T18:46:23.705215+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-19T17:30:00+02:00",
-      "competition": "Bundesliga",
-      "teams": "St. Pauli - Hoffenheim",
-      "channels": [
-        {
-          "name": "CH5fr",
-          "url": "https://envivo.govoet.my.id/5"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH116es",
-          "url": "https://envivo.govoet.my.id/116"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-19T17:30:00+02:00",
-      "competition": "Campeonato Itaú Chile",
-      "teams": "Coquimbo - Colo Colo",
-      "channels": [
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-19T17:30:00+02:00",
-      "competition": "Premier League",
-      "teams": "Liverpool - Manchester Utd",
-      "channels": [
-        {
-          "name": "CH11fr",
-          "url": "https://envivo.govoet.my.id/11"
-        },
-        {
-          "name": "CH127us",
-          "url": "https://envivo.govoet.my.id/127"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        },
-        {
-          "name": "CH61es",
-          "url": "https://envivo.govoet.my.id/61"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH73es",
-          "url": "https://envivo.govoet.my.id/73"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-19T18:00:00+02:00",
       "competition": "Serie A",
