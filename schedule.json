@@ -1,56 +1,7 @@
 {
-  "last_updated": "2025-10-19T23:18:59.919895+00:00",
+  "last_updated": "2025-10-19T23:38:34.586056+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-19T22:25:00+02:00",
-      "competition": "NFL",
-      "teams": "Arizona Cardinals - Green Bay Packers",
-      "channels": [
-        {
-          "name": "CH192us",
-          "url": "https://envivo.govoet.my.id/192"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-19T22:25:00+02:00",
-      "competition": "NFL",
-      "teams": "Dallas Cowboys - Washington Commanders",
-      "channels": [
-        {
-          "name": "CH3fr",
-          "url": "https://envivo.govoet.my.id/3"
-        },
-        {
-          "name": "CH193us",
-          "url": "https://envivo.govoet.my.id/193"
-        },
-        {
-          "name": "CH80es",
-          "url": "https://envivo.govoet.my.id/80"
-        },
-        {
-          "name": "CH91es",
-          "url": "https://envivo.govoet.my.id/91"
-        },
-        {
-          "name": "CH107es",
-          "url": "https://envivo.govoet.my.id/107"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-19T22:30:00+02:00",
-      "competition": "Ecuador Ligapro",
-      "teams": "Aucas - Emelec",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-19T23:00:00+02:00",
       "competition": "Torneo LPF",
