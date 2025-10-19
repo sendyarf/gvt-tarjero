@@ -1,52 +1,7 @@
 {
-  "last_updated": "2025-10-19T22:40:29.600444+00:00",
+  "last_updated": "2025-10-19T23:18:59.919895+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-19T22:00:00+02:00",
-      "competition": "Liga 1 Te Apuesto",
-      "teams": "Grau - Cajamarca",
-      "channels": [
-        {
-          "name": "CH84es",
-          "url": "https://envivo.govoet.my.id/84"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-19T22:05:00+02:00",
-      "competition": "NFL",
-      "teams": "Denver Broncos - New York Giants",
-      "channels": [
-        {
-          "name": "CH190us",
-          "url": "https://envivo.govoet.my.id/190"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-19T22:05:00+02:00",
-      "competition": "NFL",
-      "teams": "Los Angeles Chargers - Indianapolis Colts",
-      "channels": [
-        {
-          "name": "CH191us",
-          "url": "https://envivo.govoet.my.id/191"
-        },
-        {
-          "name": "CH79es",
-          "url": "https://envivo.govoet.my.id/79"
-        },
-        {
-          "name": "CH93es",
-          "url": "https://envivo.govoet.my.id/93"
-        },
-        {
-          "name": "CH102es",
-          "url": "https://envivo.govoet.my.id/102"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-19T22:25:00+02:00",
       "competition": "NFL",
