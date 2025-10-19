@@ -1,78 +1,7 @@
 {
-  "last_updated": "2025-10-19T19:16:12.166477+00:00",
+  "last_updated": "2025-10-19T19:38:18.019859+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-19T18:30:00+02:00",
-      "competition": "Betfred Super League",
-      "teams": "Aris - Panathinaikos",
-      "channels": [
-        {
-          "name": "CH150gr",
-          "url": "https://envivo.govoet.my.id/150"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-19T18:30:00+02:00",
-      "competition": "Laliga",
-      "teams": "Levante - Vallecano",
-      "channels": [
-        {
-          "name": "CH6fr",
-          "url": "https://envivo.govoet.my.id/6"
-        },
-        {
-          "name": "CH51es",
-          "url": "https://envivo.govoet.my.id/51"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-19T18:30:00+02:00",
-      "competition": "Laliga 2",
-      "teams": "Cordoba - Almeria",
-      "channels": [
-        {
-          "name": "CH54es",
-          "url": "https://envivo.govoet.my.id/54"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-19T18:30:00+02:00",
-      "competition": "Laliga 2",
-      "teams": "Racing Santander - La Corogne",
-      "channels": [
-        {
-          "name": "CH7fr",
-          "url": "https://envivo.govoet.my.id/7"
-        },
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-19T18:30:00+02:00",
-      "competition": "Pro League",
-      "teams": "Saint-Trond - Anderlecht",
-      "channels": [
-        {
-          "name": "CH153fr",
-          "url": "https://envivo.govoet.my.id/153"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-19T19:00:00+02:00",
       "competition": "Liga Endesa",
