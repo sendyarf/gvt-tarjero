@@ -1,26 +1,7 @@
 {
-  "last_updated": "2025-10-19T18:46:23.705215+00:00",
+  "last_updated": "2025-10-19T19:16:12.166477+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-19T18:00:00+02:00",
-      "competition": "Serie A",
-      "teams": "Atalanta - Lazio",
-      "channels": [
-        {
-          "name": "CH45fr",
-          "url": "https://envivo.govoet.my.id/45"
-        },
-        {
-          "name": "CH138it",
-          "url": "https://envivo.govoet.my.id/138"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-19T18:30:00+02:00",
       "competition": "Betfred Super League",
