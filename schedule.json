@@ -1,41 +1,7 @@
 {
-  "last_updated": "2025-10-19T05:41:07.366074+00:00",
+  "last_updated": "2025-10-19T06:30:39.564754+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-19T04:55:00+02:00",
-      "competition": "MotoGP",
-      "teams": "MotoGP GP d’Australie -",
-      "channels": [
-        {
-          "name": "CH11fr",
-          "url": "https://envivo.govoet.my.id/11"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-19T05:05:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Cruz Azul - Club America",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        },
-        {
-          "name": "CH106es",
-          "url": "https://envivo.govoet.my.id/106"
-        },
-        {
-          "name": "CH107es",
-          "url": "https://envivo.govoet.my.id/107"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-19T12:15:00+02:00",
       "competition": "Eredivisie",
