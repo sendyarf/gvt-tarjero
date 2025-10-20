@@ -1,44 +1,7 @@
 {
-  "last_updated": "2025-10-20T01:50:54.471138+00:00",
+  "last_updated": "2025-10-20T03:17:36.522684+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-20T01:00:00+02:00",
-      "competition": "Coupe Du Monde U20",
-      "teams": "Argentine -20 - Maroc -20",
-      "channels": [
-        {
-          "name": "CH19fr",
-          "url": "https://envivo.govoet.my.id/19"
-        },
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-20T01:00:00+02:00",
-      "competition": "Ecuador Ligapro",
-      "teams": "Libertad - U. Catolica",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-20T01:00:00+02:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Tapatio - Zacatecas Mineros",
-      "channels": [
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-20T02:20:00+02:00",
       "competition": "NFL",
