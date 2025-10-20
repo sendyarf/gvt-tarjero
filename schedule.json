@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-10-20T19:38:48.103341+00:00",
+  "last_updated": "2025-10-20T20:25:19.699411+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-20T19:00:00+02:00",
-      "competition": "Super Lig",
-      "teams": "Eyupspor - Kasimpasa",
-      "channels": [
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-20T20:15:00+02:00",
       "competition": "Liga 1 Te Apuesto",
