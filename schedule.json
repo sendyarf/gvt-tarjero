@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-10-20T18:33:14.188156+00:00",
+  "last_updated": "2025-10-20T19:18:07.580954+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-20T18:00:00+02:00",
-      "competition": "Afc Ligue Des Champions",
-      "teams": "Al Shorta (Irq) - Al-Ittihad FC (Sau)",
-      "channels": [
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-20T19:00:00+02:00",
       "competition": "Super Lig",
