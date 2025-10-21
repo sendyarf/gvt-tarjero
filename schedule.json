@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-10-21T03:50:27.755093+00:00",
+  "last_updated": "2025-10-21T04:26:14.272443+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-21T03:10:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Ind. Medellin - Santa Fe",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-21T03:15:00+02:00",
-      "competition": "Liga 1 Te Apuesto",
-      "teams": "U. de Deportes - Ayacucho",
-      "channels": [
-        {
-          "name": "CH85es",
-          "url": "https://envivo.govoet.my.id/85"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-21T04:00:00+02:00",
       "competition": "NFL",
