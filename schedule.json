@@ -1,62 +1,7 @@
 {
-  "last_updated": "2025-10-20T23:38:25.907391+00:00",
+  "last_updated": "2025-10-21T01:45:23.694100+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-21T00:00:00+02:00",
-      "competition": "Liga AUF Uruguaya",
-      "teams": "Plaza Colonia - Liverpool M.",
-      "channels": [
-        {
-          "name": "CH109es",
-          "url": "https://envivo.govoet.my.id/109"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-21T00:00:00+02:00",
-      "competition": "Serie A Bresil",
-      "teams": "Juventude - Bragantino",
-      "channels": [
-        {
-          "name": "CH194pt",
-          "url": "https://envivo.govoet.my.id/194"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-21T00:00:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Dep. Riestra - Instituto",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-21T00:00:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Tigre - Barracas Central",
-      "channels": [
-        {
-          "name": "CH76es",
-          "url": "https://envivo.govoet.my.id/76"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-21T00:30:00+02:00",
-      "competition": "Serie A Bresil",
-      "teams": "Vasco - Fluminense",
-      "channels": [
-        {
-          "name": "CH190pt",
-          "url": "https://envivo.govoet.my.id/190"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-21T01:00:00+02:00",
       "competition": "Liga 1 Te Apuesto",
