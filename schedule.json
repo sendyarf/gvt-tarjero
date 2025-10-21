@@ -1,29 +1,5 @@
 {
-  "last_updated": "2025-10-21T04:44:31.804527+00:00",
+  "last_updated": "2025-10-21T05:21:05.467425+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-10-21T04:00:00+02:00",
-      "competition": "NFL",
-      "teams": "Seattle Seahawks - Houston Texans",
-      "channels": [
-        {
-          "name": "CH161us",
-          "url": "https://envivo.govoet.my.id/161"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
