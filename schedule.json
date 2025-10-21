@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-10-21T20:43:42.032055+00:00",
+  "last_updated": "2025-10-21T21:20:02.867405+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-21T20:15:00+02:00",
-      "competition": "Afc Ligue Des Champions",
-      "teams": "Al-Hilal (Sau) - Al-Sadd (Qat)",
-      "channels": [
-        {
-          "name": "CH100es",
-          "url": "https://envivo.govoet.my.id/100"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-21T20:45:00+02:00",
       "competition": "Championship",
