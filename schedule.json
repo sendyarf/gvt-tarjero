@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-10-22T16:52:14.201612+00:00",
+  "last_updated": "2025-10-22T17:19:34.426198+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-22T16:00:00+02:00",
-      "competition": "Youth League",
-      "teams": "Bayern -19 - Club Brugge -19",
-      "channels": [
-        {
-          "name": "CH162es",
-          "url": "https://envivo.govoet.my.id/162"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-22T16:00:00+02:00",
-      "competition": "Youth League",
-      "teams": "Real Madrid -19 - Juventus -19",
-      "channels": [
-        {
-          "name": "CH161es",
-          "url": "https://envivo.govoet.my.id/161"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-22T18:45:00+02:00",
       "competition": "Ligue Des Champions",
