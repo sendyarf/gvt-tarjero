@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-10-22T04:45:37.066371+00:00",
+  "last_updated": "2025-10-22T05:21:51.728637+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-22T04:00:00+02:00",
-      "competition": "NBA",
-      "teams": "Los Angeles Lakers - Golden State Warriors",
-      "channels": [
-        {
-          "name": "CH161us",
-          "url": "https://envivo.govoet.my.id/161"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-22T05:00:00+02:00",
       "competition": "Liga Mx",
