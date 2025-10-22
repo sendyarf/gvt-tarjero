@@ -1,44 +1,7 @@
 {
-  "last_updated": "2025-10-22T03:55:16.813564+00:00",
+  "last_updated": "2025-10-22T04:26:26.423304+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-22T03:00:00+02:00",
-      "competition": "Copa Colombia",
-      "teams": "Pereira - Envigado",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-22T03:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Club America - Puebla",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        },
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-22T03:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Necaxa - Cruz Azul",
-      "channels": [
-        {
-          "name": "CH108es",
-          "url": "https://envivo.govoet.my.id/108"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-22T04:00:00+02:00",
       "competition": "NBA",
