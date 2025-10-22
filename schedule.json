@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-10-22T20:41:36.923573+00:00",
+  "last_updated": "2025-10-22T21:16:44.874965+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-22T20:05:00+02:00",
-      "competition": "EuroLeague",
-      "teams": "Maccabi Tel Aviv - Real Madrid",
-      "channels": [
-        {
-          "name": "CH55es",
-          "url": "https://envivo.govoet.my.id/55"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-22T20:45:00+02:00",
       "competition": "Championship",
