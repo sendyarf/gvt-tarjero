@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-22T13:34:51.325195+00:00",
+  "last_updated": "2025-10-22T14:24:26.525117+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -55,6 +55,14 @@
         {
           "name": "CH13fr",
           "url": "https://envivo.govoet.my.id/13"
+        },
+        {
+          "name": "CH139it",
+          "url": "https://envivo.govoet.my.id/139"
+        },
+        {
+          "name": "CH123de",
+          "url": "https://envivo.govoet.my.id/123"
         },
         {
           "name": "CH163es",
@@ -171,6 +179,10 @@
         {
           "name": "CH164es",
           "url": "https://envivo.govoet.my.id/164"
+        },
+        {
+          "name": "CH124de",
+          "url": "https://envivo.govoet.my.id/124"
         }
       ]
     },
@@ -182,6 +194,10 @@
         {
           "name": "CH37fr",
           "url": "https://envivo.govoet.my.id/37"
+        },
+        {
+          "name": "CH139it",
+          "url": "https://envivo.govoet.my.id/139"
         },
         {
           "name": "CH169es",
@@ -201,6 +217,10 @@
         {
           "name": "CH35fr",
           "url": "https://envivo.govoet.my.id/35"
+        },
+        {
+          "name": "CH112de",
+          "url": "https://envivo.govoet.my.id/112"
         },
         {
           "name": "CH166es",
@@ -234,6 +254,10 @@
           "url": "https://envivo.govoet.my.id/129"
         },
         {
+          "name": "CH141nl",
+          "url": "https://envivo.govoet.my.id/141"
+        },
+        {
           "name": "CH91es",
           "url": "https://envivo.govoet.my.id/91"
         }
@@ -247,6 +271,10 @@
         {
           "name": "CH34fr",
           "url": "https://envivo.govoet.my.id/34"
+        },
+        {
+          "name": "CH123de",
+          "url": "https://envivo.govoet.my.id/123"
         },
         {
           "name": "CH165es",
@@ -307,6 +335,14 @@
           "url": "https://envivo.govoet.my.id/161"
         },
         {
+          "name": "CH137it",
+          "url": "https://envivo.govoet.my.id/137"
+        },
+        {
+          "name": "CH113de",
+          "url": "https://envivo.govoet.my.id/113"
+        },
+        {
           "name": "CH131gb",
           "url": "https://envivo.govoet.my.id/131"
         },
@@ -328,6 +364,10 @@
         {
           "name": "CH11fr",
           "url": "https://envivo.govoet.my.id/11"
+        },
+        {
+          "name": "CH144pt",
+          "url": "https://envivo.govoet.my.id/144"
         },
         {
           "name": "CH168es",
