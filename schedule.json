@@ -1,32 +1,5 @@
 {
-  "last_updated": "2025-10-22T05:42:50.683503+00:00",
+  "last_updated": "2025-10-22T06:34:04.516837+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-10-22T05:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Mazatlan FC - Santos Laguna",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        },
-        {
-          "name": "CH156es",
-          "url": "https://envivo.govoet.my.id/156"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-22T05:05:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Monterrey - Juarez",
-      "channels": [
-        {
-          "name": "CH157es",
-          "url": "https://envivo.govoet.my.id/157"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
