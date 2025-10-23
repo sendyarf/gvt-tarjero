@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-23T14:46:07.070030+00:00",
+  "last_updated": "2025-10-23T15:23:44.691317+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -114,8 +114,8 @@
           "url": "https://envivo.govoet.my.id/42"
         },
         {
-          "name": "CH171es",
-          "url": "https://envivo.govoet.my.id/171"
+          "name": "CH172es",
+          "url": "https://envivo.govoet.my.id/172"
         },
         {
           "name": "CH138it",
@@ -208,8 +208,8 @@
           "url": "https://envivo.govoet.my.id/40"
         },
         {
-          "name": "CH165es",
-          "url": "https://envivo.govoet.my.id/165"
+          "name": "CH171es",
+          "url": "https://envivo.govoet.my.id/171"
         },
         {
           "name": "CH129gb",
@@ -272,6 +272,29 @@
         {
           "name": "CH98es",
           "url": "https://envivo.govoet.my.id/98"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-23T18:45:00+02:00",
+      "competition": "Ligue Europa",
+      "teams": "Feyenoord - Panathinaikos",
+      "channels": [
+        {
+          "name": "CH36fr",
+          "url": "https://envivo.govoet.my.id/36"
+        },
+        {
+          "name": "CH165es",
+          "url": "https://envivo.govoet.my.id/165"
+        },
+        {
+          "name": "CH141nl",
+          "url": "https://envivo.govoet.my.id/141"
+        },
+        {
+          "name": "CH90es",
+          "url": "https://envivo.govoet.my.id/90"
         }
       ]
     },
@@ -474,8 +497,8 @@
           "url": "https://envivo.govoet.my.id/44"
         },
         {
-          "name": "CH173es",
-          "url": "https://envivo.govoet.my.id/173"
+          "name": "CH179es",
+          "url": "https://envivo.govoet.my.id/179"
         }
       ]
     },
@@ -489,8 +512,8 @@
           "url": "https://envivo.govoet.my.id/51"
         },
         {
-          "name": "CH172es",
-          "url": "https://envivo.govoet.my.id/172"
+          "name": "CH173es",
+          "url": "https://envivo.govoet.my.id/173"
         },
         {
           "name": "CH118de",
@@ -654,29 +677,6 @@
         {
           "name": "CH100es",
           "url": "https://envivo.govoet.my.id/100"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-23T21:00:00+02:00",
-      "competition": "Ligue Europa",
-      "teams": "Feyenoord - Panathinaikos",
-      "channels": [
-        {
-          "name": "CH162es",
-          "url": "https://envivo.govoet.my.id/162"
-        },
-        {
-          "name": "CH171es",
-          "url": "https://envivo.govoet.my.id/171"
-        },
-        {
-          "name": "CH141nl",
-          "url": "https://envivo.govoet.my.id/141"
-        },
-        {
-          "name": "CH90es",
-          "url": "https://envivo.govoet.my.id/90"
         }
       ]
     },
