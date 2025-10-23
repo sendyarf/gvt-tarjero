@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-10-23T20:23:51.235946+00:00",
+  "last_updated": "2025-10-23T20:41:13.595925+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-23T19:30:00+02:00",
-      "competition": "EuroLeague",
-      "teams": "Lyon-Villeurbanne - Dubai",
-      "channels": [
-        {
-          "name": "CH67es",
-          "url": "https://envivo.govoet.my.id/67"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-23T20:00:00+02:00",
       "competition": "Saudi Pro League",
