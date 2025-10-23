@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-10-23T04:44:33.093951+00:00",
+  "last_updated": "2025-10-23T05:21:19.656825+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-23T04:00:00+02:00",
-      "competition": "NBA",
-      "teams": "Phoenix Suns - Sacramento Kings",
-      "channels": [
-        {
-          "name": "CH180us",
-          "url": "https://envivo.govoet.my.id/180"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-23T04:00:00+02:00",
-      "competition": "NBA",
-      "teams": "Portland Trail Blazers - Minnesota Timberwolves",
-      "channels": [
-        {
-          "name": "CH181us",
-          "url": "https://envivo.govoet.my.id/181"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-23T04:30:00+02:00",
       "competition": "MLS",
