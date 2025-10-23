@@ -1,45 +1,7 @@
 {
-  "last_updated": "2025-10-23T03:05:12.511436+00:00",
+  "last_updated": "2025-10-23T03:49:57.121759+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-23T02:30:00+02:00",
-      "competition": "Copa Libertadores",
-      "teams": "Flamengo - Racing Club",
-      "channels": [
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH61es",
-          "url": "https://envivo.govoet.my.id/61"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        },
-        {
-          "name": "CH76es",
-          "url": "https://envivo.govoet.my.id/76"
-        },
-        {
-          "name": "CH78es",
-          "url": "https://envivo.govoet.my.id/78"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-23T02:30:00+02:00",
-      "competition": "MLS",
-      "teams": "Chicago Fire - Orlando City",
-      "channels": [
-        {
-          "name": "CH195us",
-          "url": "https://envivo.govoet.my.id/195"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-23T03:00:00+02:00",
       "competition": "Liga Mx",
