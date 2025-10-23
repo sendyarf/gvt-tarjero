@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-10-23T03:49:57.121759+00:00",
+  "last_updated": "2025-10-23T04:26:20.363103+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-23T03:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Pachuca - Tigres",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-23T03:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Queretaro - Guadalajara",
-      "channels": [
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-23T03:00:00+02:00",
-      "competition": "NBA",
-      "teams": "Utah Jazz - Los Angeles Clippers",
-      "channels": [
-        {
-          "name": "CH178us",
-          "url": "https://envivo.govoet.my.id/178"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-23T03:30:00+02:00",
       "competition": "NBA",
