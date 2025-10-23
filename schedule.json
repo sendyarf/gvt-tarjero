@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-10-23T21:18:34.157346+00:00",
+  "last_updated": "2025-10-23T21:38:04.264815+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-23T20:30:00+02:00",
-      "competition": "EuroLeague",
-      "teams": "Barcelone - Zalgiris Kaunas",
-      "channels": [
-        {
-          "name": "CH55es",
-          "url": "https://envivo.govoet.my.id/55"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-23T20:30:00+02:00",
-      "competition": "EuroLeague",
-      "teams": "Milano - Valence",
-      "channels": [
-        {
-          "name": "CH62es",
-          "url": "https://envivo.govoet.my.id/62"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-23T21:00:00+02:00",
       "competition": "Conference League",
