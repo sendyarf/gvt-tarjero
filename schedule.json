@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-10-22T23:38:08.337853+00:00",
+  "last_updated": "2025-10-23T01:44:15.451944+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-23T00:00:00+02:00",
-      "competition": "Serie A Bresil",
-      "teams": "Bahia - Internacional",
-      "channels": [
-        {
-          "name": "CH159pt",
-          "url": "https://envivo.govoet.my.id/159"
-        },
-        {
-          "name": "CH82es",
-          "url": "https://envivo.govoet.my.id/82"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-23T00:30:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Huracan - Central Cordoba",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-23T01:00:00+02:00",
       "competition": "Copa Colombia",
