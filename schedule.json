@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-10-23T05:21:19.656825+00:00",
+  "last_updated": "2025-10-23T05:41:42.898478+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-23T04:30:00+02:00",
-      "competition": "MLS",
-      "teams": "Portland Timbers - Real Salt Lake",
-      "channels": [
-        {
-          "name": "CH196us",
-          "url": "https://envivo.govoet.my.id/196"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-23T05:00:00+02:00",
       "competition": "Liga Mx",
