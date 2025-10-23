@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-10-23T20:41:13.595925+00:00",
+  "last_updated": "2025-10-23T21:18:34.157346+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-23T20:00:00+02:00",
-      "competition": "Saudi Pro League",
-      "teams": "Al Najma - Al Ahli SC",
-      "channels": [
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-23T20:05:00+02:00",
-      "competition": "EuroLeague",
-      "teams": "Hapoel Tel-Aviv - Monaco",
-      "channels": [
-        {
-          "name": "CH66es",
-          "url": "https://envivo.govoet.my.id/66"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-23T20:30:00+02:00",
       "competition": "EuroLeague",
