@@ -1,39 +1,5 @@
 {
-  "last_updated": "2025-10-23T05:41:42.898478+00:00",
+  "last_updated": "2025-10-23T06:33:26.902556+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-10-23T05:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Atlas - Leon",
-      "channels": [
-        {
-          "name": "CH156es",
-          "url": "https://envivo.govoet.my.id/156"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-23T05:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Tijuana - Toluca",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-23T05:05:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "U.N.A.M. - Atl. San Luis",
-      "channels": [
-        {
-          "name": "CH157es",
-          "url": "https://envivo.govoet.my.id/157"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
