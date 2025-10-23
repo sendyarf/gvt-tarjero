@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-10-23T04:26:20.363103+00:00",
+  "last_updated": "2025-10-23T04:44:33.093951+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-23T03:30:00+02:00",
-      "competition": "NBA",
-      "teams": "Dallas Mavericks - San Antonio Spurs",
-      "channels": [
-        {
-          "name": "CH179us",
-          "url": "https://envivo.govoet.my.id/179"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-23T04:00:00+02:00",
       "competition": "NBA",
