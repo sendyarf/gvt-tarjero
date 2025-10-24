@@ -1,44 +1,7 @@
 {
-  "last_updated": "2025-10-24T19:17:43.764739+00:00",
+  "last_updated": "2025-10-24T19:38:50.080542+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-24T18:30:00+02:00",
-      "competition": "Bundesliga 2",
-      "teams": "bundesliga 2 konferenz -",
-      "channels": [
-        {
-          "name": "CH112de",
-          "url": "https://envivo.govoet.my.id/112"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-24T18:30:00+02:00",
-      "competition": "Bundesliga 2",
-      "teams": "Greuther Fürth - Karlsruher",
-      "channels": [
-        {
-          "name": "CH114de",
-          "url": "https://envivo.govoet.my.id/114"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-24T18:30:00+02:00",
-      "competition": "Bundesliga 2",
-      "teams": "Schalke 04 - Darmstadt",
-      "channels": [
-        {
-          "name": "CH113de",
-          "url": "https://envivo.govoet.my.id/113"
-        },
-        {
-          "name": "CH79es",
-          "url": "https://envivo.govoet.my.id/79"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-24T19:00:00+02:00",
       "competition": "Pro D2",
