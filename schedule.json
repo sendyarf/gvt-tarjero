@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-10-24T22:41:40.001220+00:00",
+  "last_updated": "2025-10-24T23:19:26.128675+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-24T22:00:00+02:00",
-      "competition": "Campeonato Itaú Chile",
-      "teams": "Palestino - Everton",
-      "channels": [
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-24T22:00:00+02:00",
-      "competition": "Liga 1 Te Apuesto",
-      "teams": "Juan Pablo II - Comerciantes Unidos",
-      "channels": [
-        {
-          "name": "CH84es",
-          "url": "https://envivo.govoet.my.id/84"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-24T23:00:00+02:00",
       "competition": "Liga Betplay Dimayor",
