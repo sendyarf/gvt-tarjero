@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-10-24T19:38:50.080542+00:00",
+  "last_updated": "2025-10-24T20:24:35.576133+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-24T19:00:00+02:00",
-      "competition": "Pro D2",
-      "teams": "CA Brive - Soyaux Angoulême",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-24T19:00:00+02:00",
-      "competition": "Super Lig",
-      "teams": "Karagumruk - Kayserispor",
-      "channels": [
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-24T19:30:00+02:00",
       "competition": "EuroLeague",
