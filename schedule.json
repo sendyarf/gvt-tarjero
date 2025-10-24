@@ -1,52 +1,7 @@
 {
-  "last_updated": "2025-10-24T21:18:57.831136+00:00",
+  "last_updated": "2025-10-24T21:38:32.332738+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-24T20:30:00+02:00",
-      "competition": "Bundesliga",
-      "teams": "Werder Brême - Union Berlin",
-      "channels": [
-        {
-          "name": "CH9fr",
-          "url": "https://envivo.govoet.my.id/9"
-        },
-        {
-          "name": "CH111de",
-          "url": "https://envivo.govoet.my.id/111"
-        },
-        {
-          "name": "CH91es",
-          "url": "https://envivo.govoet.my.id/91"
-        },
-        {
-          "name": "CH116es",
-          "url": "https://envivo.govoet.my.id/116"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-24T20:30:00+02:00",
-      "competition": "EuroLeague",
-      "teams": "Partizan - Paris",
-      "channels": [
-        {
-          "name": "CH66es",
-          "url": "https://envivo.govoet.my.id/66"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-24T20:30:00+02:00",
-      "competition": "Laliga 2",
-      "teams": "Huesca - Las Palmas",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-24T20:45:00+02:00",
       "competition": "EuroLeague",
