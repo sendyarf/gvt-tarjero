@@ -1,64 +1,7 @@
 {
-  "last_updated": "2025-10-24T03:01:56.064770+00:00",
+  "last_updated": "2025-10-24T03:48:13.726089+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-24T02:10:00+02:00",
-      "competition": "Copa Argentina",
-      "teams": "Belgrano - Argentinos Jrs",
-      "channels": [
-        {
-          "name": "CH77es",
-          "url": "https://envivo.govoet.my.id/77"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-24T02:15:00+02:00",
-      "competition": "NFL",
-      "teams": "Los Angeles Chargers - Minnesota Vikings",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH192us",
-          "url": "https://envivo.govoet.my.id/192"
-        },
-        {
-          "name": "CH101es",
-          "url": "https://envivo.govoet.my.id/101"
-        },
-        {
-          "name": "CH104es",
-          "url": "https://envivo.govoet.my.id/104"
-        },
-        {
-          "name": "CH91es",
-          "url": "https://envivo.govoet.my.id/91"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-24T02:30:00+02:00",
-      "competition": "Copa Libertadores",
-      "teams": "LDU Quito (Ecu) - Palmeiras (Bra)",
-      "channels": [
-        {
-          "name": "CH87us",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        },
-        {
-          "name": "CH61es",
-          "url": "https://envivo.govoet.my.id/61"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-24T03:00:00+02:00",
       "competition": "Liga 1 Te Apuesto",
