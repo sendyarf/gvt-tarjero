@@ -1,30 +1,7 @@
 {
-  "last_updated": "2025-10-23T23:38:12.428216+00:00",
+  "last_updated": "2025-10-24T01:40:21.197852+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-24T00:00:00+02:00",
-      "competition": "Copa Sudamericana",
-      "teams": "U. De Chile (Chi) - Lanus (Arg)",
-      "channels": [
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        },
-        {
-          "name": "CH55es",
-          "url": "https://envivo.govoet.my.id/55"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-24T01:30:00+02:00",
       "competition": "NBA",
