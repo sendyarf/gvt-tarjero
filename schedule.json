@@ -1,41 +1,7 @@
 {
-  "last_updated": "2025-10-24T04:43:25.821966+00:00",
+  "last_updated": "2025-10-24T05:20:37.537600+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-24T03:50:00+02:00",
-      "competition": "Moto2",
-      "teams": "Essais libres 1 des Moto 2 -",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-24T04:00:00+02:00",
-      "competition": "NBA",
-      "teams": "Golden State Warriors - Denver Nuggets",
-      "channels": [
-        {
-          "name": "CH191us",
-          "url": "https://envivo.govoet.my.id/191"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-24T04:45:00+02:00",
       "competition": "MotoGP",
