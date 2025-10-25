@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-10-25T03:03:46.426367+00:00",
+  "last_updated": "2025-10-25T03:49:27.765825+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-25T02:30:00+02:00",
-      "competition": "NBA",
-      "teams": "Dallas Mavericks - Washington Wizards",
-      "channels": [
-        {
-          "name": "CH167us",
-          "url": "https://envivo.govoet.my.id/167"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-25T02:40:00+02:00",
-      "competition": "MotoGP",
-      "teams": "Essais libres 2 des Moto 3 -",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-25T03:00:00+02:00",
       "competition": "Liga De Expansion Mx",
