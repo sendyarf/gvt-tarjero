@@ -1,55 +1,7 @@
 {
-  "last_updated": "2025-10-25T04:42:06.141854+00:00",
+  "last_updated": "2025-10-25T05:20:07.104435+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-25T04:00:00+02:00",
-      "competition": "MotoGP",
-      "teams": "Essais libres 2 des Moto GP -",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-25T04:00:00+02:00",
-      "competition": "NBA",
-      "teams": "Los Angeles Lakers - Minnesota Timberwolves",
-      "channels": [
-        {
-          "name": "CH168us",
-          "url": "https://envivo.govoet.my.id/168"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-25T04:00:00+02:00",
-      "competition": "NBA",
-      "teams": "Portland Trail Blazers - Golden State Warriors",
-      "channels": [
-        {
-          "name": "CH169us",
-          "url": "https://envivo.govoet.my.id/169"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-25T04:00:00+02:00",
-      "competition": "NBA",
-      "teams": "Sacramento Kings - Utah Jazz",
-      "channels": [
-        {
-          "name": "CH170us",
-          "url": "https://envivo.govoet.my.id/170"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-25T04:30:00+02:00",
       "competition": "NBA",
