@@ -1,70 +1,7 @@
 {
-  "last_updated": "2025-10-25T03:49:27.765825+00:00",
+  "last_updated": "2025-10-25T04:24:44.432734+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-25T03:00:00+02:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Alebrijes Oaxaca - Tepatitlan de Morelos",
-      "channels": [
-        {
-          "name": "CH105es",
-          "url": "https://envivo.govoet.my.id/105"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-25T03:00:00+02:00",
-      "competition": "Liga Mx",
-      "teams": "Juarez - Puebla",
-      "channels": [
-        {
-          "name": "CH72es",
-          "url": "https://envivo.govoet.my.id/72"
-        },
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-25T03:10:00+02:00",
-      "competition": "Copa Argentina",
-      "teams": "Ind. Rivadavia - River Plate",
-      "channels": [
-        {
-          "name": "CH77es",
-          "url": "https://envivo.govoet.my.id/77"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-25T03:10:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "America De Cali - Junior",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-25T03:10:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Pereira - Aguilas",
-      "channels": [
-        {
-          "name": "CH82es",
-          "url": "https://envivo.govoet.my.id/82"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-25T03:25:00+02:00",
       "competition": "MotoGP",
