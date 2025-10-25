@@ -1,78 +1,7 @@
 {
-  "last_updated": "2025-10-24T23:38:40.054466+00:00",
+  "last_updated": "2025-10-25T01:41:54.066673+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-24T23:00:00+02:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Alianza - La Equidad",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-24T23:00:00+02:00",
-      "competition": "Torneo LPF",
-      "teams": "Independiente - Platense",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-25T00:00:00+02:00",
-      "competition": "formula 1",
-      "teams": "F1 Mexique Essais libres 2 -",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        },
-        {
-          "name": "CH60es",
-          "url": "https://envivo.govoet.my.id/60"
-        },
-        {
-          "name": "CH121de",
-          "url": "https://envivo.govoet.my.id/121"
-        },
-        {
-          "name": "CH134gb",
-          "url": "https://envivo.govoet.my.id/134"
-        },
-        {
-          "name": "CH107es",
-          "url": "https://envivo.govoet.my.id/107"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-25T00:30:00+02:00",
-      "competition": "Liga AUF Uruguaya",
-      "teams": "Defensor Sp. - Montevideo City",
-      "channels": [
-        {
-          "name": "CH109es",
-          "url": "https://envivo.govoet.my.id/109"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-25T00:30:00+02:00",
-      "competition": "NBA",
-      "teams": "Toronto Raptors - Milwaukee Bucks",
-      "channels": [
-        {
-          "name": "CH160us",
-          "url": "https://envivo.govoet.my.id/160"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-25T01:00:00+02:00",
       "competition": "Liga Betplay Dimayor",
