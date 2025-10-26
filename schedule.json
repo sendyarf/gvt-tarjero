@@ -1,41 +1,7 @@
 {
-  "last_updated": "2025-10-26T15:39:12.687677+00:00",
+  "last_updated": "2025-10-26T16:25:20.664646+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-26T14:00:00+01:00",
-      "competition": "Laliga",
-      "teams": "Majorque - Levante",
-      "channels": [
-        {
-          "name": "CH5fr",
-          "url": "https://envivo.govoet.my.id/5"
-        },
-        {
-          "name": "CH49es",
-          "url": "https://envivo.govoet.my.id/49"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-26T14:00:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Malaga - Andorra",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-26T14:30:00+01:00",
       "competition": "Eredivisie",
@@ -407,10 +373,6 @@
         {
           "name": "CH21fr",
           "url": "https://envivo.govoet.my.id/21"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
         }
       ]
     },
@@ -422,10 +384,6 @@
         {
           "name": "CH22fr",
           "url": "https://envivo.govoet.my.id/22"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
         }
       ]
     },
