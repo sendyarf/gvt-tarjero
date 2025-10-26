@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-26T08:43:52.348737+00:00",
+  "last_updated": "2025-10-26T09:19:49.076120+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -8,8 +8,8 @@
       "teams": "La course des Moto GP -",
       "channels": [
         {
-          "name": "CH11fr",
-          "url": "https://envivo.govoet.my.id/11"
+          "name": "CH14fr",
+          "url": "https://envivo.govoet.my.id/14"
         },
         {
           "name": "CH56es",
@@ -547,8 +547,8 @@
       "teams": "Angers - Lorient",
       "channels": [
         {
-          "name": "CH40fr",
-          "url": "https://envivo.govoet.my.id/40"
+          "name": "CH21fr",
+          "url": "https://envivo.govoet.my.id/21"
         },
         {
           "name": "CH69es",
@@ -577,8 +577,8 @@
       "teams": "Rennes - Nice",
       "channels": [
         {
-          "name": "CH21fr",
-          "url": "https://envivo.govoet.my.id/21"
+          "name": "CH40fr",
+          "url": "https://envivo.govoet.my.id/40"
         },
         {
           "name": "CH69es",
@@ -1061,6 +1061,10 @@
       "competition": "Serie A",
       "teams": "Lazio - Juventus",
       "channels": [
+        {
+          "name": "CH45fr",
+          "url": "https://envivo.govoet.my.id/45"
+        },
         {
           "name": "CH137it",
           "url": "https://envivo.govoet.my.id/137"
@@ -1570,8 +1574,8 @@
       "teams": "Gaziantep - Fenerbahce",
       "channels": [
         {
-          "name": "CH12fr",
-          "url": "https://envivo.govoet.my.id/12"
+          "name": "CH2fr",
+          "url": "https://envivo.govoet.my.id/2"
         },
         {
           "name": "CH151tr",
@@ -1623,8 +1627,8 @@
       "teams": "Betis - Atl. Madrid",
       "channels": [
         {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
+          "name": "CH1fr",
+          "url": "https://envivo.govoet.my.id/1"
         },
         {
           "name": "CH49es",
