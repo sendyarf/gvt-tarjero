@@ -1,70 +1,7 @@
 {
-  "last_updated": "2025-10-26T20:22:57.028417+00:00",
+  "last_updated": "2025-10-26T20:40:48.700495+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-26T18:30:00+01:00",
-      "competition": "Betfred Super League",
-      "teams": "PAOK - Volos",
-      "channels": [
-        {
-          "name": "CH150gr",
-          "url": "https://envivo.govoet.my.id/150"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-26T18:30:00+01:00",
-      "competition": "Laliga",
-      "teams": "Osasuna - Celta Vigo",
-      "channels": [
-        {
-          "name": "CH5fr",
-          "url": "https://envivo.govoet.my.id/5"
-        },
-        {
-          "name": "CH49es",
-          "url": "https://envivo.govoet.my.id/49"
-        },
-        {
-          "name": "CH89es",
-          "url": "https://envivo.govoet.my.id/89"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-26T18:30:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Almeria - Castellon",
-      "channels": [
-        {
-          "name": "CH54es",
-          "url": "https://envivo.govoet.my.id/54"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-26T18:30:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Gijon - Saragosse",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-26T18:30:00+01:00",
-      "competition": "Pro League",
-      "teams": "Genk - RAAL La Louviere",
-      "channels": [
-        {
-          "name": "CH153fr",
-          "url": "https://envivo.govoet.my.id/153"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-26T19:00:00+01:00",
       "competition": "Ecuador Ligapro",
