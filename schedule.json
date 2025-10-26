@@ -1,41 +1,7 @@
 {
-  "last_updated": "2025-10-26T14:18:23.454432+00:00",
+  "last_updated": "2025-10-26T14:39:48.097301+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-26T12:30:00+01:00",
-      "competition": "Serie A",
-      "teams": "Torino - Genoa",
-      "channels": [
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-26T12:30:00+01:00",
-      "competition": "Super Lig",
-      "teams": "Antalyaspor - Basaksehir",
-      "channels": [
-        {
-          "name": "CH152tr",
-          "url": "https://envivo.govoet.my.id/152"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-26T13:00:00+01:00",
       "competition": "Premiership",
