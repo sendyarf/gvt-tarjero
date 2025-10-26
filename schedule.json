@@ -1,90 +1,7 @@
 {
-  "last_updated": "2025-10-26T17:17:36.177628+00:00",
+  "last_updated": "2025-10-26T17:39:02.228827+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-26T15:30:00+01:00",
-      "competition": "Bundesliga",
-      "teams": "Bayer Leverkusen - Fribourg",
-      "channels": [
-        {
-          "name": "CH6fr",
-          "url": "https://envivo.govoet.my.id/6"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH116es",
-          "url": "https://envivo.govoet.my.id/116"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-26T16:00:00+01:00",
-      "competition": "Betfred Super League",
-      "teams": "Levadiakos - Aris",
-      "channels": [
-        {
-          "name": "CH148gr",
-          "url": "https://envivo.govoet.my.id/148"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-26T16:00:00+01:00",
-      "competition": "Premiership",
-      "teams": "Rangers - Kilmarnock",
-      "channels": [
-        {
-          "name": "CH135us",
-          "url": "https://envivo.govoet.my.id/135"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-26T16:00:00+01:00",
-      "competition": "Pro League",
-      "teams": "Cercle Bruges - Zulte-Waregem",
-      "channels": [
-        {
-          "name": "CH153fr",
-          "url": "https://envivo.govoet.my.id/153"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-26T16:15:00+01:00",
-      "competition": "Laliga",
-      "teams": "Real Madrid - Barcelone",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH51es",
-          "url": "https://envivo.govoet.my.id/51"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-26T16:30:00+01:00",
       "competition": "Betfred Super League",
@@ -985,29 +902,6 @@
         {
           "name": "CH164us",
           "url": "https://envivo.govoet.my.id/164"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-26T23:40:00+01:00",
-      "competition": "formula 1",
-      "teams": "Essais qualificatifs -",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        },
-        {
-          "name": "CH60es",
-          "url": "https://envivo.govoet.my.id/60"
-        },
-        {
-          "name": "CH121de",
-          "url": "https://envivo.govoet.my.id/121"
-        },
-        {
-          "name": "CH134gb",
-          "url": "https://envivo.govoet.my.id/134"
         }
       ]
     },
