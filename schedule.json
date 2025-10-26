@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-10-26T16:25:20.664646+00:00",
+  "last_updated": "2025-10-26T16:40:36.385961+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-26T14:30:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "Feyenoord - PSV",
-      "channels": [
-        {
-          "name": "CH142nl",
-          "url": "https://envivo.govoet.my.id/142"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-26T15:00:00+01:00",
       "competition": "Ligue 1",
