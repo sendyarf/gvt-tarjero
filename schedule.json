@@ -1,70 +1,7 @@
 {
-  "last_updated": "2025-10-26T04:42:21.028818+00:00",
+  "last_updated": "2025-10-26T05:20:30.424616+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-26T03:00:00+01:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Cancun - Correcaminos",
-      "channels": [
-        {
-          "name": "CH105es",
-          "url": "https://envivo.govoet.my.id/105"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-26T03:00:00+01:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Zacatecas Mineros - Atlante",
-      "channels": [
-        {
-          "name": "CH158es",
-          "url": "https://envivo.govoet.my.id/158"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-26T03:00:00+01:00",
-      "competition": "Liga Mx",
-      "teams": "Leon - U.N.A.M.",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        },
-        {
-          "name": "CH82es",
-          "url": "https://envivo.govoet.my.id/82"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-26T03:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Denver Nuggets - Phoenix Suns",
-      "channels": [
-        {
-          "name": "CH164us",
-          "url": "https://envivo.govoet.my.id/164"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-26T03:07:00+01:00",
-      "competition": "Liga Mx",
-      "teams": "Guadalajara - Atlas",
-      "channels": [
-        {
-          "name": "CH72es",
-          "url": "https://envivo.govoet.my.id/72"
-        },
-        {
-          "name": "CH73es",
-          "url": "https://envivo.govoet.my.id/73"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-26T03:40:00+01:00",
       "competition": "MotoGP",
