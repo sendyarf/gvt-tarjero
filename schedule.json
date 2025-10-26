@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-10-26T22:19:59.046559+00:00",
+  "last_updated": "2025-10-26T22:41:02.597203+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-26T20:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Detroit Pistons - Boston Celtics",
-      "channels": [
-        {
-          "name": "CH161us",
-          "url": "https://envivo.govoet.my.id/161"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-26T20:45:00+01:00",
       "competition": "Ligue 1",
