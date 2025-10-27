@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-27T12:49:09.576082+00:00",
+  "last_updated": "2025-10-27T13:33:51.179293+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -84,8 +84,8 @@
       "teams": "Moreirense - FC Porto",
       "channels": [
         {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
+          "name": "CH2fr",
+          "url": "https://envivo.govoet.my.id/2"
         },
         {
           "name": "CH147pt",
@@ -142,6 +142,55 @@
       ]
     },
     {
+      "datetime": "2025-10-28T00:00:00+01:00",
+      "competition": "NHL",
+      "teams": "Pittsburgh Penguins - St. Louis Blues",
+      "channels": [
+        {
+          "name": "CH4fr",
+          "url": "https://envivo.govoet.my.id/4"
+        },
+        {
+          "name": "CH183us",
+          "url": "https://envivo.govoet.my.id/183"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-28T00:30:00+01:00",
+      "competition": "NHL",
+      "teams": "Ottawa Senators - Boston Bruins",
+      "channels": [
+        {
+          "name": "CH184us",
+          "url": "https://envivo.govoet.my.id/184"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-10-28T01:00:00+01:00",
+      "competition": "MLB",
+      "teams": "Los Angeles Dodgers - Toronto Blue Jays",
+      "channels": [
+        {
+          "name": "CH3fr",
+          "url": "https://envivo.govoet.my.id/3"
+        },
+        {
+          "name": "CH195us",
+          "url": "https://envivo.govoet.my.id/195"
+        },
+        {
+          "name": "CH88es",
+          "url": "https://envivo.govoet.my.id/88"
+        },
+        {
+          "name": "CH97es",
+          "url": "https://envivo.govoet.my.id/97"
+        }
+      ]
+    },
+    {
       "datetime": "2025-10-28T01:00:00+01:00",
       "competition": "NBA",
       "teams": "Chicago Bulls - Atlanta Hawks",
@@ -190,6 +239,10 @@
       "competition": "NFL",
       "teams": "Kansas City Chiefs - Washington Commanders",
       "channels": [
+        {
+          "name": "CH2fr",
+          "url": "https://envivo.govoet.my.id/2"
+        },
         {
           "name": "CH182us",
           "url": "https://envivo.govoet.my.id/182"
