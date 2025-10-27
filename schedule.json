@@ -1,45 +1,7 @@
 {
-  "last_updated": "2025-10-27T19:38:08.798075+00:00",
+  "last_updated": "2025-10-27T20:22:11.932794+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-27T18:00:00+01:00",
-      "competition": "Super Lig",
-      "teams": "Gaziantep - Fenerbahce",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        },
-        {
-          "name": "CH91es",
-          "url": "https://envivo.govoet.my.id/91"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
-          "name": "CH79es",
-          "url": "https://envivo.govoet.my.id/79"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-27T18:00:00+01:00",
-      "competition": "Super Lig",
-      "teams": "Samsunspor - Rizespor",
-      "channels": [
-        {
-          "name": "CH152tr",
-          "url": "https://envivo.govoet.my.id/152"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-27T20:00:00+01:00",
       "competition": "Torneo LPF",
