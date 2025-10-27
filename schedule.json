@@ -1,45 +1,7 @@
 {
-  "last_updated": "2025-10-27T22:41:18.149758+00:00",
+  "last_updated": "2025-10-27T23:19:26.285839+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-27T21:00:00+01:00",
-      "competition": "Laliga",
-      "teams": "Betis - Atl. Madrid",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH49es",
-          "url": "https://envivo.govoet.my.id/49"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-27T21:15:00+01:00",
-      "competition": "Liga Portugal",
-      "teams": "Moreirense - FC Porto",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH147pt",
-          "url": "https://envivo.govoet.my.id/147"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-27T22:00:00+01:00",
       "competition": "Campeonato Itaú Chile",
