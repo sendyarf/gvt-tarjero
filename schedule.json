@@ -1,66 +1,7 @@
 {
-  "last_updated": "2025-10-28T21:40:01.154114+00:00",
+  "last_updated": "2025-10-28T22:21:09.979410+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-28T20:00:00+01:00",
-      "competition": "Coupe Du Roi",
-      "teams": "Inter de Valdemoro - Getafe",
-      "channels": [
-        {
-          "name": "CH52es",
-          "url": "https://envivo.govoet.my.id/52"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-28T20:00:00+01:00",
-      "competition": "Coupe Du Roi",
-      "teams": "Maracena - Valence",
-      "channels": [
-        {
-          "name": "CH50es",
-          "url": "https://envivo.govoet.my.id/50"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-28T20:00:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Bayern - Real Madrid",
-      "channels": [
-        {
-          "name": "CH62es",
-          "url": "https://envivo.govoet.my.id/62"
-        },
-        {
-          "name": "CH96es",
-          "url": "https://envivo.govoet.my.id/96"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-28T20:00:00+01:00",
-      "competition": "Knvb Beker",
-      "teams": "Helmond - Zwolle",
-      "channels": [
-        {
-          "name": "CH143nl",
-          "url": "https://envivo.govoet.my.id/143"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-28T20:15:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Panathinaikos - Maccabi Tel Aviv",
-      "channels": [
-        {
-          "name": "CH67es",
-          "url": "https://envivo.govoet.my.id/67"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-28T20:30:00+01:00",
       "competition": "Coupe De Belgique",
