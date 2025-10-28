@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-10-28T04:45:04.628449+00:00",
+  "last_updated": "2025-10-28T05:22:28.827832+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-28T03:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Golden State Warriors - Memphis Grizzlies",
-      "channels": [
-        {
-          "name": "CH169us",
-          "url": "https://envivo.govoet.my.id/169"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-28T03:30:00+01:00",
       "competition": "NBA",
