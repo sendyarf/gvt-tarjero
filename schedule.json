@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-10-28T17:42:41.947339+00:00",
+  "last_updated": "2025-10-28T18:34:09.307832+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-28T16:10:00+01:00",
-      "competition": "Saudi King Cup",
-      "teams": "Al Okhdood - Al-Hilal",
-      "channels": [
-        {
-          "name": "CH190sa",
-          "url": "https://envivo.govoet.my.id/190"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-28T18:30:00+01:00",
       "competition": "DFB Pokal",
