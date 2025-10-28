@@ -1,17 +1,5 @@
 {
-  "last_updated": "2025-10-28T05:22:28.827832+00:00",
+  "last_updated": "2025-10-28T05:43:05.633294+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-10-28T03:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Los Angeles Lakers - Portland Trail Blazers",
-      "channels": [
-        {
-          "name": "CH170us",
-          "url": "https://envivo.govoet.my.id/170"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
