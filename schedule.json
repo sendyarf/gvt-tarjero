@@ -1,73 +1,7 @@
 {
-  "last_updated": "2025-10-28T20:44:27.072549+00:00",
+  "last_updated": "2025-10-28T21:20:10.678125+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-28T18:45:00+01:00",
-      "competition": "Knvb Beker",
-      "teams": "Gemert - Sittard",
-      "channels": [
-        {
-          "name": "CH142nl",
-          "url": "https://envivo.govoet.my.id/142"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-28T19:00:00+01:00",
-      "competition": "Coupe Du Roi",
-      "teams": "Constancia - Gérone",
-      "channels": [
-        {
-          "name": "CH49es",
-          "url": "https://envivo.govoet.my.id/49"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-28T19:00:00+01:00",
-      "competition": "Coupe Du Roi",
-      "teams": "Ourense CF - R. Oviedo",
-      "channels": [
-        {
-          "name": "CH51es",
-          "url": "https://envivo.govoet.my.id/51"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-28T19:00:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Zalgiris Kaunas - Virtus Bologna",
-      "channels": [
-        {
-          "name": "CH192es",
-          "url": "https://envivo.govoet.my.id/192"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-28T19:00:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Étoile Rouge Belgrade - Lyon-Villeurbanne",
-      "channels": [
-        {
-          "name": "CH193es",
-          "url": "https://envivo.govoet.my.id/193"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-28T19:00:00+01:00",
-      "competition": "Saudi King Cup",
-      "teams": "Al-Nassr - Al-Ittihad FC",
-      "channels": [
-        {
-          "name": "CH61es",
-          "url": "https://envivo.govoet.my.id/61"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-28T19:30:00+01:00",
       "competition": "Coupe Du Roi",
