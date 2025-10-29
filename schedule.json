@@ -1,51 +1,7 @@
 {
-  "last_updated": "2025-10-29T21:40:21.789510+00:00",
+  "last_updated": "2025-10-29T22:21:24.781370+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-29T20:00:00+01:00",
-      "competition": "Coupe Du Roi",
-      "teams": "Sant Just - Majorque",
-      "channels": [
-        {
-          "name": "CH51es",
-          "url": "https://envivo.govoet.my.id/51"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-29T20:00:00+01:00",
-      "competition": "Knvb Beker",
-      "teams": "Genemuiden - Halsteren",
-      "channels": [
-        {
-          "name": "CH143nl",
-          "url": "https://envivo.govoet.my.id/143"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-29T20:15:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Olympiakos - Monaco",
-      "channels": [
-        {
-          "name": "CH62es",
-          "url": "https://envivo.govoet.my.id/62"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-29T20:15:00+01:00",
-      "competition": "Taça Da Liga",
-      "teams": "Braga - Santa Clara",
-      "channels": [
-        {
-          "name": "CH145pt",
-          "url": "https://envivo.govoet.my.id/145"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-29T20:30:00+01:00",
       "competition": "Coupe De Grèce",
