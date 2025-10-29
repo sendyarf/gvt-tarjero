@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-10-29T04:34:55.395492+00:00",
+  "last_updated": "2025-10-29T05:23:18.485821+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-29T03:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Vancouver Canucks - New York Rangers",
-      "channels": [
-        {
-          "name": "CH193us",
-          "url": "https://envivo.govoet.my.id/193"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-29T03:30:00+01:00",
       "competition": "NHL",
