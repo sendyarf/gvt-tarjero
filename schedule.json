@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-10-29T22:21:24.781370+00:00",
+  "last_updated": "2025-10-29T22:42:07.277641+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-29T20:30:00+01:00",
-      "competition": "Coupe De Grèce",
-      "teams": "PAOK - AEL Larissa",
-      "channels": [
-        {
-          "name": "CH148gr",
-          "url": "https://envivo.govoet.my.id/148"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-29T20:30:00+01:00",
-      "competition": "Coupe Du Roi",
-      "teams": "UD Ourense - Pontevedra",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-29T20:45:00+01:00",
       "competition": "DFB Pokal",
