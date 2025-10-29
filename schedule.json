@@ -1,77 +1,7 @@
 {
-  "last_updated": "2025-10-28T23:39:46.161729+00:00",
+  "last_updated": "2025-10-29T01:50:58.419342+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-28T22:00:00+01:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Aguilas - Envigado",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-28T23:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Philadelphia Flyers - Pittsburgh Penguins",
-      "channels": [
-        {
-          "name": "CH180us",
-          "url": "https://envivo.govoet.my.id/180"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-28T23:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Toronto Maple Leafs - Calgary Flames",
-      "channels": [
-        {
-          "name": "CH181us",
-          "url": "https://envivo.govoet.my.id/181"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-28T23:30:00+01:00",
-      "competition": "NHL",
-      "teams": "Carolina Hurricanes - Vegas Golden Knights",
-      "channels": [
-        {
-          "name": "CH182us",
-          "url": "https://envivo.govoet.my.id/182"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-28T23:45:00+01:00",
-      "competition": "MLS",
-      "teams": "Charlotte - New York City",
-      "channels": [
-        {
-          "name": "CH165us",
-          "url": "https://envivo.govoet.my.id/165"
-        },
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-28T23:45:00+01:00",
-      "competition": "NHL",
-      "teams": "Buffalo Sabres - Columbus Blue Jackets",
-      "channels": [
-        {
-          "name": "CH183us",
-          "url": "https://envivo.govoet.my.id/183"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-29T00:00:00+01:00",
       "competition": "NBA",
