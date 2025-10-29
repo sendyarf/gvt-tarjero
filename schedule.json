@@ -1,48 +1,7 @@
 {
-  "last_updated": "2025-10-29T03:17:53.951018+00:00",
+  "last_updated": "2025-10-29T03:59:13.161075+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-29T01:30:00+01:00",
-      "competition": "Copa Sudamericana",
-      "teams": "Atletico-MG (Bra) - Ind. del Valle (Ecu)",
-      "channels": [
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        },
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-29T01:30:00+01:00",
-      "competition": "NHL",
-      "teams": "Dallas Stars - Washington Capitals",
-      "channels": [
-        {
-          "name": "CH189us",
-          "url": "https://envivo.govoet.my.id/189"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-29T01:45:00+01:00",
-      "competition": "NHL",
-      "teams": "Chicago Blackhawks - Ottawa Senators",
-      "channels": [
-        {
-          "name": "CH190us",
-          "url": "https://envivo.govoet.my.id/190"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-29T02:00:00+01:00",
       "competition": "NHL",
