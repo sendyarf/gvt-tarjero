@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-10-29T15:45:38.028799+00:00",
+  "last_updated": "2025-10-29T16:31:01.905847+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-29T14:30:00+01:00",
-      "competition": "Coupe De Grèce",
-      "teams": "Ilioupoli - AEK",
-      "channels": [
-        {
-          "name": "CH149gr",
-          "url": "https://envivo.govoet.my.id/149"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-29T16:30:00+01:00",
       "competition": "Coupe De Grèce",
