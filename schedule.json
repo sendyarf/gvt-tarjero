@@ -1,40 +1,5 @@
 {
-  "last_updated": "2025-10-29T05:43:43.926525+00:00",
+  "last_updated": "2025-10-29T06:35:05.104735+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-10-29T04:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Golden State Warriors - Los Angeles Clippers",
-      "channels": [
-        {
-          "name": "CH164us",
-          "url": "https://envivo.govoet.my.id/164"
-        },
-        {
-          "name": "CH156es",
-          "url": "https://envivo.govoet.my.id/156"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-29T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "San Jose Sharks - Los Angeles Kings",
-      "channels": [
-        {
-          "name": "CH195us",
-          "url": "https://envivo.govoet.my.id/195"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        },
-        {
-          "name": "CH89es",
-          "url": "https://envivo.govoet.my.id/89"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
