@@ -1,71 +1,7 @@
 {
-  "last_updated": "2025-10-29T20:25:45.250971+00:00",
+  "last_updated": "2025-10-29T20:43:32.731695+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-29T18:30:00+01:00",
-      "competition": "Coupe De Grèce",
-      "teams": "Atromitos - Panathinaikos",
-      "channels": [
-        {
-          "name": "CH149gr",
-          "url": "https://envivo.govoet.my.id/149"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-29T18:30:00+01:00",
-      "competition": "Serie A",
-      "teams": "AS Rome - Parme",
-      "channels": [
-        {
-          "name": "CH138it",
-          "url": "https://envivo.govoet.my.id/138"
-        },
-        {
-          "name": "CH190es",
-          "url": "https://envivo.govoet.my.id/190"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-29T18:30:00+01:00",
-      "competition": "Serie A",
-      "teams": "Como - Hellas Vérone",
-      "channels": [
-        {
-          "name": "CH139it",
-          "url": "https://envivo.govoet.my.id/139"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH191es",
-          "url": "https://envivo.govoet.my.id/191"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-29T18:30:00+01:00",
-      "competition": "Serie A",
-      "teams": "Juventus - Udinese",
-      "channels": [
-        {
-          "name": "CH45fr",
-          "url": "https://envivo.govoet.my.id/45"
-        },
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-29T18:45:00+01:00",
       "competition": "Knvb Beker",
