@@ -1,66 +1,7 @@
 {
-  "last_updated": "2025-10-29T19:38:31.664143+00:00",
+  "last_updated": "2025-10-29T20:25:45.250971+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-29T18:00:00+01:00",
-      "competition": "DFB Pokal",
-      "teams": "dfb pokal konferenz -",
-      "channels": [
-        {
-          "name": "CH111de",
-          "url": "https://envivo.govoet.my.id/111"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-29T18:00:00+01:00",
-      "competition": "DFB Pokal",
-      "teams": "Greuther Fürth - Kaiserslautern",
-      "channels": [
-        {
-          "name": "CH115de",
-          "url": "https://envivo.govoet.my.id/115"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-29T18:00:00+01:00",
-      "competition": "DFB Pokal",
-      "teams": "Illertissen - Magdeburg",
-      "channels": [
-        {
-          "name": "CH114de",
-          "url": "https://envivo.govoet.my.id/114"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-29T18:00:00+01:00",
-      "competition": "DFB Pokal",
-      "teams": "Mayence - Stuttgart",
-      "channels": [
-        {
-          "name": "CH113de",
-          "url": "https://envivo.govoet.my.id/113"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-29T18:00:00+01:00",
-      "competition": "DFB Pokal",
-      "teams": "Paderborn - Bayer Leverkusen",
-      "channels": [
-        {
-          "name": "CH112de",
-          "url": "https://envivo.govoet.my.id/112"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-29T18:30:00+01:00",
       "competition": "Coupe De Grèce",
