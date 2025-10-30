@@ -1,37 +1,7 @@
 {
-  "last_updated": "2025-10-30T20:24:54.309006+00:00",
+  "last_updated": "2025-10-30T20:42:20.627352+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-30T18:30:00+01:00",
-      "competition": "Saudi Pro League",
-      "teams": "Al Ahli SC - Al Riyadh",
-      "channels": [
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-30T18:30:00+01:00",
-      "competition": "Serie A",
-      "teams": "Cagliari - Sassuolo",
-      "channels": [
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH99es",
-          "url": "https://envivo.govoet.my.id/99"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-30T18:45:00+01:00",
       "competition": "Knvb Beker",
