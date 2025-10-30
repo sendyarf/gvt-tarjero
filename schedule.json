@@ -1,17 +1,5 @@
 {
-  "last_updated": "2025-10-30T05:22:04.214249+00:00",
+  "last_updated": "2025-10-30T05:42:00.875028+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-10-30T03:30:00+01:00",
-      "competition": "MLS",
-      "teams": "Los Angeles FC - Austin FC",
-      "channels": [
-        {
-          "name": "CH195us",
-          "url": "https://envivo.govoet.my.id/195"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
