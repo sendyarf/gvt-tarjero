@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-10-30T04:44:14.381886+00:00",
+  "last_updated": "2025-10-30T05:22:04.214249+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-30T03:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Phoenix Suns - Memphis Grizzlies",
-      "channels": [
-        {
-          "name": "CH169us",
-          "url": "https://envivo.govoet.my.id/169"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-30T03:30:00+01:00",
       "competition": "MLS",
