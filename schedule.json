@@ -1,59 +1,7 @@
 {
-  "last_updated": "2025-10-30T20:42:20.627352+00:00",
+  "last_updated": "2025-10-30T21:19:54.954251+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-30T18:45:00+01:00",
-      "competition": "Knvb Beker",
-      "teams": "Rijnsburgse Boys - Nijmegen",
-      "channels": [
-        {
-          "name": "CH142nl",
-          "url": "https://envivo.govoet.my.id/142"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-30T19:00:00+01:00",
-      "competition": "Coupe Du Roi",
-      "teams": "Orihuela - Levante",
-      "channels": [
-        {
-          "name": "CH50es",
-          "url": "https://envivo.govoet.my.id/50"
-        },
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-30T19:00:00+01:00",
-      "competition": "Coupe Du Roi",
-      "teams": "Puerto de Vega - Celta Vigo",
-      "channels": [
-        {
-          "name": "CH49es",
-          "url": "https://envivo.govoet.my.id/49"
-        },
-        {
-          "name": "CH82es",
-          "url": "https://envivo.govoet.my.id/82"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-30T19:00:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Zalgiris Kaunas - Lyon-Villeurbanne",
-      "channels": [
-        {
-          "name": "CH193us",
-          "url": "https://envivo.govoet.my.id/193"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-30T20:00:00+01:00",
       "competition": "Coupe Du Roi",
