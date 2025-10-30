@@ -1,55 +1,7 @@
 {
-  "last_updated": "2025-10-29T23:39:55.590226+00:00",
+  "last_updated": "2025-10-30T01:50:28.059761+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-29T21:45:00+01:00",
-      "competition": "Taça Da Liga",
-      "teams": "Benfica - Tondela",
-      "channels": [
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        },
-        {
-          "name": "CH95es",
-          "url": "https://envivo.govoet.my.id/95"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-29T22:00:00+01:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "La Equidad - Fortaleza",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-29T23:00:00+01:00",
-      "competition": "Serie A Bresil",
-      "teams": "Fluminense - Ceara",
-      "channels": [
-        {
-          "name": "CH196pt",
-          "url": "https://envivo.govoet.my.id/196"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-29T23:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Toronto Raptors - Houston Rockets",
-      "channels": [
-        {
-          "name": "CH160us",
-          "url": "https://envivo.govoet.my.id/160"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-30T00:00:00+01:00",
       "competition": "NBA",
