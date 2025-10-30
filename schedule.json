@@ -1,51 +1,7 @@
 {
-  "last_updated": "2025-10-30T21:39:34.462118+00:00",
+  "last_updated": "2025-10-30T22:21:07.654786+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-30T20:00:00+01:00",
-      "competition": "Coupe Du Roi",
-      "teams": "Baleares - Gimnastic",
-      "channels": [
-        {
-          "name": "CH54es",
-          "url": "https://envivo.govoet.my.id/54"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-30T20:00:00+01:00",
-      "competition": "Coupe Du Roi",
-      "teams": "Deportivo Getxo - Alaves",
-      "channels": [
-        {
-          "name": "CH50es",
-          "url": "https://envivo.govoet.my.id/50"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-30T20:00:00+01:00",
-      "competition": "Knvb Beker",
-      "teams": "Sparta Rotterdam - Groningen",
-      "channels": [
-        {
-          "name": "CH143nl",
-          "url": "https://envivo.govoet.my.id/143"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-30T20:05:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Maccabi Tel Aviv - Étoile Rouge Belgrade",
-      "channels": [
-        {
-          "name": "CH194us",
-          "url": "https://envivo.govoet.my.id/194"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-30T20:30:00+01:00",
       "competition": "EuroLeague",
