@@ -1,26 +1,7 @@
 {
-  "last_updated": "2025-10-30T04:26:03.269878+00:00",
+  "last_updated": "2025-10-30T04:44:14.381886+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-30T02:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Minnesota Timberwolves - Los Angeles Lakers",
-      "channels": [
-        {
-          "name": "CH168us",
-          "url": "https://envivo.govoet.my.id/168"
-        },
-        {
-          "name": "CH99es",
-          "url": "https://envivo.govoet.my.id/99"
-        },
-        {
-          "name": "CH89es",
-          "url": "https://envivo.govoet.my.id/89"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-30T03:00:00+01:00",
       "competition": "NBA",
