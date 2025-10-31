@@ -1,17 +1,5 @@
 {
-  "last_updated": "2025-10-31T05:22:50.630385+00:00",
+  "last_updated": "2025-10-31T05:42:52.736348+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-10-31T03:30:00+01:00",
-      "competition": "NHL",
-      "teams": "Los Angeles Kings - Detroit Red Wings",
-      "channels": [
-        {
-          "name": "CH175us",
-          "url": "https://envivo.govoet.my.id/175"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
