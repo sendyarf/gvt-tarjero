@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-10-31T03:55:20.125267+00:00",
+  "last_updated": "2025-10-31T04:27:29.872942+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-31T02:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Edmonton Oilers - New York Rangers",
-      "channels": [
-        {
-          "name": "CH173us",
-          "url": "https://envivo.govoet.my.id/173"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-31T02:20:00+01:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Llaneros - Atl. Nacional",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        },
-        {
-          "name": "CH82es",
-          "url": "https://envivo.govoet.my.id/82"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-31T03:00:00+01:00",
       "competition": "NHL",
