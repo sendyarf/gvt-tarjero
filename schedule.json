@@ -1,44 +1,7 @@
 {
-  "last_updated": "2025-10-31T20:24:52.203200+00:00",
+  "last_updated": "2025-10-31T20:40:41.034292+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-31T18:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Bundesliga 2 konferenz -",
-      "channels": [
-        {
-          "name": "CH112de",
-          "url": "https://envivo.govoet.my.id/112"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-31T18:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Elversberg - Hanovre",
-      "channels": [
-        {
-          "name": "CH113de",
-          "url": "https://envivo.govoet.my.id/113"
-        },
-        {
-          "name": "CH78es",
-          "url": "https://envivo.govoet.my.id/78"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-31T18:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Münster - Holstein Kiel",
-      "channels": [
-        {
-          "name": "CH114de",
-          "url": "https://envivo.govoet.my.id/114"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-31T19:00:00+01:00",
       "competition": "Campeonato Itaú Chile",
