@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-10-31T20:40:41.034292+00:00",
+  "last_updated": "2025-10-31T21:17:47.684301+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-31T19:00:00+01:00",
-      "competition": "Campeonato Itaú Chile",
-      "teams": "A. Italiano - Cobresal",
-      "channels": [
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-31T19:00:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Monaco - Panathinaikos",
-      "channels": [
-        {
-          "name": "CH65es",
-          "url": "https://envivo.govoet.my.id/65"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-31T19:00:00+01:00",
-      "competition": "Pro D2",
-      "teams": "AS Béziers - Colomiers Rugby",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-31T19:30:00+01:00",
       "competition": "National",
