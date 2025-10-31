@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-10-31T23:19:23.172386+00:00",
+  "last_updated": "2025-10-31T23:36:57.116358+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-31T21:30:00+01:00",
-      "competition": "Campeonato Itaú Chile",
-      "teams": "Deportes Iquique - La Serena",
-      "channels": [
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-31T23:00:00+01:00",
       "competition": "Torneo LPF",
