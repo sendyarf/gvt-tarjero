@@ -1,74 +1,7 @@
 {
-  "last_updated": "2025-10-31T22:20:25.987376+00:00",
+  "last_updated": "2025-10-31T22:41:50.739602+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-10-31T20:30:00+01:00",
-      "competition": "Bundesliga",
-      "teams": "Augsburg - Dortmund",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH111de",
-          "url": "https://envivo.govoet.my.id/111"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH116es",
-          "url": "https://envivo.govoet.my.id/116"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-31T20:30:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Baskonia - Anadolu Efes",
-      "channels": [
-        {
-          "name": "CH62es",
-          "url": "https://envivo.govoet.my.id/62"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-31T20:30:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Partizan - Barcelone",
-      "channels": [
-        {
-          "name": "CH64es",
-          "url": "https://envivo.govoet.my.id/64"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-31T20:30:00+01:00",
-      "competition": "Fa Cup",
-      "teams": "Luton - Forest Green",
-      "channels": [
-        {
-          "name": "CH126gb",
-          "url": "https://envivo.govoet.my.id/126"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-10-31T20:30:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Racing Santander - Real Sociedad B",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
     {
       "datetime": "2025-10-31T20:45:00+01:00",
       "competition": "Pro League",
