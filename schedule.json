@@ -1,45 +1,7 @@
 {
-  "last_updated": "2025-11-01T17:37:41.381855+00:00",
+  "last_updated": "2025-11-01T18:28:10.977084+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-01T16:15:00+01:00",
-      "competition": "Laliga",
-      "teams": "Atl. Madrid - FC Séville",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH51es",
-          "url": "https://envivo.govoet.my.id/51"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-01T16:15:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Cultural Leonesa - Mirandes",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-01T16:30:00+01:00",
       "competition": "Eredivisie",
