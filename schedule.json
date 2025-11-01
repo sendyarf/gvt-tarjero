@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-11-01T04:42:11.500191+00:00",
+  "last_updated": "2025-11-01T05:20:15.230560+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-01T03:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Phoenix Suns - Utah Jazz",
-      "channels": [
-        {
-          "name": "CH167us",
-          "url": "https://envivo.govoet.my.id/167"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-01T03:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Portland Trail Blazers - Denver Nuggets",
-      "channels": [
-        {
-          "name": "CH168us",
-          "url": "https://envivo.govoet.my.id/168"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-01T03:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Anaheim Ducks - Detroit Red Wings",
-      "channels": [
-        {
-          "name": "CH169us",
-          "url": "https://envivo.govoet.my.id/169"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-01T03:30:00+01:00",
       "competition": "NBA",
