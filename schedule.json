@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-11-01T22:39:42.281623+00:00",
+  "last_updated": "2025-11-01T23:19:22.136862+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-01T21:00:00+01:00",
-      "competition": "NHL",
-      "teams": "San Jose Sharks - Colorado Avalanche",
-      "channels": [
-        {
-          "name": "CH164us",
-          "url": "https://envivo.govoet.my.id/164"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-01T22:00:00+01:00",
       "competition": "NBA",
