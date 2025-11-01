@@ -1,66 +1,7 @@
 {
-  "last_updated": "2025-11-01T21:37:54.929110+00:00",
+  "last_updated": "2025-11-01T22:18:43.269485+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-01T20:00:00+01:00",
-      "competition": "Ecuador Ligapro",
-      "teams": "Tecnico U. - Mushuc Runa",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-01T20:00:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "Feyenoord - FC Volendam",
-      "channels": [
-        {
-          "name": "CH141nl",
-          "url": "https://envivo.govoet.my.id/141"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-01T20:00:00+01:00",
-      "competition": "Ligue 2",
-      "teams": "Red Star - Saint-Étienne",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-01T20:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Winnipeg Jets - Pittsburgh Penguins",
-      "channels": [
-        {
-          "name": "CH161us",
-          "url": "https://envivo.govoet.my.id/161"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-01T20:00:00+01:00",
-      "competition": "Torneo LPF",
-      "teams": "Barracas Central - Argentinos Jrs",
-      "channels": [
-        {
-          "name": "CH76es",
-          "url": "https://envivo.govoet.my.id/76"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-01T20:30:00+01:00",
       "competition": "Bundesliga 2",
