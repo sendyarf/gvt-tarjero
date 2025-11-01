@@ -1,39 +1,5 @@
 {
-  "last_updated": "2025-11-01T05:40:43.816199+00:00",
+  "last_updated": "2025-11-01T06:30:15.129119+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-11-01T04:00:00+01:00",
-      "competition": "Liga Mx",
-      "teams": "Atl. San Luis - Juarez",
-      "channels": [
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-01T04:00:00+01:00",
-      "competition": "Liga Mx Women",
-      "teams": "Tijuana F - Pachuca F",
-      "channels": [
-        {
-          "name": "CH156es",
-          "url": "https://envivo.govoet.my.id/156"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-01T04:05:00+01:00",
-      "competition": "Liga Mx",
-      "teams": "Puebla - Cruz Azul",
-      "channels": [
-        {
-          "name": "CH108es",
-          "url": "https://envivo.govoet.my.id/108"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
