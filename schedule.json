@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-01T17:16:27.976938+00:00",
+  "last_updated": "2025-11-01T17:37:41.381855+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -261,10 +261,6 @@
         {
           "name": "CH71es",
           "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH87xes",
-          "url": "https://envivo.govoet.my.id/87"
         }
       ]
     },
@@ -1382,10 +1378,6 @@
           "url": "https://envivo.govoet.my.id/139"
         },
         {
-          "name": "CH97xes",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
           "name": "CH70es",
           "url": "https://envivo.govoet.my.id/70"
         }
@@ -1561,6 +1553,17 @@
     {
       "datetime": "2025-11-02T17:15:00+01:00",
       "competition": "Ligue 1",
+      "teams": "Multiplex Ligue 1 -",
+      "channels": [
+        {
+          "name": "CH20fr",
+          "url": "https://envivo.govoet.my.id/20"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-02T17:15:00+01:00",
+      "competition": "Ligue 1",
       "teams": "Lens - Lorient",
       "channels": [
         {
@@ -1667,10 +1670,6 @@
         {
           "name": "CH138it",
           "url": "https://envivo.govoet.my.id/138"
-        },
-        {
-          "name": "CH97xes",
-          "url": "https://envivo.govoet.my.id/97"
         },
         {
           "name": "CH70es",
