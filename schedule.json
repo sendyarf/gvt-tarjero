@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-11-01T04:24:00.258505+00:00",
+  "last_updated": "2025-11-01T04:42:11.500191+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-01T02:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Memphis Grizzlies - Los Angeles Lakers",
-      "channels": [
-        {
-          "name": "CH166us",
-          "url": "https://envivo.govoet.my.id/166"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-01T03:00:00+01:00",
       "competition": "NBA",
