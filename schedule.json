@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-11-01T16:23:59.991973+00:00",
+  "last_updated": "2025-11-01T16:38:51.749571+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-01T14:30:00+01:00",
-      "competition": "Top 14",
-      "teams": "RC Toulon - Lyon OU",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        },
-        {
-          "name": "CH90es",
-          "url": "https://envivo.govoet.my.id/90"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-01T15:00:00+01:00",
       "competition": "Serie A",
