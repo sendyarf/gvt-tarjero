@@ -1,37 +1,7 @@
 {
-  "last_updated": "2025-11-01T18:45:26.804125+00:00",
+  "last_updated": "2025-11-01T19:15:07.867412+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-01T17:00:00+01:00",
-      "competition": "Betfred Super League",
-      "teams": "Volos - Panathinaikos",
-      "channels": [
-        {
-          "name": "CH148gr",
-          "url": "https://envivo.govoet.my.id/148"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-01T17:00:00+01:00",
-      "competition": "Ligue 1",
-      "teams": "PSG - Nice",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        },
-        {
-          "name": "CH90es",
-          "url": "https://envivo.govoet.my.id/90"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-01T18:00:00+01:00",
       "competition": "NHL",
