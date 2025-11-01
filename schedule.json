@@ -1,63 +1,7 @@
 {
-  "last_updated": "2025-11-01T15:37:44.755394+00:00",
+  "last_updated": "2025-11-01T16:23:59.991973+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-01T14:00:00+01:00",
-      "competition": "Laliga",
-      "teams": "Villarreal - Vallecano",
-      "channels": [
-        {
-          "name": "CH7fr",
-          "url": "https://envivo.govoet.my.id/7"
-        },
-        {
-          "name": "CH52es",
-          "url": "https://envivo.govoet.my.id/52"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-01T14:00:00+01:00",
-      "competition": "Liga AUF Uruguaya",
-      "teams": "Progreso - Montevideo City",
-      "channels": [
-        {
-          "name": "CH109es",
-          "url": "https://envivo.govoet.my.id/109"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-01T14:00:00+01:00",
-      "competition": "Ligue 2",
-      "teams": "Amiens - Grenoble",
-      "channels": [
-        {
-          "name": "CH3fr",
-          "url": "https://envivo.govoet.my.id/3"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-01T14:00:00+01:00",
-      "competition": "Ligue 2",
-      "teams": "Reims - Dunkerque",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-01T14:30:00+01:00",
       "competition": "Top 14",
