@@ -1,77 +1,7 @@
 {
-  "last_updated": "2025-11-01T23:38:20.787631+00:00",
+  "last_updated": "2025-11-02T01:53:02.139117+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-01T22:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Milwaukee Bucks - Sacramento Kings",
-      "channels": [
-        {
-          "name": "CH165us",
-          "url": "https://envivo.govoet.my.id/165"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-01T22:30:00+01:00",
-      "competition": "Ecuador Ligapro",
-      "teams": "Aucas - El Nacional",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-01T22:30:00+01:00",
-      "competition": "MLS",
-      "teams": "Chicago Fire - Philadelphia Union",
-      "channels": [
-        {
-          "name": "CH166us",
-          "url": "https://envivo.govoet.my.id/166"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-01T23:00:00+01:00",
-      "competition": "Liga AUF Uruguaya",
-      "teams": "Cerro CA - Nacional",
-      "channels": [
-        {
-          "name": "CH109es",
-          "url": "https://envivo.govoet.my.id/109"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-01T23:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Charlotte Hornets - Minnesota Timberwolves",
-      "channels": [
-        {
-          "name": "CH167us",
-          "url": "https://envivo.govoet.my.id/167"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-01T23:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Florida Panthers - Dallas Stars",
-      "channels": [
-        {
-          "name": "CH168us",
-          "url": "https://envivo.govoet.my.id/168"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-02T00:00:00+01:00",
       "competition": "Liga 1 Te Apuesto",
