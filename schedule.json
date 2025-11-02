@@ -1,52 +1,7 @@
 {
-  "last_updated": "2025-11-02T15:38:19.432556+00:00",
+  "last_updated": "2025-11-02T16:24:33.673637+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-02T14:00:00+01:00",
-      "competition": "Laliga",
-      "teams": "Levante - Celta Vigo",
-      "channels": [
-        {
-          "name": "CH9fr",
-          "url": "https://envivo.govoet.my.id/9"
-        },
-        {
-          "name": "CH51es",
-          "url": "https://envivo.govoet.my.id/51"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH89es",
-          "url": "https://envivo.govoet.my.id/89"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-02T14:00:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Andorra - Cadix CF",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-02T14:00:00+01:00",
-      "competition": "Liga AUF Uruguaya",
-      "teams": "River Plate - Miramar",
-      "channels": [
-        {
-          "name": "CH109es",
-          "url": "https://envivo.govoet.my.id/109"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-02T14:30:00+01:00",
       "competition": "Eredivisie",
