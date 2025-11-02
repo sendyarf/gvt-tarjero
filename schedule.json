@@ -1,26 +1,7 @@
 {
-  "last_updated": "2025-11-02T17:17:33.921949+00:00",
+  "last_updated": "2025-11-02T17:38:26.756943+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-02T15:30:00+01:00",
-      "competition": "Bundesliga",
-      "teams": "FC Cologne - Hambourg SV",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        },
-        {
-          "name": "CH116es",
-          "url": "https://envivo.govoet.my.id/116"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-02T16:00:00+01:00",
       "competition": "Fa Cup",
