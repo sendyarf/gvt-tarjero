@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-11-02T22:18:56.380966+00:00",
+  "last_updated": "2025-11-02T22:40:10.983105+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-02T20:30:00+01:00",
-      "competition": "Liga AUF Uruguaya",
-      "teams": "Racing Montevideo - Danubio",
-      "channels": [
-        {
-          "name": "CH109es",
-          "url": "https://envivo.govoet.my.id/109"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-02T20:45:00+01:00",
       "competition": "Ligue 1",
