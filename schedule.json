@@ -1,52 +1,7 @@
 {
-  "last_updated": "2025-11-02T14:18:16.562333+00:00",
+  "last_updated": "2025-11-02T14:39:16.960048+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-02T12:30:00+01:00",
-      "competition": "Liga Endesa",
-      "teams": "Zaragoza - Real Madrid",
-      "channels": [
-        {
-          "name": "CH67es",
-          "url": "https://envivo.govoet.my.id/67"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-02T12:30:00+01:00",
-      "competition": "Serie A",
-      "teams": "Hellas Vérone - Inter",
-      "channels": [
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-02T12:30:00+01:00",
-      "competition": "Super Lig",
-      "teams": "Konyaspor - Samsunspor",
-      "channels": [
-        {
-          "name": "CH152tr",
-          "url": "https://envivo.govoet.my.id/152"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-02T13:00:00+01:00",
       "competition": "Fa Cup",
