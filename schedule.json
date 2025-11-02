@@ -1,78 +1,7 @@
 {
-  "last_updated": "2025-11-02T17:38:26.756943+00:00",
+  "last_updated": "2025-11-02T18:27:31.139822+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-02T16:00:00+01:00",
-      "competition": "Fa Cup",
-      "teams": "Port Vale - Maldon & Tiptree",
-      "channels": [
-        {
-          "name": "CH10fr",
-          "url": "https://envivo.govoet.my.id/10"
-        },
-        {
-          "name": "CH126gb",
-          "url": "https://envivo.govoet.my.id/126"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-02T16:00:00+01:00",
-      "competition": "Pro League",
-      "teams": "Louvain - La Gantoise",
-      "channels": [
-        {
-          "name": "CH153fr",
-          "url": "https://envivo.govoet.my.id/153"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-02T16:15:00+01:00",
-      "competition": "Laliga",
-      "teams": "Alaves - Espanyol",
-      "channels": [
-        {
-          "name": "CH9fr",
-          "url": "https://envivo.govoet.my.id/9"
-        },
-        {
-          "name": "CH49es",
-          "url": "https://envivo.govoet.my.id/49"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-02T16:15:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Cordoba - Ceuta",
-      "channels": [
-        {
-          "name": "CH54es",
-          "url": "https://envivo.govoet.my.id/54"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-02T16:15:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Gijon - Las Palmas",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-02T16:30:00+01:00",
       "competition": "Betfred Super League",
