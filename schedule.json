@@ -1,26 +1,7 @@
 {
-  "last_updated": "2025-11-02T05:41:29.949006+00:00",
+  "last_updated": "2025-11-02T06:31:49.204811+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-02T04:10:00+01:00",
-      "competition": "Liga Mx",
-      "teams": "Club America - Leon",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        },
-        {
-          "name": "CH106es",
-          "url": "https://envivo.govoet.my.id/106"
-        },
-        {
-          "name": "CH107es",
-          "url": "https://envivo.govoet.my.id/107"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-02T12:15:00+01:00",
       "competition": "Eredivisie",
