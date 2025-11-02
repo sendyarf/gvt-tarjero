@@ -1,37 +1,7 @@
 {
-  "last_updated": "2025-11-02T21:37:50.716294+00:00",
+  "last_updated": "2025-11-02T22:18:56.380966+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-02T20:00:00+01:00",
-      "competition": "Betfred Super League",
-      "teams": "AEK - Panetolikos",
-      "channels": [
-        {
-          "name": "CH150gr",
-          "url": "https://envivo.govoet.my.id/150"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-02T20:00:00+01:00",
-      "competition": "Torneo LPF",
-      "teams": "Estudiantes - Boca Juniors",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        },
-        {
-          "name": "CH55es",
-          "url": "https://envivo.govoet.my.id/55"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-02T20:30:00+01:00",
       "competition": "Liga AUF Uruguaya",
