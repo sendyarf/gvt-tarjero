@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-11-02T16:24:33.673637+00:00",
+  "last_updated": "2025-11-02T16:39:58.456597+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-02T14:30:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "Groningen - Twente",
-      "channels": [
-        {
-          "name": "CH141nl",
-          "url": "https://envivo.govoet.my.id/141"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-02T14:30:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "Sparta Rotterdam - Alkmaar",
-      "channels": [
-        {
-          "name": "CH143nl",
-          "url": "https://envivo.govoet.my.id/143"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-02T15:00:00+01:00",
       "competition": "Ligue 1",
