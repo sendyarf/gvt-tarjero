@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-11-02T18:45:03.451654+00:00",
+  "last_updated": "2025-11-02T19:15:08.267722+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-02T16:45:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "Utrecht - Nijmegen",
-      "channels": [
-        {
-          "name": "CH142nl",
-          "url": "https://envivo.govoet.my.id/142"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-02T17:00:00+01:00",
-      "competition": "Liga Endesa",
-      "teams": "Barcelone - Murcia",
-      "channels": [
-        {
-          "name": "CH67es",
-          "url": "https://envivo.govoet.my.id/67"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-02T17:15:00+01:00",
       "competition": "Ligue 1",
