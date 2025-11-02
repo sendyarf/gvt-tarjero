@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-11-02T04:29:54.423487+00:00",
+  "last_updated": "2025-11-02T04:45:40.198765+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-02T02:30:00+01:00",
-      "competition": "MLS",
-      "teams": "FC Dallas - Vancouver Whitecaps",
-      "channels": [
-        {
-          "name": "CH179us",
-          "url": "https://envivo.govoet.my.id/179"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-02T02:30:00+01:00",
-      "competition": "MLS",
-      "teams": "Portland Timbers - San Diego FC",
-      "channels": [
-        {
-          "name": "CH180us",
-          "url": "https://envivo.govoet.my.id/180"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-02T03:00:00+01:00",
       "competition": "NBA",
