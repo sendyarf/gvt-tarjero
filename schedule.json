@@ -1,62 +1,7 @@
 {
-  "last_updated": "2025-11-02T15:19:38.051576+00:00",
+  "last_updated": "2025-11-02T15:38:19.432556+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-02T13:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "bundesliga 2 konferenz -",
-      "channels": [
-        {
-          "name": "CH111de",
-          "url": "https://envivo.govoet.my.id/111"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-02T13:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Bochum - Magdeburg",
-      "channels": [
-        {
-          "name": "CH113de",
-          "url": "https://envivo.govoet.my.id/113"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-02T13:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Düsseldorf - Kaiserslautern",
-      "channels": [
-        {
-          "name": "CH112de",
-          "url": "https://envivo.govoet.my.id/112"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-02T13:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Paderborn - Greuther Fürth",
-      "channels": [
-        {
-          "name": "CH114de",
-          "url": "https://envivo.govoet.my.id/114"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-02T13:30:00+01:00",
-      "competition": "Pro League",
-      "teams": "Westerlo - Genk",
-      "channels": [
-        {
-          "name": "CH153fr",
-          "url": "https://envivo.govoet.my.id/153"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-02T14:00:00+01:00",
       "competition": "Laliga",
