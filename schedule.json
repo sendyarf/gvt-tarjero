@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-11-02T19:38:07.127551+00:00",
+  "last_updated": "2025-11-02T20:21:28.743576+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-02T18:15:00+01:00",
-      "competition": "Fa Cup",
-      "teams": "Gainsborough - Accrington",
-      "channels": [
-        {
-          "name": "CH7fr",
-          "url": "https://envivo.govoet.my.id/7"
-        },
-        {
-          "name": "CH126gb",
-          "url": "https://envivo.govoet.my.id/126"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-02T18:30:00+01:00",
       "competition": "Betfred Super League",
