@@ -1,26 +1,7 @@
 {
-  "last_updated": "2025-11-03T20:25:41.186477+00:00",
+  "last_updated": "2025-11-03T20:43:08.798933+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-03T18:30:00+01:00",
-      "competition": "Serie A",
-      "teams": "Sassuolo - Genoa",
-      "channels": [
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-03T20:30:00+01:00",
       "competition": "Laliga 2",
