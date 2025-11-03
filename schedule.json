@@ -1,45 +1,7 @@
 {
-  "last_updated": "2025-11-03T04:01:46.868383+00:00",
+  "last_updated": "2025-11-03T04:48:48.926040+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-03T02:20:00+01:00",
-      "competition": "NFL",
-      "teams": "Washington Commanders - Seattle Seahawks",
-      "channels": [
-        {
-          "name": "CH184us",
-          "url": "https://envivo.govoet.my.id/184"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
-          "name": "CH72es",
-          "url": "https://envivo.govoet.my.id/72"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-03T02:45:00+01:00",
-      "competition": "MLS",
-      "teams": "Austin FC - Los Angeles FC",
-      "channels": [
-        {
-          "name": "CH185us",
-          "url": "https://envivo.govoet.my.id/185"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-03T03:30:00+01:00",
       "competition": "NBA",
