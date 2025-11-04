@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-11-04T04:26:26.285955+00:00",
+  "last_updated": "2025-11-04T04:45:22.771789+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-04T02:30:00+01:00",
-      "competition": "NHL",
-      "teams": "Nashville Predators - Vancouver Canucks",
-      "channels": [
-        {
-          "name": "CH168us",
-          "url": "https://envivo.govoet.my.id/168"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-04T02:30:00+01:00",
-      "competition": "NHL",
-      "teams": "St. Louis Blues - Edmonton Oilers",
-      "channels": [
-        {
-          "name": "CH169us",
-          "url": "https://envivo.govoet.my.id/169"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-04T03:00:00+01:00",
       "competition": "NBA",
