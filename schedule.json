@@ -1,52 +1,7 @@
 {
-  "last_updated": "2025-11-04T03:53:41.633803+00:00",
+  "last_updated": "2025-11-04T04:26:26.285955+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-04T02:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Houston Rockets - Dallas Mavericks",
-      "channels": [
-        {
-          "name": "CH165us",
-          "url": "https://envivo.govoet.my.id/165"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-04T02:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Memphis Grizzlies - Detroit Pistons",
-      "channels": [
-        {
-          "name": "CH166us",
-          "url": "https://envivo.govoet.my.id/166"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-04T02:15:00+01:00",
-      "competition": "NFL",
-      "teams": "Dallas Cowboys - Arizona Cardinals",
-      "channels": [
-        {
-          "name": "CH167us",
-          "url": "https://envivo.govoet.my.id/167"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-04T02:30:00+01:00",
       "competition": "NHL",
