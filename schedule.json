@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-11-04T05:42:32.535024+00:00",
+  "last_updated": "2025-11-04T06:34:41.889236+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-04T04:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Portland Trail Blazers - Los Angeles Lakers",
-      "channels": [
-        {
-          "name": "CH171us",
-          "url": "https://envivo.govoet.my.id/171"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-04T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Seattle Kraken - Chicago Blackhawks",
-      "channels": [
-        {
-          "name": "CH172us",
-          "url": "https://envivo.govoet.my.id/172"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-04T04:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Los Angeles Clippers - Miami Heat",
-      "channels": [
-        {
-          "name": "CH173us",
-          "url": "https://envivo.govoet.my.id/173"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-04T04:45:00+01:00",
       "competition": "MLS",
