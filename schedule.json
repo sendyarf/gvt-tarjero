@@ -1,44 +1,7 @@
 {
-  "last_updated": "2025-11-04T01:47:52.167274+00:00",
+  "last_updated": "2025-11-04T03:12:14.414995+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-04T01:00:00+01:00",
-      "competition": "Ecuador Ligapro",
-      "teams": "Libertad - Ind. del Valle",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-04T01:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Brooklyn Nets - Minnesota Timberwolves",
-      "channels": [
-        {
-          "name": "CH160us",
-          "url": "https://envivo.govoet.my.id/160"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-04T01:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Indiana Pacers - Milwaukee Bucks",
-      "channels": [
-        {
-          "name": "CH161us",
-          "url": "https://envivo.govoet.my.id/161"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-04T01:15:00+01:00",
       "competition": "Torneo LPF",
