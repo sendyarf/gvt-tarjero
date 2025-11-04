@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-04T16:50:13.073350+00:00",
+  "last_updated": "2025-11-04T17:18:36.388968+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -45,10 +45,6 @@
         {
           "name": "CH162es",
           "url": "https://envivo.govoet.my.id/162"
-        },
-        {
-          "name": "CH00us",
-          "url": "https://envivo.govoet.my.id/00"
         },
         {
           "name": "CH87es",
@@ -181,10 +177,6 @@
           "url": "https://envivo.govoet.my.id/162"
         },
         {
-          "name": "CH00us",
-          "url": "https://envivo.govoet.my.id/00"
-        },
-        {
           "name": "CH91es",
           "url": "https://envivo.govoet.my.id/91"
         }
@@ -204,10 +196,6 @@
           "url": "https://envivo.govoet.my.id/168"
         },
         {
-          "name": "CH00us",
-          "url": "https://envivo.govoet.my.id/00"
-        },
-        {
           "name": "CH92es",
           "url": "https://envivo.govoet.my.id/92"
         }
@@ -225,10 +213,6 @@
         {
           "name": "CH165es",
           "url": "https://envivo.govoet.my.id/165"
-        },
-        {
-          "name": "CH00us",
-          "url": "https://envivo.govoet.my.id/00"
         },
         {
           "name": "CH139it",
@@ -283,10 +267,6 @@
         {
           "name": "CH167es",
           "url": "https://envivo.govoet.my.id/167"
-        },
-        {
-          "name": "CH00us",
-          "url": "https://envivo.govoet.my.id/00"
         },
         {
           "name": "CH90es",
