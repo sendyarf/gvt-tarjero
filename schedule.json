@@ -1,62 +1,7 @@
 {
-  "last_updated": "2025-11-05T01:48:58.947338+00:00",
+  "last_updated": "2025-11-05T03:13:47.151217+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-05T01:00:00+01:00",
-      "competition": "Ecuador Ligapro",
-      "teams": "LDU Quito - Orense",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-05T01:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Buffalo Sabres - Utah Mammoth",
-      "channels": [
-        {
-          "name": "CH180us",
-          "url": "https://envivo.govoet.my.id/180"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-05T01:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Montreal Canadiens - Philadelphia Flyers",
-      "channels": [
-        {
-          "name": "CH182us",
-          "url": "https://envivo.govoet.my.id/182"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-05T01:00:00+01:00",
-      "competition": "NHL",
-      "teams": "New York Islanders - Boston Bruins",
-      "channels": [
-        {
-          "name": "CH183us",
-          "url": "https://envivo.govoet.my.id/183"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-05T01:00:00+01:00",
-      "competition": "NHL",
-      "teams": "New York Rangers - Carolina Hurricanes",
-      "channels": [
-        {
-          "name": "CH184us",
-          "url": "https://envivo.govoet.my.id/184"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-05T01:30:00+01:00",
       "competition": "NBA",
