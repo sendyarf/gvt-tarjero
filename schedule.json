@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-11-05T23:21:02.009376+00:00",
+  "last_updated": "2025-11-05T23:40:27.870338+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-05T21:30:00+01:00",
-      "competition": "Campeonato Itaú Chile",
-      "teams": "U. De Chile - Everton",
-      "channels": [
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-05T23:00:00+01:00",
       "competition": "Serie A Bresil",
