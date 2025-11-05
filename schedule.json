@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-11-05T15:43:16.216868+00:00",
+  "last_updated": "2025-11-05T16:30:16.233937+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-05T14:00:00+01:00",
-      "competition": "Youth League",
-      "teams": "Ajax -19 - Galatasaray -19",
-      "channels": [
-        {
-          "name": "CH162es",
-          "url": "https://envivo.govoet.my.id/162"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-05T16:00:00+01:00",
       "competition": "Youth League",
