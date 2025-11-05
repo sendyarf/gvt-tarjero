@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-11-05T17:41:08.125256+00:00",
+  "last_updated": "2025-11-05T18:32:30.045667+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-05T16:00:00+01:00",
-      "competition": "Youth League",
-      "teams": "Newcastle -19 - Ath. Bilbao -19",
-      "channels": [
-        {
-          "name": "CH161es",
-          "url": "https://envivo.govoet.my.id/161"
-        },
-        {
-          "name": "CH129gb",
-          "url": "https://envivo.govoet.my.id/129"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-05T18:45:00+01:00",
       "competition": "Ligue Des Champions",
