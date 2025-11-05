@@ -1,17 +1,5 @@
 {
-  "last_updated": "2025-11-05T06:34:07.675853+00:00",
+  "last_updated": "2025-11-05T07:21:52.174787+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-11-05T05:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Los Angeles Clippers - Oklahoma City Thunder",
-      "channels": [
-        {
-          "name": "CH196us",
-          "url": "https://envivo.govoet.my.id/196"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
