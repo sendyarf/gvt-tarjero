@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-11-05T05:22:54.123149+00:00",
+  "last_updated": "2025-11-05T05:43:11.425879+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-05T03:30:00+01:00",
-      "competition": "NHL",
-      "teams": "Colorado Avalanche - Tampa Bay Lightning",
-      "channels": [
-        {
-          "name": "CH191us",
-          "url": "https://envivo.govoet.my.id/191"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-05T04:00:00+01:00",
       "competition": "NBA",
