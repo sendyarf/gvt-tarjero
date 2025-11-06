@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-06T16:47:52.828760+00:00",
+  "last_updated": "2025-11-06T17:21:44.368167+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -46,8 +46,8 @@
       "teams": "Celje - Legia",
       "channels": [
         {
-          "name": "CH00es",
-          "url": "https://envivo.govoet.my.id/00"
+          "name": "CH160pl",
+          "url": "https://envivo.govoet.my.id/160"
         }
       ]
     },
@@ -153,6 +153,21 @@
         {
           "name": "CH63es",
           "url": "https://envivo.govoet.my.id/63"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-06T18:45:00+01:00",
+      "competition": "Ligue Europa",
+      "teams": "Multiplex Ligue Europa/Ligue Conference -",
+      "channels": [
+        {
+          "name": "CH14fr",
+          "url": "https://envivo.govoet.my.id/14"
+        },
+        {
+          "name": "CH163es",
+          "url": "https://envivo.govoet.my.id/163"
         }
       ]
     },
@@ -535,6 +550,21 @@
         {
           "name": "CH62es",
           "url": "https://envivo.govoet.my.id/62"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-06T21:00:00+01:00",
+      "competition": "Ligue Europa",
+      "teams": "Multiplex Ligue Europa/Ligue Conference -",
+      "channels": [
+        {
+          "name": "CH14fr",
+          "url": "https://envivo.govoet.my.id/14"
+        },
+        {
+          "name": "CH163es",
+          "url": "https://envivo.govoet.my.id/163"
         }
       ]
     },
