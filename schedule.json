@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-11-05T23:40:27.870338+00:00",
+  "last_updated": "2025-11-06T01:48:59.834281+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-05T23:00:00+01:00",
-      "competition": "Serie A Bresil",
-      "teams": "Bragantino - Corinthians",
-      "channels": [
-        {
-          "name": "CH159pt",
-          "url": "https://envivo.govoet.my.id/159"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-06T01:00:00+01:00",
       "competition": "NBA",
