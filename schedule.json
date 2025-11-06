@@ -1,55 +1,7 @@
 {
-  "last_updated": "2025-11-06T03:16:19.322276+00:00",
+  "last_updated": "2025-11-06T03:58:59.956307+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-06T01:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Boston Celtics - Washington Wizards",
-      "channels": [
-        {
-          "name": "CH184us",
-          "url": "https://envivo.govoet.my.id/184"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-06T01:30:00+01:00",
-      "competition": "NBA",
-      "teams": "New York Knicks - Minnesota Timberwolves",
-      "channels": [
-        {
-          "name": "CH185us",
-          "url": "https://envivo.govoet.my.id/185"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-06T01:30:00+01:00",
-      "competition": "NHL",
-      "teams": "Washington Capitals - St. Louis Blues",
-      "channels": [
-        {
-          "name": "CH186us",
-          "url": "https://envivo.govoet.my.id/186"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-06T01:30:00+01:00",
-      "competition": "Serie A Bresil",
-      "teams": "Sao Paulo - Flamengo",
-      "channels": [
-        {
-          "name": "CH82es",
-          "url": "https://envivo.govoet.my.id/82"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-06T02:00:00+01:00",
       "competition": "NBA",
