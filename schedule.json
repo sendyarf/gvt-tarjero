@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-11-06T22:21:14.787149+00:00",
+  "last_updated": "2025-11-06T22:42:07.658678+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-06T20:30:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Baskonia - Virtus Bologna",
-      "channels": [
-        {
-          "name": "CH55es",
-          "url": "https://envivo.govoet.my.id/55"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-06T21:00:00+01:00",
       "competition": "Conference League",
