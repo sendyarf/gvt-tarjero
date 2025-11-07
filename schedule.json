@@ -1,19 +1,19 @@
 {
-  "last_updated": "2025-11-07T16:46:28.163420+00:00",
+  "last_updated": "2025-11-07T17:19:30.173577+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
-      "datetime": "2025-11-07T15:05:00+01:00",
-      "competition": "Moto2",
-      "teams": "Grand Prix du Portugal Essais des Moto 2 -",
+      "datetime": "2025-11-07T15:30:00+01:00",
+      "competition": "formula 1",
+      "teams": "Grand Prix de Sao Paulo Essais libres 1 -",
       "channels": [
         {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
+          "name": "CH13fr",
+          "url": "https://envivo.govoet.my.id/13"
         },
         {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
+          "name": "CH60es",
+          "url": "https://envivo.govoet.my.id/60"
         }
       ]
     },
@@ -220,6 +220,21 @@
         {
           "name": "CH35fr",
           "url": "https://envivo.govoet.my.id/35"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-07T19:30:00+01:00",
+      "competition": "formula 1",
+      "teams": "Grand Prix de Sao Paulo Qualifications Sprint -",
+      "channels": [
+        {
+          "name": "CH13fr",
+          "url": "https://envivo.govoet.my.id/13"
+        },
+        {
+          "name": "CH60es",
+          "url": "https://envivo.govoet.my.id/60"
         }
       ]
     },
@@ -1200,6 +1215,21 @@
       ]
     },
     {
+      "datetime": "2025-11-08T15:00:00+01:00",
+      "competition": "formula 1",
+      "teams": "Grand Prix de Sao Paulo Sprint -",
+      "channels": [
+        {
+          "name": "CH13fr",
+          "url": "https://envivo.govoet.my.id/13"
+        },
+        {
+          "name": "CH60es",
+          "url": "https://envivo.govoet.my.id/60"
+        }
+      ]
+    },
+    {
       "datetime": "2025-11-08T15:30:00+01:00",
       "competition": "Bundesliga",
       "teams": "Bundesliga konferenz -",
@@ -1283,21 +1313,6 @@
         {
           "name": "CH87es",
           "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-08T15:30:00+01:00",
-      "competition": "formula 1",
-      "teams": "Grand Prix de Sao Paulo Essais libres 1 -",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        },
-        {
-          "name": "CH60es",
-          "url": "https://envivo.govoet.my.id/60"
         }
       ]
     },
@@ -1882,13 +1897,17 @@
       ]
     },
     {
-      "datetime": "2025-11-08T19:30:00+01:00",
+      "datetime": "2025-11-08T19:00:00+01:00",
       "competition": "formula 1",
-      "teams": "Grand Prix de Sao Paulo Qualifications Sprint -",
+      "teams": "Grand Prix de Sao Paulo Essais qualificatifs -",
       "channels": [
         {
           "name": "CH13fr",
           "url": "https://envivo.govoet.my.id/13"
+        },
+        {
+          "name": "CH11fr",
+          "url": "https://envivo.govoet.my.id/11"
         },
         {
           "name": "CH60es",
@@ -3117,21 +3136,6 @@
       ]
     },
     {
-      "datetime": "2025-11-09T15:00:00+01:00",
-      "competition": "formula 1",
-      "teams": "Grand Prix de Sao Paulo Sprint -",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        },
-        {
-          "name": "CH60es",
-          "url": "https://envivo.govoet.my.id/60"
-        }
-      ]
-    },
-    {
       "datetime": "2025-11-09T15:30:00+01:00",
       "competition": "Bundesliga",
       "teams": "Fribourg - St. Pauli",
@@ -3518,6 +3522,29 @@
       ]
     },
     {
+      "datetime": "2025-11-09T18:00:00+01:00",
+      "competition": "formula 1",
+      "teams": "Formule 1 GP de Sao Paulo -",
+      "channels": [
+        {
+          "name": "CH11fr",
+          "url": "https://envivo.govoet.my.id/11"
+        },
+        {
+          "name": "CH60es",
+          "url": "https://envivo.govoet.my.id/60"
+        },
+        {
+          "name": "CH134gb",
+          "url": "https://envivo.govoet.my.id/134"
+        },
+        {
+          "name": "CH121de",
+          "url": "https://envivo.govoet.my.id/121"
+        }
+      ]
+    },
+    {
       "datetime": "2025-11-09T18:30:00+01:00",
       "competition": "Laliga",
       "teams": "Majorque - Getafe",
@@ -3756,25 +3783,6 @@
         {
           "name": "CH178us",
           "url": "https://envivo.govoet.my.id/178"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-09T19:00:00+01:00",
-      "competition": "formula 1",
-      "teams": "Grand Prix de Sao Paulo Essais qualificatifs -",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        },
-        {
-          "name": "CH11fr",
-          "url": "https://envivo.govoet.my.id/11"
-        },
-        {
-          "name": "CH60es",
-          "url": "https://envivo.govoet.my.id/60"
         }
       ]
     },
