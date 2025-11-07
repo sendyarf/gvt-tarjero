@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-11-07T04:45:22.855559+00:00",
+  "last_updated": "2025-11-07T05:22:22.553168+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-07T03:00:00+01:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Venados - Tlaxcala",
-      "channels": [
-        {
-          "name": "CH105es",
-          "url": "https://envivo.govoet.my.id/105"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-07T03:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Phoenix Suns - Los Angeles Clippers",
-      "channels": [
-        {
-          "name": "CH188us",
-          "url": "https://envivo.govoet.my.id/188"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-07T04:00:00+01:00",
       "competition": "Liga Mx Women",
