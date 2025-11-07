@@ -1,43 +1,5 @@
 {
-  "last_updated": "2025-11-07T05:42:20.293141+00:00",
+  "last_updated": "2025-11-07T06:34:03.570389+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-11-07T04:00:00+01:00",
-      "competition": "Liga Mx Women",
-      "teams": "Guadalajara F - Toluca F",
-      "channels": [
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-07T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Los Angeles Kings - Florida Panthers",
-      "channels": [
-        {
-          "name": "CH189us",
-          "url": "https://envivo.govoet.my.id/189"
-        },
-        {
-          "name": "CH99es",
-          "url": "https://envivo.govoet.my.id/99"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-07T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Vegas Golden Knights - Tampa Bay Lightning",
-      "channels": [
-        {
-          "name": "CH190us",
-          "url": "https://envivo.govoet.my.id/190"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
