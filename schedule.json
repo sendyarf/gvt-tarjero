@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-11-07T23:19:20.333193+00:00",
+  "last_updated": "2025-11-07T23:38:34.821795+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-07T21:30:00+01:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Envigado - Millonarios",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-07T23:30:00+01:00",
       "competition": "Liga AUF Uruguaya",
