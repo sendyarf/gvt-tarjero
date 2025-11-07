@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-11-07T20:40:28.955641+00:00",
+  "last_updated": "2025-11-07T21:16:39.751035+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-07T19:00:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Zalgiris Kaunas - Valence",
-      "channels": [
-        {
-          "name": "CH64es",
-          "url": "https://envivo.govoet.my.id/64"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-07T19:00:00+01:00",
-      "competition": "Liga 1 Te Apuesto",
-      "teams": "Cusco - Sport Boys",
-      "channels": [
-        {
-          "name": "CH84es",
-          "url": "https://envivo.govoet.my.id/84"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-07T19:00:00+01:00",
-      "competition": "Pro D2",
-      "teams": "Colomiers Rugby - Provence Rugby",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-07T19:30:00+01:00",
       "competition": "National",
