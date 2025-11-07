@@ -1,66 +1,7 @@
 {
-  "last_updated": "2025-11-07T20:22:22.354424+00:00",
+  "last_updated": "2025-11-07T20:40:28.955641+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-07T18:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Bundesliga 2 konferenz -",
-      "channels": [
-        {
-          "name": "CH112de",
-          "url": "https://envivo.govoet.my.id/112"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-07T18:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Dynamo Dresde - Nurnberg",
-      "channels": [
-        {
-          "name": "CH113de",
-          "url": "https://envivo.govoet.my.id/113"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-07T18:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Greuther Fürth - Münster",
-      "channels": [
-        {
-          "name": "CH114de",
-          "url": "https://envivo.govoet.my.id/114"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-07T18:30:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Anadolu Efes - Milano",
-      "channels": [
-        {
-          "name": "CH139it",
-          "url": "https://envivo.govoet.my.id/139"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-07T18:30:00+01:00",
-      "competition": "Saudi Pro League",
-      "teams": "Al Najma - Al-Hilal",
-      "channels": [
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        },
-        {
-          "name": "CH55es",
-          "url": "https://envivo.govoet.my.id/55"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-07T19:00:00+01:00",
       "competition": "EuroLeague",
