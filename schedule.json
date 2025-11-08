@@ -1,77 +1,7 @@
 {
-  "last_updated": "2025-11-08T05:40:51.447085+00:00",
+  "last_updated": "2025-11-08T06:30:53.504952+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-08T04:00:00+01:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Atletico La Paz - Atlante",
-      "channels": [
-        {
-          "name": "CH158es",
-          "url": "https://envivo.govoet.my.id/158"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-08T04:00:00+01:00",
-      "competition": "Liga Mx",
-      "teams": "Mazatlan FC - Necaxa",
-      "channels": [
-        {
-          "name": "CH108es",
-          "url": "https://envivo.govoet.my.id/108"
-        },
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-08T04:00:00+01:00",
-      "competition": "Liga Mx",
-      "teams": "Tijuana - Atlas",
-      "channels": [
-        {
-          "name": "CH156es",
-          "url": "https://envivo.govoet.my.id/156"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-08T04:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Denver Nuggets - Golden State Warriors",
-      "channels": [
-        {
-          "name": "CH182us",
-          "url": "https://envivo.govoet.my.id/182"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-08T04:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Sacramento Kings - Oklahoma City Thunder",
-      "channels": [
-        {
-          "name": "CH183us",
-          "url": "https://envivo.govoet.my.id/183"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-08T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "San Jose Sharks - Winnipeg Jets",
-      "channels": [
-        {
-          "name": "CH184us",
-          "url": "https://envivo.govoet.my.id/184"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-08T09:40:00+01:00",
       "competition": "Moto3",
