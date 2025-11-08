@@ -1,165 +1,7 @@
 {
-  "last_updated": "2025-11-08T16:44:15.300956+00:00",
+  "last_updated": "2025-11-08T17:17:09.578208+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-08T14:50:00+01:00",
-      "competition": "Saudi Pro League",
-      "teams": "Neom SC - Al-Nassr",
-      "channels": [
-        {
-          "name": "CH61es",
-          "url": "https://envivo.govoet.my.id/61"
-        },
-        {
-          "name": "CH55es",
-          "url": "https://envivo.govoet.my.id/55"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-08T15:00:00+01:00",
-      "competition": "Serie A",
-      "teams": "Como - Cagliari",
-      "channels": [
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-08T15:00:00+01:00",
-      "competition": "Serie A",
-      "teams": "Lecce - Hellas Vérone",
-      "channels": [
-        {
-          "name": "CH139it",
-          "url": "https://envivo.govoet.my.id/139"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-08T15:00:00+01:00",
-      "competition": "Super Lig",
-      "teams": "Trabzonspor - Alanyaspor",
-      "channels": [
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-08T15:00:00+01:00",
-      "competition": "formula 1",
-      "teams": "Grand Prix de Sao Paulo Sprint -",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        },
-        {
-          "name": "CH60es",
-          "url": "https://envivo.govoet.my.id/60"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-08T15:30:00+01:00",
-      "competition": "Bundesliga",
-      "teams": "Bundesliga konferenz -",
-      "channels": [
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-08T15:30:00+01:00",
-      "competition": "Bundesliga",
-      "teams": "Bayer Leverkusen - Heidenheim",
-      "channels": [
-        {
-          "name": "CH6fr",
-          "url": "https://envivo.govoet.my.id/6"
-        },
-        {
-          "name": "CH114de",
-          "url": "https://envivo.govoet.my.id/114"
-        },
-        {
-          "name": "CH118es",
-          "url": "https://envivo.govoet.my.id/118"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-08T15:30:00+01:00",
-      "competition": "Bundesliga",
-      "teams": "Hambourg SV - Dortmund",
-      "channels": [
-        {
-          "name": "CH5fr",
-          "url": "https://envivo.govoet.my.id/5"
-        },
-        {
-          "name": "CH111de",
-          "url": "https://envivo.govoet.my.id/111"
-        },
-        {
-          "name": "CH116es",
-          "url": "https://envivo.govoet.my.id/116"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-08T15:30:00+01:00",
-      "competition": "Bundesliga",
-      "teams": "Hoffenheim - RB Leipzig",
-      "channels": [
-        {
-          "name": "CH7fr",
-          "url": "https://envivo.govoet.my.id/7"
-        },
-        {
-          "name": "CH113de",
-          "url": "https://envivo.govoet.my.id/113"
-        },
-        {
-          "name": "CH117es",
-          "url": "https://envivo.govoet.my.id/117"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-08T15:30:00+01:00",
-      "competition": "Bundesliga",
-      "teams": "Union Berlin - Bayern Munich",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        },
-        {
-          "name": "CH112de",
-          "url": "https://envivo.govoet.my.id/112"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-08T16:00:00+01:00",
       "competition": "Betfred Super League",
@@ -488,8 +330,8 @@
           "url": "https://envivo.govoet.my.id/98"
         },
         {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
+          "name": "CH70es",
+          "url": "https://envivo.govoet.my.id/70"
         }
       ]
     },
@@ -1652,8 +1494,8 @@
           "url": "https://envivo.govoet.my.id/87"
         },
         {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
+          "name": "CH70es",
+          "url": "https://envivo.govoet.my.id/70"
         }
       ]
     },
@@ -1940,8 +1782,8 @@
           "url": "https://envivo.govoet.my.id/137"
         },
         {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
+          "name": "CH70es",
+          "url": "https://envivo.govoet.my.id/70"
         }
       ]
     },
@@ -3090,8 +2932,8 @@
       "teams": "Tigres F - Juarez F",
       "channels": [
         {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
+          "name": "CH70es",
+          "url": "https://envivo.govoet.my.id/70"
         }
       ]
     },
