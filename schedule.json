@@ -1,110 +1,7 @@
 {
-  "last_updated": "2025-11-08T01:42:09.536266+00:00",
+  "last_updated": "2025-11-08T03:04:39.656254+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-08T00:00:00+01:00",
-      "competition": "Campeonato Itaú Chile",
-      "teams": "U. Calera - Deportes Iquique",
-      "channels": [
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-08T00:10:00+01:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Pereira - Ind. Medellin",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-08T01:00:00+01:00",
-      "competition": "Ecuador Ligapro",
-      "teams": "Dep. Cuenca - Macara",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-08T01:00:00+01:00",
-      "competition": "MLS",
-      "teams": "Charlotte - New York City",
-      "channels": [
-        {
-          "name": "CH160us",
-          "url": "https://envivo.govoet.my.id/160"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-08T01:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Orlando Magic - Boston Celtics",
-      "channels": [
-        {
-          "name": "CH170us",
-          "url": "https://envivo.govoet.my.id/170"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-08T01:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Washington Wizards - Cleveland Cavaliers",
-      "channels": [
-        {
-          "name": "CH171us",
-          "url": "https://envivo.govoet.my.id/171"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-08T01:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Detroit Red Wings - New York Rangers",
-      "channels": [
-        {
-          "name": "CH172us",
-          "url": "https://envivo.govoet.my.id/172"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-08T01:00:00+01:00",
-      "competition": "NHL",
-      "teams": "New York Islanders - Minnesota Wild",
-      "channels": [
-        {
-          "name": "CH173us",
-          "url": "https://envivo.govoet.my.id/173"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-08T01:00:00+01:00",
-      "competition": "Torneo LPF",
-      "teams": "Rosario - San Lorenzo",
-      "channels": [
-        {
-          "name": "CH61es",
-          "url": "https://envivo.govoet.my.id/61"
-        },
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-08T01:30:00+01:00",
       "competition": "NBA",
@@ -4184,6 +4081,39 @@
         {
           "name": "CH179us",
           "url": "https://envivo.govoet.my.id/179"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-11T03:00:00+01:00",
+      "competition": "NBA",
+      "teams": "Phoenix Suns - New Orleans Pelicans",
+      "channels": [
+        {
+          "name": "CH180us",
+          "url": "https://envivo.govoet.my.id/180"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-11T03:00:00+01:00",
+      "competition": "NBA",
+      "teams": "Utah Jazz - Minnesota Timberwolves",
+      "channels": [
+        {
+          "name": "CH184us",
+          "url": "https://envivo.govoet.my.id/184"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-11T04:00:00+01:00",
+      "competition": "NHL",
+      "teams": "Vegas Golden Knights - Florida Panthers",
+      "channels": [
+        {
+          "name": "CH182us",
+          "url": "https://envivo.govoet.my.id/182"
         }
       ]
     }
