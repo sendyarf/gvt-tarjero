@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-11-08T13:40:19.026822+00:00",
+  "last_updated": "2025-11-08T14:18:32.418375+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-08T11:50:00+01:00",
-      "competition": "MotoGP",
-      "teams": "Grand Prix du Portugal Essais qualificatifs 1 et 2 des Moto GP -",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-08T12:30:00+01:00",
       "competition": "Super Lig",
