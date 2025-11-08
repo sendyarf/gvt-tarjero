@@ -1,48 +1,7 @@
 {
-  "last_updated": "2025-11-08T23:18:57.578088+00:00",
+  "last_updated": "2025-11-08T23:38:17.808158+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-08T21:30:00+01:00",
-      "competition": "Campeonato Itaú Chile",
-      "teams": "Palestino - Coquimbo",
-      "channels": [
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-08T21:30:00+01:00",
-      "competition": "Liga Portugal",
-      "teams": "Santa Clara - Sporting",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        },
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        },
-        {
-          "name": "CH74es",
-          "url": "https://envivo.govoet.my.id/74"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-08T21:30:00+01:00",
-      "competition": "NHL",
-      "teams": "Nashville Predators - Dallas Stars",
-      "channels": [
-        {
-          "name": "CH172us",
-          "url": "https://envivo.govoet.my.id/172"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-08T22:00:00+01:00",
       "competition": "MLS",
