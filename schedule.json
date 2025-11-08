@@ -1,51 +1,7 @@
 {
-  "last_updated": "2025-11-08T21:37:48.810550+00:00",
+  "last_updated": "2025-11-08T22:18:38.870249+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-08T20:00:00+01:00",
-      "competition": "Ecuador Ligapro",
-      "teams": "Manta - Mushuc Runa",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-08T20:00:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "Sittard - Heerenveen",
-      "channels": [
-        {
-          "name": "CH142nl",
-          "url": "https://envivo.govoet.my.id/142"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-08T20:00:00+01:00",
-      "competition": "Ligue 2",
-      "teams": "Troyes - Saint-Étienne",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-08T20:00:00+01:00",
-      "competition": "Serie A Bresil",
-      "teams": "Sport Recife - Atletico-MG",
-      "channels": [
-        {
-          "name": "CH160pt",
-          "url": "https://envivo.govoet.my.id/160"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-08T20:30:00+01:00",
       "competition": "Bundesliga 2",
