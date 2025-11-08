@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-11-08T04:43:05.343802+00:00",
+  "last_updated": "2025-11-08T05:20:27.733085+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-08T03:00:00+01:00",
-      "competition": "Liga 1 Te Apuesto",
-      "teams": "U. de Deportes - Deportivo Garcilaso",
-      "channels": [
-        {
-          "name": "CH85es",
-          "url": "https://envivo.govoet.my.id/85"
-        },
-        {
-          "name": "CH74es",
-          "url": "https://envivo.govoet.my.id/74"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-08T03:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Calgary Flames - Chicago Blackhawks",
-      "channels": [
-        {
-          "name": "CH181us",
-          "url": "https://envivo.govoet.my.id/181"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-08T04:00:00+01:00",
       "competition": "Liga De Expansion Mx",
