@@ -1,55 +1,7 @@
 {
-  "last_updated": "2025-11-08T18:29:02.357179+00:00",
+  "last_updated": "2025-11-08T18:47:36.301372+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-08T16:30:00+01:00",
-      "competition": "Campeonato Itaú Chile",
-      "teams": "La Serena - U. Catolica",
-      "channels": [
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-08T16:30:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "Excelsior - Heracles",
-      "channels": [
-        {
-          "name": "CH142nl",
-          "url": "https://envivo.govoet.my.id/142"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-08T16:30:00+01:00",
-      "competition": "Liga Portugal",
-      "teams": "Alverca - Rio Ave",
-      "channels": [
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        },
-        {
-          "name": "CH74es",
-          "url": "https://envivo.govoet.my.id/74"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-08T16:30:00+01:00",
-      "competition": "Top 14",
-      "teams": "RC Toulon - Stade Rochelais",
-      "channels": [
-        {
-          "name": "CH32fr",
-          "url": "https://envivo.govoet.my.id/32"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-08T17:00:00+01:00",
       "competition": "Ligue 1",
