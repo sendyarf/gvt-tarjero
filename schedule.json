@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-08T19:16:21.366325+00:00",
+  "last_updated": "2025-11-08T19:38:44.488057+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -539,8 +539,8 @@
       "teams": "Vasco - Juventude",
       "channels": [
         {
-          "name": "CH160pt",
-          "url": "https://envivo.govoet.my.id/160"
+          "name": "CH159pt",
+          "url": "https://envivo.govoet.my.id/159"
         }
       ]
     },
@@ -2178,8 +2178,8 @@
       "teams": "Corinthians - Ceara",
       "channels": [
         {
-          "name": "CH160pt",
-          "url": "https://envivo.govoet.my.id/160"
+          "name": "CH117pt",
+          "url": "https://envivo.govoet.my.id/117"
         }
       ]
     },
@@ -2189,8 +2189,8 @@
       "teams": "Cruzeiro - Fluminense",
       "channels": [
         {
-          "name": "CH160pt",
-          "url": "https://envivo.govoet.my.id/160"
+          "name": "CH118pt",
+          "url": "https://envivo.govoet.my.id/118"
         }
       ]
     },
@@ -2200,8 +2200,8 @@
       "teams": "Vitoria - Botafogo RJ",
       "channels": [
         {
-          "name": "CH160pt",
-          "url": "https://envivo.govoet.my.id/160"
+          "name": "CH119pt",
+          "url": "https://envivo.govoet.my.id/119"
         }
       ]
     },
