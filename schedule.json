@@ -1,59 +1,7 @@
 {
-  "last_updated": "2025-11-09T13:40:54.145469+00:00",
+  "last_updated": "2025-11-09T14:17:42.904685+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-09T12:00:00+01:00",
-      "competition": "Liga Endesa",
-      "teams": "Lleida - Baskonia",
-      "channels": [
-        {
-          "name": "CH64es",
-          "url": "https://envivo.govoet.my.id/64"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-09T12:15:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "Utrecht - Ajax",
-      "channels": [
-        {
-          "name": "CH141nl",
-          "url": "https://envivo.govoet.my.id/141"
-        },
-        {
-          "name": "CH100es",
-          "url": "https://envivo.govoet.my.id/100"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-09T12:15:00+01:00",
-      "competition": "Liga Endesa",
-      "teams": "Basquet Girona - Barcelone",
-      "channels": [
-        {
-          "name": "CH65es",
-          "url": "https://envivo.govoet.my.id/65"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-09T12:15:00+01:00",
-      "competition": "Moto2",
-      "teams": "Grand Prix du Portugal La course des Moto 2 -",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-09T12:30:00+01:00",
       "competition": "Serie A",
