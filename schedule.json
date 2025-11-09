@@ -1,70 +1,7 @@
 {
-  "last_updated": "2025-11-09T15:19:08.468953+00:00",
+  "last_updated": "2025-11-09T15:38:00.756142+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-09T13:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Bundesliga 2 konferenz -",
-      "channels": [
-        {
-          "name": "CH111de",
-          "url": "https://envivo.govoet.my.id/111"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-09T13:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Braunschweig - Bochum",
-      "channels": [
-        {
-          "name": "CH113de",
-          "url": "https://envivo.govoet.my.id/113"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-09T13:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Holstein Kiel - Düsseldorf",
-      "channels": [
-        {
-          "name": "CH114de",
-          "url": "https://envivo.govoet.my.id/114"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-09T13:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Magdeburg - Paderborn",
-      "channels": [
-        {
-          "name": "CH5fr",
-          "url": "https://envivo.govoet.my.id/5"
-        },
-        {
-          "name": "CH112de",
-          "url": "https://envivo.govoet.my.id/112"
-        },
-        {
-          "name": "CH78es",
-          "url": "https://envivo.govoet.my.id/78"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-09T13:30:00+01:00",
-      "competition": "Pro League",
-      "teams": "Anderlecht - Club Brugge",
-      "channels": [
-        {
-          "name": "CH153fr",
-          "url": "https://envivo.govoet.my.id/153"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-09T14:00:00+01:00",
       "competition": "Betfred Super League",
