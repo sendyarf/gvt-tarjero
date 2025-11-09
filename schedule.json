@@ -1,45 +1,7 @@
 {
-  "last_updated": "2025-11-09T14:17:42.904685+00:00",
+  "last_updated": "2025-11-09T14:38:45.885182+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-09T12:30:00+01:00",
-      "competition": "Serie A",
-      "teams": "Atalanta - Sassuolo",
-      "channels": [
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-09T12:30:00+01:00",
-      "competition": "Super Lig",
-      "teams": "Karagumruk - Konyaspor",
-      "channels": [
-        {
-          "name": "CH152tr",
-          "url": "https://envivo.govoet.my.id/152"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-09T13:30:00+01:00",
       "competition": "Bundesliga 2",
