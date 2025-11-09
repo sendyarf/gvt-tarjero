@@ -1,55 +1,7 @@
 {
-  "last_updated": "2025-11-09T18:28:18.665135+00:00",
+  "last_updated": "2025-11-09T18:45:37.153263+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-09T16:30:00+01:00",
-      "competition": "Betfred Super League",
-      "teams": "OFI Crete - AEK",
-      "channels": [
-        {
-          "name": "CH148gr",
-          "url": "https://envivo.govoet.my.id/148"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-09T16:30:00+01:00",
-      "competition": "Liga Portugal",
-      "teams": "AFS - Gil Vicente",
-      "channels": [
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-09T16:30:00+01:00",
-      "competition": "Liga Portugal",
-      "teams": "Estrela - Nacional",
-      "channels": [
-        {
-          "name": "CH145pt",
-          "url": "https://envivo.govoet.my.id/145"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-09T16:45:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "Alkmaar - PSV",
-      "channels": [
-        {
-          "name": "CH142nl",
-          "url": "https://envivo.govoet.my.id/142"
-        },
-        {
-          "name": "CH99es",
-          "url": "https://envivo.govoet.my.id/99"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-09T17:00:00+01:00",
       "competition": "Liga Endesa",
