@@ -1,67 +1,7 @@
 {
-  "last_updated": "2025-11-09T20:21:46.660145+00:00",
+  "last_updated": "2025-11-09T20:39:59.347796+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-09T18:30:00+01:00",
-      "competition": "Laliga",
-      "teams": "Majorque - Getafe",
-      "channels": [
-        {
-          "name": "CH5fr",
-          "url": "https://envivo.govoet.my.id/5"
-        },
-        {
-          "name": "CH49es",
-          "url": "https://envivo.govoet.my.id/49"
-        },
-        {
-          "name": "CH89es",
-          "url": "https://envivo.govoet.my.id/89"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-09T18:30:00+01:00",
-      "competition": "Laliga",
-      "teams": "Valence - Betis",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH52es",
-          "url": "https://envivo.govoet.my.id/52"
-        },
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-09T18:30:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Grenade - Saragosse",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-09T18:30:00+01:00",
-      "competition": "Pro League",
-      "teams": "La Gantoise - Genk",
-      "channels": [
-        {
-          "name": "CH153fr",
-          "url": "https://envivo.govoet.my.id/153"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-09T19:00:00+01:00",
       "competition": "Campeonato Itaú Chile",
