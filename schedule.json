@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-11-09T18:45:37.153263+00:00",
+  "last_updated": "2025-11-09T19:15:52.860051+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-09T17:00:00+01:00",
-      "competition": "Liga Endesa",
-      "teams": "Grenade - Valence",
-      "channels": [
-        {
-          "name": "CH64es",
-          "url": "https://envivo.govoet.my.id/64"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-09T17:00:00+01:00",
-      "competition": "Premiership",
-      "teams": "Celtic - Kilmarnock",
-      "channels": [
-        {
-          "name": "CH136us",
-          "url": "https://envivo.govoet.my.id/136"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-09T17:15:00+01:00",
       "competition": "Ligue 1",
