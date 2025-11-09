@@ -1,37 +1,7 @@
 {
-  "last_updated": "2025-11-09T12:40:53.846389+00:00",
+  "last_updated": "2025-11-09T13:25:35.798454+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-09T10:40:00+01:00",
-      "competition": "MotoGP",
-      "teams": "Grand Prix du Portugal Warm Up des Moto GP -",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-09T11:00:00+01:00",
-      "competition": "MotoGP",
-      "teams": "Grand Prix du Portugal Parade des pilotes -",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-09T12:00:00+01:00",
       "competition": "Liga Endesa",
