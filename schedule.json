@@ -1,74 +1,7 @@
 {
-  "last_updated": "2025-11-09T23:19:16.295618+00:00",
+  "last_updated": "2025-11-09T23:39:01.028224+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-09T21:30:00+01:00",
-      "competition": "Campeonato Itaú Chile",
-      "teams": "U. De Chile - Limache",
-      "channels": [
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-09T21:30:00+01:00",
-      "competition": "Ecuador Ligapro",
-      "teams": "El Nacional - Emelec",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-09T21:30:00+01:00",
-      "competition": "Liga Portugal",
-      "teams": "Benfica - Casa Pia",
-      "channels": [
-        {
-          "name": "CH6fr",
-          "url": "https://envivo.govoet.my.id/6"
-        },
-        {
-          "name": "CH147pt",
-          "url": "https://envivo.govoet.my.id/147"
-        },
-        {
-          "name": "CH74es",
-          "url": "https://envivo.govoet.my.id/74"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-09T21:30:00+01:00",
-      "competition": "Liga Portugal",
-      "teams": "Braga - Moreirense",
-      "channels": [
-        {
-          "name": "CH7fr",
-          "url": "https://envivo.govoet.my.id/7"
-        },
-        {
-          "name": "CH145pt",
-          "url": "https://envivo.govoet.my.id/145"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-09T21:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Milwaukee Bucks - Houston Rockets",
-      "channels": [
-        {
-          "name": "CH180us",
-          "url": "https://envivo.govoet.my.id/180"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-09T22:05:00+01:00",
       "competition": "NFL",
