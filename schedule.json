@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-11-09T04:43:44.192276+00:00",
+  "last_updated": "2025-11-09T05:20:32.616032+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-09T03:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Denver Nuggets - Indiana Pacers",
-      "channels": [
-        {
-          "name": "CH185us",
-          "url": "https://envivo.govoet.my.id/185"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-09T04:00:00+01:00",
       "competition": "Liga De Expansion Mx",
