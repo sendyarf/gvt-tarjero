@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-11-10T04:47:33.875517+00:00",
+  "last_updated": "2025-11-10T05:23:43.933265+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-10T03:00:00+01:00",
-      "competition": "MLS",
-      "teams": "San Diego FC - Portland Timbers",
-      "channels": [
-        {
-          "name": "CH165us",
-          "url": "https://envivo.govoet.my.id/165"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-10T03:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Sacramento Kings - Minnesota Timberwolves",
-      "channels": [
-        {
-          "name": "CH194us",
-          "url": "https://envivo.govoet.my.id/194"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-10T04:00:00+01:00",
       "competition": "NHL",
