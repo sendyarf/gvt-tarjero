@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-11-10T22:22:03.515634+00:00",
+  "last_updated": "2025-11-10T22:43:36.847913+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-10T20:30:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Burgos CF - Castellon",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        },
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-10T21:00:00+01:00",
       "competition": "Liga 1 Te Apuesto",
