@@ -1,67 +1,7 @@
 {
-  "last_updated": "2025-11-10T04:01:27.814724+00:00",
+  "last_updated": "2025-11-10T04:47:33.875517+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-10T02:15:00+01:00",
-      "competition": "Liga Mx Women",
-      "teams": "Club America F - Monterrey F",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-10T02:20:00+01:00",
-      "competition": "NFL",
-      "teams": "Los Angeles Chargers - Pittsburgh Steelers",
-      "channels": [
-        {
-          "name": "CH3fr",
-          "url": "https://envivo.govoet.my.id/3"
-        },
-        {
-          "name": "CH192us",
-          "url": "https://envivo.govoet.my.id/192"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
-          "name": "CH72es",
-          "url": "https://envivo.govoet.my.id/72"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-10T02:30:00+01:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Santa Fe - Dep. Cali",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-10T02:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Golden State Warriors - Indiana Pacers",
-      "channels": [
-        {
-          "name": "CH193us",
-          "url": "https://envivo.govoet.my.id/193"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-10T03:00:00+01:00",
       "competition": "MLS",
