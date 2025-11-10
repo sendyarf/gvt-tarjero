@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-11-10T22:43:36.847913+00:00",
+  "last_updated": "2025-11-10T23:21:23.000437+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-10T21:00:00+01:00",
-      "competition": "Liga 1 Te Apuesto",
-      "teams": "AD Tarma - Los Chankas",
-      "channels": [
-        {
-          "name": "CH84es",
-          "url": "https://envivo.govoet.my.id/84"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-10T21:00:00+01:00",
-      "competition": "Torneo LPF",
-      "teams": "Gimnasia L.P. - Velez Sarsfield",
-      "channels": [
-        {
-          "name": "CH76es",
-          "url": "https://envivo.govoet.my.id/76"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-10T23:00:00+01:00",
       "competition": "Torneo LPF",
@@ -226,8 +204,8 @@
       "teams": "Utah Jazz - Minnesota Timberwolves",
       "channels": [
         {
-          "name": "CH184us",
-          "url": "https://envivo.govoet.my.id/184"
+          "name": "CH181us",
+          "url": "https://envivo.govoet.my.id/181"
         }
       ]
     },
@@ -248,8 +226,8 @@
       "teams": "Los Angeles Clippers - Atlanta Hawks",
       "channels": [
         {
-          "name": "CH173us",
-          "url": "https://envivo.govoet.my.id/173"
+          "name": "CH183us",
+          "url": "https://envivo.govoet.my.id/183"
         }
       ]
     }
