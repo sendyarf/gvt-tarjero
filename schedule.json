@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-11-10T23:39:44.247837+00:00",
+  "last_updated": "2025-11-11T01:49:43.569299+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-10T23:00:00+01:00",
-      "competition": "Torneo LPF",
-      "teams": "Dep. Riestra - Independiente",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-11T01:00:00+01:00",
       "competition": "Ecuador Ligapro",
