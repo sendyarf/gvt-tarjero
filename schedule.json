@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-11-11T04:32:58.702186+00:00",
+  "last_updated": "2025-11-11T05:22:42.685763+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-11T03:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Phoenix Suns - New Orleans Pelicans",
-      "channels": [
-        {
-          "name": "CH180us",
-          "url": "https://envivo.govoet.my.id/180"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-11T03:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Utah Jazz - Minnesota Timberwolves",
-      "channels": [
-        {
-          "name": "CH181us",
-          "url": "https://envivo.govoet.my.id/181"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-11T04:00:00+01:00",
       "competition": "NHL",
