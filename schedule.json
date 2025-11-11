@@ -1,67 +1,7 @@
 {
-  "last_updated": "2025-11-11T03:57:46.009532+00:00",
+  "last_updated": "2025-11-11T04:32:58.702186+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-11T02:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Chicago Bulls - San Antonio Spurs",
-      "channels": [
-        {
-          "name": "CH176us",
-          "url": "https://envivo.govoet.my.id/176"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-11T02:15:00+01:00",
-      "competition": "NFL",
-      "teams": "Green Bay Packers - Philadelphia Eagles",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH177us",
-          "url": "https://envivo.govoet.my.id/177"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-11T02:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Dallas Mavericks - Milwaukee Bucks",
-      "channels": [
-        {
-          "name": "CH178us",
-          "url": "https://envivo.govoet.my.id/178"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-11T02:30:00+01:00",
-      "competition": "NHL",
-      "teams": "Edmonton Oilers - Columbus Blue Jackets",
-      "channels": [
-        {
-          "name": "CH179us",
-          "url": "https://envivo.govoet.my.id/179"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-11T03:00:00+01:00",
       "competition": "NBA",
