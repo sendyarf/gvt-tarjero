@@ -1,5 +1,234 @@
 {
-  "last_updated": "2025-11-12T21:39:46.801644+00:00",
+  "last_updated": "2025-11-12T22:21:43.321074+00:00",
   "timezone": "Europe/Paris",
-  "matches": []
+  "matches": [
+    {
+      "datetime": "2025-11-13T01:00:00+01:00",
+      "competition": "Copa Ecuador",
+      "teams": "LDU Quito - Dep. Cuenca",
+      "channels": [
+        {
+          "name": "CH86es",
+          "url": "https://envivo.govoet.my.id/86"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-13T01:00:00+01:00",
+      "competition": "NBA",
+      "teams": "Charlotte Hornets - Milwaukee Bucks",
+      "channels": [
+        {
+          "name": "CH160us",
+          "url": "https://envivo.govoet.my.id/160"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-13T01:00:00+01:00",
+      "competition": "NBA",
+      "teams": "Detroit Pistons - Chicago Bulls",
+      "channels": [
+        {
+          "name": "CH161us",
+          "url": "https://envivo.govoet.my.id/161"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-13T01:00:00+01:00",
+      "competition": "NBA",
+      "teams": "New York Knicks - Orlando Magic",
+      "channels": [
+        {
+          "name": "CH162us",
+          "url": "https://envivo.govoet.my.id/162"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-13T01:00:00+01:00",
+      "competition": "NHL",
+      "teams": "Tampa Bay Lightning - New York Rangers",
+      "channels": [
+        {
+          "name": "CH163us",
+          "url": "https://envivo.govoet.my.id/163"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-13T01:30:00+01:00",
+      "competition": "NBA",
+      "teams": "Boston Celtics - Memphis Grizzlies",
+      "channels": [
+        {
+          "name": "CH164us",
+          "url": "https://envivo.govoet.my.id/164"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-13T01:30:00+01:00",
+      "competition": "NBA",
+      "teams": "Miami Heat - Cleveland Cavaliers",
+      "channels": [
+        {
+          "name": "CH165us",
+          "url": "https://envivo.govoet.my.id/165"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-13T01:30:00+01:00",
+      "competition": "NHL",
+      "teams": "Philadelphia Flyers - Edmonton Oilers",
+      "channels": [
+        {
+          "name": "CH166us",
+          "url": "https://envivo.govoet.my.id/166"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-13T02:00:00+01:00",
+      "competition": "Liga De Expansion Mx",
+      "teams": "Tepatitlan de Morelos - Atlante",
+      "channels": [
+        {
+          "name": "CH105es",
+          "url": "https://envivo.govoet.my.id/105"
+        },
+        {
+          "name": "CH98es",
+          "url": "https://envivo.govoet.my.id/98"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-13T02:00:00+01:00",
+      "competition": "NBA",
+      "teams": "Houston Rockets - Washington Wizards",
+      "channels": [
+        {
+          "name": "CH167us",
+          "url": "https://envivo.govoet.my.id/167"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-13T02:00:00+01:00",
+      "competition": "NBA",
+      "teams": "New Orleans Pelicans - Portland Trail Blazers",
+      "channels": [
+        {
+          "name": "CH168us",
+          "url": "https://envivo.govoet.my.id/168"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-13T02:00:00+01:00",
+      "competition": "NBA",
+      "teams": "San Antonio Spurs - Golden State Warriors",
+      "channels": [
+        {
+          "name": "CH169us",
+          "url": "https://envivo.govoet.my.id/169"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-13T02:20:00+01:00",
+      "competition": "Liga Betplay Dimayor",
+      "teams": "Chico - Millonarios",
+      "channels": [
+        {
+          "name": "CH81es",
+          "url": "https://envivo.govoet.my.id/81"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-13T02:30:00+01:00",
+      "competition": "NBA",
+      "teams": "Dallas Mavericks - Phoenix Suns",
+      "channels": [
+        {
+          "name": "CH170us",
+          "url": "https://envivo.govoet.my.id/170"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-13T03:00:00+01:00",
+      "competition": "NHL",
+      "teams": "Utah Mammoth - Buffalo Sabres",
+      "channels": [
+        {
+          "name": "CH171us",
+          "url": "https://envivo.govoet.my.id/171"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-13T03:30:00+01:00",
+      "competition": "NBA",
+      "teams": "Oklahoma City Thunder - Los Angeles Lakers",
+      "channels": [
+        {
+          "name": "CH172us",
+          "url": "https://envivo.govoet.my.id/172"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-13T03:30:00+01:00",
+      "competition": "NHL",
+      "teams": "Chicago Blackhawks - New Jersey Devils",
+      "channels": [
+        {
+          "name": "CH173us",
+          "url": "https://envivo.govoet.my.id/173"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-13T04:00:00+01:00",
+      "competition": "Liga De Expansion Mx",
+      "teams": "Zacatecas Mineros - Irapuato",
+      "channels": [
+        {
+          "name": "CH105es",
+          "url": "https://envivo.govoet.my.id/105"
+        },
+        {
+          "name": "CH98es",
+          "url": "https://envivo.govoet.my.id/98"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-13T04:00:00+01:00",
+      "competition": "NBA",
+      "teams": "Sacramento Kings - Atlanta Hawks",
+      "channels": [
+        {
+          "name": "CH174us",
+          "url": "https://envivo.govoet.my.id/174"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-13T04:30:00+01:00",
+      "competition": "NBA",
+      "teams": "Los Angeles Clippers - Denver Nuggets",
+      "channels": [
+        {
+          "name": "CH175us",
+          "url": "https://envivo.govoet.my.id/175"
+        }
+      ]
+    }
+  ]
 }
