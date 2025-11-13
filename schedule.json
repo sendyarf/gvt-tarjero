@@ -1,44 +1,7 @@
 {
-  "last_updated": "2025-11-13T18:32:42.072181+00:00",
+  "last_updated": "2025-11-13T19:18:37.814805+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-13T17:00:00+01:00",
-      "competition": "Amical International",
-      "teams": "Iran - Cap-Vert",
-      "channels": [
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-13T17:00:00+01:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Nigéria - Gabon",
-      "channels": [
-        {
-          "name": "CH41fr",
-          "url": "https://envivo.govoet.my.id/41"
-        },
-        {
-          "name": "CH141nl",
-          "url": "https://envivo.govoet.my.id/141"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-13T17:00:00+01:00",
-      "competition": "Qualif. Cm Asie",
-      "teams": "Emirats Arabes Unis - Iraq",
-      "channels": [
-        {
-          "name": "CH142nl",
-          "url": "https://envivo.govoet.my.id/142"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-13T17:30:00+01:00",
       "competition": "Amical International",
