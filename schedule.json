@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-11-13T03:17:12.927687+00:00",
+  "last_updated": "2025-11-13T03:59:13.305744+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-13T01:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Boston Celtics - Memphis Grizzlies",
-      "channels": [
-        {
-          "name": "CH164us",
-          "url": "https://envivo.govoet.my.id/164"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-13T01:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Miami Heat - Cleveland Cavaliers",
-      "channels": [
-        {
-          "name": "CH165us",
-          "url": "https://envivo.govoet.my.id/165"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-13T01:30:00+01:00",
-      "competition": "NHL",
-      "teams": "Philadelphia Flyers - Edmonton Oilers",
-      "channels": [
-        {
-          "name": "CH166us",
-          "url": "https://envivo.govoet.my.id/166"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-13T02:00:00+01:00",
       "competition": "Liga De Expansion Mx",
