@@ -1,43 +1,5 @@
 {
-  "last_updated": "2025-11-13T05:44:02.789085+00:00",
+  "last_updated": "2025-11-13T06:34:38.450393+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-11-13T04:00:00+01:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Zacatecas Mineros - Irapuato",
-      "channels": [
-        {
-          "name": "CH105es",
-          "url": "https://envivo.govoet.my.id/105"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-13T04:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Sacramento Kings - Atlanta Hawks",
-      "channels": [
-        {
-          "name": "CH174us",
-          "url": "https://envivo.govoet.my.id/174"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-13T04:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Los Angeles Clippers - Denver Nuggets",
-      "channels": [
-        {
-          "name": "CH175us",
-          "url": "https://envivo.govoet.my.id/175"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
