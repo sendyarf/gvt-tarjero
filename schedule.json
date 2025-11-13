@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-11-13T19:18:37.814805+00:00",
+  "last_updated": "2025-11-13T19:38:19.481337+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-13T17:30:00+01:00",
-      "competition": "Amical International",
-      "teams": "Algérie - Zimbabwe",
-      "channels": [
-        {
-          "name": "CH114dz",
-          "url": "https://envivo.govoet.my.id/114"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-13T18:00:00+01:00",
       "competition": "Amical International",
