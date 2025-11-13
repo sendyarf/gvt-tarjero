@@ -1,48 +1,7 @@
 {
-  "last_updated": "2025-11-13T21:38:11.947520+00:00",
+  "last_updated": "2025-11-13T22:21:48.162378+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-13T20:00:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Fenerbahce - Hapoel Tel-Aviv",
-      "channels": [
-        {
-          "name": "CH65es",
-          "url": "https://envivo.govoet.my.id/65"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-13T20:00:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Étoile Rouge Belgrade - Monaco",
-      "channels": [
-        {
-          "name": "CH66es",
-          "url": "https://envivo.govoet.my.id/66"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-13T20:00:00+01:00",
-      "competition": "Qualif. Cm Afrique",
-      "teams": "Cameroun - RD Congo",
-      "channels": [
-        {
-          "name": "CH43fr",
-          "url": "https://envivo.govoet.my.id/43"
-        },
-        {
-          "name": "CH125de",
-          "url": "https://envivo.govoet.my.id/125"
-        },
-        {
-          "name": "CH141nl",
-          "url": "https://envivo.govoet.my.id/141"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-13T20:45:00+01:00",
       "competition": "EuroLeague",
