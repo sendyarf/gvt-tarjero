@@ -1,78 +1,7 @@
 {
-  "last_updated": "2025-11-13T19:38:19.481337+00:00",
+  "last_updated": "2025-11-13T20:26:03.201575+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-13T18:00:00+01:00",
-      "competition": "Amical International",
-      "teams": "Macédoine du Nord - Lettonie",
-      "channels": [
-        {
-          "name": "CH115us",
-          "url": "https://envivo.govoet.my.id/115"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-13T18:00:00+01:00",
-      "competition": "Amical International",
-      "teams": "République Tchèque - Saint-Marin",
-      "channels": [
-        {
-          "name": "CH116us",
-          "url": "https://envivo.govoet.my.id/116"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-13T18:00:00+01:00",
-      "competition": "Qualif. Cm Europe",
-      "teams": "Arménie - Hongrie",
-      "channels": [
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH145pt",
-          "url": "https://envivo.govoet.my.id/145"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-13T18:00:00+01:00",
-      "competition": "Qualif. Cm Europe",
-      "teams": "Azerbaïdjan - Islande",
-      "channels": [
-        {
-          "name": "CH147pt",
-          "url": "https://envivo.govoet.my.id/147"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-13T18:00:00+01:00",
-      "competition": "Qualif. Cm Europe",
-      "teams": "Norvège - Estonie",
-      "channels": [
-        {
-          "name": "CH42fr",
-          "url": "https://envivo.govoet.my.id/42"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        },
-        {
-          "name": "CH146pt",
-          "url": "https://envivo.govoet.my.id/146"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-13T20:00:00+01:00",
       "competition": "EuroLeague",
