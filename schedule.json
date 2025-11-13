@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-11-13T04:34:11.646939+00:00",
+  "last_updated": "2025-11-13T05:22:56.504765+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-13T03:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Utah Mammoth - Buffalo Sabres",
-      "channels": [
-        {
-          "name": "CH171us",
-          "url": "https://envivo.govoet.my.id/171"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-13T03:30:00+01:00",
       "competition": "NBA",
