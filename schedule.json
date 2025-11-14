@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-11-14T15:41:26.302042+00:00",
+  "last_updated": "2025-11-14T16:29:09.109053+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-14T14:00:00+01:00",
-      "competition": "Amical International",
-      "teams": "Egypte B - Algérie B",
-      "channels": [
-        {
-          "name": "CH111dz",
-          "url": "https://envivo.govoet.my.id/111"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-14T14:05:00+01:00",
-      "competition": "Moto2",
-      "teams": "Grand Prix C.valencienne Essais des Moto 2 -",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-14T15:10:00+01:00",
       "competition": "MotoGP",
