@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-11-14T14:42:04.825083+00:00",
+  "last_updated": "2025-11-14T15:21:05.721450+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-14T13:15:00+01:00",
-      "competition": "Moto3",
-      "teams": "Grand Prix C.valencienne Essais des Moto 3 -",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-14T14:00:00+01:00",
       "competition": "Amical International",
