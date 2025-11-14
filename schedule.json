@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-11-14T19:38:38.068469+00:00",
+  "last_updated": "2025-11-14T20:25:38.363067+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-14T17:45:00+01:00",
-      "competition": "Amical International",
-      "teams": "Tunisie - Jordanie",
-      "channels": [
-        {
-          "name": "CH112tn",
-          "url": "https://envivo.govoet.my.id/112"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-14T18:00:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Anadolu Efes - Bayern",
-      "channels": [
-        {
-          "name": "CH66es",
-          "url": "https://envivo.govoet.my.id/66"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-14T18:00:00+01:00",
-      "competition": "Qualif. Cm Europe",
-      "teams": "Finlande - Malte",
-      "channels": [
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-14T19:00:00+01:00",
       "competition": "Pro D2",
