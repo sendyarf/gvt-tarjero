@@ -1,41 +1,7 @@
 {
-  "last_updated": "2025-11-14T03:56:49.231728+00:00",
+  "last_updated": "2025-11-14T04:31:05.132967+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-14T02:15:00+01:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Atl. Morelia - Cancun",
-      "channels": [
-        {
-          "name": "CH105es",
-          "url": "https://envivo.govoet.my.id/105"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-14T02:15:00+01:00",
-      "competition": "NFL",
-      "teams": "New England Patriots - New York Jets",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH170us",
-          "url": "https://envivo.govoet.my.id/170"
-        },
-        {
-          "name": "CH91es",
-          "url": "https://envivo.govoet.my.id/91"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-14T03:00:00+01:00",
       "competition": "NBA",
