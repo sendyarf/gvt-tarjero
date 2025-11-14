@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-11-14T05:22:21.585021+00:00",
+  "last_updated": "2025-11-14T05:43:05.140114+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-14T03:30:00+01:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Leones Negros - Tampico Madero",
-      "channels": [
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-14T04:00:00+01:00",
       "competition": "NHL",
