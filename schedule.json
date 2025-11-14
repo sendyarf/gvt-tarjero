@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-11-14T20:43:11.047882+00:00",
+  "last_updated": "2025-11-14T21:20:38.290598+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-14T19:00:00+01:00",
-      "competition": "Pro D2",
-      "teams": "Colomiers Rugby - USO Nevers Rugby",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-14T19:30:00+01:00",
       "competition": "Pro D2",
