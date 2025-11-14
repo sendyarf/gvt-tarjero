@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-11-13T23:39:56.604656+00:00",
+  "last_updated": "2025-11-14T01:49:31.049756+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-13T23:00:00+01:00",
-      "competition": "Qualif. Cm Concacaf",
-      "teams": "Suriname - Salvador",
-      "channels": [
-        {
-          "name": "CH141nl",
-          "url": "https://envivo.govoet.my.id/141"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-14T01:00:00+01:00",
       "competition": "Liga Betplay Dimayor",
@@ -133,8 +122,8 @@
       "teams": "Trinité-et-Tobago - Jamaique",
       "channels": [
         {
-          "name": "CH00us",
-          "url": "https://envivo.govoet.my.id/00"
+          "name": "CH72es",
+          "url": "https://envivo.govoet.my.id/72"
         }
       ]
     },
@@ -252,8 +241,8 @@
       "teams": "Guatemala - Panama",
       "channels": [
         {
-          "name": "CH00us",
-          "url": "https://envivo.govoet.my.id/00"
+          "name": "CH155es",
+          "url": "https://envivo.govoet.my.id/155"
         }
       ]
     },
@@ -263,8 +252,8 @@
       "teams": "Haïti - Costa Rica",
       "channels": [
         {
-          "name": "CH00us",
-          "url": "https://envivo.govoet.my.id/00"
+          "name": "CH73es",
+          "url": "https://envivo.govoet.my.id/73"
         }
       ]
     },
@@ -274,8 +263,8 @@
       "teams": "Nicaragua - Honduras",
       "channels": [
         {
-          "name": "CH00us",
-          "url": "https://envivo.govoet.my.id/00"
+          "name": "CH72es",
+          "url": "https://envivo.govoet.my.id/72"
         }
       ]
     },
