@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-11-14T05:43:05.140114+00:00",
+  "last_updated": "2025-11-14T06:34:20.936361+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-14T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Seattle Kraken - Winnipeg Jets",
-      "channels": [
-        {
-          "name": "CH188us",
-          "url": "https://envivo.govoet.my.id/188"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-14T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Vegas Golden Knights - New York Islanders",
-      "channels": [
-        {
-          "name": "CH189us",
-          "url": "https://envivo.govoet.my.id/189"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-14T09:00:00+01:00",
       "competition": "Moto3",
