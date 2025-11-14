@@ -1,48 +1,7 @@
 {
-  "last_updated": "2025-11-14T22:21:30.256276+00:00",
+  "last_updated": "2025-11-14T22:42:10.261482+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-14T20:30:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Barcelone - Virtus Bologna",
-      "channels": [
-        {
-          "name": "CH62es",
-          "url": "https://envivo.govoet.my.id/62"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-14T20:30:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Milano - Olympiakos",
-      "channels": [
-        {
-          "name": "CH66es",
-          "url": "https://envivo.govoet.my.id/66"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-14T20:30:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Valladolid - Las Palmas",
-      "channels": [
-        {
-          "name": "CH6fr",
-          "url": "https://envivo.govoet.my.id/6"
-        },
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-14T20:45:00+01:00",
       "competition": "Qualif. Cm Europe",
