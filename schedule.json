@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-11-15T04:25:45.322847+00:00",
+  "last_updated": "2025-11-15T04:43:48.326299+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-15T02:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Dallas Mavericks - Los Angeles Clippers",
-      "channels": [
-        {
-          "name": "CH167us",
-          "url": "https://envivo.govoet.my.id/167"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-15T03:00:00+01:00",
       "competition": "NHL",
