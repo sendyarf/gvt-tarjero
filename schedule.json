@@ -1,55 +1,7 @@
 {
-  "last_updated": "2025-11-15T17:38:02.854328+00:00",
+  "last_updated": "2025-11-15T18:28:55.823059+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-15T16:00:00+01:00",
-      "competition": "Amical International",
-      "teams": "Russie - Chili",
-      "channels": [
-        {
-          "name": "CH170es",
-          "url": "https://envivo.govoet.my.id/170"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-15T16:00:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Albacete - Andorra",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-15T16:00:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Castellon - Real Sociedad B",
-      "channels": [
-        {
-          "name": "CH54es",
-          "url": "https://envivo.govoet.my.id/54"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-15T16:10:00+01:00",
-      "competition": "Tournée Automne",
-      "teams": "Angleterre - Nouvelle-Zélande",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-15T17:00:00+01:00",
       "competition": "Amical International",
