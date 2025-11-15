@@ -1,51 +1,7 @@
 {
-  "last_updated": "2025-11-15T01:45:35.312243+00:00",
+  "last_updated": "2025-11-15T03:09:26.197322+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-15T00:00:00+01:00",
-      "competition": "Torneo LPF",
-      "teams": "Lanus - Atl. Tucuman",
-      "channels": [
-        {
-          "name": "CH76es",
-          "url": "https://envivo.govoet.my.id/76"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-15T01:00:00+01:00",
-      "competition": "NBA",
-      "teams": "New York Knicks - Miami Heat",
-      "channels": [
-        {
-          "name": "CH160us",
-          "url": "https://envivo.govoet.my.id/160"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-15T01:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Orlando Magic - Brooklyn Nets",
-      "channels": [
-        {
-          "name": "CH161us",
-          "url": "https://envivo.govoet.my.id/161"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-15T01:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Carolina Hurricanes - Vancouver Canucks",
-      "channels": [
-        {
-          "name": "CH181us",
-          "url": "https://envivo.govoet.my.id/181"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-15T01:30:00+01:00",
       "competition": "NBA",
