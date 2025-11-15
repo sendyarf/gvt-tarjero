@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-11-15T04:43:48.326299+00:00",
+  "last_updated": "2025-11-15T05:21:08.442442+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-15T03:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Utah Mammoth - New York Islanders",
-      "channels": [
-        {
-          "name": "CH183us",
-          "url": "https://envivo.govoet.my.id/183"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-15T03:30:00+01:00",
       "competition": "Amical International",
