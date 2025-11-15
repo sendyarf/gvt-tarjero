@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-11-15T05:21:08.442442+00:00",
+  "last_updated": "2025-11-15T05:41:28.560880+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-15T03:30:00+01:00",
-      "competition": "Amical International",
-      "teams": "Venezuela - Australie",
-      "channels": [
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-15T03:30:00+01:00",
-      "competition": "NBA",
-      "teams": "San Antonio Spurs - Golden State Warriors",
-      "channels": [
-        {
-          "name": "CH168us",
-          "url": "https://envivo.govoet.my.id/168"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-15T08:40:00+01:00",
       "competition": "Moto3",
