@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-11-15T18:47:15.230286+00:00",
+  "last_updated": "2025-11-15T19:15:29.119805+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-15T17:00:00+01:00",
-      "competition": "Amical International",
-      "teams": "Brésil - Sénégal",
-      "channels": [
-        {
-          "name": "CH42fr",
-          "url": "https://envivo.govoet.my.id/42"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-15T18:00:00+01:00",
       "competition": "Qualif. Cm Europe",
