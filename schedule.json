@@ -1,41 +1,7 @@
 {
-  "last_updated": "2025-11-15T16:43:04.423041+00:00",
+  "last_updated": "2025-11-15T17:17:12.763520+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-15T15:00:00+01:00",
-      "competition": "MotoGP",
-      "teams": "Grand Prix de valencienne Sprint des Moto GP -",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-15T15:00:00+01:00",
-      "competition": "Qualif. Cm Europe",
-      "teams": "Kazakhstan - Belgique",
-      "channels": [
-        {
-          "name": "CH41fr",
-          "url": "https://envivo.govoet.my.id/41"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH89es",
-          "url": "https://envivo.govoet.my.id/89"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-15T16:00:00+01:00",
       "competition": "Amical International",
