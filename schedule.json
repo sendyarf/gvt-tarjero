@@ -1,55 +1,7 @@
 {
-  "last_updated": "2025-11-16T15:39:14.724537+00:00",
+  "last_updated": "2025-11-16T16:25:52.933058+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-16T14:00:00+01:00",
-      "competition": "Coupe De France",
-      "teams": "ES Cappelle - Abbeville",
-      "channels": [
-        {
-          "name": "CH191fr",
-          "url": "https://envivo.govoet.my.id/191"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-16T14:00:00+01:00",
-      "competition": "Coupe De France",
-      "teams": "Saint-Cyr Collonges - Thonon-Evian",
-      "channels": [
-        {
-          "name": "CH190fr",
-          "url": "https://envivo.govoet.my.id/190"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-16T14:00:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Ceuta - Leganes",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-16T14:00:00+01:00",
-      "competition": "MotoGP",
-      "teams": "Grand Prix de la Communauté valencienne Moto GP -",
-      "channels": [
-        {
-          "name": "CH11fr",
-          "url": "https://envivo.govoet.my.id/11"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-16T15:00:00+01:00",
       "competition": "NHL",
