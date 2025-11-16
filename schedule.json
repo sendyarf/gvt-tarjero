@@ -1,26 +1,7 @@
 {
-  "last_updated": "2025-11-16T17:18:06.575283+00:00",
+  "last_updated": "2025-11-16T17:39:26.681261+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-16T15:30:00+01:00",
-      "competition": "NFL",
-      "teams": "Miami Dolphins - Washington Commanders",
-      "channels": [
-        {
-          "name": "CH3fr",
-          "url": "https://envivo.govoet.my.id/3"
-        },
-        {
-          "name": "CH170us",
-          "url": "https://envivo.govoet.my.id/170"
-        },
-        {
-          "name": "CH93es",
-          "url": "https://envivo.govoet.my.id/93"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-16T15:45:00+01:00",
       "competition": "Coupe De France",
