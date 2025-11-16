@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-11-16T20:23:40.926755+00:00",
+  "last_updated": "2025-11-16T20:41:03.367987+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-16T18:30:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Cordoba - La Corogne",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-16T18:30:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Mirandes - Burgos CF",
-      "channels": [
-        {
-          "name": "CH54es",
-          "url": "https://envivo.govoet.my.id/54"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-16T19:00:00+01:00",
       "competition": "Liga Endesa",
