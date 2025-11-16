@@ -1,28 +1,5 @@
 {
-  "last_updated": "2025-11-16T05:41:41.478264+00:00",
+  "last_updated": "2025-11-16T06:32:14.789099+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-11-16T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Calgary Flames - Winnipeg Jets",
-      "channels": [
-        {
-          "name": "CH191us",
-          "url": "https://envivo.govoet.my.id/191"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-16T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Seattle Kraken - San Jose Sharks",
-      "channels": [
-        {
-          "name": "CH192us",
-          "url": "https://envivo.govoet.my.id/192"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
