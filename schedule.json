@@ -1,52 +1,7 @@
 {
-  "last_updated": "2025-11-16T16:44:59.134815+00:00",
+  "last_updated": "2025-11-16T17:18:06.575283+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-16T15:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Pittsburgh Penguins - Nashville Predators",
-      "channels": [
-        {
-          "name": "CH182us",
-          "url": "https://envivo.govoet.my.id/182"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-16T15:00:00+01:00",
-      "competition": "Qualif. Cm Europe",
-      "teams": "Hongrie - Irlande",
-      "channels": [
-        {
-          "name": "CH129gb",
-          "url": "https://envivo.govoet.my.id/129"
-        },
-        {
-          "name": "CH111es",
-          "url": "https://envivo.govoet.my.id/111"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-16T15:00:00+01:00",
-      "competition": "Qualif. Cm Europe",
-      "teams": "Portugal - Arménie",
-      "channels": [
-        {
-          "name": "CH41fr",
-          "url": "https://envivo.govoet.my.id/41"
-        },
-        {
-          "name": "CH112pt",
-          "url": "https://envivo.govoet.my.id/112"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-16T15:30:00+01:00",
       "competition": "NFL",
