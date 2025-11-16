@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-11-16T13:41:03.474956+00:00",
+  "last_updated": "2025-11-16T14:18:42.063551+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-16T12:10:00+01:00",
-      "competition": "Moto2",
-      "teams": "La course des Moto 2 -",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-16T14:00:00+01:00",
       "competition": "Coupe De France",
