@@ -1,63 +1,7 @@
 {
-  "last_updated": "2025-11-16T19:38:33.163603+00:00",
+  "last_updated": "2025-11-16T20:23:40.926755+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-16T18:00:00+01:00",
-      "competition": "Qualif. Cm Europe",
-      "teams": "Albanie - Angleterre",
-      "channels": [
-        {
-          "name": "CH19fr",
-          "url": "https://envivo.govoet.my.id/19"
-        },
-        {
-          "name": "CH130gb",
-          "url": "https://envivo.govoet.my.id/130"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-16T18:00:00+01:00",
-      "competition": "Qualif. Cm Europe",
-      "teams": "Azerbaïdjan - France",
-      "channels": [
-        {
-          "name": "CH24fr",
-          "url": "https://envivo.govoet.my.id/24"
-        },
-        {
-          "name": "CH113es",
-          "url": "https://envivo.govoet.my.id/113"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-16T18:00:00+01:00",
-      "competition": "Qualif. Cm Europe",
-      "teams": "Serbie - Lettonie",
-      "channels": [
-        {
-          "name": "CH114us",
-          "url": "https://envivo.govoet.my.id/114"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-16T18:00:00+01:00",
-      "competition": "Qualif. Cm Europe",
-      "teams": "Ukraine - Islande",
-      "channels": [
-        {
-          "name": "CH115us",
-          "url": "https://envivo.govoet.my.id/115"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-16T18:30:00+01:00",
       "competition": "Laliga 2",
