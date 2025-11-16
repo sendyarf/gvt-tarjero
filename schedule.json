@@ -1,70 +1,7 @@
 {
-  "last_updated": "2025-11-15T23:38:54.238022+00:00",
+  "last_updated": "2025-11-16T01:54:52.284619+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-15T22:30:00+01:00",
-      "competition": "Serie A Bresil",
-      "teams": "Sport Recife - Flamengo",
-      "channels": [
-        {
-          "name": "CH82es",
-          "url": "https://envivo.govoet.my.id/82"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-15T23:00:00+01:00",
-      "competition": "Amical International",
-      "teams": "USA - Paraguay",
-      "channels": [
-        {
-          "name": "CH72es",
-          "url": "https://envivo.govoet.my.id/72"
-        },
-        {
-          "name": "CH73es",
-          "url": "https://envivo.govoet.my.id/73"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-15T23:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Cleveland Cavaliers - Memphis Grizzlies",
-      "channels": [
-        {
-          "name": "CH160us",
-          "url": "https://envivo.govoet.my.id/160"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-15T23:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Florida Panthers - Tampa Bay Lightning",
-      "channels": [
-        {
-          "name": "CH180us",
-          "url": "https://envivo.govoet.my.id/180"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-15T23:30:00+01:00",
-      "competition": "Torneo LPF",
-      "teams": "San Lorenzo - Sarmiento Junin",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-16T00:00:00+01:00",
       "competition": "Liga De Expansion Mx",
