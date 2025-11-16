@@ -1,37 +1,7 @@
 {
-  "last_updated": "2025-11-16T11:38:23.820717+00:00",
+  "last_updated": "2025-11-16T12:41:14.680443+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-16T09:40:00+01:00",
-      "competition": "MotoGP",
-      "teams": "Warm Up des Moto GP -",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-16T10:00:00+01:00",
-      "competition": "MotoGP",
-      "teams": "Parade des pilotes -",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-16T11:00:00+01:00",
       "competition": "Moto3",
