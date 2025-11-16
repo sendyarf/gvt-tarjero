@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-11-16T18:48:31.383498+00:00",
+  "last_updated": "2025-11-16T19:16:49.535149+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-16T17:00:00+01:00",
-      "competition": "Liga Endesa",
-      "teams": "Real Madrid - Bilbao",
-      "channels": [
-        {
-          "name": "CH67es",
-          "url": "https://envivo.govoet.my.id/67"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-16T18:00:00+01:00",
       "competition": "Qualif. Cm Europe",
