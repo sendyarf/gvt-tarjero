@@ -1,63 +1,7 @@
 {
-  "last_updated": "2025-11-17T04:00:04.599098+00:00",
+  "last_updated": "2025-11-17T04:35:21.825447+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-17T02:00:00+01:00",
-      "competition": "Liga Mx Women",
-      "teams": "Club America F - Guadalajara F",
-      "channels": [
-        {
-          "name": "CH106es",
-          "url": "https://envivo.govoet.my.id/106"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-17T02:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Phoenix Suns - Atlanta Hawks",
-      "channels": [
-        {
-          "name": "CH166us",
-          "url": "https://envivo.govoet.my.id/166"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-17T02:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Utah Jazz - Chicago Bulls",
-      "channels": [
-        {
-          "name": "CH167us",
-          "url": "https://envivo.govoet.my.id/167"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-17T02:20:00+01:00",
-      "competition": "NFL",
-      "teams": "Philadelphia Eagles - Detroit Lions",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH170us",
-          "url": "https://envivo.govoet.my.id/170"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-17T03:00:00+01:00",
       "competition": "Liga De Expansion Mx",
