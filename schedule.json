@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-11-17T19:18:03.165051+00:00",
+  "last_updated": "2025-11-17T19:38:44.486011+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-17T17:30:00+01:00",
-      "competition": "Amical International",
-      "teams": "Qatar - Zimbabwe",
-      "channels": [
-        {
-          "name": "CH161qa",
-          "url": "https://envivo.govoet.my.id/161"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-17T18:00:00+01:00",
       "competition": "Amical International",
@@ -125,17 +114,6 @@
         {
           "name": "CH130us",
           "url": "https://envivo.govoet.my.id/130"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-17T21:00:00+01:00",
-      "competition": "Euro U21",
-      "teams": "France -21 - Iles Féroé -21",
-      "channels": [
-        {
-          "name": "CH00us",
-          "url": "https://envivo.govoet.my.id/00"
         }
       ]
     },
