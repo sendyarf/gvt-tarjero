@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-11-18T19:41:20.774479+00:00",
+  "last_updated": "2025-11-18T20:27:22.486855+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-18T18:00:00+01:00",
-      "competition": "Amical International",
-      "teams": "Chili - Pérou",
-      "channels": [
-        {
-          "name": "CH181es",
-          "url": "https://envivo.govoet.my.id/181"
-        },
-        {
-          "name": "CH182es",
-          "url": "https://envivo.govoet.my.id/182"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-18T18:00:00+01:00",
-      "competition": "Amical International",
-      "teams": "Chypre - Estonie",
-      "channels": [
-        {
-          "name": "CH183us",
-          "url": "https://envivo.govoet.my.id/183"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-18T18:30:00+01:00",
       "competition": "Amical International",
