@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-11-18T03:14:26.744592+00:00",
+  "last_updated": "2025-11-18T03:56:04.903017+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-18T01:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Miami Heat - New York Knicks",
-      "channels": [
-        {
-          "name": "CH163us",
-          "url": "https://envivo.govoet.my.id/163"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-18T01:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Toronto Raptors - Charlotte Hornets",
-      "channels": [
-        {
-          "name": "CH164us",
-          "url": "https://envivo.govoet.my.id/164"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-18T01:30:00+01:00",
-      "competition": "NHL",
-      "teams": "Columbus Blue Jackets - Montreal Canadiens",
-      "channels": [
-        {
-          "name": "CH184us",
-          "url": "https://envivo.govoet.my.id/184"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-18T02:00:00+01:00",
       "competition": "NBA",
