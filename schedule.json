@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-11-17T23:40:10.643805+00:00",
+  "last_updated": "2025-11-18T01:48:25.468463+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-17T23:30:00+01:00",
-      "competition": "Torneo LPF",
-      "teams": "Platense - Gimnasia L.P.",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-18T01:00:00+01:00",
       "competition": "Copa Ecuador",
