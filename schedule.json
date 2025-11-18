@@ -1,17 +1,5 @@
 {
-  "last_updated": "2025-11-18T05:43:05.892866+00:00",
+  "last_updated": "2025-11-18T06:34:11.529739+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-11-18T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Anaheim Ducks - Utah Mammoth",
-      "channels": [
-        {
-          "name": "CH185us",
-          "url": "https://envivo.govoet.my.id/185"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
