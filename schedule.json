@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-11-18T04:47:22.443975+00:00",
+  "last_updated": "2025-11-18T05:22:47.005595+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-18T03:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Denver Nuggets - Chicago Bulls",
-      "channels": [
-        {
-          "name": "CH167us",
-          "url": "https://envivo.govoet.my.id/167"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-18T04:00:00+01:00",
       "competition": "NHL",
