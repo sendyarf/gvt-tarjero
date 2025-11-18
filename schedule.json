@@ -1,26 +1,7 @@
 {
-  "last_updated": "2025-11-18T22:22:34.688366+00:00",
+  "last_updated": "2025-11-18T22:42:44.429549+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-18T20:30:00+01:00",
-      "competition": "Amical International",
-      "teams": "Brésil - Tunisie",
-      "channels": [
-        {
-          "name": "CH45fr",
-          "url": "https://envivo.govoet.my.id/45"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        },
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-18T20:45:00+01:00",
       "competition": "Qualif. Cm Europe",
