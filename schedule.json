@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-11-19T05:43:25.477500+00:00",
+  "last_updated": "2025-11-19T06:34:16.075670+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-19T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "San Jose Sharks - Utah Mammoth",
-      "channels": [
-        {
-          "name": "CH170us",
-          "url": "https://envivo.govoet.my.id/170"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-19T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Vegas Golden Knights - New York Rangers",
-      "channels": [
-        {
-          "name": "CH171us",
-          "url": "https://envivo.govoet.my.id/171"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-19T04:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Los Angeles Lakers - Utah Jazz",
-      "channels": [
-        {
-          "name": "CH172us",
-          "url": "https://envivo.govoet.my.id/172"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-19T05:00:00+01:00",
       "competition": "NBA",
