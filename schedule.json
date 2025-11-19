@@ -1,17 +1,5 @@
 {
-  "last_updated": "2025-11-19T06:34:16.075670+00:00",
+  "last_updated": "2025-11-19T07:22:31.448874+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-11-19T05:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Portland Trail Blazers - Phoenix Suns",
-      "channels": [
-        {
-          "name": "CH173us",
-          "url": "https://envivo.govoet.my.id/173"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
