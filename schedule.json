@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-11-18T23:37:30.274874+00:00",
+  "last_updated": "2025-11-19T01:48:45.759648+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-18T22:00:00+01:00",
-      "competition": "Campeonato Itaú Chile",
-      "teams": "Dep. Concepcion - Antofagasta",
-      "channels": [
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-19T00:30:00+01:00",
       "competition": "Campeonato Itaú Chile",
