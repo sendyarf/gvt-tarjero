@@ -1,66 +1,7 @@
 {
-  "last_updated": "2025-11-21T22:22:09.706084+00:00",
+  "last_updated": "2025-11-21T22:41:57.227771+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-21T20:30:00+01:00",
-      "competition": "Bundesliga",
-      "teams": "Mayence - Hoffenheim",
-      "channels": [
-        {
-          "name": "CH111de",
-          "url": "https://envivo.govoet.my.id/111"
-        },
-        {
-          "name": "CH157es",
-          "url": "https://envivo.govoet.my.id/157"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-21T20:30:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Baskonia - Bayern",
-      "channels": [
-        {
-          "name": "CH64es",
-          "url": "https://envivo.govoet.my.id/64"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-21T20:30:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Partizan - Fenerbahce",
-      "channels": [
-        {
-          "name": "CH66es",
-          "url": "https://envivo.govoet.my.id/66"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-21T20:30:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Virtus Bologna - Maccabi Tel Aviv",
-      "channels": [
-        {
-          "name": "CH67es",
-          "url": "https://envivo.govoet.my.id/67"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-21T20:30:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Las Palmas - Albacete",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-21T20:45:00+01:00",
       "competition": "Ligue 1",
