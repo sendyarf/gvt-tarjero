@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-11-21T21:20:09.552040+00:00",
+  "last_updated": "2025-11-21T21:39:16.565509+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-21T19:30:00+01:00",
-      "competition": "National",
-      "teams": "Orléans - Aubagne",
-      "channels": [
-        {
-          "name": "CH42fr",
-          "url": "https://envivo.govoet.my.id/42"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-21T19:30:00+01:00",
-      "competition": "National",
-      "teams": "Paris 13 Atl. - Villefranche",
-      "channels": [
-        {
-          "name": "CH43fr",
-          "url": "https://envivo.govoet.my.id/43"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-21T19:30:00+01:00",
-      "competition": "National",
-      "teams": "Valenciennes - Fleury-Mérogis",
-      "channels": [
-        {
-          "name": "CH41fr",
-          "url": "https://envivo.govoet.my.id/41"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-21T20:00:00+01:00",
       "competition": "Ligue 2",
