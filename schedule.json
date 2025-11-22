@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-11-22T14:18:56.414468+00:00",
+  "last_updated": "2025-11-22T14:40:05.564110+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-22T12:30:00+01:00",
-      "competition": "Super Lig",
-      "teams": "Kayserispor - Gaziantep",
-      "channels": [
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-22T13:00:00+01:00",
       "competition": "Bundesliga 2",
