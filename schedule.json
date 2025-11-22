@@ -1,52 +1,7 @@
 {
-  "last_updated": "2025-11-22T15:38:48.518328+00:00",
+  "last_updated": "2025-11-22T16:26:03.366333+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-22T14:00:00+01:00",
-      "competition": "Laliga",
-      "teams": "Alaves - Celta Vigo",
-      "channels": [
-        {
-          "name": "CH9fr",
-          "url": "https://envivo.govoet.my.id/9"
-        },
-        {
-          "name": "CH49es",
-          "url": "https://envivo.govoet.my.id/49"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-22T14:00:00+01:00",
-      "competition": "Ligue 2",
-      "teams": "Amiens - Guingamp",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-22T14:00:00+01:00",
-      "competition": "Ligue 2",
-      "teams": "Red Star - Clermont",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-22T14:30:00+01:00",
       "competition": "Top 14",
