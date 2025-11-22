@@ -1,71 +1,7 @@
 {
-  "last_updated": "2025-11-22T19:38:19.805341+00:00",
+  "last_updated": "2025-11-22T20:23:59.642944+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-22T18:00:00+01:00",
-      "competition": "Liga Endesa",
-      "teams": "Grenade - Real Madrid",
-      "channels": [
-        {
-          "name": "CH67es",
-          "url": "https://envivo.govoet.my.id/67"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-22T18:00:00+01:00",
-      "competition": "Serie A",
-      "teams": "Fiorentina - Juventus",
-      "channels": [
-        {
-          "name": "CH45fr",
-          "url": "https://envivo.govoet.my.id/45"
-        },
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH90es",
-          "url": "https://envivo.govoet.my.id/90"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-22T18:00:00+01:00",
-      "competition": "Super Lig",
-      "teams": "Galatasaray - Genclerbirligi",
-      "channels": [
-        {
-          "name": "CH6fr",
-          "url": "https://envivo.govoet.my.id/6"
-        },
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-22T18:15:00+01:00",
-      "competition": "Pro League",
-      "teams": "Westerlo - La Gantoise",
-      "channels": [
-        {
-          "name": "CH153fr",
-          "url": "https://envivo.govoet.my.id/153"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-22T18:30:00+01:00",
       "competition": "Betfred Super League",
