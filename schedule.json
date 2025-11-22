@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-22T10:21:34.681288+00:00",
+  "last_updated": "2025-11-22T10:40:34.019832+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -104,7 +104,7 @@
       "teams": "Coventry - West Brom",
       "channels": [
         {
-          "name": "CH127us",
+          "name": "CH127gb",
           "url": "https://envivo.govoet.my.id/127"
         }
       ]
@@ -119,7 +119,7 @@
           "url": "https://envivo.govoet.my.id/11"
         },
         {
-          "name": "CH126us",
+          "name": "CH126gb",
           "url": "https://envivo.govoet.my.id/126"
         },
         {
@@ -182,6 +182,17 @@
         {
           "name": "CH1fr",
           "url": "https://envivo.govoet.my.id/1"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-22T14:30:00+01:00",
+      "competition": "Top 14",
+      "teams": "Lyon OU - ASM Clermont",
+      "channels": [
+        {
+          "name": "CH13fr",
+          "url": "https://envivo.govoet.my.id/13"
         }
       ]
     },
@@ -348,6 +359,10 @@
         {
           "name": "CH55es",
           "url": "https://envivo.govoet.my.id/55"
+        },
+        {
+          "name": "CH61es",
+          "url": "https://envivo.govoet.my.id/61"
         }
       ]
     },
@@ -567,7 +582,7 @@
       "teams": "Rangers - Livingston",
       "channels": [
         {
-          "name": "CH135us",
+          "name": "CH135gb",
           "url": "https://envivo.govoet.my.id/135"
         }
       ]
@@ -580,6 +595,17 @@
         {
           "name": "CH153fr",
           "url": "https://envivo.govoet.my.id/153"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-22T16:10:00+01:00",
+      "competition": "Tournée Automne",
+      "teams": "Pays de Galles - Nouvelle-Zélande",
+      "channels": [
+        {
+          "name": "CH2fr",
+          "url": "https://envivo.govoet.my.id/2"
         }
       ]
     },
@@ -637,13 +663,68 @@
       ]
     },
     {
+      "datetime": "2025-11-22T16:35:00+01:00",
+      "competition": "Top 14",
+      "teams": "Multirugby -",
+      "channels": [
+        {
+          "name": "CH11fr",
+          "url": "https://envivo.govoet.my.id/11"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-22T16:35:00+01:00",
+      "competition": "Top 14",
+      "teams": "Racing 92 - Aviron Bayonnais",
+      "channels": [
+        {
+          "name": "CH32fr",
+          "url": "https://envivo.govoet.my.id/32"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-22T16:35:00+01:00",
+      "competition": "Top 14",
+      "teams": "Stade Rochelais - Castres Olympique",
+      "channels": [
+        {
+          "name": "CH13fr",
+          "url": "https://envivo.govoet.my.id/13"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-22T16:35:00+01:00",
+      "competition": "Top 14",
+      "teams": "US Montauban - Stade Toulousain",
+      "channels": [
+        {
+          "name": "CH33fr",
+          "url": "https://envivo.govoet.my.id/33"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-22T16:35:00+01:00",
+      "competition": "Top 14",
+      "teams": "USA Perpignan - Montpellier",
+      "channels": [
+        {
+          "name": "CH34fr",
+          "url": "https://envivo.govoet.my.id/34"
+        }
+      ]
+    },
+    {
       "datetime": "2025-11-22T17:00:00+01:00",
       "competition": "Caf Ligue Des Champions",
       "teams": "Al Ahly (Egy) - JS Kabylie (Alg)",
       "channels": [
         {
-          "name": "CH00us",
-          "url": "https://envivo.govoet.my.id/00"
+          "name": "CH46eg",
+          "url": "https://envivo.govoet.my.id/46"
         }
       ]
     },
@@ -653,8 +734,8 @@
       "teams": "Esperance Tunis (Tun) - Stade Malien (Mli)",
       "channels": [
         {
-          "name": "CH00us",
-          "url": "https://envivo.govoet.my.id/00"
+          "name": "CH47tn",
+          "url": "https://envivo.govoet.my.id/47"
         }
       ]
     },
@@ -670,6 +751,28 @@
         {
           "name": "CH69es",
           "url": "https://envivo.govoet.my.id/69"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-22T17:00:00+01:00",
+      "competition": "Tournée Automne",
+      "teams": "Espagne - Fidji",
+      "channels": [
+        {
+          "name": "CH65es",
+          "url": "https://envivo.govoet.my.id/65"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-22T18:00:00+01:00",
+      "competition": "Liga Endesa",
+      "teams": "Grenade - Real Madrid",
+      "channels": [
+        {
+          "name": "CH67es",
+          "url": "https://envivo.govoet.my.id/67"
         }
       ]
     },
@@ -811,7 +914,7 @@
           "url": "https://envivo.govoet.my.id/12"
         },
         {
-          "name": "CH127us",
+          "name": "CH127gb",
           "url": "https://envivo.govoet.my.id/127"
         },
         {
@@ -829,6 +932,21 @@
         {
           "name": "CH72es",
           "url": "https://envivo.govoet.my.id/72"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-22T18:40:00+01:00",
+      "competition": "Tournée Automne",
+      "teams": "Irlande - Afrique du Sud",
+      "channels": [
+        {
+          "name": "CH2fr",
+          "url": "https://envivo.govoet.my.id/2"
+        },
+        {
+          "name": "CH62es",
+          "url": "https://envivo.govoet.my.id/62"
         }
       ]
     },
@@ -915,13 +1033,43 @@
       ]
     },
     {
+      "datetime": "2025-11-22T19:00:00+01:00",
+      "competition": "NBA",
+      "teams": "Charlotte Hornets - Los Angeles Clippers",
+      "channels": [
+        {
+          "name": "CH4fr",
+          "url": "https://envivo.govoet.my.id/4"
+        },
+        {
+          "name": "CH160us",
+          "url": "https://envivo.govoet.my.id/160"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-22T19:00:00+01:00",
+      "competition": "NHL",
+      "teams": "Detroit Red Wings - Columbus Blue Jackets",
+      "channels": [
+        {
+          "name": "CH7fr",
+          "url": "https://envivo.govoet.my.id/7"
+        },
+        {
+          "name": "CH161us",
+          "url": "https://envivo.govoet.my.id/161"
+        }
+      ]
+    },
+    {
       "datetime": "2025-11-22T20:00:00+01:00",
       "competition": "Caf Coupes Des Confederations",
       "teams": "Belouizdad (Alg) - Singida Black Stars (Tan)",
       "channels": [
         {
-          "name": "CH00us",
-          "url": "https://envivo.govoet.my.id/00"
+          "name": "CH48dz",
+          "url": "https://envivo.govoet.my.id/48"
         }
       ]
     },
@@ -1107,7 +1255,7 @@
       "teams": "St. Mirren - Celtic",
       "channels": [
         {
-          "name": "CH127us",
+          "name": "CH127gb",
           "url": "https://envivo.govoet.my.id/127"
         }
       ]
@@ -1128,6 +1276,28 @@
         {
           "name": "CH124de",
           "url": "https://envivo.govoet.my.id/124"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-22T21:10:00+01:00",
+      "competition": "Tournée Automne",
+      "teams": "France - Australie",
+      "channels": [
+        {
+          "name": "CH24fr",
+          "url": "https://envivo.govoet.my.id/24"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-22T21:10:00+01:00",
+      "competition": "Tournée Automne",
+      "teams": "Italie - Chili",
+      "channels": [
+        {
+          "name": "CH2fr",
+          "url": "https://envivo.govoet.my.id/2"
         }
       ]
     },
@@ -1162,6 +1332,17 @@
       ]
     },
     {
+      "datetime": "2025-11-22T21:30:00+01:00",
+      "competition": "NHL",
+      "teams": "New York Islanders - St. Louis Blues",
+      "channels": [
+        {
+          "name": "CH162us",
+          "url": "https://envivo.govoet.my.id/162"
+        }
+      ]
+    },
+    {
       "datetime": "2025-11-22T22:00:00+01:00",
       "competition": "Campeonato Itaú Chile",
       "teams": "Coquimbo - La Serena",
@@ -1180,6 +1361,21 @@
         {
           "name": "CH81es",
           "url": "https://envivo.govoet.my.id/81"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-22T23:00:00+01:00",
+      "competition": "NBA",
+      "teams": "Orlando Magic - New York Knicks",
+      "channels": [
+        {
+          "name": "CH1fr",
+          "url": "https://envivo.govoet.my.id/1"
+        },
+        {
+          "name": "CH163us",
+          "url": "https://envivo.govoet.my.id/163"
         }
       ]
     },
@@ -1213,6 +1409,83 @@
         {
           "name": "CH86es",
           "url": "https://envivo.govoet.my.id/86"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-23T01:00:00+01:00",
+      "competition": "NBA",
+      "teams": "New Orleans Pelicans - Atlanta Hawks",
+      "channels": [
+        {
+          "name": "CH164us",
+          "url": "https://envivo.govoet.my.id/164"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-23T01:00:00+01:00",
+      "competition": "NHL",
+      "teams": "Florida Panthers - Edmonton Oilers",
+      "channels": [
+        {
+          "name": "CH165us",
+          "url": "https://envivo.govoet.my.id/165"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-23T01:00:00+01:00",
+      "competition": "NHL",
+      "teams": "Montreal Canadiens - Toronto Maple Leafs",
+      "channels": [
+        {
+          "name": "CH166us",
+          "url": "https://envivo.govoet.my.id/166"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-23T01:00:00+01:00",
+      "competition": "NHL",
+      "teams": "Philadelphia Flyers - New Jersey Devils",
+      "channels": [
+        {
+          "name": "CH167us",
+          "url": "https://envivo.govoet.my.id/167"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-23T01:00:00+01:00",
+      "competition": "NHL",
+      "teams": "Pittsburgh Penguins - Seattle Kraken",
+      "channels": [
+        {
+          "name": "CH168us",
+          "url": "https://envivo.govoet.my.id/168"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-23T01:00:00+01:00",
+      "competition": "NHL",
+      "teams": "San Jose Sharks - Ottawa Senators",
+      "channels": [
+        {
+          "name": "CH169us",
+          "url": "https://envivo.govoet.my.id/169"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-23T01:00:00+01:00",
+      "competition": "NHL",
+      "teams": "Washington Capitals - Tampa Bay Lightning",
+      "channels": [
+        {
+          "name": "CH170us",
+          "url": "https://envivo.govoet.my.id/170"
         }
       ]
     },
@@ -1263,8 +1536,45 @@
       "teams": "Irapuato - Atl. Morelia",
       "channels": [
         {
-          "name": "CH1xxes",
-          "url": "https://envivo.govoet.my.id/1"
+          "name": "CH105es",
+          "url": "https://envivo.govoet.my.id/105"
+        },
+        {
+          "name": "CH97es",
+          "url": "https://envivo.govoet.my.id/97"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-23T02:00:00+01:00",
+      "competition": "NBA",
+      "teams": "Chicago Bulls - Washington Wizards",
+      "channels": [
+        {
+          "name": "CH171us",
+          "url": "https://envivo.govoet.my.id/171"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-23T02:00:00+01:00",
+      "competition": "NBA",
+      "teams": "Milwaukee Bucks - Detroit Pistons",
+      "channels": [
+        {
+          "name": "CH172us",
+          "url": "https://envivo.govoet.my.id/172"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-23T02:00:00+01:00",
+      "competition": "NHL",
+      "teams": "Nashville Predators - Colorado Avalanche",
+      "channels": [
+        {
+          "name": "CH173us",
+          "url": "https://envivo.govoet.my.id/173"
         }
       ]
     },
@@ -1280,13 +1590,103 @@
       ]
     },
     {
+      "datetime": "2025-11-23T02:30:00+01:00",
+      "competition": "NBA",
+      "teams": "Dallas Mavericks - Memphis Grizzlies",
+      "channels": [
+        {
+          "name": "CH174us",
+          "url": "https://envivo.govoet.my.id/174"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-23T03:00:00+01:00",
+      "competition": "NHL",
+      "teams": "Utah Mammoth - New York Rangers",
+      "channels": [
+        {
+          "name": "CH175us",
+          "url": "https://envivo.govoet.my.id/175"
+        }
+      ]
+    },
+    {
       "datetime": "2025-11-23T03:30:00+01:00",
       "competition": "MLS",
       "teams": "Vancouver Whitecaps - Los Angeles FC",
       "channels": [
         {
-          "name": "CH160us",
-          "url": "https://envivo.govoet.my.id/160"
+          "name": "CH176us",
+          "url": "https://envivo.govoet.my.id/176"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-23T04:00:00+01:00",
+      "competition": "NBA",
+      "teams": "Denver Nuggets - Sacramento Kings",
+      "channels": [
+        {
+          "name": "CH177us",
+          "url": "https://envivo.govoet.my.id/177"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-23T04:00:00+01:00",
+      "competition": "NHL",
+      "teams": "Anaheim Ducks - Vegas Golden Knights",
+      "channels": [
+        {
+          "name": "CH178us",
+          "url": "https://envivo.govoet.my.id/178"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-23T04:00:00+01:00",
+      "competition": "NHL",
+      "teams": "Calgary Flames - Dallas Stars",
+      "channels": [
+        {
+          "name": "CH179us",
+          "url": "https://envivo.govoet.my.id/179"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-23T04:55:00+01:00",
+      "competition": "formula 1",
+      "teams": "Grand Prix de F1 de Las Vegas -",
+      "channels": [
+        {
+          "name": "CH11fr",
+          "url": "https://envivo.govoet.my.id/11"
+        },
+        {
+          "name": "CH134gb",
+          "url": "https://envivo.govoet.my.id/134"
+        },
+        {
+          "name": "CH121de",
+          "url": "https://envivo.govoet.my.id/121"
+        },
+        {
+          "name": "CH60es",
+          "url": "https://envivo.govoet.my.id/60"
+        },
+        {
+          "name": "CH78es",
+          "url": "https://envivo.govoet.my.id/78"
+        },
+        {
+          "name": "CH71es",
+          "url": "https://envivo.govoet.my.id/71"
+        },
+        {
+          "name": "CH87es",
+          "url": "https://envivo.govoet.my.id/87"
         }
       ]
     },
@@ -1313,6 +1713,17 @@
         {
           "name": "CH98es",
           "url": "https://envivo.govoet.my.id/98"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-23T12:30:00+01:00",
+      "competition": "Liga Endesa",
+      "teams": "Baskonia - Bilbao",
+      "channels": [
+        {
+          "name": "CH67es",
+          "url": "https://envivo.govoet.my.id/67"
         }
       ]
     },
@@ -1356,7 +1767,7 @@
           "url": "https://envivo.govoet.my.id/4"
         },
         {
-          "name": "CH127us",
+          "name": "CH127gb",
           "url": "https://envivo.govoet.my.id/127"
         },
         {
@@ -1489,6 +1900,17 @@
       ]
     },
     {
+      "datetime": "2025-11-23T14:40:00+01:00",
+      "competition": "Tournée Automne",
+      "teams": "Ecosse - Tonga",
+      "channels": [
+        {
+          "name": "CH1fr",
+          "url": "https://envivo.govoet.my.id/1"
+        }
+      ]
+    },
+    {
       "datetime": "2025-11-23T15:00:00+01:00",
       "competition": "Coupe Du Portugal",
       "teams": "Fafe - Arouca",
@@ -1496,17 +1918,6 @@
         {
           "name": "CH146pt",
           "url": "https://envivo.govoet.my.id/146"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-23T15:00:00+01:00",
-      "competition": "D1 Féminin",
-      "teams": "Saint-Étienne F - PSG F",
-      "channels": [
-        {
-          "name": "CH00fr",
-          "url": "https://envivo.govoet.my.id/00"
         }
       ]
     },
@@ -1539,7 +1950,7 @@
           "url": "https://envivo.govoet.my.id/12"
         },
         {
-          "name": "CH127us",
+          "name": "CH127gb",
           "url": "https://envivo.govoet.my.id/127"
         },
         {
@@ -1606,6 +2017,10 @@
         {
           "name": "CH151tr",
           "url": "https://envivo.govoet.my.id/151"
+        },
+        {
+          "name": "CH91es",
+          "url": "https://envivo.govoet.my.id/91"
         }
       ]
     },
@@ -1656,8 +2071,8 @@
       "teams": "Arica - Rangers",
       "channels": [
         {
-          "name": "CH159es",
-          "url": "https://envivo.govoet.my.id/159"
+          "name": "CH158es",
+          "url": "https://envivo.govoet.my.id/158"
         }
       ]
     },
@@ -1667,7 +2082,7 @@
       "teams": "Aberdeen - Hearts",
       "channels": [
         {
-          "name": "CH128us",
+          "name": "CH128gb",
           "url": "https://envivo.govoet.my.id/128"
         }
       ]
@@ -1736,6 +2151,17 @@
         {
           "name": "CH142nl",
           "url": "https://envivo.govoet.my.id/142"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-23T17:10:00+01:00",
+      "competition": "Tournée Automne",
+      "teams": "Angleterre - Argentine",
+      "channels": [
+        {
+          "name": "CH1fr",
+          "url": "https://envivo.govoet.my.id/1"
         }
       ]
     },
@@ -1816,7 +2242,7 @@
           "url": "https://envivo.govoet.my.id/11"
         },
         {
-          "name": "CH127us",
+          "name": "CH127gb",
           "url": "https://envivo.govoet.my.id/127"
         },
         {
@@ -1886,6 +2312,10 @@
         {
           "name": "CH151tr",
           "url": "https://envivo.govoet.my.id/151"
+        },
+        {
+          "name": "CH92es",
+          "url": "https://envivo.govoet.my.id/92"
         }
       ]
     },
@@ -1972,6 +2402,147 @@
       ]
     },
     {
+      "datetime": "2025-11-23T19:00:00+01:00",
+      "competition": "Liga Endesa",
+      "teams": "Gran Canaria - Barcelone",
+      "channels": [
+        {
+          "name": "CH67es",
+          "url": "https://envivo.govoet.my.id/67"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-23T19:00:00+01:00",
+      "competition": "NBA",
+      "teams": "Philadelphia 76ers - Miami Heat",
+      "channels": [
+        {
+          "name": "CH160us",
+          "url": "https://envivo.govoet.my.id/160"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-23T19:00:00+01:00",
+      "competition": "NFL",
+      "teams": "Baltimore Ravens - New York Jets",
+      "channels": [
+        {
+          "name": "CH161us",
+          "url": "https://envivo.govoet.my.id/161"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-23T19:00:00+01:00",
+      "competition": "NFL",
+      "teams": "Chicago Bears - Pittsburgh Steelers",
+      "channels": [
+        {
+          "name": "CH162us",
+          "url": "https://envivo.govoet.my.id/162"
+        },
+        {
+          "name": "CH93es",
+          "url": "https://envivo.govoet.my.id/93"
+        },
+        {
+          "name": "CH102es",
+          "url": "https://envivo.govoet.my.id/102"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-23T19:00:00+01:00",
+      "competition": "NFL",
+      "teams": "Cincinnati Bengals - New England Patriots",
+      "channels": [
+        {
+          "name": "CH163us",
+          "url": "https://envivo.govoet.my.id/163"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-23T19:00:00+01:00",
+      "competition": "NFL",
+      "teams": "Detroit Lions - New York Giants",
+      "channels": [
+        {
+          "name": "CH164us",
+          "url": "https://envivo.govoet.my.id/164"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-23T19:00:00+01:00",
+      "competition": "NFL",
+      "teams": "Green Bay Packers - Minnesota Vikings",
+      "channels": [
+        {
+          "name": "CH165us",
+          "url": "https://envivo.govoet.my.id/165"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-23T19:00:00+01:00",
+      "competition": "NFL",
+      "teams": "Kansas City Chiefs - Indianapolis Colts",
+      "channels": [
+        {
+          "name": "CH166us",
+          "url": "https://envivo.govoet.my.id/166"
+        },
+        {
+          "name": "CH91es",
+          "url": "https://envivo.govoet.my.id/91"
+        },
+        {
+          "name": "CH101es",
+          "url": "https://envivo.govoet.my.id/101"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-23T19:00:00+01:00",
+      "competition": "NFL",
+      "teams": "NFL RedZone -",
+      "channels": [
+        {
+          "name": "CH4fr",
+          "url": "https://envivo.govoet.my.id/4"
+        },
+        {
+          "name": "CH100es",
+          "url": "https://envivo.govoet.my.id/100"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-23T19:00:00+01:00",
+      "competition": "NFL",
+      "teams": "Tennessee Titans - Seattle Seahawks",
+      "channels": [
+        {
+          "name": "CH167us",
+          "url": "https://envivo.govoet.my.id/167"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-23T19:00:00+01:00",
+      "competition": "NHL",
+      "teams": "Buffalo Sabres - Carolina Hurricanes",
+      "channels": [
+        {
+          "name": "CH168us",
+          "url": "https://envivo.govoet.my.id/168"
+        }
+      ]
+    },
+    {
       "datetime": "2025-11-23T19:15:00+01:00",
       "competition": "Pro League",
       "teams": "Louvain - Saint-Trond",
@@ -1999,8 +2570,8 @@
       "teams": "USM Alger (Alg) - San Pedro (Ivo)",
       "channels": [
         {
-          "name": "CH00us",
-          "url": "https://envivo.govoet.my.id/00"
+          "name": "CH48dz",
+          "url": "https://envivo.govoet.my.id/48"
         }
       ]
     },
@@ -2137,6 +2708,17 @@
       ]
     },
     {
+      "datetime": "2025-11-23T21:05:00+01:00",
+      "competition": "Top 14",
+      "teams": "Stade Français - RC Toulon",
+      "channels": [
+        {
+          "name": "CH31fr",
+          "url": "https://envivo.govoet.my.id/31"
+        }
+      ]
+    },
+    {
       "datetime": "2025-11-23T21:30:00+01:00",
       "competition": "Ecuador Ligapro",
       "teams": "Barcelone SC - LDU Quito",
@@ -2164,8 +2746,8 @@
       "teams": "Cobreloa - S. Wanderers",
       "channels": [
         {
-          "name": "CH159es",
-          "url": "https://envivo.govoet.my.id/159"
+          "name": "CH158es",
+          "url": "https://envivo.govoet.my.id/158"
         }
       ]
     },
@@ -2181,13 +2763,122 @@
       ]
     },
     {
+      "datetime": "2025-11-23T22:00:00+01:00",
+      "competition": "Liga Mx",
+      "teams": "Juarez - Pachuca",
+      "channels": [
+        {
+          "name": "CH108es",
+          "url": "https://envivo.govoet.my.id/108"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-23T22:00:00+01:00",
+      "competition": "NHL",
+      "teams": "Winnipeg Jets - Minnesota Wild",
+      "channels": [
+        {
+          "name": "CH169us",
+          "url": "https://envivo.govoet.my.id/169"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-23T22:05:00+01:00",
+      "competition": "NFL",
+      "teams": "Arizona Cardinals - Jacksonville Jaguars",
+      "channels": [
+        {
+          "name": "CH170us",
+          "url": "https://envivo.govoet.my.id/170"
+        },
+        {
+          "name": "CH159es",
+          "url": "https://envivo.govoet.my.id/159"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-23T22:05:00+01:00",
+      "competition": "NFL",
+      "teams": "Las Vegas Raiders - Cleveland Browns",
+      "channels": [
+        {
+          "name": "CH171us",
+          "url": "https://envivo.govoet.my.id/171"
+        },
+        {
+          "name": "CH93es",
+          "url": "https://envivo.govoet.my.id/93"
+        },
+        {
+          "name": "CH102es",
+          "url": "https://envivo.govoet.my.id/102"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-23T22:25:00+01:00",
+      "competition": "NFL",
+      "teams": "Dallas Cowboys - Philadelphia Eagles",
+      "channels": [
+        {
+          "name": "CH2fr",
+          "url": "https://envivo.govoet.my.id/2"
+        },
+        {
+          "name": "CH172us",
+          "url": "https://envivo.govoet.my.id/172"
+        },
+        {
+          "name": "CH80es",
+          "url": "https://envivo.govoet.my.id/80"
+        },
+        {
+          "name": "CH91es",
+          "url": "https://envivo.govoet.my.id/91"
+        },
+        {
+          "name": "CH101es",
+          "url": "https://envivo.govoet.my.id/101"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-23T22:25:00+01:00",
+      "competition": "NFL",
+      "teams": "New Orleans Saints - Atlanta Falcons",
+      "channels": [
+        {
+          "name": "CH173us",
+          "url": "https://envivo.govoet.my.id/173"
+        }
+      ]
+    },
+    {
       "datetime": "2025-11-23T23:00:00+01:00",
       "competition": "MLS",
       "teams": "Cincinnati - Inter Miami",
       "channels": [
         {
-          "name": "CH160us",
-          "url": "https://envivo.govoet.my.id/160"
+          "name": "CH175us",
+          "url": "https://envivo.govoet.my.id/175"
+        },
+        {
+          "name": "CH176es",
+          "url": "https://envivo.govoet.my.id/176"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-23T23:00:00+01:00",
+      "competition": "NHL",
+      "teams": "New York Islanders - Seattle Kraken",
+      "channels": [
+        {
+          "name": "CH174us",
+          "url": "https://envivo.govoet.my.id/174"
         }
       ]
     },
@@ -2219,8 +2910,12 @@
       "teams": "Tampico Madero - Tepatitlan de Morelos",
       "channels": [
         {
-          "name": "CH1xxes",
-          "url": "https://envivo.govoet.my.id/1"
+          "name": "CH105es",
+          "url": "https://envivo.govoet.my.id/105"
+        },
+        {
+          "name": "CH97es",
+          "url": "https://envivo.govoet.my.id/97"
         }
       ]
     },
@@ -2232,6 +2927,54 @@
         {
           "name": "CH70es",
           "url": "https://envivo.govoet.my.id/70"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-24T00:00:00+01:00",
+      "competition": "NBA",
+      "teams": "Atlanta Hawks - Charlotte Hornets",
+      "channels": [
+        {
+          "name": "CH177us",
+          "url": "https://envivo.govoet.my.id/177"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-24T00:00:00+01:00",
+      "competition": "NBA",
+      "teams": "Boston Celtics - Orlando Magic",
+      "channels": [
+        {
+          "name": "CH178us",
+          "url": "https://envivo.govoet.my.id/178"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-24T00:00:00+01:00",
+      "competition": "NBA",
+      "teams": "Cleveland Cavaliers - Los Angeles Clippers",
+      "channels": [
+        {
+          "name": "CH1fr",
+          "url": "https://envivo.govoet.my.id/1"
+        },
+        {
+          "name": "CH179us",
+          "url": "https://envivo.govoet.my.id/179"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-24T00:00:00+01:00",
+      "competition": "NBA",
+      "teams": "Toronto Raptors - Brooklyn Nets",
+      "channels": [
+        {
+          "name": "CH180us",
+          "url": "https://envivo.govoet.my.id/180"
         }
       ]
     },
@@ -2262,13 +3005,35 @@
       ]
     },
     {
+      "datetime": "2025-11-24T01:00:00+01:00",
+      "competition": "NBA",
+      "teams": "Oklahoma City Thunder - Portland Trail Blazers",
+      "channels": [
+        {
+          "name": "CH181us",
+          "url": "https://envivo.govoet.my.id/181"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-24T01:00:00+01:00",
+      "competition": "NHL",
+      "teams": "Chicago Blackhawks - Colorado Avalanche",
+      "channels": [
+        {
+          "name": "CH182us",
+          "url": "https://envivo.govoet.my.id/182"
+        }
+      ]
+    },
+    {
       "datetime": "2025-11-24T01:45:00+01:00",
       "competition": "MLS",
       "teams": "Philadelphia Union - New York City",
       "channels": [
         {
-          "name": "CH160us",
-          "url": "https://envivo.govoet.my.id/160"
+          "name": "CH183us",
+          "url": "https://envivo.govoet.my.id/183"
         }
       ]
     },
@@ -2284,13 +3049,84 @@
       ]
     },
     {
+      "datetime": "2025-11-24T02:00:00+01:00",
+      "competition": "NBA",
+      "teams": "Phoenix Suns - San Antonio Spurs",
+      "channels": [
+        {
+          "name": "CH184us",
+          "url": "https://envivo.govoet.my.id/184"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-24T02:00:00+01:00",
+      "competition": "NBA",
+      "teams": "Utah Jazz - Los Angeles Lakers",
+      "channels": [
+        {
+          "name": "CH185us",
+          "url": "https://envivo.govoet.my.id/185"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-24T02:00:00+01:00",
+      "competition": "NHL",
+      "teams": "San Jose Sharks - Boston Bruins",
+      "channels": [
+        {
+          "name": "CH186us",
+          "url": "https://envivo.govoet.my.id/186"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-24T02:20:00+01:00",
+      "competition": "NFL",
+      "teams": "Los Angeles Rams - Tampa Bay Buccaneers",
+      "channels": [
+        {
+          "name": "CH2fr",
+          "url": "https://envivo.govoet.my.id/2"
+        },
+        {
+          "name": "CH187us",
+          "url": "https://envivo.govoet.my.id/187"
+        },
+        {
+          "name": "CH88es",
+          "url": "https://envivo.govoet.my.id/88"
+        },
+        {
+          "name": "CH97es",
+          "url": "https://envivo.govoet.my.id/97"
+        },
+        {
+          "name": "CH72es",
+          "url": "https://envivo.govoet.my.id/72"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-24T03:00:00+01:00",
+      "competition": "NHL",
+      "teams": "Vancouver Canucks - Calgary Flames",
+      "channels": [
+        {
+          "name": "CH188us",
+          "url": "https://envivo.govoet.my.id/188"
+        }
+      ]
+    },
+    {
       "datetime": "2025-11-24T14:45:00+01:00",
       "competition": "Afc Ligue Des Champions",
       "teams": "Nasaf Qarshi (Uzb) - Tractor (Irn)",
       "channels": [
         {
-          "name": "CH00us",
-          "url": "https://envivo.govoet.my.id/00"
+          "name": "CH46qa",
+          "url": "https://envivo.govoet.my.id/46"
         }
       ]
     },
@@ -2300,8 +3136,8 @@
       "teams": "Al-Ahli Dubai (Uae) - Al-Gharafa (Qat)",
       "channels": [
         {
-          "name": "CH00us",
-          "url": "https://envivo.govoet.my.id/00"
+          "name": "CH47qa",
+          "url": "https://envivo.govoet.my.id/47"
         }
       ]
     },
@@ -2311,8 +3147,8 @@
       "teams": "Al-Duhail (Qat) - Al-Ittihad FC (Sau)",
       "channels": [
         {
-          "name": "CH00us",
-          "url": "https://envivo.govoet.my.id/00"
+          "name": "CH48qa",
+          "url": "https://envivo.govoet.my.id/48"
         }
       ]
     },
@@ -2335,6 +3171,10 @@
         {
           "name": "CH151tr",
           "url": "https://envivo.govoet.my.id/151"
+        },
+        {
+          "name": "CH91es",
+          "url": "https://envivo.govoet.my.id/91"
         },
         {
           "name": "CH69es",
@@ -2401,8 +3241,8 @@
       "teams": "Al Ahli SC (Sau) - Al Sharjah (Uae)",
       "channels": [
         {
-          "name": "CH00us",
-          "url": "https://envivo.govoet.my.id/00"
+          "name": "CH46qa",
+          "url": "https://envivo.govoet.my.id/46"
         }
       ]
     },
@@ -2492,7 +3332,7 @@
           "url": "https://envivo.govoet.my.id/12"
         },
         {
-          "name": "CH127us",
+          "name": "CH127gb",
           "url": "https://envivo.govoet.my.id/127"
         },
         {
@@ -2551,6 +3391,142 @@
       ]
     },
     {
+      "datetime": "2025-11-25T01:00:00+01:00",
+      "competition": "NBA",
+      "teams": "Indiana Pacers - Detroit Pistons",
+      "channels": [
+        {
+          "name": "CH160us",
+          "url": "https://envivo.govoet.my.id/160"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-25T01:00:00+01:00",
+      "competition": "NBA",
+      "teams": "Toronto Raptors - Cleveland Cavaliers",
+      "channels": [
+        {
+          "name": "CH161us",
+          "url": "https://envivo.govoet.my.id/161"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-25T01:00:00+01:00",
+      "competition": "NHL",
+      "teams": "New Jersey Devils - Detroit Red Wings",
+      "channels": [
+        {
+          "name": "CH162us",
+          "url": "https://envivo.govoet.my.id/162"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-25T01:00:00+01:00",
+      "competition": "NHL",
+      "teams": "New York Rangers - St. Louis Blues",
+      "channels": [
+        {
+          "name": "CH163us",
+          "url": "https://envivo.govoet.my.id/163"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-25T01:00:00+01:00",
+      "competition": "NHL",
+      "teams": "Tampa Bay Lightning - Philadelphia Flyers",
+      "channels": [
+        {
+          "name": "CH4fr",
+          "url": "https://envivo.govoet.my.id/4"
+        },
+        {
+          "name": "CH164us",
+          "url": "https://envivo.govoet.my.id/164"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-25T01:00:00+01:00",
+      "competition": "NHL",
+      "teams": "Washington Capitals - Columbus Blue Jackets",
+      "channels": [
+        {
+          "name": "CH165us",
+          "url": "https://envivo.govoet.my.id/165"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-25T01:30:00+01:00",
+      "competition": "NBA",
+      "teams": "Brooklyn Nets - New York Knicks",
+      "channels": [
+        {
+          "name": "CH166us",
+          "url": "https://envivo.govoet.my.id/166"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-25T01:30:00+01:00",
+      "competition": "NBA",
+      "teams": "Miami Heat - Dallas Mavericks",
+      "channels": [
+        {
+          "name": "CH167us",
+          "url": "https://envivo.govoet.my.id/167"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-25T02:00:00+01:00",
+      "competition": "NBA",
+      "teams": "Memphis Grizzlies - Denver Nuggets",
+      "channels": [
+        {
+          "name": "CH168us",
+          "url": "https://envivo.govoet.my.id/168"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-25T02:00:00+01:00",
+      "competition": "NBA",
+      "teams": "Milwaukee Bucks - Portland Trail Blazers",
+      "channels": [
+        {
+          "name": "CH169us",
+          "url": "https://envivo.govoet.my.id/169"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-25T02:00:00+01:00",
+      "competition": "NBA",
+      "teams": "New Orleans Pelicans - Chicago Bulls",
+      "channels": [
+        {
+          "name": "CH170us",
+          "url": "https://envivo.govoet.my.id/170"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-25T02:00:00+01:00",
+      "competition": "NHL",
+      "teams": "Nashville Predators - Florida Panthers",
+      "channels": [
+        {
+          "name": "CH171us",
+          "url": "https://envivo.govoet.my.id/171"
+        }
+      ]
+    },
+    {
       "datetime": "2025-11-25T02:00:00+01:00",
       "competition": "Torneo LPF",
       "teams": "Union Santa Fe - Gimnasia L.P.",
@@ -2562,13 +3538,95 @@
       ]
     },
     {
+      "datetime": "2025-11-25T02:15:00+01:00",
+      "competition": "NFL",
+      "teams": "San Francisco 49ers - Carolina Panthers",
+      "channels": [
+        {
+          "name": "CH2fr",
+          "url": "https://envivo.govoet.my.id/2"
+        },
+        {
+          "name": "CH172us",
+          "url": "https://envivo.govoet.my.id/172"
+        },
+        {
+          "name": "CH88es",
+          "url": "https://envivo.govoet.my.id/88"
+        },
+        {
+          "name": "CH97es",
+          "url": "https://envivo.govoet.my.id/97"
+        },
+        {
+          "name": "CH71es",
+          "url": "https://envivo.govoet.my.id/71"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-25T03:00:00+01:00",
+      "competition": "NHL",
+      "teams": "Los Angeles Kings - Ottawa Senators",
+      "channels": [
+        {
+          "name": "CH173us",
+          "url": "https://envivo.govoet.my.id/173"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-25T03:00:00+01:00",
+      "competition": "NHL",
+      "teams": "Utah Mammoth - Vegas Golden Knights",
+      "channels": [
+        {
+          "name": "CH174us",
+          "url": "https://envivo.govoet.my.id/174"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-25T03:30:00+01:00",
+      "competition": "NBA",
+      "teams": "Phoenix Suns - Houston Rockets",
+      "channels": [
+        {
+          "name": "CH175us",
+          "url": "https://envivo.govoet.my.id/175"
+        }
+      ]
+    },
+    {
       "datetime": "2025-11-25T04:00:00+01:00",
       "competition": "MLS",
       "teams": "San Diego FC - Minnesota",
       "channels": [
         {
-          "name": "CH160us",
-          "url": "https://envivo.govoet.my.id/160"
+          "name": "CH176us",
+          "url": "https://envivo.govoet.my.id/176"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-25T04:00:00+01:00",
+      "competition": "NBA",
+      "teams": "Golden State Warriors - Utah Jazz",
+      "channels": [
+        {
+          "name": "CH176us",
+          "url": "https://envivo.govoet.my.id/176"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-25T04:00:00+01:00",
+      "competition": "NBA",
+      "teams": "Sacramento Kings - Minnesota Timberwolves",
+      "channels": [
+        {
+          "name": "CH177us",
+          "url": "https://envivo.govoet.my.id/177"
         }
       ]
     }
