@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-11-21T23:39:31.441900+00:00",
+  "last_updated": "2025-11-22T01:44:24.963886+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-21T22:30:00+01:00",
-      "competition": "Ecuador Ligapro",
-      "teams": "U. Catolica - Libertad",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-22T00:00:00+01:00",
       "competition": "Campeonato Itaú Chile",
