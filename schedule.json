@@ -1,71 +1,7 @@
 {
-  "last_updated": "2025-11-22T15:20:19.770049+00:00",
+  "last_updated": "2025-11-22T15:38:48.518328+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-22T13:30:00+01:00",
-      "competition": "Championship",
-      "teams": "Bristol City - Swansea",
-      "channels": [
-        {
-          "name": "CH190us",
-          "url": "https://envivo.govoet.my.id/190"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-22T13:30:00+01:00",
-      "competition": "Championship",
-      "teams": "Charlton - Southampton",
-      "channels": [
-        {
-          "name": "CH191us",
-          "url": "https://envivo.govoet.my.id/191"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-22T13:30:00+01:00",
-      "competition": "Championship",
-      "teams": "Coventry - West Brom",
-      "channels": [
-        {
-          "name": "CH127gb",
-          "url": "https://envivo.govoet.my.id/127"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-22T13:30:00+01:00",
-      "competition": "Premier League",
-      "teams": "Burnley - Chelsea",
-      "channels": [
-        {
-          "name": "CH11fr",
-          "url": "https://envivo.govoet.my.id/11"
-        },
-        {
-          "name": "CH126gb",
-          "url": "https://envivo.govoet.my.id/126"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        },
-        {
-          "name": "CH120de",
-          "url": "https://envivo.govoet.my.id/120"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH72es",
-          "url": "https://envivo.govoet.my.id/72"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-22T14:00:00+01:00",
       "competition": "Laliga",
