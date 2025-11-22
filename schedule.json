@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-11-22T23:20:41.795233+00:00",
+  "last_updated": "2025-11-22T23:39:47.378479+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-22T21:30:00+01:00",
-      "competition": "Liga 1 Te Apuesto",
-      "teams": "Los Chankas - U. de Deportes",
-      "channels": [
-        {
-          "name": "CH84es",
-          "url": "https://envivo.govoet.my.id/84"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-22T21:30:00+01:00",
-      "competition": "NHL",
-      "teams": "New York Islanders - St. Louis Blues",
-      "channels": [
-        {
-          "name": "CH162us",
-          "url": "https://envivo.govoet.my.id/162"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-22T22:00:00+01:00",
       "competition": "Campeonato Itaú Chile",
