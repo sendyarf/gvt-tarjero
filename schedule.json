@@ -1,51 +1,7 @@
 {
-  "last_updated": "2025-11-22T21:38:44.012688+00:00",
+  "last_updated": "2025-11-22T22:20:33.427809+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-22T20:00:00+01:00",
-      "competition": "Caf Coupes Des Confederations",
-      "teams": "Belouizdad (Alg) - Singida Black Stars (Tan)",
-      "channels": [
-        {
-          "name": "CH48dz",
-          "url": "https://envivo.govoet.my.id/48"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-22T20:00:00+01:00",
-      "competition": "Ecuador Ligapro",
-      "teams": "Manta - Vinotinto",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-22T20:00:00+01:00",
-      "competition": "Ecuador Ligapro",
-      "teams": "Mushuc Runa - Tecnico U.",
-      "channels": [
-        {
-          "name": "CH85es",
-          "url": "https://envivo.govoet.my.id/85"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-22T20:00:00+01:00",
-      "competition": "Ligue 2",
-      "teams": "Saint-Étienne - Nancy",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-22T20:30:00+01:00",
       "competition": "Bundesliga 2",
