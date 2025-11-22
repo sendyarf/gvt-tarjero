@@ -1,25 +1,5 @@
 {
-  "last_updated": "2025-11-22T06:30:50.432300+00:00",
+  "last_updated": "2025-11-22T07:19:52.973163+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-11-22T04:40:00+01:00",
-      "competition": "formula 1",
-      "teams": "GP de Las Vegas  Essais qualificatifs -",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        },
-        {
-          "name": "CH60es",
-          "url": "https://envivo.govoet.my.id/60"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
