@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-11-22T04:26:22.909738+00:00",
+  "last_updated": "2025-11-22T04:44:01.356868+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-22T02:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Dallas Mavericks - New Orleans Pelicans",
-      "channels": [
-        {
-          "name": "CH164us",
-          "url": "https://envivo.govoet.my.id/164"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-22T03:00:00+01:00",
       "competition": "NBA",
