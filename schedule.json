@@ -1,52 +1,7 @@
 {
-  "last_updated": "2025-11-22T16:45:04.922013+00:00",
+  "last_updated": "2025-11-22T17:18:05.208515+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-22T15:00:00+01:00",
-      "competition": "Serie A",
-      "teams": "Cagliari - Genoa",
-      "channels": [
-        {
-          "name": "CH139it",
-          "url": "https://envivo.govoet.my.id/139"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-22T15:00:00+01:00",
-      "competition": "Serie A",
-      "teams": "Udinese - Bologne",
-      "channels": [
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH158es",
-          "url": "https://envivo.govoet.my.id/158"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-22T15:00:00+01:00",
-      "competition": "Super Lig",
-      "teams": "Eyupspor - Karagumruk",
-      "channels": [
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-22T15:30:00+01:00",
       "competition": "Bundesliga",
