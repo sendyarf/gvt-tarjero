@@ -1,48 +1,7 @@
 {
-  "last_updated": "2025-11-23T14:19:04.299039+00:00",
+  "last_updated": "2025-11-23T14:40:19.902061+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-23T12:30:00+01:00",
-      "competition": "Liga Endesa",
-      "teams": "Baskonia - Bilbao",
-      "channels": [
-        {
-          "name": "CH67es",
-          "url": "https://envivo.govoet.my.id/67"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-23T12:30:00+01:00",
-      "competition": "Serie A",
-      "teams": "Hellas Vérone - Parme",
-      "channels": [
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-23T12:30:00+01:00",
-      "competition": "Super Lig",
-      "teams": "Goztepe - Kocaelispor",
-      "channels": [
-        {
-          "name": "CH152tr",
-          "url": "https://envivo.govoet.my.id/152"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-23T13:00:00+01:00",
       "competition": "Championship",
