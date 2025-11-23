@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-11-23T21:38:59.005249+00:00",
+  "last_updated": "2025-11-23T22:20:50.783545+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-23T20:00:00+01:00",
-      "competition": "Betfred Super League",
-      "teams": "AEK - Aris",
-      "channels": [
-        {
-          "name": "CH150gr",
-          "url": "https://envivo.govoet.my.id/150"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-23T20:00:00+01:00",
-      "competition": "Caf Coupes Des Confederations",
-      "teams": "USM Alger (Alg) - San Pedro (Ivo)",
-      "channels": [
-        {
-          "name": "CH48dz",
-          "url": "https://envivo.govoet.my.id/48"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-23T20:00:00+01:00",
-      "competition": "Serie A Bresil",
-      "teams": "Bahia - Vasco",
-      "channels": [
-        {
-          "name": "CH61es",
-          "url": "https://envivo.govoet.my.id/61"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-23T20:30:00+01:00",
       "competition": "Liga AUF Uruguaya",
@@ -208,17 +175,6 @@
         {
           "name": "CH83es",
           "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-23T22:00:00+01:00",
-      "competition": "Liga Mx",
-      "teams": "Juarez - Pachuca",
-      "channels": [
-        {
-          "name": "CH108es",
-          "url": "https://envivo.govoet.my.id/108"
         }
       ]
     },
@@ -494,6 +450,17 @@
         {
           "name": "CH81es",
           "url": "https://envivo.govoet.my.id/81"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-11-24T02:00:00+01:00",
+      "competition": "Liga Mx",
+      "teams": "Juarez - Pachuca",
+      "channels": [
+        {
+          "name": "CH108es",
+          "url": "https://envivo.govoet.my.id/108"
         }
       ]
     },
