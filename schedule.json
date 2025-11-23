@@ -1,26 +1,7 @@
 {
-  "last_updated": "2025-11-23T16:26:18.392611+00:00",
+  "last_updated": "2025-11-23T16:40:58.514129+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-23T15:30:00+01:00",
-      "competition": "Bundesliga",
-      "teams": "RB Leipzig - Werder Brême",
-      "channels": [
-        {
-          "name": "CH6fr",
-          "url": "https://envivo.govoet.my.id/6"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        },
-        {
-          "name": "CH116es",
-          "url": "https://envivo.govoet.my.id/116"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-23T16:00:00+01:00",
       "competition": "Betfred Super League",
