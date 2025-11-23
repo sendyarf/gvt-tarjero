@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-11-23T22:20:50.783545+00:00",
+  "last_updated": "2025-11-23T22:41:58.270515+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-23T20:30:00+01:00",
-      "competition": "Liga AUF Uruguaya",
-      "teams": "Penarol - Nacional",
-      "channels": [
-        {
-          "name": "CH109es",
-          "url": "https://envivo.govoet.my.id/109"
-        },
-        {
-          "name": "CH74es",
-          "url": "https://envivo.govoet.my.id/74"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-23T20:45:00+01:00",
       "competition": "Ligue 1",
