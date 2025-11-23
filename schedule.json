@@ -1,67 +1,7 @@
 {
-  "last_updated": "2025-11-23T19:38:17.135920+00:00",
+  "last_updated": "2025-11-23T20:24:54.807198+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-23T18:00:00+01:00",
-      "competition": "Betfred Super League",
-      "teams": "PAOK - Kifisia",
-      "channels": [
-        {
-          "name": "CH149gr",
-          "url": "https://envivo.govoet.my.id/149"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-23T18:00:00+01:00",
-      "competition": "Coupe Du Portugal",
-      "teams": "Tondela - Caldas",
-      "channels": [
-        {
-          "name": "CH146pt",
-          "url": "https://envivo.govoet.my.id/146"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-23T18:00:00+01:00",
-      "competition": "Serie A",
-      "teams": "Lazio - Lecce",
-      "channels": [
-        {
-          "name": "CH45fr",
-          "url": "https://envivo.govoet.my.id/45"
-        },
-        {
-          "name": "CH138it",
-          "url": "https://envivo.govoet.my.id/138"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-23T18:00:00+01:00",
-      "competition": "Super Lig",
-      "teams": "Rizespor - Fenerbahce",
-      "channels": [
-        {
-          "name": "CH5fr",
-          "url": "https://envivo.govoet.my.id/5"
-        },
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        },
-        {
-          "name": "CH92es",
-          "url": "https://envivo.govoet.my.id/92"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-23T18:30:00+01:00",
       "competition": "Coupe Du Portugal",
