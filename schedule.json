@@ -1,26 +1,7 @@
 {
-  "last_updated": "2025-11-23T14:40:19.902061+00:00",
+  "last_updated": "2025-11-23T15:20:19.972687+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-23T13:00:00+01:00",
-      "competition": "Championship",
-      "teams": "Sheffield Wed - Sheffield Utd",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        },
-        {
-          "name": "CH127gb",
-          "url": "https://envivo.govoet.my.id/127"
-        },
-        {
-          "name": "CH78es",
-          "url": "https://envivo.govoet.my.id/78"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-23T13:30:00+01:00",
       "competition": "Bundesliga 2",
