@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-11-23T05:21:50.051481+00:00",
+  "last_updated": "2025-11-23T05:41:58.696890+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-23T03:30:00+01:00",
-      "competition": "MLS",
-      "teams": "Vancouver Whitecaps - Los Angeles FC",
-      "channels": [
-        {
-          "name": "CH176us",
-          "url": "https://envivo.govoet.my.id/176"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-23T04:00:00+01:00",
       "competition": "NBA",
