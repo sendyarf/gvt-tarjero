@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-11-23T05:41:58.696890+00:00",
+  "last_updated": "2025-11-23T06:32:35.647152+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-23T04:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Denver Nuggets - Sacramento Kings",
-      "channels": [
-        {
-          "name": "CH177us",
-          "url": "https://envivo.govoet.my.id/177"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-23T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Anaheim Ducks - Vegas Golden Knights",
-      "channels": [
-        {
-          "name": "CH178us",
-          "url": "https://envivo.govoet.my.id/178"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-23T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Calgary Flames - Dallas Stars",
-      "channels": [
-        {
-          "name": "CH179us",
-          "url": "https://envivo.govoet.my.id/179"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-23T04:55:00+01:00",
       "competition": "formula 1",
