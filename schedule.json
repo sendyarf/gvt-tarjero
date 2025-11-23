@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-11-23T13:40:06.149809+00:00",
+  "last_updated": "2025-11-23T14:19:04.299039+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-23T12:00:00+01:00",
-      "competition": "Coupe Du Portugal",
-      "teams": "Lusitania FC - Torreense",
-      "channels": [
-        {
-          "name": "CH146pt",
-          "url": "https://envivo.govoet.my.id/146"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-23T12:15:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "Heerenveen - Alkmaar",
-      "channels": [
-        {
-          "name": "CH142nl",
-          "url": "https://envivo.govoet.my.id/142"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-23T12:30:00+01:00",
       "competition": "Liga Endesa",
