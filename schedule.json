@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-11-23T04:34:44.179197+00:00",
+  "last_updated": "2025-11-23T05:21:50.051481+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-23T03:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Utah Mammoth - New York Rangers",
-      "channels": [
-        {
-          "name": "CH175us",
-          "url": "https://envivo.govoet.my.id/175"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-23T03:30:00+01:00",
       "competition": "MLS",
