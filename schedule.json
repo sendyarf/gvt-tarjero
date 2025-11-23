@@ -1,57 +1,7 @@
 {
-  "last_updated": "2025-11-23T19:17:22.141007+00:00",
+  "last_updated": "2025-11-23T19:38:17.135920+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-23T17:30:00+01:00",
-      "competition": "Bundesliga",
-      "teams": "St. Pauli - Union Berlin",
-      "channels": [
-        {
-          "name": "CH8fr",
-          "url": "https://envivo.govoet.my.id/8"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH116es",
-          "url": "https://envivo.govoet.my.id/116"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-23T17:30:00+01:00",
-      "competition": "Premier League",
-      "teams": "Arsenal - Tottenham",
-      "channels": [
-        {
-          "name": "CH11fr",
-          "url": "https://envivo.govoet.my.id/11"
-        },
-        {
-          "name": "CH127gb",
-          "url": "https://envivo.govoet.my.id/127"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        },
-        {
-          "name": "CH61es",
-          "url": "https://envivo.govoet.my.id/61"
-        },
-        {
-          "name": "CH120de",
-          "url": "https://envivo.govoet.my.id/120"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-23T18:00:00+01:00",
       "competition": "Betfred Super League",
