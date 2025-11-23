@@ -1,78 +1,7 @@
 {
-  "last_updated": "2025-11-23T20:24:54.807198+00:00",
+  "last_updated": "2025-11-23T20:42:05.831323+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-23T18:30:00+01:00",
-      "competition": "Coupe Du Portugal",
-      "teams": "Braga - Nacional",
-      "channels": [
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-23T18:30:00+01:00",
-      "competition": "Laliga",
-      "teams": "Getafe - Atl. Madrid",
-      "channels": [
-        {
-          "name": "CH6fr",
-          "url": "https://envivo.govoet.my.id/6"
-        },
-        {
-          "name": "CH51es",
-          "url": "https://envivo.govoet.my.id/51"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-23T18:30:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Burgos CF - Racing Santander",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-23T18:30:00+01:00",
-      "competition": "Pro League",
-      "teams": "RAAL La Louviere - Anderlecht",
-      "channels": [
-        {
-          "name": "CH153fr",
-          "url": "https://envivo.govoet.my.id/153"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-23T18:30:00+01:00",
-      "competition": "Saudi Pro League",
-      "teams": "Al-Nassr - Al Khaleej",
-      "channels": [
-        {
-          "name": "CH63es",
-          "url": "https://envivo.govoet.my.id/63"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-23T19:00:00+01:00",
       "competition": "Ecuador Ligapro",
