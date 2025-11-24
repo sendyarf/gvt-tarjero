@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-11-24T04:35:59.300557+00:00",
+  "last_updated": "2025-11-24T05:24:43.176045+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-24T03:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Vancouver Canucks - Calgary Flames",
-      "channels": [
-        {
-          "name": "CH188us",
-          "url": "https://envivo.govoet.my.id/188"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-24T14:45:00+01:00",
       "competition": "Afc Ligue Des Champions",
