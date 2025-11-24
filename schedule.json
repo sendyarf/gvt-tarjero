@@ -1,121 +1,7 @@
 {
-  "last_updated": "2025-11-24T22:21:30.598462+00:00",
+  "last_updated": "2025-11-24T22:42:31.726651+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-24T20:30:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Real Sociedad B - Valladolid",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        },
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-24T20:45:00+01:00",
-      "competition": "Ligue 2",
-      "teams": "Reims - Montpellier",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-24T20:45:00+01:00",
-      "competition": "Serie A",
-      "teams": "Sassuolo - Pisa",
-      "channels": [
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-24T21:00:00+01:00",
-      "competition": "Laliga",
-      "teams": "Espanyol - FC Séville",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH49es",
-          "url": "https://envivo.govoet.my.id/49"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH95es",
-          "url": "https://envivo.govoet.my.id/95"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-24T21:00:00+01:00",
-      "competition": "Premier League",
-      "teams": "Manchester Utd - Everton",
-      "channels": [
-        {
-          "name": "CH12fr",
-          "url": "https://envivo.govoet.my.id/12"
-        },
-        {
-          "name": "CH127gb",
-          "url": "https://envivo.govoet.my.id/127"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        },
-        {
-          "name": "CH120de",
-          "url": "https://envivo.govoet.my.id/120"
-        },
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-24T21:00:00+01:00",
-      "competition": "Torneo LPF",
-      "teams": "Dep. Riestra - Barracas Central",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-24T23:15:00+01:00",
       "competition": "Torneo LPF",
@@ -370,8 +256,8 @@
       "teams": "Golden State Warriors - Utah Jazz",
       "channels": [
         {
-          "name": "CH176us",
-          "url": "https://envivo.govoet.my.id/176"
+          "name": "CH178us",
+          "url": "https://envivo.govoet.my.id/178"
         }
       ]
     },
