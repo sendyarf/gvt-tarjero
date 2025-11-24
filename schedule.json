@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-11-24T18:34:34.997171+00:00",
+  "last_updated": "2025-11-24T19:16:20.035401+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-24T17:00:00+01:00",
-      "competition": "Afc Ligue Des Champions",
-      "teams": "Al-Ahli Dubai (Uae) - Al-Gharafa (Qat)",
-      "channels": [
-        {
-          "name": "CH47qa",
-          "url": "https://envivo.govoet.my.id/47"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-24T17:00:00+01:00",
-      "competition": "Afc Ligue Des Champions",
-      "teams": "Al-Duhail (Qat) - Al-Ittihad FC (Sau)",
-      "channels": [
-        {
-          "name": "CH48qa",
-          "url": "https://envivo.govoet.my.id/48"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-24T17:00:00+01:00",
-      "competition": "Betfred Super League",
-      "teams": "Volos - Levadiakos",
-      "channels": [
-        {
-          "name": "CH148gr",
-          "url": "https://envivo.govoet.my.id/148"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-24T18:00:00+01:00",
       "competition": "Super Lig",
