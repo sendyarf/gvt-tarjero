@@ -1,34 +1,7 @@
 {
-  "last_updated": "2025-11-24T20:26:55.118253+00:00",
+  "last_updated": "2025-11-24T20:42:22.413018+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-24T18:30:00+01:00",
-      "competition": "Serie A",
-      "teams": "Torino - Como",
-      "channels": [
-        {
-          "name": "CH138it",
-          "url": "https://envivo.govoet.my.id/138"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-24T19:00:00+01:00",
       "competition": "Betfred Super League",
