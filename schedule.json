@@ -1,41 +1,7 @@
 {
-  "last_updated": "2025-11-24T19:39:15.040568+00:00",
+  "last_updated": "2025-11-24T20:26:55.118253+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-24T18:00:00+01:00",
-      "competition": "Super Lig",
-      "teams": "Basaksehir - Trabzonspor",
-      "channels": [
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        },
-        {
-          "name": "CH91es",
-          "url": "https://envivo.govoet.my.id/91"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        },
-        {
-          "name": "CH79es",
-          "url": "https://envivo.govoet.my.id/79"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-24T18:00:00+01:00",
-      "competition": "Super Lig",
-      "teams": "Konyaspor - Antalyaspor",
-      "channels": [
-        {
-          "name": "CH152tr",
-          "url": "https://envivo.govoet.my.id/152"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-24T18:30:00+01:00",
       "competition": "Serie A",
