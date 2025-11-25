@@ -1,26 +1,7 @@
 {
-  "last_updated": "2025-11-24T23:40:51.931274+00:00",
+  "last_updated": "2025-11-25T01:50:08.036798+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-24T23:15:00+01:00",
-      "competition": "Torneo LPF",
-      "teams": "Racing Club - River Plate",
-      "channels": [
-        {
-          "name": "CH76es",
-          "url": "https://envivo.govoet.my.id/76"
-        },
-        {
-          "name": "CH55es",
-          "url": "https://envivo.govoet.my.id/55"
-        },
-        {
-          "name": "CH61es",
-          "url": "https://envivo.govoet.my.id/61"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-25T00:00:00+01:00",
       "competition": "Campeonato Itaú Chile",
