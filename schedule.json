@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-11-25T15:46:31.783742+00:00",
+  "last_updated": "2025-11-25T16:31:43.707671+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-25T14:00:00+01:00",
-      "competition": "Youth League",
-      "teams": "Chelsea -19 - Barcelone -19",
-      "channels": [
-        {
-          "name": "CH12fr",
-          "url": "https://envivo.govoet.my.id/12"
-        },
-        {
-          "name": "CH126gb",
-          "url": "https://envivo.govoet.my.id/126"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-25T16:00:00+01:00",
       "competition": "Youth League",
