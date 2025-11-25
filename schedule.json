@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-11-25T21:40:21.661370+00:00",
+  "last_updated": "2025-11-25T22:22:54.475334+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-25T20:00:00+01:00",
-      "competition": "Ligue 2",
-      "teams": "Bastia - Laval",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-25T20:15:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Panathinaikos - Partizan",
-      "channels": [
-        {
-          "name": "CH64es",
-          "url": "https://envivo.govoet.my.id/64"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-25T20:30:00+01:00",
       "competition": "EuroLeague",
