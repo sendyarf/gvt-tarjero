@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-11-25T12:49:35.740265+00:00",
+  "last_updated": "2025-11-25T13:35:46.511913+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-25T11:00:00+01:00",
-      "competition": "Afc Ligue Des Champions",
-      "teams": "Gangwon (Kor) - Machida (Jpn)",
-      "channels": [
-        {
-          "name": "CH48qa",
-          "url": "https://envivo.govoet.my.id/48"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-25T11:00:00+01:00",
-      "competition": "Afc Ligue Des Champions",
-      "teams": "Shanghai Port (Chn) - Seoul (Kor)",
-      "channels": [
-        {
-          "name": "CH47qa",
-          "url": "https://envivo.govoet.my.id/47"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-25T13:00:00+01:00",
       "competition": "Youth League",
