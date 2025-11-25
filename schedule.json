@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-11-25T05:23:54.270698+00:00",
+  "last_updated": "2025-11-25T05:44:26.495483+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-25T03:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Phoenix Suns - Houston Rockets",
-      "channels": [
-        {
-          "name": "CH175us",
-          "url": "https://envivo.govoet.my.id/175"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-25T04:00:00+01:00",
       "competition": "MLS",
