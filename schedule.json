@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-11-25T10:27:35.896508+00:00",
+  "last_updated": "2025-11-25T10:50:25.536103+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-25T08:45:00+01:00",
-      "competition": "Afc Ligue Des Champions",
-      "teams": "Melbourne City (Aus) - Johor DT (Mys)",
-      "channels": [
-        {
-          "name": "CH47qa",
-          "url": "https://envivo.govoet.my.id/47"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-25T11:00:00+01:00",
       "competition": "Afc Ligue Des Champions",
