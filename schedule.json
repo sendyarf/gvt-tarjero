@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-11-25T14:46:39.675514+00:00",
+  "last_updated": "2025-11-25T15:26:10.338737+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-25T13:00:00+01:00",
-      "competition": "Youth League",
-      "teams": "Ajax -19 - Benfica -19",
-      "channels": [
-        {
-          "name": "CH141nl",
-          "url": "https://envivo.govoet.my.id/141"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-25T13:15:00+01:00",
-      "competition": "Afc Ligue Des Champions",
-      "teams": "Chengdu Rongcheng (Chn) - Hiroshima (Jpn)",
-      "channels": [
-        {
-          "name": "CH47qa",
-          "url": "https://envivo.govoet.my.id/47"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-25T14:00:00+01:00",
       "competition": "Youth League",
