@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-11-25T17:44:36.575305+00:00",
+  "last_updated": "2025-11-25T18:35:04.726236+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-25T16:00:00+01:00",
-      "competition": "Youth League",
-      "teams": "Dortmund -19 - Villarreal -19",
-      "channels": [
-        {
-          "name": "CH145pt",
-          "url": "https://envivo.govoet.my.id/145"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-25T17:00:00+01:00",
       "competition": "Afc Ligue Des Champions",
