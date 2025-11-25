@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-11-25T18:35:04.726236+00:00",
+  "last_updated": "2025-11-25T19:19:31.034554+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-25T17:00:00+01:00",
-      "competition": "Afc Ligue Des Champions",
-      "teams": "Al-Wahda (Uae) - Al-Sadd (Qat)",
-      "channels": [
-        {
-          "name": "CH46qa",
-          "url": "https://envivo.govoet.my.id/46"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-25T17:00:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Dubai - Paris",
-      "channels": [
-        {
-          "name": "CH62es",
-          "url": "https://envivo.govoet.my.id/62"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-25T18:45:00+01:00",
       "competition": "EuroLeague",
