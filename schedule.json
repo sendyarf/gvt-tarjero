@@ -1,39 +1,5 @@
 {
-  "last_updated": "2025-11-25T05:44:26.495483+00:00",
+  "last_updated": "2025-11-25T06:36:20.874009+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-11-25T04:00:00+01:00",
-      "competition": "MLS",
-      "teams": "San Diego FC - Minnesota",
-      "channels": [
-        {
-          "name": "CH176us",
-          "url": "https://envivo.govoet.my.id/176"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-25T04:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Golden State Warriors - Utah Jazz",
-      "channels": [
-        {
-          "name": "CH178us",
-          "url": "https://envivo.govoet.my.id/178"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-25T04:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Sacramento Kings - Minnesota Timberwolves",
-      "channels": [
-        {
-          "name": "CH177us",
-          "url": "https://envivo.govoet.my.id/177"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
