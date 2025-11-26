@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-11-26T21:20:03.933931+00:00",
+  "last_updated": "2025-11-26T21:39:38.737844+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-26T19:30:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Monaco - Anadolu Efes",
-      "channels": [
-        {
-          "name": "CH63es",
-          "url": "https://envivo.govoet.my.id/63"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-26T19:30:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Étoile Rouge Belgrade - Olympiakos",
-      "channels": [
-        {
-          "name": "CH64es",
-          "url": "https://envivo.govoet.my.id/64"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-26T20:30:00+01:00",
       "competition": "EuroLeague",
