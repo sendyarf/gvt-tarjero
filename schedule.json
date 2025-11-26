@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-11-26T17:42:26.423022+00:00",
+  "last_updated": "2025-11-26T18:29:57.512724+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-26T16:00:00+01:00",
-      "competition": "Youth League",
-      "teams": "Atl. Madrid -19 - Inter -19",
-      "channels": [
-        {
-          "name": "CH161es",
-          "url": "https://envivo.govoet.my.id/161"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-26T16:00:00+01:00",
-      "competition": "Youth League",
-      "teams": "Olympiakos -19 - Real Madrid -19",
-      "channels": [
-        {
-          "name": "CH162es",
-          "url": "https://envivo.govoet.my.id/162"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-26T18:00:00+01:00",
       "competition": "EuroLeague",
