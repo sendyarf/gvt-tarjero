@@ -1,26 +1,7 @@
 {
-  "last_updated": "2025-11-26T15:43:38.341699+00:00",
+  "last_updated": "2025-11-26T16:30:33.225883+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-26T14:00:00+01:00",
-      "competition": "Youth League",
-      "teams": "Arsenal -19 - Bayern -19",
-      "channels": [
-        {
-          "name": "CH12fr",
-          "url": "https://envivo.govoet.my.id/12"
-        },
-        {
-          "name": "CH163es",
-          "url": "https://envivo.govoet.my.id/163"
-        },
-        {
-          "name": "CH126gb",
-          "url": "https://envivo.govoet.my.id/126"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-26T14:45:00+01:00",
       "competition": "Afc Ligue Des Champions",
