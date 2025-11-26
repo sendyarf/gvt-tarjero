@@ -1,21 +1,5 @@
 {
-  "last_updated": "2025-11-26T06:35:39.119160+00:00",
+  "last_updated": "2025-11-26T07:22:14.648179+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-11-26T05:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Los Angeles Lakers - Los Angeles Clippers",
-      "channels": [
-        {
-          "name": "CH182us",
-          "url": "https://envivo.govoet.my.id/182"
-        },
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
