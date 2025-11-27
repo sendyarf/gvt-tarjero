@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-27T21:39:08.359618+00:00",
+  "last_updated": "2025-11-27T22:21:23.716011+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -422,6 +422,14 @@
         {
           "name": "CH155es",
           "url": "https://envivo.govoet.my.id/155"
+        },
+        {
+          "name": "CH72es",
+          "url": "https://envivo.govoet.my.id/72"
+        },
+        {
+          "name": "CH68es",
+          "url": "https://envivo.govoet.my.id/68"
         }
       ]
     }
