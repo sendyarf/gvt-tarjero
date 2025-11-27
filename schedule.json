@@ -1,48 +1,7 @@
 {
-  "last_updated": "2025-11-26T23:39:50.196809+00:00",
+  "last_updated": "2025-11-27T01:48:02.600892+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-26T22:00:00+01:00",
-      "competition": "Campeonato Itaú Chile",
-      "teams": "Arica - Cobreloa",
-      "channels": [
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-26T23:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Boston Celtics - Detroit Pistons",
-      "channels": [
-        {
-          "name": "CH180us",
-          "url": "https://envivo.govoet.my.id/180"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-26T23:00:00+01:00",
-      "competition": "Serie A Bresil",
-      "teams": "Bragantino - Fortaleza",
-      "channels": [
-        {
-          "name": "CH159ae",
-          "url": "https://envivo.govoet.my.id/159"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-27T00:30:00+01:00",
       "competition": "Campeonato Itaú Chile",
