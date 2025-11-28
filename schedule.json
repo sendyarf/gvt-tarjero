@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-11-28T18:31:59.828940+00:00",
+  "last_updated": "2025-11-28T19:18:17.768035+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-28T17:00:00+01:00",
-      "competition": "Caf Coupes Des Confederations",
-      "teams": "Azam (Tan) - Wydad (Mar)",
-      "channels": [
-        {
-          "name": "CH48qa",
-          "url": "https://envivo.govoet.my.id/48"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-28T17:00:00+01:00",
-      "competition": "Caf Ligue Des Champions",
-      "teams": "JS Kabylie (Alg) - Young Africans (Tan)",
-      "channels": [
-        {
-          "name": "CH46qa",
-          "url": "https://envivo.govoet.my.id/46"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-28T18:00:00+01:00",
       "competition": "NHL",
