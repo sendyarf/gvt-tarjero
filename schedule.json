@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-11-28T23:21:08.606168+00:00",
+  "last_updated": "2025-11-28T23:39:36.409899+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-28T21:30:00+01:00",
-      "competition": "NHL",
-      "teams": "Minnesota Wild - Colorado Avalanche",
-      "channels": [
-        {
-          "name": "CH182us",
-          "url": "https://envivo.govoet.my.id/182"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-28T22:00:00+01:00",
       "competition": "NHL",
