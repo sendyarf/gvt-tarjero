@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-11-28T16:28:35.958571+00:00",
+  "last_updated": "2025-11-28T16:43:43.034325+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-28T14:30:00+01:00",
-      "competition": "formula 1",
-      "teams": "Grand Prix du Qatar Essais libres 1 -",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        },
-        {
-          "name": "CH60es",
-          "url": "https://envivo.govoet.my.id/60"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-28T15:50:00+01:00",
       "competition": "Saudi King Cup",
