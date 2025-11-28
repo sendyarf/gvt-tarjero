@@ -1,59 +1,7 @@
 {
-  "last_updated": "2025-11-28T20:25:29.208916+00:00",
+  "last_updated": "2025-11-28T20:41:50.431544+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-28T18:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "bundesliga 2 konferenz -",
-      "channels": [
-        {
-          "name": "CH112de",
-          "url": "https://envivo.govoet.my.id/112"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-28T18:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Hanovre - Karlsruher",
-      "channels": [
-        {
-          "name": "CH114de",
-          "url": "https://envivo.govoet.my.id/114"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-28T18:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Schalke 04 - Paderborn",
-      "channels": [
-        {
-          "name": "CH113de",
-          "url": "https://envivo.govoet.my.id/113"
-        },
-        {
-          "name": "CH80es",
-          "url": "https://envivo.govoet.my.id/80"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-28T18:30:00+01:00",
-      "competition": "Saudi King Cup",
-      "teams": "Al Ahli SC - Al Qadsiah",
-      "channels": [
-        {
-          "name": "CH61es",
-          "url": "https://envivo.govoet.my.id/61"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-28T19:00:00+01:00",
       "competition": "NHL",
