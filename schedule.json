@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-11-28T01:47:54.258977+00:00",
+  "last_updated": "2025-11-28T03:13:35.440403+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-28T00:30:00+01:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "America De Cali - Ind. Medellin",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-28T00:30:00+01:00",
-      "competition": "Serie A Bresil",
-      "teams": "Fluminense - Sao Paulo",
-      "channels": [
-        {
-          "name": "CH82es",
-          "url": "https://envivo.govoet.my.id/82"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-28T02:20:00+01:00",
       "competition": "NFL",
