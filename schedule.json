@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-11-28T20:41:50.431544+00:00",
+  "last_updated": "2025-11-28T21:19:25.272919+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-28T19:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Boston Bruins - New York Rangers",
-      "channels": [
-        {
-          "name": "CH181us",
-          "url": "https://envivo.govoet.my.id/181"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-28T19:00:00+01:00",
-      "competition": "Pro D2",
-      "teams": "FC Grenoble - Biarritz Olympique",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-28T19:30:00+01:00",
       "competition": "Pro D2",
