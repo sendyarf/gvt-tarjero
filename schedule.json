@@ -1,30 +1,7 @@
 {
-  "last_updated": "2025-11-27T23:39:56.408811+00:00",
+  "last_updated": "2025-11-28T01:47:54.258977+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-27T22:30:00+01:00",
-      "competition": "NFL",
-      "teams": "Dallas Cowboys - Kansas City Chiefs",
-      "channels": [
-        {
-          "name": "CH127gb",
-          "url": "https://envivo.govoet.my.id/127"
-        },
-        {
-          "name": "CH101es",
-          "url": "https://envivo.govoet.my.id/101"
-        },
-        {
-          "name": "CH104es",
-          "url": "https://envivo.govoet.my.id/104"
-        },
-        {
-          "name": "CH91es",
-          "url": "https://envivo.govoet.my.id/91"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-28T00:30:00+01:00",
       "competition": "Liga Betplay Dimayor",
