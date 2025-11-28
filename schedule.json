@@ -1,51 +1,7 @@
 {
-  "last_updated": "2025-11-28T21:39:02.964116+00:00",
+  "last_updated": "2025-11-28T22:20:51.277476+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-28T20:00:00+01:00",
-      "competition": "Caf Coupes Des Confederations",
-      "teams": "Safi (Mar) - USM Alger (Alg)",
-      "channels": [
-        {
-          "name": "CH48qa",
-          "url": "https://envivo.govoet.my.id/48"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-28T20:00:00+01:00",
-      "competition": "Caf Ligue Des Champions",
-      "teams": "FAR Rabat (Mar) - Al Ahly (Egy)",
-      "channels": [
-        {
-          "name": "CH46qa",
-          "url": "https://envivo.govoet.my.id/46"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-28T20:00:00+01:00",
-      "competition": "Caf Ligue Des Champions",
-      "teams": "MC Alger (Alg) - Mamelodi (Rsa)",
-      "channels": [
-        {
-          "name": "CH47qa",
-          "url": "https://envivo.govoet.my.id/47"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-28T20:00:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "Zwolle - Heerenveen",
-      "channels": [
-        {
-          "name": "CH142nl",
-          "url": "https://envivo.govoet.my.id/142"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-28T20:30:00+01:00",
       "competition": "Bundesliga",
