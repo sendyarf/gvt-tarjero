@@ -1,44 +1,7 @@
 {
-  "last_updated": "2025-11-28T19:38:11.284666+00:00",
+  "last_updated": "2025-11-28T20:25:29.208916+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-28T18:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Detroit Red Wings - Tampa Bay Lightning",
-      "channels": [
-        {
-          "name": "CH180us",
-          "url": "https://envivo.govoet.my.id/180"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-28T18:00:00+01:00",
-      "competition": "Super Lig",
-      "teams": "Kocaelispor - Genclerbirligi",
-      "channels": [
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-28T18:15:00+01:00",
-      "competition": "formula 1",
-      "teams": "Grand Prix du Qatar Qualifications Sprint -",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        },
-        {
-          "name": "CH60es",
-          "url": "https://envivo.govoet.my.id/60"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-28T18:30:00+01:00",
       "competition": "Bundesliga 2",
