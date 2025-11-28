@@ -1,30 +1,7 @@
 {
-  "last_updated": "2025-11-28T03:55:40.641074+00:00",
+  "last_updated": "2025-11-28T04:29:26.108917+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-28T02:20:00+01:00",
-      "competition": "NFL",
-      "teams": "Baltimore Ravens - Cincinnati Bengals",
-      "channels": [
-        {
-          "name": "CH127gb",
-          "url": "https://envivo.govoet.my.id/127"
-        },
-        {
-          "name": "CH101es",
-          "url": "https://envivo.govoet.my.id/101"
-        },
-        {
-          "name": "CH104es",
-          "url": "https://envivo.govoet.my.id/104"
-        },
-        {
-          "name": "CH91es",
-          "url": "https://envivo.govoet.my.id/91"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-28T03:07:00+01:00",
       "competition": "Liga Mx",
