@@ -1,62 +1,7 @@
 {
-  "last_updated": "2025-11-28T21:19:25.272919+00:00",
+  "last_updated": "2025-11-28T21:39:02.964116+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-28T19:30:00+01:00",
-      "competition": "Pro D2",
-      "teams": "Oyonnax Rugby - AS Béziers",
-      "channels": [
-        {
-          "name": "CH32fr",
-          "url": "https://envivo.govoet.my.id/32"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-28T19:30:00+01:00",
-      "competition": "Pro D2",
-      "teams": "Provence Rugby - US Carcassonne",
-      "channels": [
-        {
-          "name": "CH34fr",
-          "url": "https://envivo.govoet.my.id/34"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-28T19:30:00+01:00",
-      "competition": "Pro D2",
-      "teams": "Soyaux Angoulême - Stade Aurillacois",
-      "channels": [
-        {
-          "name": "CH35fr",
-          "url": "https://envivo.govoet.my.id/35"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-28T19:30:00+01:00",
-      "competition": "Pro D2",
-      "teams": "US Dax - Stade Montois",
-      "channels": [
-        {
-          "name": "CH36fr",
-          "url": "https://envivo.govoet.my.id/36"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-28T19:30:00+01:00",
-      "competition": "Pro D2",
-      "teams": "Valence Romans - USO Nevers Rugby",
-      "channels": [
-        {
-          "name": "CH37fr",
-          "url": "https://envivo.govoet.my.id/37"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-28T20:00:00+01:00",
       "competition": "Caf Coupes Des Confederations",
