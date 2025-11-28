@@ -1,41 +1,7 @@
 {
-  "last_updated": "2025-11-28T22:20:51.277476+00:00",
+  "last_updated": "2025-11-28T22:41:23.286973+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-28T20:30:00+01:00",
-      "competition": "Bundesliga",
-      "teams": "B. Monchengladbach - RB Leipzig",
-      "channels": [
-        {
-          "name": "CH5fr",
-          "url": "https://envivo.govoet.my.id/5"
-        },
-        {
-          "name": "CH111de",
-          "url": "https://envivo.govoet.my.id/111"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-28T20:30:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Gijon - Andorra",
-      "channels": [
-        {
-          "name": "CH7fr",
-          "url": "https://envivo.govoet.my.id/7"
-        },
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-28T20:45:00+01:00",
       "competition": "Ligue 1",
