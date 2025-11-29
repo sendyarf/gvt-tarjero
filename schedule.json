@@ -1,71 +1,7 @@
 {
-  "last_updated": "2025-11-29T16:47:07.607831+00:00",
+  "last_updated": "2025-11-29T17:19:11.957231+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-29T15:00:00+01:00",
-      "competition": "Serie A",
-      "teams": "Genoa - Hellas Vérone",
-      "channels": [
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH90es",
-          "url": "https://envivo.govoet.my.id/90"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-29T15:00:00+01:00",
-      "competition": "Serie A",
-      "teams": "Parme - Udinese",
-      "channels": [
-        {
-          "name": "CH139it",
-          "url": "https://envivo.govoet.my.id/139"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-29T15:00:00+01:00",
-      "competition": "Super Lig",
-      "teams": "Gaziantep - Eyupspor",
-      "channels": [
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-29T15:00:00+01:00",
-      "competition": "formula 1",
-      "teams": "Sprint -",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        },
-        {
-          "name": "CH60es",
-          "url": "https://envivo.govoet.my.id/60"
-        },
-        {
-          "name": "CH78es",
-          "url": "https://envivo.govoet.my.id/78"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-29T15:30:00+01:00",
       "competition": "Bundesliga",
