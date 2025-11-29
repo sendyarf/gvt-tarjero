@@ -1,51 +1,7 @@
 {
-  "last_updated": "2025-11-29T21:38:53.557131+00:00",
+  "last_updated": "2025-11-29T22:20:53.536457+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-29T20:00:00+01:00",
-      "competition": "Ecuador Ligapro",
-      "teams": "Tecnico U. - Manta",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-29T20:00:00+01:00",
-      "competition": "Ecuador Ligapro",
-      "teams": "Vinotinto - Mushuc Runa",
-      "channels": [
-        {
-          "name": "CH157es",
-          "url": "https://envivo.govoet.my.id/157"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-29T20:00:00+01:00",
-      "competition": "NHL",
-      "teams": "New York Rangers - Tampa Bay Lightning",
-      "channels": [
-        {
-          "name": "CH160us",
-          "url": "https://envivo.govoet.my.id/160"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-29T20:00:00+01:00",
-      "competition": "Serie A Bresil",
-      "teams": "Vitoria - Mirassol",
-      "channels": [
-        {
-          "name": "CH158pt",
-          "url": "https://envivo.govoet.my.id/158"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-29T20:30:00+01:00",
       "competition": "Bundesliga 2",
