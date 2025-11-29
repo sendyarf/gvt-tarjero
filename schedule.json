@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-11-29T16:27:09.880743+00:00",
+  "last_updated": "2025-11-29T16:42:19.731001+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-29T14:30:00+01:00",
-      "competition": "Top 14",
-      "teams": "Montpellier - Bordeaux Bègles",
-      "channels": [
-        {
-          "name": "CH11fr",
-          "url": "https://envivo.govoet.my.id/11"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-29T15:00:00+01:00",
       "competition": "Serie A",
