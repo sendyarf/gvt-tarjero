@@ -1,75 +1,7 @@
 {
-  "last_updated": "2025-11-29T20:41:56.657232+00:00",
+  "last_updated": "2025-11-29T21:19:39.380349+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-29T18:45:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "Sittard - Heracles",
-      "channels": [
-        {
-          "name": "CH141nl",
-          "url": "https://envivo.govoet.my.id/141"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-29T19:00:00+01:00",
-      "competition": "Liga Portugal",
-      "teams": "Nacional - Benfica",
-      "channels": [
-        {
-          "name": "CH7fr",
-          "url": "https://envivo.govoet.my.id/7"
-        },
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        },
-        {
-          "name": "CH74es",
-          "url": "https://envivo.govoet.my.id/74"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-29T19:00:00+01:00",
-      "competition": "Ligue 1",
-      "teams": "Paris FC - Auxerre",
-      "channels": [
-        {
-          "name": "CH20fr",
-          "url": "https://envivo.govoet.my.id/20"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        },
-        {
-          "name": "CH90es",
-          "url": "https://envivo.govoet.my.id/90"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-29T19:00:00+01:00",
-      "competition": "formula 1",
-      "teams": "Essais qualificatifs -",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        },
-        {
-          "name": "CH60es",
-          "url": "https://envivo.govoet.my.id/60"
-        },
-        {
-          "name": "CH78es",
-          "url": "https://envivo.govoet.my.id/78"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-29T20:00:00+01:00",
       "competition": "Ecuador Ligapro",
