@@ -1,56 +1,7 @@
 {
-  "last_updated": "2025-11-29T15:21:13.192372+00:00",
+  "last_updated": "2025-11-29T15:39:44.946214+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-29T13:30:00+01:00",
-      "competition": "Championship",
-      "teams": "Leicester - Sheffield Utd",
-      "channels": [
-        {
-          "name": "CH8fr",
-          "url": "https://envivo.govoet.my.id/8"
-        },
-        {
-          "name": "CH190us",
-          "url": "https://envivo.govoet.my.id/190"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-29T13:30:00+01:00",
-      "competition": "Championship",
-      "teams": "Portsmouth - Bristol City",
-      "channels": [
-        {
-          "name": "CH191us",
-          "url": "https://envivo.govoet.my.id/191"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-29T13:30:00+01:00",
-      "competition": "Championship",
-      "teams": "Stoke - Hull",
-      "channels": [
-        {
-          "name": "CH192us",
-          "url": "https://envivo.govoet.my.id/192"
-        },
-        {
-          "name": "CH91es",
-          "url": "https://envivo.govoet.my.id/91"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        },
-        {
-          "name": "CH80es",
-          "url": "https://envivo.govoet.my.id/80"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-29T14:00:00+01:00",
       "competition": "Laliga",
