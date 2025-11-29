@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-11-29T23:20:37.230317+00:00",
+  "last_updated": "2025-11-29T23:39:37.003884+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-29T21:30:00+01:00",
-      "competition": "Liga Portugal",
-      "teams": "Gil Vicente - Tondela",
-      "channels": [
-        {
-          "name": "CH146pt",
-          "url": "https://envivo.govoet.my.id/146"
-        },
-        {
-          "name": "CH74es",
-          "url": "https://envivo.govoet.my.id/74"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-29T22:00:00+01:00",
       "competition": "Campeonato Itaú Chile",
