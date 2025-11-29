@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-11-29T05:42:33.513844+00:00",
+  "last_updated": "2025-11-29T06:32:51.683360+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-29T04:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Los Angeles Clippers - Memphis Grizzlies",
-      "channels": [
-        {
-          "name": "CH169us",
-          "url": "https://envivo.govoet.my.id/169"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-29T04:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Los Angeles Lakers - Dallas Mavericks",
-      "channels": [
-        {
-          "name": "CH170us",
-          "url": "https://envivo.govoet.my.id/170"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-29T12:30:00+01:00",
       "competition": "Super Lig",
