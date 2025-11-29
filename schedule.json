@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-11-29T14:19:50.962405+00:00",
+  "last_updated": "2025-11-29T14:41:10.359898+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-29T12:30:00+01:00",
-      "competition": "Super Lig",
-      "teams": "Rizespor - Kayserispor",
-      "channels": [
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-29T13:00:00+01:00",
       "competition": "Bundesliga 2",
