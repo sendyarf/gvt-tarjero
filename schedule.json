@@ -1,68 +1,7 @@
 {
-  "last_updated": "2025-11-30T19:38:27.024411+00:00",
+  "last_updated": "2025-11-30T20:25:03.885042+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-30T18:00:00+01:00",
-      "competition": "Betfred Super League",
-      "teams": "Levadiakos - PAOK",
-      "channels": [
-        {
-          "name": "CH150gr",
-          "url": "https://envivo.govoet.my.id/150"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-30T18:00:00+01:00",
-      "competition": "Serie A",
-      "teams": "Atalanta - Fiorentina",
-      "channels": [
-        {
-          "name": "CH45fr",
-          "url": "https://envivo.govoet.my.id/45"
-        },
-        {
-          "name": "CH138it",
-          "url": "https://envivo.govoet.my.id/138"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-30T18:00:00+01:00",
-      "competition": "Super Lig",
-      "teams": "Karagumruk - Besiktas",
-      "channels": [
-        {
-          "name": "CH6fr",
-          "url": "https://envivo.govoet.my.id/6"
-        },
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        },
-        {
-          "name": "CH92es",
-          "url": "https://envivo.govoet.my.id/92"
-        },
-        {
-          "name": "CH80es",
-          "url": "https://envivo.govoet.my.id/80"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-30T18:30:00+01:00",
       "competition": "Laliga",
