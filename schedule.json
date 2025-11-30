@@ -1,67 +1,7 @@
 {
-  "last_updated": "2025-11-30T05:43:30.781785+00:00",
+  "last_updated": "2025-11-30T06:34:19.309945+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-30T04:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Los Angeles Clippers - Dallas Mavericks",
-      "channels": [
-        {
-          "name": "CH176us",
-          "url": "https://envivo.govoet.my.id/176"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-30T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Los Angeles Kings - Vancouver Canucks",
-      "channels": [
-        {
-          "name": "CH177us",
-          "url": "https://envivo.govoet.my.id/177"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-30T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Vegas Golden Knights - San Jose Sharks",
-      "channels": [
-        {
-          "name": "CH178us",
-          "url": "https://envivo.govoet.my.id/178"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-30T04:10:00+01:00",
-      "competition": "Liga Mx",
-      "teams": "Tigres - Tijuana",
-      "channels": [
-        {
-          "name": "CH72es",
-          "url": "https://envivo.govoet.my.id/72"
-        },
-        {
-          "name": "CH73es",
-          "url": "https://envivo.govoet.my.id/73"
-        },
-        {
-          "name": "CH108es",
-          "url": "https://envivo.govoet.my.id/108"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-30T12:15:00+01:00",
       "competition": "Eredivisie",
