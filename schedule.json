@@ -1,48 +1,7 @@
 {
-  "last_updated": "2025-11-30T21:39:00.185972+00:00",
+  "last_updated": "2025-11-30T22:21:23.435008+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-30T20:00:00+01:00",
-      "competition": "Betfred Super League",
-      "teams": "Panathinaikos - AEK",
-      "channels": [
-        {
-          "name": "CH148gr",
-          "url": "https://envivo.govoet.my.id/148"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-30T20:00:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "Ajax - Groningen",
-      "channels": [
-        {
-          "name": "CH141nl",
-          "url": "https://envivo.govoet.my.id/141"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-30T20:00:00+01:00",
-      "competition": "Serie A Bresil",
-      "teams": "Corinthians - Botafogo RJ",
-      "channels": [
-        {
-          "name": "CH55es",
-          "url": "https://envivo.govoet.my.id/55"
-        },
-        {
-          "name": "CH61es",
-          "url": "https://envivo.govoet.my.id/61"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-30T20:30:00+01:00",
       "competition": "Liga AUF Uruguaya",
