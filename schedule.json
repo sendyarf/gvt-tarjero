@@ -1,26 +1,7 @@
 {
-  "last_updated": "2025-11-30T13:43:34.017816+00:00",
+  "last_updated": "2025-11-30T14:19:56.185442+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-30T12:15:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "PSV - FC Volendam",
-      "channels": [
-        {
-          "name": "CH142nl",
-          "url": "https://envivo.govoet.my.id/142"
-        },
-        {
-          "name": "CH89es",
-          "url": "https://envivo.govoet.my.id/89"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-30T12:30:00+01:00",
       "competition": "Serie A",
