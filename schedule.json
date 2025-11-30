@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-11-30T04:35:37.972339+00:00",
+  "last_updated": "2025-11-30T05:22:47.185956+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-30T03:00:00+01:00",
-      "competition": "MLS",
-      "teams": "San Diego FC - Vancouver Whitecaps",
-      "channels": [
-        {
-          "name": "CH187us",
-          "url": "https://envivo.govoet.my.id/187"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-30T03:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Phoenix Suns - Denver Nuggets",
-      "channels": [
-        {
-          "name": "CH175us",
-          "url": "https://envivo.govoet.my.id/175"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-30T04:00:00+01:00",
       "competition": "NBA",
