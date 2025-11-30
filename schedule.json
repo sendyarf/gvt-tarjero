@@ -1,44 +1,7 @@
 {
-  "last_updated": "2025-11-30T23:20:40.088366+00:00",
+  "last_updated": "2025-11-30T23:39:56.771592+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-30T21:30:00+01:00",
-      "competition": "Ecuador Ligapro",
-      "teams": "Macara - El Nacional",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-30T21:30:00+01:00",
-      "competition": "Liga Portugal",
-      "teams": "FC Porto - Estoril",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-30T21:30:00+01:00",
-      "competition": "NHL",
-      "teams": "Chicago Blackhawks - Anaheim Ducks",
-      "channels": [
-        {
-          "name": "CH169us",
-          "url": "https://envivo.govoet.my.id/169"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-30T22:00:00+01:00",
       "competition": "Campeonato Itaú Chile",
