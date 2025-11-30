@@ -1,49 +1,7 @@
 {
-  "last_updated": "2025-11-30T14:41:03.764813+00:00",
+  "last_updated": "2025-11-30T15:21:15.993803+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-30T13:00:00+01:00",
-      "competition": "Premier League",
-      "teams": "Crystal Palace - Manchester Utd",
-      "channels": [
-        {
-          "name": "CH12fr",
-          "url": "https://envivo.govoet.my.id/12"
-        },
-        {
-          "name": "CH126us",
-          "url": "https://envivo.govoet.my.id/126"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        },
-        {
-          "name": "CH120de",
-          "url": "https://envivo.govoet.my.id/120"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH73es",
-          "url": "https://envivo.govoet.my.id/73"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-30T13:00:00+01:00",
-      "competition": "Premiership",
-      "teams": "Hibernian - Celtic",
-      "channels": [
-        {
-          "name": "CH127gb",
-          "url": "https://envivo.govoet.my.id/127"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-30T13:30:00+01:00",
       "competition": "Bundesliga 2",
