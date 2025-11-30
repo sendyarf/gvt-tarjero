@@ -1,56 +1,7 @@
 {
-  "last_updated": "2025-11-30T17:40:06.734258+00:00",
+  "last_updated": "2025-11-30T18:30:55.077781+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-30T16:15:00+01:00",
-      "competition": "Laliga",
-      "teams": "FC Séville - Betis",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        },
-        {
-          "name": "CH49es",
-          "url": "https://envivo.govoet.my.id/49"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-30T16:15:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Racing Santander - Eibar",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-30T16:30:00+01:00",
-      "competition": "Liga Portugal",
-      "teams": "Rio Ave - Santa Clara",
-      "channels": [
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        },
-        {
-          "name": "CH74es",
-          "url": "https://envivo.govoet.my.id/74"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-30T16:45:00+01:00",
       "competition": "Eredivisie",
