@@ -1,26 +1,7 @@
 {
-  "last_updated": "2025-11-30T21:20:02.151105+00:00",
+  "last_updated": "2025-11-30T21:39:00.185972+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-30T19:30:00+01:00",
-      "competition": "Bundesliga",
-      "teams": "Fribourg - Mayence",
-      "channels": [
-        {
-          "name": "CH8fr",
-          "url": "https://envivo.govoet.my.id/8"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH116es",
-          "url": "https://envivo.govoet.my.id/116"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-30T20:00:00+01:00",
       "competition": "Betfred Super League",
