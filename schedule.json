@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-11-30T16:27:00.781966+00:00",
+  "last_updated": "2025-11-30T16:42:15.426301+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-30T14:30:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "G.A. Eagles - Utrecht",
-      "channels": [
-        {
-          "name": "CH141nl",
-          "url": "https://envivo.govoet.my.id/141"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-30T14:30:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "Telstar - Feyenoord",
-      "channels": [
-        {
-          "name": "CH143nl",
-          "url": "https://envivo.govoet.my.id/143"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-30T15:00:00+01:00",
       "competition": "Ligue 1",
