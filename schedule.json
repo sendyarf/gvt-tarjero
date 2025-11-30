@@ -1,63 +1,7 @@
 {
-  "last_updated": "2025-11-30T20:25:03.885042+00:00",
+  "last_updated": "2025-11-30T20:42:18.911737+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-30T18:30:00+01:00",
-      "competition": "Laliga",
-      "teams": "Celta Vigo - Espanyol",
-      "channels": [
-        {
-          "name": "CH7fr",
-          "url": "https://envivo.govoet.my.id/7"
-        },
-        {
-          "name": "CH51es",
-          "url": "https://envivo.govoet.my.id/51"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-30T18:30:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Cordoba - Cadix CF",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-30T18:30:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Mirandes - Real Sociedad B",
-      "channels": [
-        {
-          "name": "CH54es",
-          "url": "https://envivo.govoet.my.id/54"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-30T18:30:00+01:00",
-      "competition": "Pro League",
-      "teams": "Anderlecht - Royale Union SG",
-      "channels": [
-        {
-          "name": "CH153fr",
-          "url": "https://envivo.govoet.my.id/153"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-30T19:00:00+01:00",
       "competition": "Ecuador Ligapro",
