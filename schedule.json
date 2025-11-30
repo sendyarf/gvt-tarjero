@@ -1,45 +1,7 @@
 {
-  "last_updated": "2025-11-30T15:39:38.281576+00:00",
+  "last_updated": "2025-11-30T16:27:00.781966+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-11-30T14:00:00+01:00",
-      "competition": "Laliga",
-      "teams": "Real Sociedad - Villarreal",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH51es",
-          "url": "https://envivo.govoet.my.id/51"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH90es",
-          "url": "https://envivo.govoet.my.id/90"
-        },
-        {
-          "name": "CH107es",
-          "url": "https://envivo.govoet.my.id/107"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-11-30T14:00:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Saragosse - Leganes",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
     {
       "datetime": "2025-11-30T14:30:00+01:00",
       "competition": "Eredivisie",
