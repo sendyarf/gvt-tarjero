@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-01T09:32:36.659653+00:00",
+  "last_updated": "2025-12-01T10:50:50.280074+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -97,6 +97,10 @@
         {
           "name": "CH127gb",
           "url": "https://envivo.govoet.my.id/127"
+        },
+        {
+          "name": "CH93es",
+          "url": "https://envivo.govoet.my.id/93"
         }
       ]
     },
@@ -243,8 +247,16 @@
       "teams": "Orlando Magic - Chicago Bulls",
       "channels": [
         {
+          "name": "CH1fr",
+          "url": "https://envivo.govoet.my.id/1"
+        },
+        {
           "name": "CH167us",
           "url": "https://envivo.govoet.my.id/167"
+        },
+        {
+          "name": "CH98es",
+          "url": "https://envivo.govoet.my.id/98"
         }
       ]
     },
@@ -267,6 +279,14 @@
         {
           "name": "CH75es",
           "url": "https://envivo.govoet.my.id/75"
+        },
+        {
+          "name": "CH76es",
+          "url": "https://envivo.govoet.my.id/76"
+        },
+        {
+          "name": "CH61es",
+          "url": "https://envivo.govoet.my.id/61"
         }
       ]
     },
@@ -298,8 +318,16 @@
       "teams": "New England Patriots - New York Giants",
       "channels": [
         {
+          "name": "CH2fr",
+          "url": "https://envivo.govoet.my.id/2"
+        },
+        {
           "name": "CH170us",
           "url": "https://envivo.govoet.my.id/170"
+        },
+        {
+          "name": "CH88es",
+          "url": "https://envivo.govoet.my.id/88"
         }
       ]
     },
@@ -331,8 +359,16 @@
       "teams": "Los Angeles Lakers - Phoenix Suns",
       "channels": [
         {
+          "name": "CH1fr",
+          "url": "https://envivo.govoet.my.id/1"
+        },
+        {
           "name": "CH173us",
           "url": "https://envivo.govoet.my.id/173"
+        },
+        {
+          "name": "CH75es",
+          "url": "https://envivo.govoet.my.id/75"
         }
       ]
     },
