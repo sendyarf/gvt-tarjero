@@ -1,37 +1,7 @@
 {
-  "last_updated": "2025-12-01T04:02:08.784047+00:00",
+  "last_updated": "2025-12-01T05:02:40.921073+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-01T02:20:00+01:00",
-      "competition": "NFL",
-      "teams": "Washington Commanders - Denver Broncos",
-      "channels": [
-        {
-          "name": "CH180us",
-          "url": "https://envivo.govoet.my.id/180"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-01T03:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Sacramento Kings - Memphis Grizzlies",
-      "channels": [
-        {
-          "name": "CH181us",
-          "url": "https://envivo.govoet.my.id/181"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-01T03:30:00+01:00",
       "competition": "NBA",
