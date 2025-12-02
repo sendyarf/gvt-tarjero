@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-12-02T15:48:45.254192+00:00",
+  "last_updated": "2025-12-02T16:33:36.161762+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-02T14:30:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "Ajax - Groningen",
-      "channels": [
-        {
-          "name": "CH141nl",
-          "url": "https://envivo.govoet.my.id/141"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-02T15:30:00+01:00",
       "competition": "Coupe Arabe",
