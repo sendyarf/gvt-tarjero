@@ -1,51 +1,7 @@
 {
-  "last_updated": "2025-12-02T20:47:17.563810+00:00",
+  "last_updated": "2025-12-02T21:23:17.281549+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-02T19:00:00+01:00",
-      "competition": "Coupe Du Roi",
-      "teams": "Ebro - Osasuna",
-      "channels": [
-        {
-          "name": "CH52es",
-          "url": "https://envivo.govoet.my.id/52"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-02T19:00:00+01:00",
-      "competition": "Coupe Du Roi",
-      "teams": "Numancia - Majorque",
-      "channels": [
-        {
-          "name": "CH51es",
-          "url": "https://envivo.govoet.my.id/51"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-02T19:00:00+01:00",
-      "competition": "Coupe Du Roi",
-      "teams": "Portugalete - Alaves",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-02T19:00:00+01:00",
-      "competition": "Coupe Du Roi",
-      "teams": "Racing Club Ferrol - Huesca",
-      "channels": [
-        {
-          "name": "CH54es",
-          "url": "https://envivo.govoet.my.id/54"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-02T20:30:00+01:00",
       "competition": "Coupe De Belgique",
