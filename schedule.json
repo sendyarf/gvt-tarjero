@@ -1,26 +1,7 @@
 {
-  "last_updated": "2025-12-02T04:03:49.099186+00:00",
+  "last_updated": "2025-12-02T04:51:22.527756+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-02T02:15:00+01:00",
-      "competition": "NFL",
-      "teams": "New England Patriots - New York Giants",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH170us",
-          "url": "https://envivo.govoet.my.id/170"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-02T03:00:00+01:00",
       "competition": "NBA",
