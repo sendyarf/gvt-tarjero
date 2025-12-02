@@ -1,73 +1,7 @@
 {
-  "last_updated": "2025-12-02T01:52:28.612577+00:00",
+  "last_updated": "2025-12-02T03:21:11.655961+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-02T00:00:00+01:00",
-      "competition": "Campeonato Itaú Chile",
-      "teams": "A. Italiano - Nublense",
-      "channels": [
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-02T01:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Detroit Pistons - Atlanta Hawks",
-      "channels": [
-        {
-          "name": "CH160us",
-          "url": "https://envivo.govoet.my.id/160"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-02T01:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Indiana Pacers - Cleveland Cavaliers",
-      "channels": [
-        {
-          "name": "CH161us",
-          "url": "https://envivo.govoet.my.id/161"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-02T01:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Washington Wizards - Milwaukee Bucks",
-      "channels": [
-        {
-          "name": "CH162us",
-          "url": "https://envivo.govoet.my.id/162"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-02T01:00:00+01:00",
-      "competition": "NHL",
-      "teams": "New Jersey Devils - Columbus Blue Jackets",
-      "channels": [
-        {
-          "name": "CH163us",
-          "url": "https://envivo.govoet.my.id/163"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-02T01:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Philadelphia Flyers - Pittsburgh Penguins",
-      "channels": [
-        {
-          "name": "CH164us",
-          "url": "https://envivo.govoet.my.id/164"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-02T01:30:00+01:00",
       "competition": "NBA",
