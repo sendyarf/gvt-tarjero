@@ -1,72 +1,7 @@
 {
-  "last_updated": "2025-12-02T22:19:53.170363+00:00",
+  "last_updated": "2025-12-02T22:42:05.259756+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-02T20:30:00+01:00",
-      "competition": "Coupe De Belgique",
-      "teams": "Dender - Standard Liège",
-      "channels": [
-        {
-          "name": "CH154fr",
-          "url": "https://envivo.govoet.my.id/154"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-02T20:30:00+01:00",
-      "competition": "Premier League",
-      "teams": "Bournemouth - Everton",
-      "channels": [
-        {
-          "name": "CH33fr",
-          "url": "https://envivo.govoet.my.id/33"
-        },
-        {
-          "name": "CH129us",
-          "url": "https://envivo.govoet.my.id/129"
-        },
-        {
-          "name": "CH58es",
-          "url": "https://envivo.govoet.my.id/58"
-        },
-        {
-          "name": "CH117de",
-          "url": "https://envivo.govoet.my.id/117"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-02T20:30:00+01:00",
-      "competition": "Premier League",
-      "teams": "Fulham - Manchester City",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH127gb",
-          "url": "https://envivo.govoet.my.id/127"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        },
-        {
-          "name": "CH116de",
-          "url": "https://envivo.govoet.my.id/116"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-02T20:45:00+01:00",
       "competition": "Championship",
