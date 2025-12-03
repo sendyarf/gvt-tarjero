@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-12-02T23:40:29.626138+00:00",
+  "last_updated": "2025-12-03T01:51:57.557107+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-02T22:00:00+01:00",
-      "competition": "Campeonato Itaú Chile",
-      "teams": "U. De Chile - Coquimbo",
-      "channels": [
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-02T23:00:00+01:00",
-      "competition": "Serie A Bresil",
-      "teams": "Vasco - Mirassol",
-      "channels": [
-        {
-          "name": "CH158pt",
-          "url": "https://envivo.govoet.my.id/158"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-03T01:00:00+01:00",
       "competition": "Copa Ecuador",
