@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-12-03T18:36:37.357370+00:00",
+  "last_updated": "2025-12-03T19:20:02.093575+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-03T16:30:00+01:00",
-      "competition": "Coupe De Grèce",
-      "teams": "AEK - OFI Crete",
-      "channels": [
-        {
-          "name": "CH148gr",
-          "url": "https://envivo.govoet.my.id/148"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-03T18:00:00+01:00",
       "competition": "Coppa Italia",
