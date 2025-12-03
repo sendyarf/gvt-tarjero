@@ -1,73 +1,7 @@
 {
-  "last_updated": "2025-12-03T01:51:57.557107+00:00",
+  "last_updated": "2025-12-03T03:19:52.929539+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-03T01:00:00+01:00",
-      "competition": "Copa Ecuador",
-      "teams": "Cuenca Juniors - U. Catolica",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-03T01:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Philadelphia 76ers - Washington Wizards",
-      "channels": [
-        {
-          "name": "CH160us",
-          "url": "https://envivo.govoet.my.id/160"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-03T01:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Detroit Red Wings - Boston Bruins",
-      "channels": [
-        {
-          "name": "CH180us",
-          "url": "https://envivo.govoet.my.id/180"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-03T01:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Montreal Canadiens - Ottawa Senators",
-      "channels": [
-        {
-          "name": "CH181us",
-          "url": "https://envivo.govoet.my.id/181"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-03T01:00:00+01:00",
-      "competition": "NHL",
-      "teams": "New York Islanders - Tampa Bay Lightning",
-      "channels": [
-        {
-          "name": "CH182us",
-          "url": "https://envivo.govoet.my.id/182"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-03T01:00:00+01:00",
-      "competition": "NHL",
-      "teams": "New York Rangers - Dallas Stars",
-      "channels": [
-        {
-          "name": "CH183us",
-          "url": "https://envivo.govoet.my.id/183"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-03T01:30:00+01:00",
       "competition": "NBA",
