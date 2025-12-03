@@ -1,34 +1,7 @@
 {
-  "last_updated": "2025-12-03T20:48:25.345972+00:00",
+  "last_updated": "2025-12-03T21:20:31.029033+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-03T19:00:00+01:00",
-      "competition": "Laliga",
-      "teams": "Ath. Bilbao - Real Madrid",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH51es",
-          "url": "https://envivo.govoet.my.id/51"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-03T20:00:00+01:00",
       "competition": "Knvb Beker",
