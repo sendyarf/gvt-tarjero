@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-12-03T05:43:40.624109+00:00",
+  "last_updated": "2025-12-03T06:36:52.431665+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-03T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Vegas Golden Knights - Chicago Blackhawks",
-      "channels": [
-        {
-          "name": "CH188us",
-          "url": "https://envivo.govoet.my.id/188"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-03T04:30:00+01:00",
-      "competition": "NHL",
-      "teams": "Los Angeles Kings - Washington Capitals",
-      "channels": [
-        {
-          "name": "CH189us",
-          "url": "https://envivo.govoet.my.id/189"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-03T05:00:00+01:00",
       "competition": "NBA",
