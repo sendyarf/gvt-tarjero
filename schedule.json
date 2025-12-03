@@ -1,26 +1,7 @@
 {
-  "last_updated": "2025-12-03T16:50:14.858958+00:00",
+  "last_updated": "2025-12-03T17:25:10.764513+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-03T15:00:00+01:00",
-      "competition": "Coppa Italia",
-      "teams": "Atalanta - Genoa",
-      "channels": [
-        {
-          "name": "CH139it",
-          "url": "https://envivo.govoet.my.id/139"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH96es",
-          "url": "https://envivo.govoet.my.id/96"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-03T15:30:00+01:00",
       "competition": "Coupe Arabe",
