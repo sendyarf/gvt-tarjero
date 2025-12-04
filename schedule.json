@@ -1,51 +1,5 @@
 {
-  "last_updated": "2025-12-04T05:44:16.364823+00:00",
+  "last_updated": "2025-12-04T06:36:34.702206+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-12-04T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Anaheim Ducks - Utah Mammoth",
-      "channels": [
-        {
-          "name": "CH172us",
-          "url": "https://envivo.govoet.my.id/172"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-04T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "San Jose Sharks - Washington Capitals",
-      "channels": [
-        {
-          "name": "CH173us",
-          "url": "https://envivo.govoet.my.id/173"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-04T04:10:00+01:00",
-      "competition": "Liga Mx",
-      "teams": "Monterrey - Toluca",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        },
-        {
-          "name": "CH106es",
-          "url": "https://envivo.govoet.my.id/106"
-        },
-        {
-          "name": "CH107es",
-          "url": "https://envivo.govoet.my.id/107"
-        },
-        {
-          "name": "CH108es",
-          "url": "https://envivo.govoet.my.id/108"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
