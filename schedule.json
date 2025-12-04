@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-12-03T23:39:49.701221+00:00",
+  "last_updated": "2025-12-04T01:52:58.194455+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-03T23:00:00+01:00",
-      "competition": "Serie A Bresil",
-      "teams": "Bragantino - Vitoria",
-      "channels": [
-        {
-          "name": "CH196pt",
-          "url": "https://envivo.govoet.my.id/196"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-03T23:00:00+01:00",
-      "competition": "Serie A Bresil",
-      "teams": "Fortaleza - Corinthians",
-      "channels": [
-        {
-          "name": "CH194pt",
-          "url": "https://envivo.govoet.my.id/194"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-03T23:30:00+01:00",
-      "competition": "Serie A Bresil",
-      "teams": "Juventude - Santos",
-      "channels": [
-        {
-          "name": "CH190pt",
-          "url": "https://envivo.govoet.my.id/190"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-04T00:00:00+01:00",
       "competition": "Campeonato Itaú Chile",
