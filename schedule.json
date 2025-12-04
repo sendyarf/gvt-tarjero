@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-12-04T04:03:54.344890+00:00",
+  "last_updated": "2025-12-04T04:50:39.719817+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-04T02:30:00+01:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Bucaramanga - Tolima",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-04T02:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Dallas Mavericks - Miami Heat",
-      "channels": [
-        {
-          "name": "CH171us",
-          "url": "https://envivo.govoet.my.id/171"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-04T04:00:00+01:00",
       "competition": "NHL",
