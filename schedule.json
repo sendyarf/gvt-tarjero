@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-12-04T21:22:52.396922+00:00",
+  "last_updated": "2025-12-04T21:41:36.903400+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-04T19:30:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Monaco - Paris",
-      "channels": [
-        {
-          "name": "CH63es",
-          "url": "https://envivo.govoet.my.id/63"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-04T20:05:00+01:00",
       "competition": "EuroLeague",
