@@ -1,52 +1,7 @@
 {
-  "last_updated": "2025-12-04T19:41:04.944926+00:00",
+  "last_updated": "2025-12-04T20:27:30.609485+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-04T18:00:00+01:00",
-      "competition": "Coppa Italia",
-      "teams": "Bologne - Parme",
-      "channels": [
-        {
-          "name": "CH139it",
-          "url": "https://envivo.govoet.my.id/139"
-        },
-        {
-          "name": "CH82es",
-          "url": "https://envivo.govoet.my.id/82"
-        },
-        {
-          "name": "CH96es",
-          "url": "https://envivo.govoet.my.id/96"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-04T18:00:00+01:00",
-      "competition": "Fifa Arab Cup",
-      "teams": "Syrie - Qatar",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        },
-        {
-          "name": "CH46ae",
-          "url": "https://envivo.govoet.my.id/46"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-04T18:15:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Anadolu Efes - Real Madrid",
-      "channels": [
-        {
-          "name": "CH55es",
-          "url": "https://envivo.govoet.my.id/55"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-04T19:00:00+01:00",
       "competition": "Coupe Du Roi",
