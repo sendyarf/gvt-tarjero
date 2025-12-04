@@ -1,62 +1,7 @@
 {
-  "last_updated": "2025-12-04T20:47:32.032753+00:00",
+  "last_updated": "2025-12-04T21:22:52.396922+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-04T19:00:00+01:00",
-      "competition": "Coupe Du Roi",
-      "teams": "Baleares - Espanyol",
-      "channels": [
-        {
-          "name": "CH49es",
-          "url": "https://envivo.govoet.my.id/49"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-04T19:00:00+01:00",
-      "competition": "Coupe Du Roi",
-      "teams": "Leganes - Albacete",
-      "channels": [
-        {
-          "name": "CH168es",
-          "url": "https://envivo.govoet.my.id/168"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-04T19:00:00+01:00",
-      "competition": "Coupe Du Roi",
-      "teams": "Real Avila - Vallecano",
-      "channels": [
-        {
-          "name": "CH50es",
-          "url": "https://envivo.govoet.my.id/50"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-04T19:00:00+01:00",
-      "competition": "Coupe Du Roi",
-      "teams": "Sabadell - La Corogne",
-      "channels": [
-        {
-          "name": "CH166es",
-          "url": "https://envivo.govoet.my.id/166"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-04T19:00:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Zalgiris Kaunas - Maccabi Tel Aviv",
-      "channels": [
-        {
-          "name": "CH66es",
-          "url": "https://envivo.govoet.my.id/66"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-04T19:30:00+01:00",
       "competition": "EuroLeague",
