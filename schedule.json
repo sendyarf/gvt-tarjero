@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-12-04T21:41:36.903400+00:00",
+  "last_updated": "2025-12-04T22:20:46.145675+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-04T20:05:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Hapoel Tel-Aviv - Lyon-Villeurbanne",
-      "channels": [
-        {
-          "name": "CH65es",
-          "url": "https://envivo.govoet.my.id/65"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-04T20:15:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Olympiakos - Fenerbahce",
-      "channels": [
-        {
-          "name": "CH62es",
-          "url": "https://envivo.govoet.my.id/62"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-04T20:30:00+01:00",
       "competition": "Coupe De Belgique",
