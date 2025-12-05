@@ -1,48 +1,7 @@
 {
-  "last_updated": "2025-12-05T20:45:21.397703+00:00",
+  "last_updated": "2025-12-05T21:21:10.615567+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-05T19:00:00+01:00",
-      "competition": "D1 Féminin",
-      "teams": "Marseille F - PSG F",
-      "channels": [
-        {
-          "name": "CH12fr",
-          "url": "https://envivo.govoet.my.id/12"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-05T19:00:00+01:00",
-      "competition": "Ligue 1",
-      "teams": "Brest - Monaco",
-      "channels": [
-        {
-          "name": "CH20fr",
-          "url": "https://envivo.govoet.my.id/20"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-05T19:00:00+01:00",
-      "competition": "Pro D2",
-      "teams": "US Carcassonne - RC Vannes",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-05T19:30:00+01:00",
       "competition": "Fifa Arab Cup",
