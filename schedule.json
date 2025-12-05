@@ -1,45 +1,7 @@
 {
-  "last_updated": "2025-12-05T04:02:48.296395+00:00",
+  "last_updated": "2025-12-05T04:50:01.049714+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-05T02:15:00+01:00",
-      "competition": "NFL",
-      "teams": "Detroit Lions - Dallas Cowboys",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH172us",
-          "url": "https://envivo.govoet.my.id/172"
-        },
-        {
-          "name": "CH101es",
-          "url": "https://envivo.govoet.my.id/101"
-        },
-        {
-          "name": "CH104es",
-          "url": "https://envivo.govoet.my.id/104"
-        },
-        {
-          "name": "CH91es",
-          "url": "https://envivo.govoet.my.id/91"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-05T02:35:00+01:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Junior - America De Cali",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-05T03:00:00+01:00",
       "competition": "NHL",
