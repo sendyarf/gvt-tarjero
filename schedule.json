@@ -1,55 +1,7 @@
 {
-  "last_updated": "2025-12-05T03:21:21.016360+00:00",
+  "last_updated": "2025-12-05T04:02:48.296395+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-05T01:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Brooklyn Nets - Utah Jazz",
-      "channels": [
-        {
-          "name": "CH168us",
-          "url": "https://envivo.govoet.my.id/168"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-05T01:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Toronto Raptors - Los Angeles Lakers",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH169us",
-          "url": "https://envivo.govoet.my.id/169"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-05T01:30:00+01:00",
-      "competition": "NHL",
-      "teams": "Columbus Blue Jackets - Detroit Red Wings",
-      "channels": [
-        {
-          "name": "CH170us",
-          "url": "https://envivo.govoet.my.id/170"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-05T02:00:00+01:00",
-      "competition": "NBA",
-      "teams": "New Orleans Pelicans - Minnesota Timberwolves",
-      "channels": [
-        {
-          "name": "CH171us",
-          "url": "https://envivo.govoet.my.id/171"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-05T02:15:00+01:00",
       "competition": "NFL",
