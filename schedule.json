@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-12-05T11:40:29.603432+00:00",
+  "last_updated": "2025-12-05T12:49:19.493010+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-05T10:30:00+01:00",
-      "competition": "formula 1",
-      "teams": "Grand Prix d’Abu Dhabi Essais libres 1 -",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        },
-        {
-          "name": "CH60es",
-          "url": "https://envivo.govoet.my.id/60"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-05T14:00:00+01:00",
       "competition": "formula 1",
@@ -44,6 +29,41 @@
         {
           "name": "CH46ae",
           "url": "https://envivo.govoet.my.id/46"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-05T18:00:00+01:00",
+      "competition": "Coupe Du Monde",
+      "teams": "Tirage au sort de la Coupe du monde 2026 -",
+      "channels": [
+        {
+          "name": "CH26fr",
+          "url": "https://envivo.govoet.my.id/26"
+        },
+        {
+          "name": "CH130gb",
+          "url": "https://envivo.govoet.my.id/130"
+        },
+        {
+          "name": "CH61es",
+          "url": "https://envivo.govoet.my.id/61"
+        },
+        {
+          "name": "CH115de",
+          "url": "https://envivo.govoet.my.id/115"
+        },
+        {
+          "name": "CH73es",
+          "url": "https://envivo.govoet.my.id/73"
+        },
+        {
+          "name": "CH87es",
+          "url": "https://envivo.govoet.my.id/87"
+        },
+        {
+          "name": "CH155es",
+          "url": "https://envivo.govoet.my.id/155"
         }
       ]
     },
