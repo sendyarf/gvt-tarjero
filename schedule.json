@@ -1,59 +1,7 @@
 {
-  "last_updated": "2025-12-05T22:22:10.021603+00:00",
+  "last_updated": "2025-12-05T22:42:05.113128+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-05T20:30:00+01:00",
-      "competition": "Bundesliga",
-      "teams": "Mayence - B. Monchengladbach",
-      "channels": [
-        {
-          "name": "CH10fr",
-          "url": "https://envivo.govoet.my.id/10"
-        },
-        {
-          "name": "CH111de",
-          "url": "https://envivo.govoet.my.id/111"
-        },
-        {
-          "name": "CH116es",
-          "url": "https://envivo.govoet.my.id/116"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-05T20:30:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Baskonia - Milano",
-      "channels": [
-        {
-          "name": "CH64es",
-          "url": "https://envivo.govoet.my.id/64"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-05T20:30:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Virtus Bologna - Dubai",
-      "channels": [
-        {
-          "name": "CH65es",
-          "url": "https://envivo.govoet.my.id/65"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-05T20:30:00+01:00",
-      "competition": "Fa Cup",
-      "teams": "Salford - Leyton Orient",
-      "channels": [
-        {
-          "name": "CH126us",
-          "url": "https://envivo.govoet.my.id/126"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-05T20:45:00+01:00",
       "competition": "Pro League",
