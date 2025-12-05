@@ -1,44 +1,7 @@
 {
-  "last_updated": "2025-12-05T20:26:51.442516+00:00",
+  "last_updated": "2025-12-05T20:45:21.397703+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-05T18:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "bundesliga 2 konferenz -",
-      "channels": [
-        {
-          "name": "CH112fr",
-          "url": "https://envivo.govoet.my.id/112"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-05T18:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Düsseldorf - Schalke 04",
-      "channels": [
-        {
-          "name": "CH10fr",
-          "url": "https://envivo.govoet.my.id/10"
-        },
-        {
-          "name": "CH113de",
-          "url": "https://envivo.govoet.my.id/113"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-05T18:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Münster - Hanovre",
-      "channels": [
-        {
-          "name": "CH114de",
-          "url": "https://envivo.govoet.my.id/114"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-05T19:00:00+01:00",
       "competition": "D1 Féminin",
