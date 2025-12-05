@@ -1,57 +1,7 @@
 {
-  "last_updated": "2025-12-05T19:39:00.388566+00:00",
+  "last_updated": "2025-12-05T20:26:51.442516+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-05T18:00:00+01:00",
-      "competition": "Coupe Du Monde",
-      "teams": "Tirage au sort de la Coupe du monde 2026 -",
-      "channels": [
-        {
-          "name": "CH26fr",
-          "url": "https://envivo.govoet.my.id/26"
-        },
-        {
-          "name": "CH130gb",
-          "url": "https://envivo.govoet.my.id/130"
-        },
-        {
-          "name": "CH61es",
-          "url": "https://envivo.govoet.my.id/61"
-        },
-        {
-          "name": "CH115de",
-          "url": "https://envivo.govoet.my.id/115"
-        },
-        {
-          "name": "CH73es",
-          "url": "https://envivo.govoet.my.id/73"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-05T18:00:00+01:00",
-      "competition": "Super Lig",
-      "teams": "Galatasaray - Samsunspor",
-      "channels": [
-        {
-          "name": "CH9fr",
-          "url": "https://envivo.govoet.my.id/9"
-        },
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-05T18:30:00+01:00",
       "competition": "Bundesliga 2",
