@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-12-06T04:45:05.803944+00:00",
+  "last_updated": "2025-12-06T05:22:05.716840+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-06T03:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Vancouver Canucks - Utah Mammoth",
-      "channels": [
-        {
-          "name": "CH183us",
-          "url": "https://envivo.govoet.my.id/183"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-06T03:30:00+01:00",
       "competition": "NBA",
