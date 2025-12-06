@@ -1,48 +1,7 @@
 {
-  "last_updated": "2025-12-06T22:21:19.271793+00:00",
+  "last_updated": "2025-12-06T22:41:54.598928+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-06T20:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Darmstadt - Karlsruher",
-      "channels": [
-        {
-          "name": "CH112de",
-          "url": "https://envivo.govoet.my.id/112"
-        },
-        {
-          "name": "CH78es",
-          "url": "https://envivo.govoet.my.id/78"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-06T20:30:00+01:00",
-      "competition": "Fa Cup",
-      "teams": "Chesterfield - Doncaster",
-      "channels": [
-        {
-          "name": "CH126gb",
-          "url": "https://envivo.govoet.my.id/126"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-06T20:30:00+01:00",
-      "competition": "MLS",
-      "teams": "Inter Miami - Vancouver Whitecaps",
-      "channels": [
-        {
-          "name": "CH157us",
-          "url": "https://envivo.govoet.my.id/157"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-06T20:45:00+01:00",
       "competition": "Pro League",
