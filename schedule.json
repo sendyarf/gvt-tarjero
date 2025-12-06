@@ -1,34 +1,7 @@
 {
-  "last_updated": "2025-12-06T12:43:54.727549+00:00",
+  "last_updated": "2025-12-06T13:29:01.501319+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-06T11:20:00+01:00",
-      "competition": "formula 1",
-      "teams": "GP Abu Dhabi Essais libres 3 -",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        },
-        {
-          "name": "CH60es",
-          "url": "https://envivo.govoet.my.id/60"
-        },
-        {
-          "name": "CH134gb",
-          "url": "https://envivo.govoet.my.id/134"
-        },
-        {
-          "name": "CH121de",
-          "url": "https://envivo.govoet.my.id/121"
-        },
-        {
-          "name": "CH78es",
-          "url": "https://envivo.govoet.my.id/78"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-06T12:00:00+01:00",
       "competition": "Fifa Arab Cup",
