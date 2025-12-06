@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-12-06T05:22:05.716840+00:00",
+  "last_updated": "2025-12-06T05:42:25.395615+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-06T03:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Oklahoma City Thunder - Dallas Mavericks",
-      "channels": [
-        {
-          "name": "CH171us",
-          "url": "https://envivo.govoet.my.id/171"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-06T04:00:00+01:00",
       "competition": "NHL",
