@@ -1,67 +1,7 @@
 {
-  "last_updated": "2025-12-06T19:38:17.788052+00:00",
+  "last_updated": "2025-12-06T20:24:14.398024+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-06T18:00:00+01:00",
-      "competition": "Liga Endesa",
-      "teams": "San Pablo Burgos - Murcia",
-      "channels": [
-        {
-          "name": "CH65es",
-          "url": "https://envivo.govoet.my.id/65"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-06T18:00:00+01:00",
-      "competition": "Serie A",
-      "teams": "Inter - Como",
-      "channels": [
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-06T18:00:00+01:00",
-      "competition": "Super Lig",
-      "teams": "Basaksehir - Fenerbahce",
-      "channels": [
-        {
-          "name": "CH5fr",
-          "url": "https://envivo.govoet.my.id/5"
-        },
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        },
-        {
-          "name": "CH93es",
-          "url": "https://envivo.govoet.my.id/93"
-        },
-        {
-          "name": "CH78es",
-          "url": "https://envivo.govoet.my.id/78"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-06T18:15:00+01:00",
-      "competition": "Pro League",
-      "teams": "Royale Union SG - La Gantoise",
-      "channels": [
-        {
-          "name": "CH153fr",
-          "url": "https://envivo.govoet.my.id/153"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-06T18:30:00+01:00",
       "competition": "Bundesliga",
