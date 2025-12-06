@@ -1,48 +1,7 @@
 {
-  "last_updated": "2025-12-06T23:20:47.216414+00:00",
+  "last_updated": "2025-12-06T23:39:44.354022+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-06T21:30:00+01:00",
-      "competition": "Liga Portugal",
-      "teams": "Famalicao - Braga",
-      "channels": [
-        {
-          "name": "CH9fr",
-          "url": "https://envivo.govoet.my.id/9"
-        },
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        },
-        {
-          "name": "CH74es",
-          "url": "https://envivo.govoet.my.id/74"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-06T21:30:00+01:00",
-      "competition": "MMA",
-      "teams": "Shajidul Haque - Nicolas Leblond",
-      "channels": [
-        {
-          "name": "CH17fr",
-          "url": "https://envivo.govoet.my.id/17"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-06T21:30:00+01:00",
-      "competition": "NHL",
-      "teams": "Florida Panthers - Columbus Blue Jackets",
-      "channels": [
-        {
-          "name": "CH181us",
-          "url": "https://envivo.govoet.my.id/181"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-06T22:00:00+01:00",
       "competition": "Campeonato Itaú Chile",
