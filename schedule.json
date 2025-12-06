@@ -1,73 +1,7 @@
 {
-  "last_updated": "2025-12-06T01:46:46.605534+00:00",
+  "last_updated": "2025-12-06T03:12:00.723679+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-06T00:00:00+01:00",
-      "competition": "Campeonato Itaú Chile",
-      "teams": "Palestino - Huachipato",
-      "channels": [
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-06T01:00:00+01:00",
-      "competition": "Ecuador Ligapro",
-      "teams": "Dep. Cuenca - Delfin",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-06T01:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Boston Celtics - Los Angeles Lakers",
-      "channels": [
-        {
-          "name": "CH160us",
-          "url": "https://envivo.govoet.my.id/160"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-06T01:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Orlando Magic - Miami Heat",
-      "channels": [
-        {
-          "name": "CH161us",
-          "url": "https://envivo.govoet.my.id/161"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-06T01:00:00+01:00",
-      "competition": "NHL",
-      "teams": "New Jersey Devils - Vegas Golden Knights",
-      "channels": [
-        {
-          "name": "CH180us",
-          "url": "https://envivo.govoet.my.id/180"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-06T01:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Winnipeg Jets - Buffalo Sabres",
-      "channels": [
-        {
-          "name": "CH181us",
-          "url": "https://envivo.govoet.my.id/181"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-06T01:30:00+01:00",
       "competition": "NBA",
