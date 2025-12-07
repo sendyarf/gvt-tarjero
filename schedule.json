@@ -1,41 +1,7 @@
 {
-  "last_updated": "2025-12-07T14:20:02.857938+00:00",
+  "last_updated": "2025-12-07T14:41:33.872895+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-07T12:30:00+01:00",
-      "competition": "Serie A",
-      "teams": "Cremonese - Lecce",
-      "channels": [
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-07T12:30:00+01:00",
-      "competition": "Super Lig",
-      "teams": "Genclerbirligi - Karagumruk",
-      "channels": [
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-07T13:00:00+01:00",
       "competition": "Liga Endesa",
