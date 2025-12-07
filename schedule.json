@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-12-07T16:26:39.649023+00:00",
+  "last_updated": "2025-12-07T16:41:31.569262+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-07T14:30:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "Alkmaar - G.A. Eagles",
-      "channels": [
-        {
-          "name": "CH141nl",
-          "url": "https://envivo.govoet.my.id/141"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-07T14:30:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "FC Volendam - Nijmegen",
-      "channels": [
-        {
-          "name": "CH143nl",
-          "url": "https://envivo.govoet.my.id/143"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-07T15:00:00+01:00",
       "competition": "Ligue 1",
