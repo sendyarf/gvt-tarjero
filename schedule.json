@@ -1,60 +1,7 @@
 {
-  "last_updated": "2025-12-07T15:39:07.982876+00:00",
+  "last_updated": "2025-12-07T16:26:39.649023+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-07T14:00:00+01:00",
-      "competition": "Challenge Cup",
-      "teams": "USA Perpignan - Dragons",
-      "channels": [
-        {
-          "name": "CH3fr",
-          "url": "https://envivo.govoet.my.id/3"
-        },
-        {
-          "name": "CH29fr",
-          "url": "https://envivo.govoet.my.id/29"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-07T14:00:00+01:00",
-      "competition": "Champions Cup",
-      "teams": "Section Paloise - Northampton Saints",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-07T14:00:00+01:00",
-      "competition": "formula 1",
-      "teams": "GP Abu Dhabi Formule 1 -",
-      "channels": [
-        {
-          "name": "CH11fr",
-          "url": "https://envivo.govoet.my.id/11"
-        },
-        {
-          "name": "CH60es",
-          "url": "https://envivo.govoet.my.id/60"
-        },
-        {
-          "name": "CH134gb",
-          "url": "https://envivo.govoet.my.id/134"
-        },
-        {
-          "name": "CH121de",
-          "url": "https://envivo.govoet.my.id/121"
-        },
-        {
-          "name": "CH78es",
-          "url": "https://envivo.govoet.my.id/78"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-07T14:30:00+01:00",
       "competition": "Eredivisie",
