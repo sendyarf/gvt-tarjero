@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-12-07T04:34:26.656205+00:00",
+  "last_updated": "2025-12-07T05:21:14.545686+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-07T03:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Los Angeles Kings - Chicago Blackhawks",
-      "channels": [
-        {
-          "name": "CH188us",
-          "url": "https://envivo.govoet.my.id/188"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-07T04:00:00+01:00",
       "competition": "MMA",
