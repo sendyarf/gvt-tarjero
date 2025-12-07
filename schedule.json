@@ -1,74 +1,7 @@
 {
-  "last_updated": "2025-12-07T19:38:18.568938+00:00",
+  "last_updated": "2025-12-07T20:24:34.451171+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-07T18:00:00+01:00",
-      "competition": "Fifa Arab Cup",
-      "teams": "Qatar - Tunisie",
-      "channels": [
-        {
-          "name": "CH7fr",
-          "url": "https://envivo.govoet.my.id/7"
-        },
-        {
-          "name": "CH46ae",
-          "url": "https://envivo.govoet.my.id/46"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-07T18:00:00+01:00",
-      "competition": "Fifa Arab Cup",
-      "teams": "Syrie - Palestine",
-      "channels": [
-        {
-          "name": "CH47ae",
-          "url": "https://envivo.govoet.my.id/47"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-07T18:00:00+01:00",
-      "competition": "NBA",
-      "teams": "New York Knicks - Orlando Magic",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH160us",
-          "url": "https://envivo.govoet.my.id/160"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-07T18:00:00+01:00",
-      "competition": "Serie A",
-      "teams": "Lazio - Bologne",
-      "channels": [
-        {
-          "name": "CH138it",
-          "url": "https://envivo.govoet.my.id/138"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-07T18:00:00+01:00",
-      "competition": "Super Lig",
-      "teams": "Goztepe - Trabzonspor",
-      "channels": [
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-07T18:30:00+01:00",
       "competition": "Betfred Super League",
