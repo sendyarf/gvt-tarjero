@@ -1,37 +1,7 @@
 {
-  "last_updated": "2025-12-07T23:20:02.813032+00:00",
+  "last_updated": "2025-12-07T23:39:26.787209+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-07T21:30:00+01:00",
-      "competition": "Liga Portugal",
-      "teams": "Tondela - FC Porto",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        },
-        {
-          "name": "CH74es",
-          "url": "https://envivo.govoet.my.id/74"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-07T21:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Toronto Raptors - Boston Celtics",
-      "channels": [
-        {
-          "name": "CH161us",
-          "url": "https://envivo.govoet.my.id/161"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-07T22:00:00+01:00",
       "competition": "Campeonato Itaú Chile",
