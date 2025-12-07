@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-12-07T13:42:56.776506+00:00",
+  "last_updated": "2025-12-07T14:20:02.857938+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-07T12:00:00+01:00",
-      "competition": "Liga Endesa",
-      "teams": "Joventut - Manresa",
-      "channels": [
-        {
-          "name": "CH79es",
-          "url": "https://envivo.govoet.my.id/79"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-07T12:15:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "Utrecht - Twente",
-      "channels": [
-        {
-          "name": "CH142nl",
-          "url": "https://envivo.govoet.my.id/142"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-07T12:30:00+01:00",
       "competition": "Serie A",
