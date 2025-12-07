@@ -1,70 +1,7 @@
 {
-  "last_updated": "2025-12-07T18:30:49.938627+00:00",
+  "last_updated": "2025-12-07T19:17:41.014002+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-07T16:45:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "Sparta Rotterdam - Breda",
-      "channels": [
-        {
-          "name": "CH142nl",
-          "url": "https://envivo.govoet.my.id/142"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-07T17:00:00+01:00",
-      "competition": "Liga Endesa",
-      "teams": "Barcelone - MoraBanc Andorra",
-      "channels": [
-        {
-          "name": "CH65es",
-          "url": "https://envivo.govoet.my.id/65"
-        },
-        {
-          "name": "CH80es",
-          "url": "https://envivo.govoet.my.id/80"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-07T17:15:00+01:00",
-      "competition": "Ligue 1",
-      "teams": "Multiplex Ligue 1 -",
-      "channels": [
-        {
-          "name": "CH20fr",
-          "url": "https://envivo.govoet.my.id/20"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-07T17:15:00+01:00",
-      "competition": "Ligue 1",
-      "teams": "Auxerre - Metz",
-      "channels": [
-        {
-          "name": "CH21fr",
-          "url": "https://envivo.govoet.my.id/21"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-07T17:15:00+01:00",
-      "competition": "Ligue 1",
-      "teams": "Le Havre - Paris FC",
-      "channels": [
-        {
-          "name": "CH22fr",
-          "url": "https://envivo.govoet.my.id/22"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-07T17:30:00+01:00",
       "competition": "Bundesliga",
