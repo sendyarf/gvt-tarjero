@@ -1,30 +1,7 @@
 {
-  "last_updated": "2025-12-08T04:07:38.100950+00:00",
+  "last_updated": "2025-12-08T04:54:02.281410+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-08T02:20:00+01:00",
-      "competition": "NFL",
-      "teams": "Kansas City Chiefs - Houston Texans",
-      "channels": [
-        {
-          "name": "CH3fr",
-          "url": "https://envivo.govoet.my.id/3"
-        },
-        {
-          "name": "CH171us",
-          "url": "https://envivo.govoet.my.id/171"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-08T15:00:00+01:00",
       "competition": "Serie A",
