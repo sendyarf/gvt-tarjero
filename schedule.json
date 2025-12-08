@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-08T07:44:49.061068+00:00",
+  "last_updated": "2025-12-08T08:35:18.201107+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -44,6 +44,10 @@
       "competition": "Fifa Arab Cup",
       "teams": "Maroc - Arabie Saoudite",
       "channels": [
+        {
+          "name": "CH4fr",
+          "url": "https://envivo.govoet.my.id/4"
+        },
         {
           "name": "CH46ae",
           "url": "https://envivo.govoet.my.id/46"
@@ -101,8 +105,8 @@
       "teams": "Besiktas - Gaziantep",
       "channels": [
         {
-          "name": "CH6fr",
-          "url": "https://envivo.govoet.my.id/6"
+          "name": "CH3fr",
+          "url": "https://envivo.govoet.my.id/3"
         },
         {
           "name": "CH151tr",
@@ -161,8 +165,8 @@
       "teams": "Reims - Laval",
       "channels": [
         {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
+          "name": "CH2fr",
+          "url": "https://envivo.govoet.my.id/2"
         }
       ]
     },
