@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-12-08T16:48:23.183543+00:00",
+  "last_updated": "2025-12-08T17:23:13.750407+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-08T15:00:00+01:00",
-      "competition": "Serie A",
-      "teams": "Pisa - Parme",
-      "channels": [
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-08T16:15:00+01:00",
       "competition": "Laliga 2",
