@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-12-08T20:27:20.829957+00:00",
+  "last_updated": "2025-12-08T20:46:47.304813+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-08T18:30:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Las Palmas - Mirandes",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-08T20:30:00+01:00",
       "competition": "Fa Cup",
