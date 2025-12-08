@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-12-08T22:22:40.935053+00:00",
+  "last_updated": "2025-12-08T22:43:37.601235+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-08T20:30:00+01:00",
-      "competition": "Fa Cup",
-      "teams": "Brackley Town - Burton",
-      "channels": [
-        {
-          "name": "CH126gb",
-          "url": "https://envivo.govoet.my.id/126"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-08T20:30:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Malaga - Saragosse",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-08T20:45:00+01:00",
       "competition": "Ligue 2",
