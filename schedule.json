@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-12-09T04:49:11.524031+00:00",
+  "last_updated": "2025-12-09T05:23:51.080722+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-09T03:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Calgary Flames - Buffalo Sabres",
-      "channels": [
-        {
-          "name": "CH189us",
-          "url": "https://envivo.govoet.my.id/189"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-09T03:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Utah Mammoth - Los Angeles Kings",
-      "channels": [
-        {
-          "name": "CH190us",
-          "url": "https://envivo.govoet.my.id/190"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-09T04:00:00+01:00",
       "competition": "NHL",
