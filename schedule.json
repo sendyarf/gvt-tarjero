@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-12-09T19:17:26.612954+00:00",
+  "last_updated": "2025-12-09T19:39:14.408287+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-09T18:00:00+01:00",
-      "competition": "Fifa Arab Cup",
-      "teams": "Algérie - Iraq",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        },
-        {
-          "name": "CH46ae",
-          "url": "https://envivo.govoet.my.id/46"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-09T18:00:00+01:00",
-      "competition": "Fifa Arab Cup",
-      "teams": "Bahreïn - Soudan",
-      "channels": [
-        {
-          "name": "CH47ae",
-          "url": "https://envivo.govoet.my.id/47"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-09T18:45:00+01:00",
       "competition": "Ligue Des Champions",
