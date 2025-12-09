@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-12-09T17:23:15.907373+00:00",
+  "last_updated": "2025-12-09T17:45:20.527111+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-09T15:30:00+01:00",
-      "competition": "Fifa Arab Cup",
-      "teams": "Egypte - Jordanie",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        },
-        {
-          "name": "CH47ae",
-          "url": "https://envivo.govoet.my.id/47"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-09T15:30:00+01:00",
-      "competition": "Fifa Arab Cup",
-      "teams": "Emirats Arabes Unis - Koweit",
-      "channels": [
-        {
-          "name": "CH46ae",
-          "url": "https://envivo.govoet.my.id/46"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-09T16:00:00+01:00",
       "competition": "Youth League",
