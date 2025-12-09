@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-12-09T01:53:08.117268+00:00",
+  "last_updated": "2025-12-09T03:21:13.330136+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-09T01:00:00+01:00",
-      "competition": "Ecuador Ligapro",
-      "teams": "Emelec - Macara",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-09T01:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Indiana Pacers - Sacramento Kings",
-      "channels": [
-        {
-          "name": "CH160us",
-          "url": "https://envivo.govoet.my.id/160"
-        },
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-09T01:30:00+01:00",
       "competition": "NBA",
