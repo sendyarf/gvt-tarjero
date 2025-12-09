@@ -1,28 +1,5 @@
 {
-  "last_updated": "2025-12-09T05:44:43.811991+00:00",
+  "last_updated": "2025-12-09T06:37:21.897253+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-12-09T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Seattle Kraken - Minnesota Wild",
-      "channels": [
-        {
-          "name": "CH191us",
-          "url": "https://envivo.govoet.my.id/191"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-09T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Vancouver Canucks - Detroit Red Wings",
-      "channels": [
-        {
-          "name": "CH192us",
-          "url": "https://envivo.govoet.my.id/192"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
