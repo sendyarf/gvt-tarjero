@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-12-10T19:40:18.788287+00:00",
+  "last_updated": "2025-12-10T20:28:50.413353+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-10T18:00:00+01:00",
-      "competition": "Coupe intercontinentale",
-      "teams": "Flamengo - Cruz Azul",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-10T18:45:00+01:00",
       "competition": "Ligue Des Champions",
