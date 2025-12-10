@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-12-10T14:51:00.070111+00:00",
+  "last_updated": "2025-12-10T15:28:54.680678+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-10T13:00:00+01:00",
-      "competition": "Youth League",
-      "teams": "Ath. Bilbao -19 - PSG -19",
-      "channels": [
-        {
-          "name": "CH12fr",
-          "url": "https://envivo.govoet.my.id/12"
-        },
-        {
-          "name": "CH162es",
-          "url": "https://envivo.govoet.my.id/162"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-10T16:00:00+01:00",
       "competition": "Youth League",
