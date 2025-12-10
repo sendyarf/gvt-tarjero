@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-12-10T22:23:12.624652+00:00",
+  "last_updated": "2025-12-10T22:45:33.617143+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-10T20:45:00+01:00",
-      "competition": "Championship",
-      "teams": "Bristol City - Leicester",
-      "channels": [
-        {
-          "name": "CH190us",
-          "url": "https://envivo.govoet.my.id/190"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-10T20:45:00+01:00",
-      "competition": "Championship",
-      "teams": "Derby - Millwall",
-      "channels": [
-        {
-          "name": "CH191us",
-          "url": "https://envivo.govoet.my.id/191"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-10T20:45:00+01:00",
-      "competition": "Championship",
-      "teams": "Ipswich - Stoke",
-      "channels": [
-        {
-          "name": "CH192us",
-          "url": "https://envivo.govoet.my.id/192"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-10T21:00:00+01:00",
       "competition": "Championship",
