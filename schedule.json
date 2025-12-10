@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-12-10T17:47:38.755896+00:00",
+  "last_updated": "2025-12-10T18:35:01.817093+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-10T16:00:00+01:00",
-      "competition": "Youth League",
-      "teams": "Real Madrid -19 - Manchester City -19",
-      "channels": [
-        {
-          "name": "CH12fr",
-          "url": "https://envivo.govoet.my.id/12"
-        },
-        {
-          "name": "CH162es",
-          "url": "https://envivo.govoet.my.id/162"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-10T18:00:00+01:00",
       "competition": "Coupe intercontinentale",
