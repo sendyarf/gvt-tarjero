@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-12-10T04:53:18.040231+00:00",
+  "last_updated": "2025-12-10T05:25:11.700013+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-10T03:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Edmonton Oilers - Buffalo Sabres",
-      "channels": [
-        {
-          "name": "CH188us",
-          "url": "https://envivo.govoet.my.id/188"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-10T03:30:00+01:00",
       "competition": "NHL",
