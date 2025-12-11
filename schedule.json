@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-12-10T23:40:15.789491+00:00",
+  "last_updated": "2025-12-11T01:56:40.260430+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-10T23:00:00+01:00",
-      "competition": "Ecuador Ligapro",
-      "teams": "Ind. del Valle - LDU Quito",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-11T00:00:00+01:00",
       "competition": "Copa Chili",
