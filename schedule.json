@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-12-11T04:37:28.899856+00:00",
+  "last_updated": "2025-12-11T05:26:29.920016+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-11T03:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Utah Mammoth - Florida Panthers",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        },
-        {
-          "name": "CH192us",
-          "url": "https://envivo.govoet.my.id/192"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-11T04:00:00+01:00",
       "competition": "NBA CUP",
