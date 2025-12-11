@@ -1,28 +1,5 @@
 {
-  "last_updated": "2025-12-11T05:47:48.409066+00:00",
+  "last_updated": "2025-12-11T06:38:36.127610+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-12-11T04:00:00+01:00",
-      "competition": "NBA CUP",
-      "teams": "Los Angeles Lakers - San Antonio Spurs",
-      "channels": [
-        {
-          "name": "CH181us",
-          "url": "https://envivo.govoet.my.id/181"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-11T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Seattle Kraken - Los Angeles Kings",
-      "channels": [
-        {
-          "name": "CH193us",
-          "url": "https://envivo.govoet.my.id/193"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
