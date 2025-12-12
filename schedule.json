@@ -1,77 +1,7 @@
 {
-  "last_updated": "2025-12-12T03:27:05.903891+00:00",
+  "last_updated": "2025-12-12T04:09:01.960585+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-12T02:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Houston Rockets - Los Angeles Clippers",
-      "channels": [
-        {
-          "name": "CH160us",
-          "url": "https://envivo.govoet.my.id/160"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-12T02:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Milwaukee Bucks - Boston Celtics",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH161us",
-          "url": "https://envivo.govoet.my.id/161"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-12T02:00:00+01:00",
-      "competition": "NBA",
-      "teams": "New Orleans Pelicans - Portland Trail Blazers",
-      "channels": [
-        {
-          "name": "CH162us",
-          "url": "https://envivo.govoet.my.id/162"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-12T02:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Minnesota Wild - Dallas Stars",
-      "channels": [
-        {
-          "name": "CH187us",
-          "url": "https://envivo.govoet.my.id/187"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-12T02:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Nashville Predators - St. Louis Blues",
-      "channels": [
-        {
-          "name": "CH188us",
-          "url": "https://envivo.govoet.my.id/188"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-12T02:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Winnipeg Jets - Boston Bruins",
-      "channels": [
-        {
-          "name": "CH189us",
-          "url": "https://envivo.govoet.my.id/189"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-12T02:15:00+01:00",
       "competition": "NFL",
