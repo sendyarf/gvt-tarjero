@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-12-12T17:22:29.383808+00:00",
+  "last_updated": "2025-12-12T17:44:22.647690+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-12T15:30:00+01:00",
-      "competition": "Fifa Arab Cup",
-      "teams": "Jordanie - Iraq",
-      "channels": [
-        {
-          "name": "CH10fr",
-          "url": "https://envivo.govoet.my.id/10"
-        },
-        {
-          "name": "CH46ae",
-          "url": "https://envivo.govoet.my.id/46"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-12T17:00:00+01:00",
       "competition": "EuroLeague",
