@@ -1,70 +1,7 @@
 {
-  "last_updated": "2025-12-12T22:22:44.990039+00:00",
+  "last_updated": "2025-12-12T22:43:59.287368+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-12T20:30:00+01:00",
-      "competition": "Bundesliga",
-      "teams": "Union Berlin - RB Leipzig",
-      "channels": [
-        {
-          "name": "CH9fr",
-          "url": "https://envivo.govoet.my.id/9"
-        },
-        {
-          "name": "CH111de",
-          "url": "https://envivo.govoet.my.id/111"
-        },
-        {
-          "name": "CH91es",
-          "url": "https://envivo.govoet.my.id/91"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-12T20:30:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Barcelone - Olympiakos",
-      "channels": [
-        {
-          "name": "CH62es",
-          "url": "https://envivo.govoet.my.id/62"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-12T20:30:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Partizan - Étoile Rouge Belgrade",
-      "channels": [
-        {
-          "name": "CH64es",
-          "url": "https://envivo.govoet.my.id/64"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-12T20:30:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Virtus Bologna - Hapoel Tel-Aviv",
-      "channels": [
-        {
-          "name": "CH66es",
-          "url": "https://envivo.govoet.my.id/66"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-12T20:30:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Cultural Leonesa - Huesca",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-12T20:45:00+01:00",
       "competition": "Ligue 1",
