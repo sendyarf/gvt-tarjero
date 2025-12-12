@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-12-12T18:36:16.905126+00:00",
+  "last_updated": "2025-12-12T19:19:25.032834+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-12T17:00:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Dubai - Bayern",
-      "channels": [
-        {
-          "name": "CH62es",
-          "url": "https://envivo.govoet.my.id/62"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-12T18:00:00+01:00",
       "competition": "Super Lig",
