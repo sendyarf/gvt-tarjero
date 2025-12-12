@@ -1,41 +1,7 @@
 {
-  "last_updated": "2025-12-12T04:53:55.727507+00:00",
+  "last_updated": "2025-12-12T05:25:34.798908+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-12T03:00:00+01:00",
-      "competition": "Liga Mx",
-      "teams": "Tigres - Toluca",
-      "channels": [
-        {
-          "name": "CH73fr",
-          "url": "https://envivo.govoet.my.id/73"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        },
-        {
-          "name": "CH108es",
-          "url": "https://envivo.govoet.my.id/108"
-        },
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-12T03:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Edmonton Oilers - Detroit Red Wings",
-      "channels": [
-        {
-          "name": "CH190us",
-          "url": "https://envivo.govoet.my.id/190"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-12T03:30:00+01:00",
       "competition": "NHL",
