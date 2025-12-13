@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-13T11:38:40.915183+00:00",
+  "last_updated": "2025-12-13T12:44:37.798199+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -10,6 +10,17 @@
         {
           "name": "CH151tr",
           "url": "https://envivo.govoet.my.id/151"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-13T13:00:00+01:00",
+      "competition": "Bundesliga 2",
+      "teams": "bundesliga 2 konferenz -",
+      "channels": [
+        {
+          "name": "CH112de",
+          "url": "https://envivo.govoet.my.id/112"
         }
       ]
     },
@@ -1349,6 +1360,17 @@
         {
           "name": "CH12fr",
           "url": "https://envivo.govoet.my.id/12"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-14T13:30:00+01:00",
+      "competition": "Bundesliga 2",
+      "teams": "bundesliga 2 konferenz -",
+      "channels": [
+        {
+          "name": "CH111de",
+          "url": "https://envivo.govoet.my.id/111"
         }
       ]
     },
