@@ -1,51 +1,7 @@
 {
-  "last_updated": "2025-12-13T03:59:32.812516+00:00",
+  "last_updated": "2025-12-13T04:34:40.296768+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-13T02:00:00+01:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Junior - Tolima",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-13T02:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Memphis Grizzlies - Utah Jazz",
-      "channels": [
-        {
-          "name": "CH164us",
-          "url": "https://envivo.govoet.my.id/164"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-13T02:00:00+01:00",
-      "competition": "NHL",
-      "teams": "St. Louis Blues - Chicago Blackhawks",
-      "channels": [
-        {
-          "name": "CH180us",
-          "url": "https://envivo.govoet.my.id/180"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-13T02:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Dallas Mavericks - Brooklyn Nets",
-      "channels": [
-        {
-          "name": "CH165us",
-          "url": "https://envivo.govoet.my.id/165"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-13T03:00:00+01:00",
       "competition": "NHL",
