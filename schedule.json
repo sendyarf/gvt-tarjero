@@ -1,59 +1,7 @@
 {
-  "last_updated": "2025-12-13T23:20:58.785460+00:00",
+  "last_updated": "2025-12-13T23:40:16.923404+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-13T21:30:00+01:00",
-      "competition": "Ecuador Ligapro",
-      "teams": "Delfin - Aucas",
-      "channels": [
-        {
-          "name": "CH85es",
-          "url": "https://envivo.govoet.my.id/85"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-13T21:30:00+01:00",
-      "competition": "Ecuador Ligapro",
-      "teams": "Macara - Dep. Cuenca",
-      "channels": [
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-13T21:30:00+01:00",
-      "competition": "Liga Portugal",
-      "teams": "Sporting - AFS",
-      "channels": [
-        {
-          "name": "CH6fr",
-          "url": "https://envivo.govoet.my.id/6"
-        },
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        },
-        {
-          "name": "CH74es",
-          "url": "https://envivo.govoet.my.id/74"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-13T21:30:00+01:00",
-      "competition": "NHL",
-      "teams": "New York Islanders - Tampa Bay Lightning",
-      "channels": [
-        {
-          "name": "CH162us",
-          "url": "https://envivo.govoet.my.id/162"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-13T23:00:00+01:00",
       "competition": "Copa Colombia",
