@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-12-13T04:34:40.296768+00:00",
+  "last_updated": "2025-12-13T05:24:26.017319+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-13T03:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Utah Mammoth - Seattle Kraken",
-      "channels": [
-        {
-          "name": "CH181us",
-          "url": "https://envivo.govoet.my.id/181"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-13T04:00:00+01:00",
       "competition": "NBA",
