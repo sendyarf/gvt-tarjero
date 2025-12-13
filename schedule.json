@@ -1,17 +1,5 @@
 {
-  "last_updated": "2025-12-13T05:44:05.306827+00:00",
+  "last_updated": "2025-12-13T06:34:44.387592+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-12-13T04:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Golden State Warriors - Minnesota Timberwolves",
-      "channels": [
-        {
-          "name": "CH166us",
-          "url": "https://envivo.govoet.my.id/166"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
