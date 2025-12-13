@@ -1,59 +1,7 @@
 {
-  "last_updated": "2025-12-13T20:42:01.537809+00:00",
+  "last_updated": "2025-12-13T21:19:55.359847+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-13T18:45:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "Groningen - FC Volendam",
-      "channels": [
-        {
-          "name": "CH143nl",
-          "url": "https://envivo.govoet.my.id/143"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-13T19:00:00+01:00",
-      "competition": "Betfred Super League",
-      "teams": "Kifisia - Asteras T.",
-      "channels": [
-        {
-          "name": "CH150gr",
-          "url": "https://envivo.govoet.my.id/150"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-13T19:00:00+01:00",
-      "competition": "Liga Portugal",
-      "teams": "Rio Ave - Guimaraes",
-      "channels": [
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-13T19:00:00+01:00",
-      "competition": "Ligue 1",
-      "teams": "Metz - PSG",
-      "channels": [
-        {
-          "name": "CH20fr",
-          "url": "https://envivo.govoet.my.id/20"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-13T20:00:00+01:00",
       "competition": "Eredivisie",
