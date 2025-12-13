@@ -1,37 +1,7 @@
 {
-  "last_updated": "2025-12-13T16:47:55.385966+00:00",
+  "last_updated": "2025-12-13T17:19:38.630034+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-13T15:00:00+01:00",
-      "competition": "Serie A",
-      "teams": "Torino - Cremonese",
-      "channels": [
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH90es",
-          "url": "https://envivo.govoet.my.id/90"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-13T15:00:00+01:00",
-      "competition": "Super Lig",
-      "teams": "Kayserispor - Alanyaspor",
-      "channels": [
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-13T15:30:00+01:00",
       "competition": "Bundesliga",
