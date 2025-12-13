@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-12-13T18:30:39.339769+00:00",
+  "last_updated": "2025-12-13T19:17:34.748389+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-13T17:00:00+01:00",
-      "competition": "Betfred Super League",
-      "teams": "OFI Crete - Panserraikos",
-      "channels": [
-        {
-          "name": "CH149gr",
-          "url": "https://envivo.govoet.my.id/149"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-13T17:00:00+01:00",
-      "competition": "Ligue 1",
-      "teams": "Rennes - Brest",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH90es",
-          "url": "https://envivo.govoet.my.id/90"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-13T18:00:00+01:00",
       "competition": "Coupe intercontinentale",
