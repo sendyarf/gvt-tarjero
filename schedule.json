@@ -1,55 +1,7 @@
 {
-  "last_updated": "2025-12-13T21:39:52.116384+00:00",
+  "last_updated": "2025-12-13T22:21:30.439684+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-13T20:00:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "PSV - Heracles",
-      "channels": [
-        {
-          "name": "CH141nl",
-          "url": "https://envivo.govoet.my.id/141"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-13T20:00:00+01:00",
-      "competition": "Liga Endesa",
-      "teams": "Gran Canaria - Baskonia",
-      "channels": [
-        {
-          "name": "CH65es",
-          "url": "https://envivo.govoet.my.id/65"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-13T20:00:00+01:00",
-      "competition": "Ligue 2",
-      "teams": "Saint-Étienne - Bastia",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-13T20:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Minnesota Wild - Ottawa Senators",
-      "channels": [
-        {
-          "name": "CH161us",
-          "url": "https://envivo.govoet.my.id/161"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-13T20:30:00+01:00",
       "competition": "Bundesliga 2",
