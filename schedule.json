@@ -1,96 +1,7 @@
 {
-  "last_updated": "2025-12-13T14:41:39.932262+00:00",
+  "last_updated": "2025-12-13T15:21:50.741052+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-13T13:00:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "bundesliga 2 konferenz -",
-      "channels": [
-        {
-          "name": "CH112de",
-          "url": "https://envivo.govoet.my.id/112"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-13T13:00:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Arminia Bielefeld - Kaiserslautern",
-      "channels": [
-        {
-          "name": "CH113de",
-          "url": "https://envivo.govoet.my.id/113"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-13T13:00:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Karlsruher - Paderborn",
-      "channels": [
-        {
-          "name": "CH5fr",
-          "url": "https://envivo.govoet.my.id/5"
-        },
-        {
-          "name": "CH115de",
-          "url": "https://envivo.govoet.my.id/115"
-        },
-        {
-          "name": "CH78es",
-          "url": "https://envivo.govoet.my.id/78"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-13T13:00:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Magdeburg - Holstein Kiel",
-      "channels": [
-        {
-          "name": "CH114de",
-          "url": "https://envivo.govoet.my.id/114"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-13T13:30:00+01:00",
-      "competition": "Championship",
-      "teams": "Norwich - Southampton",
-      "channels": [
-        {
-          "name": "CH9fr",
-          "url": "https://envivo.govoet.my.id/9"
-        },
-        {
-          "name": "CH127gb",
-          "url": "https://envivo.govoet.my.id/127"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-13T13:30:00+01:00",
-      "competition": "Championship",
-      "teams": "Oxford Utd - Preston",
-      "channels": [
-        {
-          "name": "CH190us",
-          "url": "https://envivo.govoet.my.id/190"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-13T13:30:00+01:00",
-      "competition": "Championship",
-      "teams": "Stoke - Swansea",
-      "channels": [
-        {
-          "name": "CH191us",
-          "url": "https://envivo.govoet.my.id/191"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-13T14:00:00+01:00",
       "competition": "Challenge Cup",
@@ -411,8 +322,8 @@
           "url": "https://envivo.govoet.my.id/12"
         },
         {
-          "name": "CH131us",
-          "url": "https://envivo.govoet.my.id/131"
+          "name": "CH132us",
+          "url": "https://envivo.govoet.my.id/132"
         },
         {
           "name": "CH57es",
