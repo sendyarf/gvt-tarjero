@@ -1,60 +1,7 @@
 {
-  "last_updated": "2025-12-14T19:38:15.860318+00:00",
+  "last_updated": "2025-12-14T20:25:11.250037+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-14T18:00:00+01:00",
-      "competition": "Serie A",
-      "teams": "Genoa - Inter",
-      "channels": [
-        {
-          "name": "CH45fr",
-          "url": "https://envivo.govoet.my.id/45"
-        },
-        {
-          "name": "CH138it",
-          "url": "https://envivo.govoet.my.id/138"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-14T18:00:00+01:00",
-      "competition": "Super Lig",
-      "teams": "Samsunspor - Basaksehir",
-      "channels": [
-        {
-          "name": "CH152tr",
-          "url": "https://envivo.govoet.my.id/152"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-14T18:00:00+01:00",
-      "competition": "Super Lig",
-      "teams": "Trabzonspor - Besiktas",
-      "channels": [
-        {
-          "name": "CH7fr",
-          "url": "https://envivo.govoet.my.id/7"
-        },
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        },
-        {
-          "name": "CH79es",
-          "url": "https://envivo.govoet.my.id/79"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-14T18:30:00+01:00",
       "competition": "Champions Cup",
