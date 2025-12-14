@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-12-14T04:38:25.107327+00:00",
+  "last_updated": "2025-12-14T05:23:17.901996+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-14T03:00:00+01:00",
-      "competition": "NBA CUP",
-      "teams": "Oklahoma City Thunder - San Antonio Spurs",
-      "channels": [
-        {
-          "name": "CH171us",
-          "url": "https://envivo.govoet.my.id/171"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-14T03:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Colorado Avalanche - Nashville Predators",
-      "channels": [
-        {
-          "name": "CH172us",
-          "url": "https://envivo.govoet.my.id/172"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-14T04:00:00+01:00",
       "competition": "MMA",
