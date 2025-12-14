@@ -1,67 +1,7 @@
 {
-  "last_updated": "2025-12-14T15:40:42.723162+00:00",
+  "last_updated": "2025-12-14T16:27:40.952102+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-14T14:00:00+01:00",
-      "competition": "Challenge Cup",
-      "teams": "Racing 92 - Exeter Chiefs",
-      "channels": [
-        {
-          "name": "CH5fr",
-          "url": "https://envivo.govoet.my.id/5"
-        },
-        {
-          "name": "CH29es",
-          "url": "https://envivo.govoet.my.id/29"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-14T14:00:00+01:00",
-      "competition": "Champions Cup",
-      "teams": "Castres Olympique - Edinburgh",
-      "channels": [
-        {
-          "name": "CH3fr",
-          "url": "https://envivo.govoet.my.id/3"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-14T14:00:00+01:00",
-      "competition": "Champions Cup",
-      "teams": "Harlequins - Aviron Bayonnais",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-14T14:00:00+01:00",
-      "competition": "Laliga",
-      "teams": "FC Séville - Oviedo",
-      "channels": [
-        {
-          "name": "CH8fr",
-          "url": "https://envivo.govoet.my.id/8"
-        },
-        {
-          "name": "CH49es",
-          "url": "https://envivo.govoet.my.id/49"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-14T14:30:00+01:00",
       "competition": "Eredivisie",
