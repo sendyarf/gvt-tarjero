@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-12-14T05:44:00.620300+00:00",
+  "last_updated": "2025-12-14T06:34:22.037033+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-14T04:00:00+01:00",
-      "competition": "MMA",
-      "teams": "Ultimate Fighting Championship 2025 -",
-      "channels": [
-        {
-          "name": "CH17fr",
-          "url": "https://envivo.govoet.my.id/17"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-14T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Los Angeles Kings - Calgary Flames",
-      "channels": [
-        {
-          "name": "CH173us",
-          "url": "https://envivo.govoet.my.id/173"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-14T12:15:00+01:00",
       "competition": "Eredivisie",
