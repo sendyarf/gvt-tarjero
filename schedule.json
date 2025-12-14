@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-12-13T23:40:16.923404+00:00",
+  "last_updated": "2025-12-14T02:02:15.468250+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-13T23:00:00+01:00",
-      "competition": "Copa Colombia",
-      "teams": "Atl. Nacional - Ind. Medellin",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-13T23:30:00+01:00",
-      "competition": "NBA CUP",
-      "teams": "Orlando Magic - New York Knicks",
-      "channels": [
-        {
-          "name": "CH163us",
-          "url": "https://envivo.govoet.my.id/163"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-14T01:00:00+01:00",
       "competition": "NHL",
