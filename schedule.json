@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-12-14T03:47:47.039254+00:00",
+  "last_updated": "2025-12-14T04:38:25.107327+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-14T02:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Chicago Blackhawks - Detroit Red Wings",
-      "channels": [
-        {
-          "name": "CH169us",
-          "url": "https://envivo.govoet.my.id/169"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-14T02:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Dallas Stars - Florida Panthers",
-      "channels": [
-        {
-          "name": "CH170us",
-          "url": "https://envivo.govoet.my.id/170"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-14T03:00:00+01:00",
       "competition": "NBA CUP",
