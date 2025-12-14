@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-12-14T23:21:08.121452+00:00",
+  "last_updated": "2025-12-14T23:40:11.683511+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-14T21:30:00+01:00",
-      "competition": "Liga Portugal",
-      "teams": "Arouca - Alverca",
-      "channels": [
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-14T21:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Cleveland Cavaliers - Charlotte Hornets",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH171us",
-          "url": "https://envivo.govoet.my.id/171"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-14T22:25:00+01:00",
       "competition": "NFL",
@@ -242,7 +216,7 @@
           "url": "https://envivo.govoet.my.id/107"
         },
         {
-          "name": "CH108",
+          "name": "CH108es",
           "url": "https://envivo.govoet.my.id/108"
         }
       ]
