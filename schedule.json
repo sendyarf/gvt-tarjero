@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-14T10:44:00.128835+00:00",
+  "last_updated": "2025-12-14T11:19:14.732136+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -18,6 +18,10 @@
       "competition": "Serie A",
       "teams": "AC Milan - Sassuolo",
       "channels": [
+        {
+          "name": "CH45fr",
+          "url": "https://envivo.govoet.my.id/45"
+        },
         {
           "name": "CH137it",
           "url": "https://envivo.govoet.my.id/137"
@@ -354,6 +358,10 @@
       "teams": "Udinese - Naples",
       "channels": [
         {
+          "name": "CH45fr",
+          "url": "https://envivo.govoet.my.id/45"
+        },
+        {
           "name": "CH137it",
           "url": "https://envivo.govoet.my.id/137"
         },
@@ -650,6 +658,10 @@
       "teams": "Genoa - Inter",
       "channels": [
         {
+          "name": "CH45fr",
+          "url": "https://envivo.govoet.my.id/45"
+        },
+        {
           "name": "CH138it",
           "url": "https://envivo.govoet.my.id/138"
         },
@@ -680,8 +692,8 @@
       "teams": "Trabzonspor - Besiktas",
       "channels": [
         {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
+          "name": "CH7fr",
+          "url": "https://envivo.govoet.my.id/7"
         },
         {
           "name": "CH151tr",
@@ -981,6 +993,10 @@
       "competition": "Serie A",
       "teams": "Bologne - Juventus",
       "channels": [
+        {
+          "name": "CH45fr",
+          "url": "https://envivo.govoet.my.id/45"
+        },
         {
           "name": "CH137it",
           "url": "https://envivo.govoet.my.id/137"
@@ -1428,6 +1444,10 @@
       "competition": "Serie A",
       "teams": "AS Rome - Como",
       "channels": [
+        {
+          "name": "CH45fr",
+          "url": "https://envivo.govoet.my.id/45"
+        },
         {
           "name": "CH138it",
           "url": "https://envivo.govoet.my.id/138"
