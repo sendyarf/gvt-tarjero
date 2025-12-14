@@ -1,74 +1,7 @@
 {
-  "last_updated": "2025-12-14T20:25:11.250037+00:00",
+  "last_updated": "2025-12-14T20:42:37.003668+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-14T18:30:00+01:00",
-      "competition": "Champions Cup",
-      "teams": "Bristol - Section Paloise",
-      "channels": [
-        {
-          "name": "CH3fr",
-          "url": "https://envivo.govoet.my.id/3"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-14T18:30:00+01:00",
-      "competition": "Laliga",
-      "teams": "Levante - Villarreal",
-      "channels": [
-        {
-          "name": "CH8fr",
-          "url": "https://envivo.govoet.my.id/8"
-        },
-        {
-          "name": "CH49es",
-          "url": "https://envivo.govoet.my.id/49"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-14T18:30:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Almeria - Burgos CF",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-14T18:30:00+01:00",
-      "competition": "NHL",
-      "teams": "New Jersey Devils - Vancouver Canucks",
-      "channels": [
-        {
-          "name": "CH160us",
-          "url": "https://envivo.govoet.my.id/160"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-14T18:30:00+01:00",
-      "competition": "Pro League",
-      "teams": "Charleroi - Royale Union SG",
-      "channels": [
-        {
-          "name": "CH153fr",
-          "url": "https://envivo.govoet.my.id/153"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-14T19:00:00+01:00",
       "competition": "Betfred Super League",
