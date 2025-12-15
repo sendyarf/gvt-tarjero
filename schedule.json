@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-12-15T04:43:44.895980+00:00",
+  "last_updated": "2025-12-15T05:28:49.083108+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-15T03:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Portland Trail Blazers - Golden State Warriors",
-      "channels": [
-        {
-          "name": "CH187us",
-          "url": "https://envivo.govoet.my.id/187"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-15T18:00:00+01:00",
       "competition": "Super Lig",
