@@ -1,26 +1,7 @@
 {
-  "last_updated": "2025-12-15T19:41:02.983398+00:00",
+  "last_updated": "2025-12-15T20:28:31.256950+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-15T18:00:00+01:00",
-      "competition": "Super Lig",
-      "teams": "Fenerbahce - Konyaspor",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        },
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        },
-        {
-          "name": "CH79es",
-          "url": "https://envivo.govoet.my.id/79"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-15T18:30:00+01:00",
       "competition": "Coupe Arabe",
