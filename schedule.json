@@ -1,15 +1,30 @@
 {
-  "last_updated": "2025-12-15T12:54:28.241175+00:00",
+  "last_updated": "2025-12-15T13:42:58.103475+00:00",
   "timezone": "Europe/Paris",
   "matches": [
+    {
+      "datetime": "2025-12-15T15:30:00+01:00",
+      "competition": "Coupe Arabe",
+      "teams": "Maroc - Emirats",
+      "channels": [
+        {
+          "name": "CH2fr",
+          "url": "https://envivo.govoet.my.id/2"
+        },
+        {
+          "name": "CH46ae",
+          "url": "https://envivo.govoet.my.id/46"
+        }
+      ]
+    },
     {
       "datetime": "2025-12-15T18:00:00+01:00",
       "competition": "Super Lig",
       "teams": "Fenerbahce - Konyaspor",
       "channels": [
         {
-          "name": "CH6fr",
-          "url": "https://envivo.govoet.my.id/6"
+          "name": "CH4fr",
+          "url": "https://envivo.govoet.my.id/4"
         },
         {
           "name": "CH151tr",
@@ -22,10 +37,29 @@
       ]
     },
     {
+      "datetime": "2025-12-15T18:30:00+01:00",
+      "competition": "Coupe Arabe",
+      "teams": "Arabie Saoudite - Jordanie",
+      "channels": [
+        {
+          "name": "CH2fr",
+          "url": "https://envivo.govoet.my.id/2"
+        },
+        {
+          "name": "CH46ae",
+          "url": "https://envivo.govoet.my.id/46"
+        }
+      ]
+    },
+    {
       "datetime": "2025-12-15T19:45:00+01:00",
       "competition": "Liga Portugal",
       "teams": "Braga - Santa Clara",
       "channels": [
+        {
+          "name": "CH5fr",
+          "url": "https://envivo.govoet.my.id/5"
+        },
         {
           "name": "CH145pt",
           "url": "https://envivo.govoet.my.id/145"
@@ -98,8 +132,8 @@
       "teams": "Sheffield Wed - Derby",
       "channels": [
         {
-          "name": "CH5fr",
-          "url": "https://envivo.govoet.my.id/5"
+          "name": "CH6fr",
+          "url": "https://envivo.govoet.my.id/6"
         },
         {
           "name": "CH129gb",
@@ -171,8 +205,8 @@
       "teams": "FC Porto - Estrela",
       "channels": [
         {
-          "name": "CH6fr",
-          "url": "https://envivo.govoet.my.id/6"
+          "name": "CH3fr",
+          "url": "https://envivo.govoet.my.id/3"
         },
         {
           "name": "CH144pt",
@@ -230,6 +264,10 @@
       "competition": "NHL",
       "teams": "Tampa Bay Lightning - Florida Panthers",
       "channels": [
+        {
+          "name": "CH4fr",
+          "url": "https://envivo.govoet.my.id/4"
+        },
         {
           "name": "CH162us",
           "url": "https://envivo.govoet.my.id/162"
