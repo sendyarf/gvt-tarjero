@@ -1,37 +1,7 @@
 {
-  "last_updated": "2025-12-16T20:48:03.542064+00:00",
+  "last_updated": "2025-12-16T21:24:14.812395+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-16T19:00:00+01:00",
-      "competition": "Coupe Du Roi",
-      "teams": "Eibar - Elche",
-      "channels": [
-        {
-          "name": "CH163es",
-          "url": "https://envivo.govoet.my.id/163"
-        },
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-16T19:00:00+01:00",
-      "competition": "Coupe Du Roi",
-      "teams": "La Corogne - Majorque",
-      "channels": [
-        {
-          "name": "CH50es",
-          "url": "https://envivo.govoet.my.id/50"
-        },
-        {
-          "name": "CH82es",
-          "url": "https://envivo.govoet.my.id/82"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-16T20:00:00+01:00",
       "competition": "Knvb Beker",
