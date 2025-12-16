@@ -1,26 +1,7 @@
 {
-  "last_updated": "2025-12-16T05:26:07.919656+00:00",
+  "last_updated": "2025-12-16T05:47:46.660225+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-16T03:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Denver Nuggets - Houston Rockets",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH169us",
-          "url": "https://envivo.govoet.my.id/169"
-        },
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-16T04:30:00+01:00",
       "competition": "NBA",
