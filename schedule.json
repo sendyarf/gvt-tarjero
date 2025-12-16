@@ -1,26 +1,7 @@
 {
-  "last_updated": "2025-12-15T23:42:20.227672+00:00",
+  "last_updated": "2025-12-16T01:56:34.708475+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-15T21:45:00+01:00",
-      "competition": "Liga Portugal",
-      "teams": "FC Porto - Estrela",
-      "channels": [
-        {
-          "name": "CH3fr",
-          "url": "https://envivo.govoet.my.id/3"
-        },
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        },
-        {
-          "name": "CH74es",
-          "url": "https://envivo.govoet.my.id/74"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-16T01:00:00+01:00",
       "competition": "Ecuador Ligapro",
