@@ -1,17 +1,5 @@
 {
-  "last_updated": "2025-12-16T05:47:46.660225+00:00",
+  "last_updated": "2025-12-16T06:38:36.697834+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-12-16T04:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Los Angeles Clippers - Memphis Grizzlies",
-      "channels": [
-        {
-          "name": "CH170us",
-          "url": "https://envivo.govoet.my.id/170"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
