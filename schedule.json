@@ -1,5 +1,339 @@
 {
-  "last_updated": "2025-12-16T16:50:51.248645+00:00",
+  "last_updated": "2025-12-16T17:26:10.395167+00:00",
   "timezone": "Europe/Paris",
-  "matches": []
+  "matches": [
+    {
+      "datetime": "2025-12-16T17:00:00+01:00",
+      "competition": "EuroLeague",
+      "teams": "Dubai - Maccabi Tel Aviv",
+      "channels": [
+        {
+          "name": "CH62es",
+          "url": "https://envivo.govoet.my.id/62"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-16T18:45:00+01:00",
+      "competition": "EuroLeague",
+      "teams": "Fenerbahce - Panathinaikos",
+      "channels": [
+        {
+          "name": "CH64es",
+          "url": "https://envivo.govoet.my.id/64"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-16T18:45:00+01:00",
+      "competition": "Knvb Beker",
+      "teams": "Heracles - Hoogeveen",
+      "channels": [
+        {
+          "name": "CH142nl",
+          "url": "https://envivo.govoet.my.id/142"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-16T19:00:00+01:00",
+      "competition": "Coupe Du Roi",
+      "teams": "Eibar - Elche",
+      "channels": [
+        {
+          "name": "CH163es",
+          "url": "https://envivo.govoet.my.id/163"
+        },
+        {
+          "name": "CH81es",
+          "url": "https://envivo.govoet.my.id/81"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-16T19:00:00+01:00",
+      "competition": "Coupe Du Roi",
+      "teams": "La Corogne - Majorque",
+      "channels": [
+        {
+          "name": "CH50es",
+          "url": "https://envivo.govoet.my.id/50"
+        },
+        {
+          "name": "CH82es",
+          "url": "https://envivo.govoet.my.id/82"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-16T20:00:00+01:00",
+      "competition": "Knvb Beker",
+      "teams": "AFC - Nijmegen",
+      "channels": [
+        {
+          "name": "CH144nl",
+          "url": "https://envivo.govoet.my.id/144"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-16T20:05:00+01:00",
+      "competition": "EuroLeague",
+      "teams": "Hapoel Tel-Aviv - Étoile Rouge Belgrade",
+      "channels": [
+        {
+          "name": "CH65es",
+          "url": "https://envivo.govoet.my.id/65"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-16T20:15:00+01:00",
+      "competition": "EuroLeague",
+      "teams": "Olympiakos - Valence",
+      "channels": [
+        {
+          "name": "CH55es",
+          "url": "https://envivo.govoet.my.id/55"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-16T20:30:00+01:00",
+      "competition": "EuroLeague",
+      "teams": "Milano - Real Madrid",
+      "channels": [
+        {
+          "name": "CH62es",
+          "url": "https://envivo.govoet.my.id/62"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-16T21:00:00+01:00",
+      "competition": "Coupe Du Roi",
+      "teams": "Eldense - Real Sociedad",
+      "channels": [
+        {
+          "name": "CH165es",
+          "url": "https://envivo.govoet.my.id/165"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-16T21:00:00+01:00",
+      "competition": "Coupe Du Roi",
+      "teams": "Gijon - Valence",
+      "channels": [
+        {
+          "name": "CH164es",
+          "url": "https://envivo.govoet.my.id/164"
+        },
+        {
+          "name": "CH81es",
+          "url": "https://envivo.govoet.my.id/81"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-16T21:00:00+01:00",
+      "competition": "Coupe Du Roi",
+      "teams": "Guadalajara - Barcelone",
+      "channels": [
+        {
+          "name": "CH49es",
+          "url": "https://envivo.govoet.my.id/49"
+        },
+        {
+          "name": "CH82es",
+          "url": "https://envivo.govoet.my.id/82"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-16T21:00:00+01:00",
+      "competition": "Efl Cup",
+      "teams": "Cardiff - Chelsea",
+      "channels": [
+        {
+          "name": "CH1fr",
+          "url": "https://envivo.govoet.my.id/1"
+        },
+        {
+          "name": "CH127gb",
+          "url": "https://envivo.govoet.my.id/127"
+        },
+        {
+          "name": "CH98es",
+          "url": "https://envivo.govoet.my.id/98"
+        },
+        {
+          "name": "CH88es",
+          "url": "https://envivo.govoet.my.id/88"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-16T21:00:00+01:00",
+      "competition": "EuroLeague",
+      "teams": "Paris - Barcelone",
+      "channels": [
+        {
+          "name": "CH19fr",
+          "url": "https://envivo.govoet.my.id/19"
+        },
+        {
+          "name": "CH63es",
+          "url": "https://envivo.govoet.my.id/63"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-16T21:00:00+01:00",
+      "competition": "Knvb Beker",
+      "teams": "PSV - GVVV",
+      "channels": [
+        {
+          "name": "CH143nl",
+          "url": "https://envivo.govoet.my.id/143"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-17T01:00:00+01:00",
+      "competition": "NHL",
+      "teams": "Boston Bruins - Utah Mammoth",
+      "channels": [
+        {
+          "name": "CH161us",
+          "url": "https://envivo.govoet.my.id/161"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-17T01:00:00+01:00",
+      "competition": "NHL",
+      "teams": "Columbus Blue Jackets - Anaheim Ducks",
+      "channels": [
+        {
+          "name": "CH162us",
+          "url": "https://envivo.govoet.my.id/162"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-17T01:00:00+01:00",
+      "competition": "NHL",
+      "teams": "Detroit Red Wings - New York Islanders",
+      "channels": [
+        {
+          "name": "CH163us",
+          "url": "https://envivo.govoet.my.id/163"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-17T01:00:00+01:00",
+      "competition": "NHL",
+      "teams": "Montreal Canadiens - Philadelphia Flyers",
+      "channels": [
+        {
+          "name": "CH164us",
+          "url": "https://envivo.govoet.my.id/164"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-17T01:00:00+01:00",
+      "competition": "NHL",
+      "teams": "New York Rangers - Vancouver Canucks",
+      "channels": [
+        {
+          "name": "CH165us",
+          "url": "https://envivo.govoet.my.id/165"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-17T01:00:00+01:00",
+      "competition": "NHL",
+      "teams": "Toronto Maple Leafs - Chicago Blackhawks",
+      "channels": [
+        {
+          "name": "CH166us",
+          "url": "https://envivo.govoet.my.id/166"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-17T01:30:00+01:00",
+      "competition": "Liga Betplay Dimayor",
+      "teams": "Tolima - Junior",
+      "channels": [
+        {
+          "name": "CH81es",
+          "url": "https://envivo.govoet.my.id/81"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-17T01:30:00+01:00",
+      "competition": "NHL",
+      "teams": "Pittsburgh Penguins - Edmonton Oilers",
+      "channels": [
+        {
+          "name": "CH167us",
+          "url": "https://envivo.govoet.my.id/167"
+        },
+        {
+          "name": "CH89es",
+          "url": "https://envivo.govoet.my.id/89"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-17T02:00:00+01:00",
+      "competition": "NHL",
+      "teams": "Minnesota Wild - Washington Capitals",
+      "channels": [
+        {
+          "name": "CH168us",
+          "url": "https://envivo.govoet.my.id/168"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-17T02:30:00+01:00",
+      "competition": "NBA CUP",
+      "teams": "New York Knicks - San Antonio Spurs",
+      "channels": [
+        {
+          "name": "CH160us",
+          "url": "https://envivo.govoet.my.id/160"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-17T04:00:00+01:00",
+      "competition": "NHL",
+      "teams": "San Jose Sharks - Calgary Flames",
+      "channels": [
+        {
+          "name": "CH169us",
+          "url": "https://envivo.govoet.my.id/169"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-17T04:00:00+01:00",
+      "competition": "NHL",
+      "teams": "Seattle Kraken - Colorado Avalanche",
+      "channels": [
+        {
+          "name": "CH170us",
+          "url": "https://envivo.govoet.my.id/170"
+        }
+      ]
+    }
+  ]
 }
