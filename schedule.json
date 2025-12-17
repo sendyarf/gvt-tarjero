@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-12-17T18:37:28.630131+00:00",
+  "last_updated": "2025-12-17T19:21:57.581924+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-17T17:00:00+01:00",
-      "competition": "Coupe De Grèce",
-      "teams": "Olympiakos - Iraklis 1908",
-      "channels": [
-        {
-          "name": "CH149gr",
-          "url": "https://envivo.govoet.my.id/149"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-17T18:00:00+01:00",
       "competition": "Coupe Du Roi",
