@@ -1,41 +1,7 @@
 {
-  "last_updated": "2025-12-17T19:40:59.047209+00:00",
+  "last_updated": "2025-12-17T20:29:03.041530+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-17T18:00:00+01:00",
-      "competition": "Coupe Du Roi",
-      "teams": "Cultural Leonesa - Levante",
-      "channels": [
-        {
-          "name": "CH50es",
-          "url": "https://envivo.govoet.my.id/50"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-17T18:00:00+01:00",
-      "competition": "Coupe intercontinentale",
-      "teams": "PSG - Flamengo",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH26fr",
-          "url": "https://envivo.govoet.my.id/26"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-17T18:30:00+01:00",
       "competition": "Coupe De Turquie",
