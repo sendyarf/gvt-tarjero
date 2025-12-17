@@ -1,28 +1,5 @@
 {
-  "last_updated": "2025-12-17T05:48:01.443809+00:00",
+  "last_updated": "2025-12-17T06:38:17.464429+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-12-17T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "San Jose Sharks - Calgary Flames",
-      "channels": [
-        {
-          "name": "CH169us",
-          "url": "https://envivo.govoet.my.id/169"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-17T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Seattle Kraken - Colorado Avalanche",
-      "channels": [
-        {
-          "name": "CH170us",
-          "url": "https://envivo.govoet.my.id/170"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
