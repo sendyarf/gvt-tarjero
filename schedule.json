@@ -1,52 +1,7 @@
 {
-  "last_updated": "2025-12-17T22:23:21.699158+00:00",
+  "last_updated": "2025-12-17T22:45:21.247296+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-17T20:30:00+01:00",
-      "competition": "Efl Cup",
-      "teams": "Manchester City - Brentford",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH127gb",
-          "url": "https://envivo.govoet.my.id/127"
-        },
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-17T20:30:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Baskonia - Monaco",
-      "channels": [
-        {
-          "name": "CH55es",
-          "url": "https://envivo.govoet.my.id/55"
-        },
-        {
-          "name": "CH62es",
-          "url": "https://envivo.govoet.my.id/62"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-17T20:30:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Partizan - Virtus Bologna",
-      "channels": [
-        {
-          "name": "CH66es",
-          "url": "https://envivo.govoet.my.id/66"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-17T21:00:00+01:00",
       "competition": "Coupe Du Portugal",
