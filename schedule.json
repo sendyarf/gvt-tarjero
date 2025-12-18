@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-12-18T18:36:21.206316+00:00",
+  "last_updated": "2025-12-18T19:19:14.300664+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-18T17:00:00+01:00",
-      "competition": "Fifa Arab Cup",
-      "teams": "Jordanie - Maroc",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH46ae",
-          "url": "https://envivo.govoet.my.id/46"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-18T18:30:00+01:00",
       "competition": "Coupe De Turquie",
