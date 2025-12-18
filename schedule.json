@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-12-18T13:38:37.199476+00:00",
+  "last_updated": "2025-12-18T14:26:28.261665+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-18T12:00:00+01:00",
-      "competition": "Fifa Arab Cup",
-      "teams": "Arabie Saoudite - Emirats Arabes Unis",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        },
-        {
-          "name": "CH46ae",
-          "url": "https://envivo.govoet.my.id/46"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-18T17:00:00+01:00",
       "competition": "Fifa Arab Cup",
