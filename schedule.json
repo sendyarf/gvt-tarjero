@@ -1,5 +1,133 @@
 {
-  "last_updated": "2025-12-18T08:34:15.586093+00:00",
+  "last_updated": "2025-12-18T09:30:44.328152+00:00",
   "timezone": "Europe/Paris",
-  "matches": []
+  "matches": [
+    {
+      "datetime": "2025-12-18T12:00:00+01:00",
+      "competition": "Fifa Arab Cup",
+      "teams": "Arabie Saoudite - Emirats Arabes Unis",
+      "channels": [
+        {
+          "name": "CH4fr",
+          "url": "https://envivo.govoet.my.id/4"
+        },
+        {
+          "name": "CH46ae",
+          "url": "https://envivo.govoet.my.id/46"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-18T17:00:00+01:00",
+      "competition": "Fifa Arab Cup",
+      "teams": "Jordanie - Maroc",
+      "channels": [
+        {
+          "name": "CH1fr",
+          "url": "https://envivo.govoet.my.id/1"
+        },
+        {
+          "name": "CH46ae",
+          "url": "https://envivo.govoet.my.id/46"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-18T18:30:00+01:00",
+      "competition": "Coupe De Turquie",
+      "teams": "Galatasaray - Basaksehir",
+      "channels": [
+        {
+          "name": "CH152tr",
+          "url": "https://envivo.govoet.my.id/152"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-18T18:45:00+01:00",
+      "competition": "Knvb Beker",
+      "teams": "Spakenburg - Twente",
+      "channels": [
+        {
+          "name": "CH142nl",
+          "url": "https://envivo.govoet.my.id/142"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-18T19:00:00+01:00",
+      "competition": "Coupe Du Roi",
+      "teams": "Burgos CF - Getafe",
+      "channels": [
+        {
+          "name": "CH50es",
+          "url": "https://envivo.govoet.my.id/50"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-18T19:00:00+01:00",
+      "competition": "Coupe Du Roi",
+      "teams": "Ourense CF - Ath. Bilbao",
+      "channels": [
+        {
+          "name": "CH49es",
+          "url": "https://envivo.govoet.my.id/49"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-18T19:45:00+01:00",
+      "competition": "Coupe Du Portugal",
+      "teams": "Santa Clara - Sporting",
+      "channels": [
+        {
+          "name": "CH144pt",
+          "url": "https://envivo.govoet.my.id/144"
+        },
+        {
+          "name": "CH82es",
+          "url": "https://envivo.govoet.my.id/82"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-18T20:00:00+01:00",
+      "competition": "Knvb Beker",
+      "teams": "FC Volendam - Genemuiden",
+      "channels": [
+        {
+          "name": "CH157nl",
+          "url": "https://envivo.govoet.my.id/157"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-18T20:00:00+01:00",
+      "competition": "Supercoppa",
+      "teams": "Naples - AC Milan",
+      "channels": [
+        {
+          "name": "CH139it",
+          "url": "https://envivo.govoet.my.id/139"
+        },
+        {
+          "name": "CH123de",
+          "url": "https://envivo.govoet.my.id/123"
+        },
+        {
+          "name": "CH56es",
+          "url": "https://envivo.govoet.my.id/56"
+        },
+        {
+          "name": "CH94es",
+          "url": "https://envivo.govoet.my.id/94"
+        },
+        {
+          "name": "CH81es",
+          "url": "https://envivo.govoet.my.id/81"
+        }
+      ]
+    }
+  ]
 }
