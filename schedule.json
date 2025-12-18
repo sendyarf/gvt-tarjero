@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-12-18T20:43:05.081528+00:00",
+  "last_updated": "2025-12-18T21:20:04.217453+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-18T18:45:00+01:00",
-      "competition": "Knvb Beker",
-      "teams": "Spakenburg - Twente",
-      "channels": [
-        {
-          "name": "CH142nl",
-          "url": "https://envivo.govoet.my.id/142"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-18T19:00:00+01:00",
-      "competition": "Coupe Du Roi",
-      "teams": "Burgos CF - Getafe",
-      "channels": [
-        {
-          "name": "CH50es",
-          "url": "https://envivo.govoet.my.id/50"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-18T19:00:00+01:00",
-      "competition": "Coupe Du Roi",
-      "teams": "Ourense CF - Ath. Bilbao",
-      "channels": [
-        {
-          "name": "CH49es",
-          "url": "https://envivo.govoet.my.id/49"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-18T19:45:00+01:00",
       "competition": "Coupe Du Portugal",
