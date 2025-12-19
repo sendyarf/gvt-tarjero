@@ -1,51 +1,7 @@
 {
-  "last_updated": "2025-12-19T04:54:53.075329+00:00",
+  "last_updated": "2025-12-19T05:25:37.262725+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-19T03:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Denver Nuggets - Orlando Magic",
-      "channels": [
-        {
-          "name": "CH177us",
-          "url": "https://envivo.govoet.my.id/177"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-19T03:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Phoenix Suns - Golden State Warriors",
-      "channels": [
-        {
-          "name": "CH178us",
-          "url": "https://envivo.govoet.my.id/178"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-19T03:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Utah Jazz - Los Angeles Lakers",
-      "channels": [
-        {
-          "name": "CH179us",
-          "url": "https://envivo.govoet.my.id/179"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-19T03:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Calgary Flames - Seattle Kraken",
-      "channels": [
-        {
-          "name": "CH180us",
-          "url": "https://envivo.govoet.my.id/180"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-19T04:00:00+01:00",
       "competition": "NBA",
