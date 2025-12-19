@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-12-18T23:41:51.641858+00:00",
+  "last_updated": "2025-12-19T01:55:38.224018+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-18T21:45:00+01:00",
-      "competition": "Coupe Du Portugal",
-      "teams": "FC Porto - Famalicao",
-      "channels": [
-        {
-          "name": "CH145pt",
-          "url": "https://envivo.govoet.my.id/145"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-19T01:00:00+01:00",
       "competition": "Copa Ecuador",
