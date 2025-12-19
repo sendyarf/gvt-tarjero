@@ -1,52 +1,7 @@
 {
-  "last_updated": "2025-12-19T22:23:45.230782+00:00",
+  "last_updated": "2025-12-19T22:44:20.956742+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-19T20:30:00+01:00",
-      "competition": "Bundesliga",
-      "teams": "Dortmund - B. Monchengladbach",
-      "channels": [
-        {
-          "name": "CH10fr",
-          "url": "https://envivo.govoet.my.id/10"
-        },
-        {
-          "name": "CH111de",
-          "url": "https://envivo.govoet.my.id/111"
-        },
-        {
-          "name": "CH55es",
-          "url": "https://envivo.govoet.my.id/55"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-19T20:30:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Barcelone - Baskonia",
-      "channels": [
-        {
-          "name": "CH62es",
-          "url": "https://envivo.govoet.my.id/62"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-19T20:30:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Eibar - Valladolid",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-19T20:45:00+01:00",
       "competition": "Coupe De France",
