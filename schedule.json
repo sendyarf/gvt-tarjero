@@ -1,28 +1,5 @@
 {
-  "last_updated": "2025-12-19T05:46:17.574960+00:00",
+  "last_updated": "2025-12-19T06:36:35.356768+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-12-19T04:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Portland Trail Blazers - Sacramento Kings",
-      "channels": [
-        {
-          "name": "CH181us",
-          "url": "https://envivo.govoet.my.id/181"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-19T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "San Jose Sharks - Dallas Stars",
-      "channels": [
-        {
-          "name": "CH182us",
-          "url": "https://envivo.govoet.my.id/182"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
