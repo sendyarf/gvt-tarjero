@@ -1,55 +1,7 @@
 {
-  "last_updated": "2025-12-19T20:27:12.421807+00:00",
+  "last_updated": "2025-12-19T20:45:57.840129+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-19T18:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "bundesliga 2 konferenz -",
-      "channels": [
-        {
-          "name": "CH112de",
-          "url": "https://envivo.govoet.my.id/112"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-19T18:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Hertha Berlin - Arminia Bielefeld",
-      "channels": [
-        {
-          "name": "CH113de",
-          "url": "https://envivo.govoet.my.id/113"
-        },
-        {
-          "name": "CH78es",
-          "url": "https://envivo.govoet.my.id/78"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-19T18:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Paderborn - Darmstadt",
-      "channels": [
-        {
-          "name": "CH114de",
-          "url": "https://envivo.govoet.my.id/114"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-19T18:30:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Anadolu Efes - Dubai",
-      "channels": [
-        {
-          "name": "CH64es",
-          "url": "https://envivo.govoet.my.id/64"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-19T19:00:00+01:00",
       "competition": "EuroLeague",
@@ -3539,6 +3491,25 @@
         {
           "name": "CH87es",
           "url": "https://envivo.govoet.my.id/87"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-22T21:45:00+01:00",
+      "competition": "Liga Portugal",
+      "teams": "Benfica - Famalicao",
+      "channels": [
+        {
+          "name": "CH2fr",
+          "url": "https://envivo.govoet.my.id/2"
+        },
+        {
+          "name": "CH145pt",
+          "url": "https://envivo.govoet.my.id/145"
+        },
+        {
+          "name": "CH74es",
+          "url": "https://envivo.govoet.my.id/74"
         }
       ]
     }
