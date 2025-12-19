@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-19T18:34:33.331247+00:00",
+  "last_updated": "2025-12-19T19:19:11.518014+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -3462,6 +3462,25 @@
         {
           "name": "CH151tr",
           "url": "https://envivo.govoet.my.id/151"
+        }
+      ]
+    },
+    {
+      "datetime": "2025-12-22T19:45:00+01:00",
+      "competition": "Liga Portugal",
+      "teams": "Alverca - FC Porto",
+      "channels": [
+        {
+          "name": "CH2fr",
+          "url": "https://envivo.govoet.my.id/2"
+        },
+        {
+          "name": "CH144pt",
+          "url": "https://envivo.govoet.my.id/144"
+        },
+        {
+          "name": "CH74es",
+          "url": "https://envivo.govoet.my.id/74"
         }
       ]
     }
