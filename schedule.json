@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-12-20T04:35:25.456241+00:00",
+  "last_updated": "2025-12-20T05:23:30.863974+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-20T03:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Colorado Avalanche - Winnipeg Jets",
-      "channels": [
-        {
-          "name": "CH166us",
-          "url": "https://envivo.govoet.my.id/166"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-20T03:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Utah Mammoth - New Jersey Devils",
-      "channels": [
-        {
-          "name": "CH167us",
-          "url": "https://envivo.govoet.my.id/167"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-20T03:30:00+01:00",
       "competition": "NBA",
