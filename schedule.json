@@ -1,37 +1,7 @@
 {
-  "last_updated": "2025-12-20T15:40:38.053044+00:00",
+  "last_updated": "2025-12-20T16:27:52.903631+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-20T14:00:00+01:00",
-      "competition": "Laliga",
-      "teams": "Oviedo - Celta Vigo",
-      "channels": [
-        {
-          "name": "CH51es",
-          "url": "https://envivo.govoet.my.id/51"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH89es",
-          "url": "https://envivo.govoet.my.id/89"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-20T14:00:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Andorra - La Corogne",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-20T14:30:00+01:00",
       "competition": "Top 14",
