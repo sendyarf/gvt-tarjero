@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-12-20T21:39:15.108725+00:00",
+  "last_updated": "2025-12-20T22:21:20.551831+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-20T20:00:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "Nijmegen - Ajax",
-      "channels": [
-        {
-          "name": "CH141nl",
-          "url": "https://envivo.govoet.my.id/141"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-20T20:30:00+01:00",
       "competition": "Bundesliga 2",
