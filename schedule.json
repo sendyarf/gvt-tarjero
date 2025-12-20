@@ -1,73 +1,7 @@
 {
-  "last_updated": "2025-12-20T18:30:21.268345+00:00",
+  "last_updated": "2025-12-20T19:18:24.595013+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-20T16:35:00+01:00",
-      "competition": "Top 14",
-      "teams": "Montpellier - Castres Olympique",
-      "channels": [
-        {
-          "name": "CH33fr",
-          "url": "https://envivo.govoet.my.id/33"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-20T16:35:00+01:00",
-      "competition": "Top 14",
-      "teams": "Multirugby -",
-      "channels": [
-        {
-          "name": "CH11fr",
-          "url": "https://envivo.govoet.my.id/11"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-20T16:35:00+01:00",
-      "competition": "Top 14",
-      "teams": "Stade Rochelais - Aviron Bayonnais",
-      "channels": [
-        {
-          "name": "CH34fr",
-          "url": "https://envivo.govoet.my.id/34"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-20T16:35:00+01:00",
-      "competition": "Top 14",
-      "teams": "US Montauban - Section Paloise",
-      "channels": [
-        {
-          "name": "CH32fr",
-          "url": "https://envivo.govoet.my.id/32"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-20T16:35:00+01:00",
-      "competition": "Top 14",
-      "teams": "USA Perpignan - ASM Clermont",
-      "channels": [
-        {
-          "name": "CH31fr",
-          "url": "https://envivo.govoet.my.id/31"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-20T17:00:00+01:00",
-      "competition": "Betfred Super League",
-      "teams": "Volos - Panetolikos",
-      "channels": [
-        {
-          "name": "CH149gr",
-          "url": "https://envivo.govoet.my.id/149"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-20T18:00:00+01:00",
       "competition": "Coupe De France",
