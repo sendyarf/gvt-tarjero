@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-12-20T23:21:04.374260+00:00",
+  "last_updated": "2025-12-20T23:40:15.100830+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-20T21:30:00+01:00",
-      "competition": "Liga Portugal",
-      "teams": "Estrela - Moreirense",
-      "channels": [
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-20T22:00:00+01:00",
       "competition": "Torneo LPF",
