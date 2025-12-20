@@ -1,44 +1,7 @@
 {
-  "last_updated": "2025-12-20T20:41:26.982880+00:00",
+  "last_updated": "2025-12-20T21:19:49.329621+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-20T19:00:00+01:00",
-      "competition": "Copa De La Reina",
-      "teams": "Espanyol F - Real Madrid F",
-      "channels": [
-        {
-          "name": "CH157es",
-          "url": "https://envivo.govoet.my.id/157"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-20T19:00:00+01:00",
-      "competition": "Liga Endesa",
-      "teams": "Lleida - Real Madrid",
-      "channels": [
-        {
-          "name": "CH67es",
-          "url": "https://envivo.govoet.my.id/67"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-20T19:00:00+01:00",
-      "competition": "Liga Portugal",
-      "teams": "Gil Vicente - Rio Ave",
-      "channels": [
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        },
-        {
-          "name": "CH74es",
-          "url": "https://envivo.govoet.my.id/74"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-20T19:30:00+01:00",
       "competition": "Betfred Super League",
