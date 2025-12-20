@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-12-20T22:21:20.551831+00:00",
+  "last_updated": "2025-12-20T22:41:45.671371+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-20T20:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Holstein Kiel - Dynamo Dresde",
-      "channels": [
-        {
-          "name": "CH112de",
-          "url": "https://envivo.govoet.my.id/112"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-20T20:30:00+01:00",
-      "competition": "Coupe De France",
-      "teams": "AS Le Gosier - Lorient",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-20T20:45:00+01:00",
       "competition": "Pro League",
