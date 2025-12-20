@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-12-20T16:27:52.903631+00:00",
+  "last_updated": "2025-12-20T16:42:00.406290+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-20T14:30:00+01:00",
-      "competition": "Top 14",
-      "teams": "Stade Français - Racing 92",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-20T15:00:00+01:00",
       "competition": "Betfred Super League",
