@@ -1,37 +1,7 @@
 {
-  "last_updated": "2025-12-20T16:47:34.837888+00:00",
+  "last_updated": "2025-12-20T17:18:42.399398+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-20T15:00:00+01:00",
-      "competition": "Betfred Super League",
-      "teams": "Asteras T. - Aris",
-      "channels": [
-        {
-          "name": "CH148gr",
-          "url": "https://envivo.govoet.my.id/148"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-20T15:00:00+01:00",
-      "competition": "Super Lig",
-      "teams": "Eyupspor - Fenerbahce",
-      "channels": [
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        },
-        {
-          "name": "CH91es",
-          "url": "https://envivo.govoet.my.id/91"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-20T15:30:00+01:00",
       "competition": "Bundesliga",
