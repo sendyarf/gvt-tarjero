@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-12-20T03:17:43.652826+00:00",
+  "last_updated": "2025-12-20T03:59:28.984590+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-20T01:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Atlanta Hawks - San Antonio Spurs",
-      "channels": [
-        {
-          "name": "CH164us",
-          "url": "https://envivo.govoet.my.id/164"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-20T01:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Cleveland Cavaliers - Chicago Bulls",
-      "channels": [
-        {
-          "name": "CH165us",
-          "url": "https://envivo.govoet.my.id/165"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-20T03:00:00+01:00",
       "competition": "NHL",
