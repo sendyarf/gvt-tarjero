@@ -1,49 +1,7 @@
 {
-  "last_updated": "2025-12-21T15:40:31.157135+00:00",
+  "last_updated": "2025-12-21T16:27:34.222358+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-21T14:00:00+01:00",
-      "competition": "Laliga",
-      "teams": "Gérone - Atl. Madrid",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH49es",
-          "url": "https://envivo.govoet.my.id/49"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH107es",
-          "url": "https://envivo.govoet.my.id/107"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-21T14:00:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Malaga - Almeria",
-      "channels": [
-        {
-          "name": "CH8fr",
-          "url": "https://envivo.govoet.my.id/8"
-        },
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-21T14:30:00+01:00",
       "competition": "Eredivisie",
