@@ -1,37 +1,7 @@
 {
-  "last_updated": "2025-12-21T13:30:05.738171+00:00",
+  "last_updated": "2025-12-21T13:46:37.799344+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-21T12:00:00+01:00",
-      "competition": "Liga Endesa",
-      "teams": "Breogan - Bilbao",
-      "channels": [
-        {
-          "name": "CH66es",
-          "url": "https://envivo.govoet.my.id/66"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-21T12:15:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "Utrecht - PSV",
-      "channels": [
-        {
-          "name": "CH142nl",
-          "url": "https://envivo.govoet.my.id/142"
-        },
-        {
-          "name": "CH89es",
-          "url": "https://envivo.govoet.my.id/89"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-21T12:30:00+01:00",
       "competition": "Liga Endesa",
