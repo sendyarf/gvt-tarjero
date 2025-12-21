@@ -1,48 +1,7 @@
 {
-  "last_updated": "2025-12-21T19:38:40.026466+00:00",
+  "last_updated": "2025-12-21T20:25:28.603309+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-21T18:00:00+01:00",
-      "competition": "Serie A",
-      "teams": "Fiorentina - Udinese",
-      "channels": [
-        {
-          "name": "CH138it",
-          "url": "https://envivo.govoet.my.id/138"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-21T18:00:00+01:00",
-      "competition": "Super Lig",
-      "teams": "Galatasaray - Kasimpasa",
-      "channels": [
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-21T18:00:00+01:00",
-      "competition": "Super Lig",
-      "teams": "Goztepe - Samsunspor",
-      "channels": [
-        {
-          "name": "CH152tr",
-          "url": "https://envivo.govoet.my.id/152"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-21T18:30:00+01:00",
       "competition": "Betfred Super League",
