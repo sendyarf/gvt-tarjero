@@ -1,70 +1,7 @@
 {
-  "last_updated": "2025-12-21T20:25:28.603309+00:00",
+  "last_updated": "2025-12-21T20:42:58.852370+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-21T18:30:00+01:00",
-      "competition": "Betfred Super League",
-      "teams": "PAOK - Panathinaikos",
-      "channels": [
-        {
-          "name": "CH148gr",
-          "url": "https://envivo.govoet.my.id/148"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-21T18:30:00+01:00",
-      "competition": "Laliga",
-      "teams": "Elche - Vallecano",
-      "channels": [
-        {
-          "name": "CH49es",
-          "url": "https://envivo.govoet.my.id/49"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-21T18:30:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Burgos CF - Saragosse",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-21T18:30:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Grenade - Albacete",
-      "channels": [
-        {
-          "name": "CH54es",
-          "url": "https://envivo.govoet.my.id/54"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-21T18:30:00+01:00",
-      "competition": "Pro League",
-      "teams": "Antwerp - Anderlecht",
-      "channels": [
-        {
-          "name": "CH153fr",
-          "url": "https://envivo.govoet.my.id/153"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-21T19:00:00+01:00",
       "competition": "Copa De La Reina",
