@@ -1,70 +1,7 @@
 {
-  "last_updated": "2025-12-21T16:43:02.378570+00:00",
+  "last_updated": "2025-12-21T16:47:59.297527+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-21T14:45:00+01:00",
-      "competition": "Coupe De France",
-      "teams": "Auxerre - Monaco",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        },
-        {
-          "name": "CH105es",
-          "url": "https://envivo.govoet.my.id/105"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-21T14:45:00+01:00",
-      "competition": "Coupe De France",
-      "teams": "Bourg-en-Bresse - Marseille",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-21T14:45:00+01:00",
-      "competition": "Coupe De France",
-      "teams": "Concarneau - Nantes",
-      "channels": [
-        {
-          "name": "CH6fr",
-          "url": "https://envivo.govoet.my.id/6"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-21T14:45:00+01:00",
-      "competition": "Coupe De France",
-      "teams": "Nice - Saint-Étienne",
-      "channels": [
-        {
-          "name": "CH3fr",
-          "url": "https://envivo.govoet.my.id/3"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-21T14:45:00+01:00",
-      "competition": "Coupe De France",
-      "teams": "Strasbourg - Dunkerque",
-      "channels": [
-        {
-          "name": "CH5fr",
-          "url": "https://envivo.govoet.my.id/5"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-21T15:00:00+01:00",
       "competition": "Serie A",
