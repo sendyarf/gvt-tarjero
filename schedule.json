@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-12-21T23:21:28.198708+00:00",
+  "last_updated": "2025-12-21T23:40:57.463888+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-21T21:30:00+01:00",
-      "competition": "Liga Portugal",
-      "teams": "Santa Clara - Arouca",
-      "channels": [
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        },
-        {
-          "name": "CH74es",
-          "url": "https://envivo.govoet.my.id/74"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-21T21:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Atlanta Hawks - Chicago Bulls",
-      "channels": [
-        {
-          "name": "CH168us",
-          "url": "https://envivo.govoet.my.id/168"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-21T22:00:00+01:00",
       "competition": "Coupe Du Bresil",
