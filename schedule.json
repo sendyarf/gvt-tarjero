@@ -1,78 +1,7 @@
 {
-  "last_updated": "2025-12-21T22:43:26.847259+00:00",
+  "last_updated": "2025-12-21T23:21:28.198708+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-21T20:45:00+01:00",
-      "competition": "Serie A",
-      "teams": "Genoa - Atalanta",
-      "channels": [
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-21T21:00:00+01:00",
-      "competition": "Coupe De France",
-      "teams": "Lyon - Saint-Cyr Collonges",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH105es",
-          "url": "https://envivo.govoet.my.id/105"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-21T21:00:00+01:00",
-      "competition": "Laliga",
-      "teams": "Betis - Getafe",
-      "channels": [
-        {
-          "name": "CH5fr",
-          "url": "https://envivo.govoet.my.id/5"
-        },
-        {
-          "name": "CH51es",
-          "url": "https://envivo.govoet.my.id/51"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-21T21:00:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Cadix CF - Castellon",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-21T21:05:00+01:00",
-      "competition": "Top 14",
-      "teams": "Bordeaux Bègles - RC Toulon",
-      "channels": [
-        {
-          "name": "CH11fr",
-          "url": "https://envivo.govoet.my.id/11"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-21T21:30:00+01:00",
       "competition": "Liga Portugal",
