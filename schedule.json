@@ -1,48 +1,7 @@
 {
-  "last_updated": "2025-12-21T16:27:34.222358+00:00",
+  "last_updated": "2025-12-21T16:43:02.378570+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-21T14:30:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "Feyenoord - Twente",
-      "channels": [
-        {
-          "name": "CH143nl",
-          "url": "https://envivo.govoet.my.id/143"
-        },
-        {
-          "name": "CH89es",
-          "url": "https://envivo.govoet.my.id/89"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-21T14:30:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "G.A. Eagles - Groningen",
-      "channels": [
-        {
-          "name": "CH141nl",
-          "url": "https://envivo.govoet.my.id/141"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-21T14:30:00+01:00",
-      "competition": "Premiership",
-      "teams": "Hearts - Rangers",
-      "channels": [
-        {
-          "name": "CH127gb",
-          "url": "https://envivo.govoet.my.id/127"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-21T14:45:00+01:00",
       "competition": "Coupe De France",
