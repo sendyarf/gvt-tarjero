@@ -1,26 +1,7 @@
 {
-  "last_updated": "2025-12-21T17:19:34.261064+00:00",
+  "last_updated": "2025-12-21T17:41:42.222748+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-21T15:30:00+01:00",
-      "competition": "Bundesliga",
-      "teams": "Mayence - St. Pauli",
-      "channels": [
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        },
-        {
-          "name": "CH116es",
-          "url": "https://envivo.govoet.my.id/116"
-        },
-        {
-          "name": "CH91es",
-          "url": "https://envivo.govoet.my.id/91"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-21T16:00:00+01:00",
       "competition": "Premiership",
