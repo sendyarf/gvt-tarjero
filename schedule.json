@@ -1,70 +1,7 @@
 {
-  "last_updated": "2025-12-21T15:21:50.090176+00:00",
+  "last_updated": "2025-12-21T15:40:31.157135+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-21T13:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "bundesliga 2 konferenz -",
-      "channels": [
-        {
-          "name": "CH111de",
-          "url": "https://envivo.govoet.my.id/111"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-21T13:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Braunschweig - Schalke 04",
-      "channels": [
-        {
-          "name": "CH7fr",
-          "url": "https://envivo.govoet.my.id/7"
-        },
-        {
-          "name": "CH112de",
-          "url": "https://envivo.govoet.my.id/112"
-        },
-        {
-          "name": "CH78es",
-          "url": "https://envivo.govoet.my.id/78"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-21T13:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Münster - Elversberg",
-      "channels": [
-        {
-          "name": "CH114de",
-          "url": "https://envivo.govoet.my.id/114"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-21T13:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Nurnberg - Hanovre",
-      "channels": [
-        {
-          "name": "CH113de",
-          "url": "https://envivo.govoet.my.id/113"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-21T13:30:00+01:00",
-      "competition": "Pro League",
-      "teams": "Club Brugge - La Gantoise",
-      "channels": [
-        {
-          "name": "CH153fr",
-          "url": "https://envivo.govoet.my.id/153"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-21T14:00:00+01:00",
       "competition": "Laliga",
