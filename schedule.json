@@ -1,37 +1,7 @@
 {
-  "last_updated": "2025-12-21T21:40:09.580208+00:00",
+  "last_updated": "2025-12-21T22:22:22.242752+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-21T20:00:00+01:00",
-      "competition": "Betfred Super League",
-      "teams": "AEK - OFI Crete",
-      "channels": [
-        {
-          "name": "CH150gr",
-          "url": "https://envivo.govoet.my.id/150"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-21T20:00:00+01:00",
-      "competition": "CAN",
-      "teams": "Maroc - Comores",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH61es",
-          "url": "https://envivo.govoet.my.id/61"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-21T20:45:00+01:00",
       "competition": "Serie A",
