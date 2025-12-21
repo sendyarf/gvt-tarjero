@@ -1,66 +1,7 @@
 {
-  "last_updated": "2025-12-21T05:44:24.401830+00:00",
+  "last_updated": "2025-12-21T10:44:24.920852+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-21T04:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Sacramento Kings - Portland Trail Blazers",
-      "channels": [
-        {
-          "name": "CH180us",
-          "url": "https://envivo.govoet.my.id/180"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-21T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Anaheim Ducks - Columbus Blue Jackets",
-      "channels": [
-        {
-          "name": "CH181us",
-          "url": "https://envivo.govoet.my.id/181"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-21T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Calgary Flames - Vegas Golden Knights",
-      "channels": [
-        {
-          "name": "CH182us",
-          "url": "https://envivo.govoet.my.id/182"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-21T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "San Jose Sharks - Seattle Kraken",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        },
-        {
-          "name": "CH183us",
-          "url": "https://envivo.govoet.my.id/183"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-21T04:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Los Angeles Clippers - Los Angeles Lakers",
-      "channels": [
-        {
-          "name": "CH184us",
-          "url": "https://envivo.govoet.my.id/184"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-21T12:00:00+01:00",
       "competition": "Liga Endesa",
