@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-12-22T18:35:42.971070+00:00",
+  "last_updated": "2025-12-22T19:19:47.587621+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-22T17:00:00+01:00",
-      "competition": "Afc Ligue Des Champions",
-      "teams": "Al Sharjah (Uae) - Al-Hilal (Sau)",
-      "channels": [
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-22T17:00:00+01:00",
-      "competition": "Betfred Super League",
-      "teams": "Panserraikos - Levadiakos",
-      "channels": [
-        {
-          "name": "CH148gr",
-          "url": "https://envivo.govoet.my.id/148"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-22T18:00:00+01:00",
       "competition": "CAN",
