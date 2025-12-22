@@ -1,76 +1,7 @@
 {
-  "last_updated": "2025-12-22T22:45:26.334416+00:00",
+  "last_updated": "2025-12-22T23:22:32.308787+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-22T21:00:00+01:00",
-      "competition": "CAN",
-      "teams": "Egypte - Zimbabwe",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH61es",
-          "url": "https://envivo.govoet.my.id/61"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-22T21:00:00+01:00",
-      "competition": "Laliga",
-      "teams": "Ath. Bilbao - Espanyol",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        },
-        {
-          "name": "CH49es",
-          "url": "https://envivo.govoet.my.id/49"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-22T21:00:00+01:00",
-      "competition": "Premier League",
-      "teams": "Fulham - Nottingham",
-      "channels": [
-        {
-          "name": "CH12fr",
-          "url": "https://envivo.govoet.my.id/12"
-        },
-        {
-          "name": "CH127gb",
-          "url": "https://envivo.govoet.my.id/127"
-        },
-        {
-          "name": "CH57es",
-          "url": "https://envivo.govoet.my.id/57"
-        },
-        {
-          "name": "CH120de",
-          "url": "https://envivo.govoet.my.id/120"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-22T21:45:00+01:00",
       "competition": "Liga Portugal",
