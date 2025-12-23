@@ -1,34 +1,7 @@
 {
-  "last_updated": "2025-12-23T15:26:10.437409+00:00",
+  "last_updated": "2025-12-23T15:45:56.517431+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-23T13:30:00+01:00",
-      "competition": "CAN",
-      "teams": "RD Congo - Benin",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH61es",
-          "url": "https://envivo.govoet.my.id/61"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        },
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        },
-        {
-          "name": "CH125de",
-          "url": "https://envivo.govoet.my.id/125"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-23T15:30:00+01:00",
       "competition": "Coupe De Turquie",
