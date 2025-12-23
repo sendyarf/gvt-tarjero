@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-12-23T21:41:14.944231+00:00",
+  "last_updated": "2025-12-23T22:22:45.197776+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-23T19:45:00+01:00",
-      "competition": "Coupe Du Portugal",
-      "teams": "Caldas - Braga",
-      "channels": [
-        {
-          "name": "CH145pt",
-          "url": "https://envivo.govoet.my.id/145"
-        },
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-23T20:00:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Valence - Baskonia",
-      "channels": [
-        {
-          "name": "CH55es",
-          "url": "https://envivo.govoet.my.id/55"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-23T20:45:00+01:00",
       "competition": "EuroLeague",
