@@ -1,59 +1,7 @@
 {
-  "last_updated": "2025-12-23T01:56:47.650213+00:00",
+  "last_updated": "2025-12-23T03:40:34.758738+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-23T01:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Cleveland Cavaliers - Charlotte Hornets",
-      "channels": [
-        {
-          "name": "CH160us",
-          "url": "https://envivo.govoet.my.id/160"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        },
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-23T01:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Tampa Bay Lightning - St. Louis Blues",
-      "channels": [
-        {
-          "name": "CH161us",
-          "url": "https://envivo.govoet.my.id/161"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-23T01:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Boston Celtics - Indiana Pacers",
-      "channels": [
-        {
-          "name": "CH162us",
-          "url": "https://envivo.govoet.my.id/162"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-23T01:30:00+01:00",
-      "competition": "NHL",
-      "teams": "Philadelphia Flyers - Vancouver Canucks",
-      "channels": [
-        {
-          "name": "CH163us",
-          "url": "https://envivo.govoet.my.id/163"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-23T02:00:00+01:00",
       "competition": "NBA",
