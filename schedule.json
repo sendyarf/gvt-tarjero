@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-12-23T18:35:47.479139+00:00",
+  "last_updated": "2025-12-23T19:19:35.680625+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-23T17:00:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Dubai - Milano",
-      "channels": [
-        {
-          "name": "CH65es",
-          "url": "https://envivo.govoet.my.id/65"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-23T18:30:00+01:00",
       "competition": "CAN",
