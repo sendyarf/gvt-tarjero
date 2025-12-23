@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-12-23T04:39:56.292365+00:00",
+  "last_updated": "2025-12-23T05:27:10.933190+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-23T03:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Denver Nuggets - Utah Jazz",
-      "channels": [
-        {
-          "name": "CH166us",
-          "url": "https://envivo.govoet.my.id/166"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-23T03:30:00+01:00",
       "competition": "NBA",
