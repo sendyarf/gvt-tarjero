@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-12-23T17:23:19.177871+00:00",
+  "last_updated": "2025-12-23T17:45:19.661912+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-23T15:30:00+01:00",
-      "competition": "Coupe De Turquie",
-      "teams": "Konyaspor - Antalyaspor",
-      "channels": [
-        {
-          "name": "CH152tr",
-          "url": "https://envivo.govoet.my.id/152"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-23T16:00:00+01:00",
       "competition": "CAN",
