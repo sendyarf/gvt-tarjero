@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-12-23T20:45:27.298389+00:00",
+  "last_updated": "2025-12-23T21:22:12.945408+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-23T19:00:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Zalgiris Kaunas - Panathinaikos",
-      "channels": [
-        {
-          "name": "CH63es",
-          "url": "https://envivo.govoet.my.id/63"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-23T19:15:00+01:00",
-      "competition": "Afc Ligue Des Champions",
-      "teams": "Al-Ittihad FC (Sau) - Nasaf Qarshi (Uzb)",
-      "channels": [
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-23T19:30:00+01:00",
       "competition": "EuroLeague",
