@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-12-25T20:45:37.210682+00:00",
+  "last_updated": "2025-12-25T21:21:54.261696+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-25T19:00:00+01:00",
-      "competition": "NFL",
-      "teams": "Washington Commanders - Dallas Cowboys",
-      "channels": [
-        {
-          "name": "CH161us",
-          "url": "https://envivo.govoet.my.id/161"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-25T20:30:00+01:00",
       "competition": "NBA",
