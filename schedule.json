@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-25T08:32:57.894831+00:00",
+  "last_updated": "2025-12-25T09:27:02.781786+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -35,8 +35,8 @@
       "teams": "Washington Commanders - Dallas Cowboys",
       "channels": [
         {
-          "name": "CH165us",
-          "url": "https://envivo.govoet.my.id/165"
+          "name": "CH161us",
+          "url": "https://envivo.govoet.my.id/161"
         }
       ]
     },
@@ -50,8 +50,8 @@
           "url": "https://envivo.govoet.my.id/1"
         },
         {
-          "name": "CH161us",
-          "url": "https://envivo.govoet.my.id/161"
+          "name": "CH160us",
+          "url": "https://envivo.govoet.my.id/160"
         },
         {
           "name": "CH156es",
@@ -73,8 +73,8 @@
       "teams": "Minnesota Vikings - Detroit Lions",
       "channels": [
         {
-          "name": "CH166us",
-          "url": "https://envivo.govoet.my.id/166"
+          "name": "CH161us",
+          "url": "https://envivo.govoet.my.id/161"
         }
       ]
     },
@@ -88,8 +88,8 @@
           "url": "https://envivo.govoet.my.id/1"
         },
         {
-          "name": "CH162us",
-          "url": "https://envivo.govoet.my.id/162"
+          "name": "CH160us",
+          "url": "https://envivo.govoet.my.id/160"
         },
         {
           "name": "CH157es",
@@ -115,8 +115,8 @@
           "url": "https://envivo.govoet.my.id/1"
         },
         {
-          "name": "CH163us",
-          "url": "https://envivo.govoet.my.id/163"
+          "name": "CH160us",
+          "url": "https://envivo.govoet.my.id/160"
         },
         {
           "name": "CH155es",
@@ -142,8 +142,8 @@
           "url": "https://envivo.govoet.my.id/2"
         },
         {
-          "name": "CH167us",
-          "url": "https://envivo.govoet.my.id/167"
+          "name": "CH161us",
+          "url": "https://envivo.govoet.my.id/161"
         },
         {
           "name": "CH58es",
@@ -173,8 +173,8 @@
           "url": "https://envivo.govoet.my.id/1"
         },
         {
-          "name": "CH164us",
-          "url": "https://envivo.govoet.my.id/164"
+          "name": "CH160us",
+          "url": "https://envivo.govoet.my.id/160"
         },
         {
           "name": "CH156es",
