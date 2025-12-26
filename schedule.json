@@ -1,65 +1,7 @@
 {
-  "last_updated": "2025-12-26T03:37:28.639368+00:00",
+  "last_updated": "2025-12-26T04:36:54.139386+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-26T02:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Los Angeles Lakers - Houston Rockets",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH160us",
-          "url": "https://envivo.govoet.my.id/160"
-        },
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-26T02:15:00+01:00",
-      "competition": "NFL",
-      "teams": "Kansas City Chiefs - Denver Broncos",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH161us",
-          "url": "https://envivo.govoet.my.id/161"
-        },
-        {
-          "name": "CH58es",
-          "url": "https://envivo.govoet.my.id/58"
-        },
-        {
-          "name": "CH101es",
-          "url": "https://envivo.govoet.my.id/101"
-        },
-        {
-          "name": "CH104es",
-          "url": "https://envivo.govoet.my.id/104"
-        },
-        {
-          "name": "CH91es",
-          "url": "https://envivo.govoet.my.id/91"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-26T04:30:00+01:00",
       "competition": "NBA",
