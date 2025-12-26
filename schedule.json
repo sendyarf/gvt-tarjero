@@ -1,33 +1,5 @@
 {
-  "last_updated": "2025-12-26T05:46:10.494800+00:00",
+  "last_updated": "2025-12-26T06:37:31.915892+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-12-26T04:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Denver Nuggets - Minnesota Timberwolves",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH160us",
-          "url": "https://envivo.govoet.my.id/160"
-        },
-        {
-          "name": "CH156es",
-          "url": "https://envivo.govoet.my.id/156"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
