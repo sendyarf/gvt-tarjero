@@ -1,45 +1,7 @@
 {
-  "last_updated": "2025-12-25T23:41:39.802844+00:00",
+  "last_updated": "2025-12-26T01:56:14.106039+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-25T22:30:00+01:00",
-      "competition": "NFL",
-      "teams": "Minnesota Vikings - Detroit Lions",
-      "channels": [
-        {
-          "name": "CH161us",
-          "url": "https://envivo.govoet.my.id/161"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-25T23:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Golden State Warriors - Dallas Mavericks",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH160us",
-          "url": "https://envivo.govoet.my.id/160"
-        },
-        {
-          "name": "CH157es",
-          "url": "https://envivo.govoet.my.id/157"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-26T02:00:00+01:00",
       "competition": "NBA",
