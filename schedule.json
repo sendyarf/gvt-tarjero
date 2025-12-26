@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-12-26T22:23:23.002081+00:00",
+  "last_updated": "2025-12-26T22:44:06.570057+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-26T20:30:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Virtus Bologna - Olympiakos",
-      "channels": [
-        {
-          "name": "CH63es",
-          "url": "https://envivo.govoet.my.id/63"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-26T20:45:00+01:00",
       "competition": "Pro League",
