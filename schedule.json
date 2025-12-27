@@ -1,67 +1,7 @@
 {
-  "last_updated": "2025-12-27T19:38:29.896842+00:00",
+  "last_updated": "2025-12-27T20:26:22.624070+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-27T18:00:00+01:00",
-      "competition": "Liga Endesa",
-      "teams": "Baskonia - San Pablo Burgos",
-      "channels": [
-        {
-          "name": "CH65es",
-          "url": "https://envivo.govoet.my.id/65"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-27T18:00:00+01:00",
-      "competition": "Serie A",
-      "teams": "Udinese - Lazio",
-      "channels": [
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-27T18:00:00+01:00",
-      "competition": "Top 14",
-      "teams": "Aviron Bayonnais - Stade Français",
-      "channels": [
-        {
-          "name": "CH11fr",
-          "url": "https://envivo.govoet.my.id/11"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-27T18:15:00+01:00",
-      "competition": "Pro League",
-      "teams": "Malines - Dender",
-      "channels": [
-        {
-          "name": "CH153fr",
-          "url": "https://envivo.govoet.my.id/153"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-27T18:30:00+01:00",
       "competition": "CAN",
