@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-12-27T21:40:24.391822+00:00",
+  "last_updated": "2025-12-27T22:22:14.873431+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-27T20:00:00+01:00",
-      "competition": "Liga Endesa",
-      "teams": "Grenade - Murcia",
-      "channels": [
-        {
-          "name": "CH67es",
-          "url": "https://envivo.govoet.my.id/67"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-27T20:45:00+01:00",
       "competition": "Pro League",
