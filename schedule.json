@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-12-27T23:22:27.916136+00:00",
+  "last_updated": "2025-12-27T23:41:26.245799+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-27T21:30:00+01:00",
-      "competition": "Liga Portugal",
-      "teams": "Estoril - Alverca",
-      "channels": [
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-27T22:30:00+01:00",
       "competition": "NFL",
