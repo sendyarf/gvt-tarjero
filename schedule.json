@@ -1,17 +1,5 @@
 {
-  "last_updated": "2025-12-27T05:45:25.873770+00:00",
+  "last_updated": "2025-12-27T06:35:45.373227+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2025-12-27T04:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Portland Trail Blazers - Los Angeles Clippers",
-      "channels": [
-        {
-          "name": "CH168us",
-          "url": "https://envivo.govoet.my.id/168"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
