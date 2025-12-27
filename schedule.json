@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-12-27T20:44:01.361522+00:00",
+  "last_updated": "2025-12-27T21:20:34.703931+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-27T19:00:00+01:00",
-      "competition": "Liga Endesa",
-      "teams": "Zaragoza - Manresa",
-      "channels": [
-        {
-          "name": "CH66es",
-          "url": "https://envivo.govoet.my.id/66"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-27T19:00:00+01:00",
-      "competition": "Liga Portugal",
-      "teams": "Famalicao - Estrela",
-      "channels": [
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-27T20:00:00+01:00",
       "competition": "Liga Endesa",
