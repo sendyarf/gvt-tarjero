@@ -1,44 +1,7 @@
 {
-  "last_updated": "2025-12-28T23:22:24.895785+00:00",
+  "last_updated": "2025-12-28T23:41:48.947727+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-28T21:30:00+01:00",
-      "competition": "Liga Portugal",
-      "teams": "Sporting - Rio Ave",
-      "channels": [
-        {
-          "name": "CH5fr",
-          "url": "https://envivo.govoet.my.id/5"
-        },
-        {
-          "name": "CH145pt",
-          "url": "https://envivo.govoet.my.id/145"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-28T21:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Oklahoma City Thunder - Philadelphia 76ers",
-      "channels": [
-        {
-          "name": "CH168us",
-          "url": "https://envivo.govoet.my.id/168"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-28T21:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Toronto Raptors - Golden State Warriors",
-      "channels": [
-        {
-          "name": "CH169us",
-          "url": "https://envivo.govoet.my.id/169"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-28T22:05:00+01:00",
       "competition": "NFL",
