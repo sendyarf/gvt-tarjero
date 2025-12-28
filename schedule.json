@@ -1,44 +1,7 @@
 {
-  "last_updated": "2025-12-27T23:41:26.245799+00:00",
+  "last_updated": "2025-12-28T02:07:51.202202+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-27T22:30:00+01:00",
-      "competition": "NFL",
-      "teams": "Los Angeles Chargers - Houston Texans",
-      "channels": [
-        {
-          "name": "CH160us",
-          "url": "https://envivo.govoet.my.id/160"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-27T23:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Sacramento Kings - Dallas Mavericks",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH161us",
-          "url": "https://envivo.govoet.my.id/161"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-28T00:00:00+01:00",
-      "competition": "NHL",
-      "teams": "New York Islanders - New York Rangers",
-      "channels": [
-        {
-          "name": "CH162us",
-          "url": "https://envivo.govoet.my.id/162"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-28T01:00:00+01:00",
       "competition": "NBA",
