@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-12-28T05:48:34.488334+00:00",
+  "last_updated": "2025-12-28T06:35:54.559138+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-28T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Calgary Flames - Edmonton Oilers",
-      "channels": [
-        {
-          "name": "CH181us",
-          "url": "https://envivo.govoet.my.id/181"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-28T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Vancouver Canucks - San Jose Sharks",
-      "channels": [
-        {
-          "name": "CH182us",
-          "url": "https://envivo.govoet.my.id/182"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-28T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Vegas Golden Knights - Colorado Avalanche",
-      "channels": [
-        {
-          "name": "CH183us",
-          "url": "https://envivo.govoet.my.id/183"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-28T12:00:00+01:00",
       "competition": "Liga Endesa",
