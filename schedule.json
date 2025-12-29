@@ -1,29 +1,7 @@
 {
-  "last_updated": "2025-12-29T04:55:24.569055+00:00",
+  "last_updated": "2025-12-29T05:32:25.949548+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-29T03:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Los Angeles Clippers - Detroit Pistons",
-      "channels": [
-        {
-          "name": "CH180us",
-          "url": "https://envivo.govoet.my.id/180"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-29T03:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Los Angeles Lakers - Sacramento Kings",
-      "channels": [
-        {
-          "name": "CH181us",
-          "url": "https://envivo.govoet.my.id/181"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-29T17:00:00+01:00",
       "competition": "CAN",
