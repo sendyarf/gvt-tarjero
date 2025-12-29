@@ -1,45 +1,7 @@
 {
-  "last_updated": "2025-12-29T03:59:45.741405+00:00",
+  "last_updated": "2025-12-29T04:55:24.569055+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-29T02:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Seattle Kraken - Philadelphia Flyers",
-      "channels": [
-        {
-          "name": "CH178us",
-          "url": "https://envivo.govoet.my.id/178"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-29T02:20:00+01:00",
-      "competition": "NFL",
-      "teams": "San Francisco 49ers - Chicago Bears",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH179us",
-          "url": "https://envivo.govoet.my.id/179"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
-          "name": "CH72es",
-          "url": "https://envivo.govoet.my.id/72"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-29T03:00:00+01:00",
       "competition": "NBA",
