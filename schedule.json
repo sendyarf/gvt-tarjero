@@ -1,40 +1,7 @@
 {
-  "last_updated": "2025-12-30T04:41:14.706217+00:00",
+  "last_updated": "2025-12-30T05:27:18.283809+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-30T03:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Calgary Flames - Boston Bruins",
-      "channels": [
-        {
-          "name": "CH176us",
-          "url": "https://envivo.govoet.my.id/176"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-30T03:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Colorado Avalanche - Los Angeles Kings",
-      "channels": [
-        {
-          "name": "CH177us",
-          "url": "https://envivo.govoet.my.id/177"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-30T03:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Utah Mammoth - Nashville Predators",
-      "channels": [
-        {
-          "name": "CH178us",
-          "url": "https://envivo.govoet.my.id/178"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-30T04:00:00+01:00",
       "competition": "NHL",
