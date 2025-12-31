@@ -1,33 +1,7 @@
 {
-  "last_updated": "2025-12-31T05:50:26.078221+00:00",
+  "last_updated": "2025-12-31T06:38:35.200635+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-31T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Vancouver Canucks - Philadelphia Flyers",
-      "channels": [
-        {
-          "name": "CH178us",
-          "url": "https://envivo.govoet.my.id/178"
-        }
-      ]
-    },
-    {
-      "datetime": "2025-12-31T04:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Los Angeles Lakers - Detroit Pistons",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH172us",
-          "url": "https://envivo.govoet.my.id/172"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-31T05:00:00+01:00",
       "competition": "NBA",
