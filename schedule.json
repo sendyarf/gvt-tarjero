@@ -1,18 +1,7 @@
 {
-  "last_updated": "2025-12-31T04:40:28.331193+00:00",
+  "last_updated": "2025-12-31T05:27:58.354527+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-31T03:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Utah Jazz - Boston Celtics",
-      "channels": [
-        {
-          "name": "CH171us",
-          "url": "https://envivo.govoet.my.id/171"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-31T04:00:00+01:00",
       "competition": "NHL",
