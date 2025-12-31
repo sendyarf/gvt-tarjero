@@ -1,22 +1,7 @@
 {
-  "last_updated": "2025-12-31T17:42:27.226738+00:00",
+  "last_updated": "2025-12-31T18:34:06.158093+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2025-12-31T16:25:00+01:00",
-      "competition": "Saudi Pro League",
-      "teams": "Neom SC - Al-Ittihad FC",
-      "channels": [
-        {
-          "name": "CH55es",
-          "url": "https://envivo.govoet.my.id/55"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
     {
       "datetime": "2025-12-31T17:00:00+01:00",
       "competition": "CAN",
