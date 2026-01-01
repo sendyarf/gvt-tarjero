@@ -1,68 +1,7 @@
 {
-  "last_updated": "2026-01-01T22:45:04.064325+00:00",
+  "last_updated": "2026-01-01T23:23:38.426959+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-01T21:00:00+01:00",
-      "competition": "NHL",
-      "teams": "New York Islanders - Utah Mammoth",
-      "channels": [
-        {
-          "name": "CH181us",
-          "url": "https://envivo.govoet.my.id/181"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-01T21:00:00+01:00",
-      "competition": "Premier League",
-      "teams": "Brentford - Tottenham",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH129us",
-          "url": "https://envivo.govoet.my.id/129"
-        },
-        {
-          "name": "CH57es",
-          "url": "https://envivo.govoet.my.id/57"
-        },
-        {
-          "name": "CH119de",
-          "url": "https://envivo.govoet.my.id/119"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-01T21:00:00+01:00",
-      "competition": "Premier League",
-      "teams": "Sunderland - Manchester City",
-      "channels": [
-        {
-          "name": "CH12fr",
-          "url": "https://envivo.govoet.my.id/12"
-        },
-        {
-          "name": "CH127us",
-          "url": "https://envivo.govoet.my.id/127"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        },
-        {
-          "name": "CH120de",
-          "url": "https://envivo.govoet.my.id/120"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-02T00:00:00+01:00",
       "competition": "NBA",
