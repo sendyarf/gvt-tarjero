@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-01T20:47:12.003900+00:00",
+  "last_updated": "2026-01-01T21:22:25.392173+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-01T19:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Ottawa Senators - Washington Capitals",
-      "channels": [
-        {
-          "name": "CH180us",
-          "url": "https://envivo.govoet.my.id/180"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-01T21:00:00+01:00",
       "competition": "NHL",
