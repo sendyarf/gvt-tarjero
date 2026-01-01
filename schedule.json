@@ -1,22 +1,7 @@
 {
-  "last_updated": "2026-01-01T15:25:06.223935+00:00",
+  "last_updated": "2026-01-01T15:43:27.611484+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-01T13:30:00+01:00",
-      "competition": "Championship",
-      "teams": "Blackburn - Wrexham",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        },
-        {
-          "name": "CH128gb",
-          "url": "https://envivo.govoet.my.id/128"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-01T16:00:00+01:00",
       "competition": "Championship",
