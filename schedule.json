@@ -1,28 +1,5 @@
 {
-  "last_updated": "2026-01-01T05:01:45.360865+00:00",
+  "last_updated": "2026-01-01T05:49:53.720366+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2026-01-01T03:30:00+01:00",
-      "competition": "NHL",
-      "teams": "Calgary Flames - Philadelphia Flyers",
-      "channels": [
-        {
-          "name": "CH187us",
-          "url": "https://envivo.govoet.my.id/187"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-01T03:30:00+01:00",
-      "competition": "NHL",
-      "teams": "Edmonton Oilers - Boston Bruins",
-      "channels": [
-        {
-          "name": "CH188us",
-          "url": "https://envivo.govoet.my.id/188"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
