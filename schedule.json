@@ -1,63 +1,7 @@
 {
-  "last_updated": "2026-01-02T22:45:25.422788+00:00",
+  "last_updated": "2026-01-02T23:22:38.752390+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-02T21:00:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Bayern - Maccabi Tel Aviv",
-      "channels": [
-        {
-          "name": "CH66es",
-          "url": "https://envivo.govoet.my.id/66"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-02T21:00:00+01:00",
-      "competition": "Laliga",
-      "teams": "Vallecano - Getafe",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        },
-        {
-          "name": "CH49es",
-          "url": "https://envivo.govoet.my.id/49"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH96es",
-          "url": "https://envivo.govoet.my.id/96"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-02T21:00:00+01:00",
-      "competition": "Liga Endesa",
-      "teams": "Manresa - Basquet Girona",
-      "channels": [
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-02T21:00:00+01:00",
-      "competition": "NHL",
-      "teams": "St. Louis Blues - Vegas Golden Knights",
-      "channels": [
-        {
-          "name": "CH180us",
-          "url": "https://envivo.govoet.my.id/180"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-02T21:45:00+01:00",
       "competition": "Liga Portugal",
