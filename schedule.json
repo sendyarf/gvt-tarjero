@@ -1,77 +1,7 @@
 {
-  "last_updated": "2026-01-02T01:59:34.025347+00:00",
+  "last_updated": "2026-01-02T03:46:05.146745+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-02T00:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Brooklyn Nets - Houston Rockets",
-      "channels": [
-        {
-          "name": "CH182us",
-          "url": "https://envivo.govoet.my.id/182"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-02T01:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Detroit Pistons - Miami Heat",
-      "channels": [
-        {
-          "name": "CH183us",
-          "url": "https://envivo.govoet.my.id/183"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-02T01:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Carolina Hurricanes - Montreal Canadiens",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        },
-        {
-          "name": "CH184us",
-          "url": "https://envivo.govoet.my.id/184"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-02T01:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Los Angeles Kings - Tampa Bay Lightning",
-      "channels": [
-        {
-          "name": "CH185us",
-          "url": "https://envivo.govoet.my.id/185"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-02T01:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Pittsburgh Penguins - Detroit Red Wings",
-      "channels": [
-        {
-          "name": "CH186us",
-          "url": "https://envivo.govoet.my.id/186"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-02T01:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Toronto Maple Leafs - Winnipeg Jets",
-      "channels": [
-        {
-          "name": "CH187us",
-          "url": "https://envivo.govoet.my.id/187"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-02T02:30:00+01:00",
       "competition": "NBA",
