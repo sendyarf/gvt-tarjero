@@ -1,78 +1,7 @@
 {
-  "last_updated": "2026-01-02T22:23:48.470509+00:00",
+  "last_updated": "2026-01-02T22:45:25.422788+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-02T20:30:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Virtus Bologna - Milano",
-      "channels": [
-        {
-          "name": "CH65es",
-          "url": "https://envivo.govoet.my.id/65"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-02T20:30:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Eibar - Mirandes",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-02T20:45:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Real Madrid - Dubai",
-      "channels": [
-        {
-          "name": "CH62es",
-          "url": "https://envivo.govoet.my.id/62"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-02T20:45:00+01:00",
-      "competition": "Ligue 1",
-      "teams": "Toulouse - Lens",
-      "channels": [
-        {
-          "name": "CH20fr",
-          "url": "https://envivo.govoet.my.id/20"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-02T20:45:00+01:00",
-      "competition": "Serie A",
-      "teams": "Cagliari - AC Milan",
-      "channels": [
-        {
-          "name": "CH138it",
-          "url": "https://envivo.govoet.my.id/138"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-02T21:00:00+01:00",
       "competition": "EuroLeague",
