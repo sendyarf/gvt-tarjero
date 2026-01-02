@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-02T20:45:48.205769+00:00",
+  "last_updated": "2026-01-02T21:18:31.923783+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-02T19:00:00+01:00",
-      "competition": "Liga Endesa",
-      "teams": "MoraBanc Andorra - Lleida",
-      "channels": [
-        {
-          "name": "CH156es",
-          "url": "https://envivo.govoet.my.id/156"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-02T19:45:00+01:00",
       "competition": "Liga Portugal",
