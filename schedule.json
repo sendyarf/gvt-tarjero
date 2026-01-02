@@ -1,39 +1,5 @@
 {
-  "last_updated": "2026-01-02T05:50:24.453733+00:00",
+  "last_updated": "2026-01-02T06:38:49.357441+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2026-01-02T04:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Sacramento Kings - Boston Celtics",
-      "channels": [
-        {
-          "name": "CH190us",
-          "url": "https://envivo.govoet.my.id/190"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-02T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Seattle Kraken - Nashville Predators",
-      "channels": [
-        {
-          "name": "CH191us",
-          "url": "https://envivo.govoet.my.id/191"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-02T04:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Los Angeles Clippers - Utah Jazz",
-      "channels": [
-        {
-          "name": "CH192us",
-          "url": "https://envivo.govoet.my.id/192"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
