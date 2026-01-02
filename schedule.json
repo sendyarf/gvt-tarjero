@@ -1,33 +1,7 @@
 {
-  "last_updated": "2026-01-02T03:46:05.146745+00:00",
+  "last_updated": "2026-01-02T04:44:03.172495+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-02T02:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Dallas Mavericks - Philadelphia 76ers",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH188us",
-          "url": "https://envivo.govoet.my.id/188"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-02T02:30:00+01:00",
-      "competition": "NHL",
-      "teams": "Chicago Blackhawks - Dallas Stars",
-      "channels": [
-        {
-          "name": "CH189us",
-          "url": "https://envivo.govoet.my.id/189"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-02T04:00:00+01:00",
       "competition": "NBA",
