@@ -1,26 +1,7 @@
 {
-  "last_updated": "2026-01-02T20:26:40.162883+00:00",
+  "last_updated": "2026-01-02T20:45:48.205769+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-02T18:30:00+01:00",
-      "competition": "Saudi Pro League",
-      "teams": "Al Ahli SC - Al-Nassr",
-      "channels": [
-        {
-          "name": "CH61es",
-          "url": "https://envivo.govoet.my.id/61"
-        },
-        {
-          "name": "CH55es",
-          "url": "https://envivo.govoet.my.id/55"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-02T19:00:00+01:00",
       "competition": "Liga Endesa",
