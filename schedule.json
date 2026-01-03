@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-03T10:45:05.855495+00:00",
+  "last_updated": "2026-01-03T11:19:22.296985+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -2404,8 +2404,8 @@
       "teams": "Leon F - Cruz Azul F",
       "channels": [
         {
-          "name": "CH178es",
-          "url": "https://envivo.govoet.my.id/178"
+          "name": "CH158es",
+          "url": "https://envivo.govoet.my.id/158"
         }
       ]
     },
@@ -2518,8 +2518,8 @@
       "teams": "Santos Laguna F - Club America F",
       "channels": [
         {
-          "name": "CH178es",
-          "url": "https://envivo.govoet.my.id/178"
+          "name": "CH158es",
+          "url": "https://envivo.govoet.my.id/158"
         }
       ]
     },
