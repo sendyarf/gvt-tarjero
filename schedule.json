@@ -1,56 +1,7 @@
 {
-  "last_updated": "2026-01-03T15:41:25.907869+00:00",
+  "last_updated": "2026-01-03T16:28:45.533939+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-03T14:00:00+01:00",
-      "competition": "Laliga",
-      "teams": "Celta Vigo - Valence",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        },
-        {
-          "name": "CH51es",
-          "url": "https://envivo.govoet.my.id/51"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH89es",
-          "url": "https://envivo.govoet.my.id/89"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-03T14:00:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Cultural Leonesa - Real Sociedad B",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-03T14:00:00+01:00",
-      "competition": "Ligue 2",
-      "teams": "Troyes - Red Star",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-03T14:30:00+01:00",
       "competition": "Top 14",
