@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-03T04:52:47.541721+00:00",
+  "last_updated": "2026-01-03T05:24:40.813826+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-03T03:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Phoenix Suns - Sacramento Kings",
-      "channels": [
-        {
-          "name": "CH189us",
-          "url": "https://envivo.govoet.my.id/189"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-03T04:00:00+01:00",
       "competition": "NBA",
