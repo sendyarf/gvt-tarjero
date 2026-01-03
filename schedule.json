@@ -1,50 +1,5 @@
 {
-  "last_updated": "2026-01-03T05:45:50.474924+00:00",
+  "last_updated": "2026-01-03T06:35:46.908955+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2026-01-03T04:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Golden State Warriors - Oklahoma City Thunder",
-      "channels": [
-        {
-          "name": "CH190us",
-          "url": "https://envivo.govoet.my.id/190"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-03T04:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Los Angeles Lakers - Memphis Grizzlies",
-      "channels": [
-        {
-          "name": "CH191us",
-          "url": "https://envivo.govoet.my.id/191"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-03T04:30:00+01:00",
-      "competition": "NHL",
-      "teams": "Anaheim Ducks - Minnesota Wild",
-      "channels": [
-        {
-          "name": "CH192us",
-          "url": "https://envivo.govoet.my.id/192"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-03T04:30:00+01:00",
-      "competition": "NHL",
-      "teams": "Vancouver Canucks - Seattle Kraken",
-      "channels": [
-        {
-          "name": "CH193us",
-          "url": "https://envivo.govoet.my.id/193"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
