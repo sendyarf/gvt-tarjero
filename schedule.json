@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-03T16:28:45.533939+00:00",
+  "last_updated": "2026-01-03T16:44:38.158792+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-03T14:30:00+01:00",
-      "competition": "Top 14",
-      "teams": "USA Perpignan - Stade Toulousain",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-03T15:00:00+01:00",
       "competition": "Serie A",
