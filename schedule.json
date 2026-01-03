@@ -1,45 +1,7 @@
 {
-  "last_updated": "2026-01-03T16:49:47.555449+00:00",
+  "last_updated": "2026-01-03T17:20:00.391709+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-03T15:00:00+01:00",
-      "competition": "Serie A",
-      "teams": "Genoa - Pisa",
-      "channels": [
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-03T15:00:00+01:00",
-      "competition": "Serie A",
-      "teams": "Sassuolo - Parme",
-      "channels": [
-        {
-          "name": "CH139it",
-          "url": "https://envivo.govoet.my.id/139"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-03T16:00:00+01:00",
       "competition": "Premier League",
