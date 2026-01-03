@@ -1,55 +1,7 @@
 {
-  "last_updated": "2026-01-03T20:45:00.747419+00:00",
+  "last_updated": "2026-01-03T21:21:06.031762+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-03T19:00:00+01:00",
-      "competition": "Liga Endesa",
-      "teams": "Grenade - San Pablo Burgos",
-      "channels": [
-        {
-          "name": "CH156es",
-          "url": "https://envivo.govoet.my.id/156"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-03T19:00:00+01:00",
-      "competition": "Liga Portugal",
-      "teams": "Benfica - Estoril",
-      "channels": [
-        {
-          "name": "CH147pt",
-          "url": "https://envivo.govoet.my.id/147"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-03T19:00:00+01:00",
-      "competition": "Liga Portugal",
-      "teams": "Estrela - Braga",
-      "channels": [
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-03T19:00:00+01:00",
-      "competition": "Ligue 1",
-      "teams": "Nice - Strasbourg",
-      "channels": [
-        {
-          "name": "CH20fr",
-          "url": "https://envivo.govoet.my.id/20"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-03T20:00:00+01:00",
       "competition": "CAN",
