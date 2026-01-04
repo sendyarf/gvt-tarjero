@@ -1,37 +1,7 @@
 {
-  "last_updated": "2026-01-04T23:22:43.110084+00:00",
+  "last_updated": "2026-01-04T23:42:20.477508+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-04T21:30:00+01:00",
-      "competition": "Liga Portugal",
-      "teams": "Alverca - Famalicao",
-      "channels": [
-        {
-          "name": "CH145pt",
-          "url": "https://envivo.govoet.my.id/145"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-04T21:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Brooklyn Nets - Denver Nuggets",
-      "channels": [
-        {
-          "name": "CH171us",
-          "url": "https://envivo.govoet.my.id/171"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        },
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-04T22:25:00+01:00",
       "competition": "NFL",
