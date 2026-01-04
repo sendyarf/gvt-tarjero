@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-01-04T04:01:22.433532+00:00",
+  "last_updated": "2026-01-04T05:02:00.478252+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-04T02:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Dallas Mavericks - Houston Rockets",
-      "channels": [
-        {
-          "name": "CH178us",
-          "url": "https://envivo.govoet.my.id/178"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-04T03:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Los Angeles Kings - Minnesota Wild",
-      "channels": [
-        {
-          "name": "CH179us",
-          "url": "https://envivo.govoet.my.id/179"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-04T03:45:00+01:00",
       "competition": "Copa Pacifica",
