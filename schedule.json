@@ -1,45 +1,7 @@
 {
-  "last_updated": "2026-01-04T15:41:30.428250+00:00",
+  "last_updated": "2026-01-04T16:28:24.492289+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-04T14:00:00+01:00",
-      "competition": "Laliga",
-      "teams": "FC Séville - Levante",
-      "channels": [
-        {
-          "name": "CH5fr",
-          "url": "https://envivo.govoet.my.id/5"
-        },
-        {
-          "name": "CH49es",
-          "url": "https://envivo.govoet.my.id/49"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-04T14:00:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Gijon - Malaga",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-04T15:00:00+01:00",
       "competition": "Ligue 1",
