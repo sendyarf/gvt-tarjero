@@ -1,44 +1,7 @@
 {
-  "last_updated": "2026-01-04T19:38:49.291936+00:00",
+  "last_updated": "2026-01-04T20:27:11.658015+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-04T18:00:00+01:00",
-      "competition": "Liga Endesa",
-      "teams": "Basquet Girona - Bilbao",
-      "channels": [
-        {
-          "name": "CH157es",
-          "url": "https://envivo.govoet.my.id/157"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-04T18:00:00+01:00",
-      "competition": "Liga Mx Women",
-      "teams": "Guadalajara F - Atl. San Luis F",
-      "channels": [
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-04T18:00:00+01:00",
-      "competition": "Serie A",
-      "teams": "Hellas Vérone - Torino",
-      "channels": [
-        {
-          "name": "CH138it",
-          "url": "https://envivo.govoet.my.id/138"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-04T18:30:00+01:00",
       "competition": "Laliga",
