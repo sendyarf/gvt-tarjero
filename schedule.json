@@ -1,45 +1,7 @@
 {
-  "last_updated": "2026-01-04T14:21:32.667526+00:00",
+  "last_updated": "2026-01-04T14:42:34.292604+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-04T12:30:00+01:00",
-      "competition": "Liga Endesa",
-      "teams": "Real Madrid - Barcelone",
-      "channels": [
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-04T12:30:00+01:00",
-      "competition": "Serie A",
-      "teams": "Lazio - Naples",
-      "channels": [
-        {
-          "name": "CH45fr",
-          "url": "https://envivo.govoet.my.id/45"
-        },
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-04T13:00:00+01:00",
       "competition": "Championship",
