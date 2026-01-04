@@ -1,74 +1,7 @@
 {
-  "last_updated": "2026-01-04T22:45:14.021389+00:00",
+  "last_updated": "2026-01-04T23:22:43.110084+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-04T21:00:00+01:00",
-      "competition": "Laliga",
-      "teams": "Real Sociedad - Atl. Madrid",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH51es",
-          "url": "https://envivo.govoet.my.id/51"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-04T21:00:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "La Corogne - Cadix CF",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-04T21:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Orlando Magic - Indiana Pacers",
-      "channels": [
-        {
-          "name": "CH169us",
-          "url": "https://envivo.govoet.my.id/169"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-04T21:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Columbus Blue Jackets - Pittsburgh Penguins",
-      "channels": [
-        {
-          "name": "CH170us",
-          "url": "https://envivo.govoet.my.id/170"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-04T21:05:00+01:00",
-      "competition": "Top 14",
-      "teams": "Stade Rochelais - RC Toulon",
-      "channels": [
-        {
-          "name": "CH11fr",
-          "url": "https://envivo.govoet.my.id/11"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-04T21:30:00+01:00",
       "competition": "Liga Portugal",
