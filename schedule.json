@@ -1,56 +1,7 @@
 {
-  "last_updated": "2026-01-04T21:41:13.975122+00:00",
+  "last_updated": "2026-01-04T22:23:24.076616+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-04T20:00:00+01:00",
-      "competition": "CAN",
-      "teams": "Afrique du Sud - Cameroun",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH61es",
-          "url": "https://envivo.govoet.my.id/61"
-        },
-        {
-          "name": "CH82es",
-          "url": "https://envivo.govoet.my.id/82"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-04T20:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Cleveland Cavaliers - Detroit Pistons",
-      "channels": [
-        {
-          "name": "CH167us",
-          "url": "https://envivo.govoet.my.id/167"
-        },
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-04T20:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Dallas Stars - Montreal Canadiens",
-      "channels": [
-        {
-          "name": "CH168us",
-          "url": "https://envivo.govoet.my.id/168"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-04T20:45:00+01:00",
       "competition": "Ligue 1",
