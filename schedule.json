@@ -1,55 +1,7 @@
 {
-  "last_updated": "2026-01-04T05:48:42.816616+00:00",
+  "last_updated": "2026-01-04T06:36:51.825418+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-04T03:45:00+01:00",
-      "competition": "Copa Pacifica",
-      "teams": "Atlas - Guadalajara",
-      "channels": [
-        {
-          "name": "CH99es",
-          "url": "https://envivo.govoet.my.id/99"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-04T04:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Golden State Warriors - Utah Jazz",
-      "channels": [
-        {
-          "name": "CH180us",
-          "url": "https://envivo.govoet.my.id/180"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-04T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Vancouver Canucks - Boston Bruins",
-      "channels": [
-        {
-          "name": "CH181us",
-          "url": "https://envivo.govoet.my.id/181"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-04T04:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Los Angeles Clippers - Boston Celtics",
-      "channels": [
-        {
-          "name": "CH182us",
-          "url": "https://envivo.govoet.my.id/182"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-04T12:30:00+01:00",
       "competition": "Liga Endesa",
