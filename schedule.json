@@ -1,67 +1,7 @@
 {
-  "last_updated": "2026-01-03T23:41:39.629837+00:00",
+  "last_updated": "2026-01-04T02:09:22.135704+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-03T22:00:00+01:00",
-      "competition": "NHL",
-      "teams": "San Jose Sharks - Tampa Bay Lightning",
-      "channels": [
-        {
-          "name": "CH164us",
-          "url": "https://envivo.govoet.my.id/164"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-03T22:00:00+01:00",
-      "competition": "NHL",
-      "teams": "St. Louis Blues - Montreal Canadiens",
-      "channels": [
-        {
-          "name": "CH165us",
-          "url": "https://envivo.govoet.my.id/165"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-03T22:30:00+01:00",
-      "competition": "NFL",
-      "teams": "Tampa Bay Buccaneers - Carolina Panthers",
-      "channels": [
-        {
-          "name": "CH166us",
-          "url": "https://envivo.govoet.my.id/166"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-03T23:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Miami Heat - Minnesota Timberwolves",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH167us",
-          "url": "https://envivo.govoet.my.id/167"
-        },
-        {
-          "name": "CH156es",
-          "url": "https://envivo.govoet.my.id/156"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-04T01:00:00+01:00",
       "competition": "Copa Pacifica",
