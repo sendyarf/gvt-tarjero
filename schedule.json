@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-05T20:29:31.028208+00:00",
+  "last_updated": "2026-01-05T20:50:07.175560+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-05T18:30:00+01:00",
-      "competition": "SuperCoupe Turquie",
-      "teams": "Galatasaray - Trabzonspor",
-      "channels": [
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-05T20:00:00+01:00",
       "competition": "CAN",
