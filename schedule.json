@@ -1,41 +1,7 @@
 {
-  "last_updated": "2026-01-05T04:06:53.881967+00:00",
+  "last_updated": "2026-01-05T05:09:50.145727+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-05T02:20:00+01:00",
-      "competition": "NFL",
-      "teams": "Pittsburgh Steelers - Baltimore Ravens",
-      "channels": [
-        {
-          "name": "CH3fr",
-          "url": "https://envivo.govoet.my.id/3"
-        },
-        {
-          "name": "CH185us",
-          "url": "https://envivo.govoet.my.id/185"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-05T03:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Sacramento Kings - Milwaukee Bucks",
-      "channels": [
-        {
-          "name": "CH186us",
-          "url": "https://envivo.govoet.my.id/186"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-05T03:30:00+01:00",
       "competition": "NBA",
