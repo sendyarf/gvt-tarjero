@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-05T05:09:50.145727+00:00",
+  "last_updated": "2026-01-05T05:57:08.074524+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-05T03:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Los Angeles Lakers - Memphis Grizzlies",
-      "channels": [
-        {
-          "name": "CH187us",
-          "url": "https://envivo.govoet.my.id/187"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-05T17:00:00+01:00",
       "competition": "CAN",
