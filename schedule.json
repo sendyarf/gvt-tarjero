@@ -1,34 +1,7 @@
 {
-  "last_updated": "2026-01-05T18:37:58.893175+00:00",
+  "last_updated": "2026-01-05T19:22:55.654699+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-05T17:00:00+01:00",
-      "competition": "CAN",
-      "teams": "Egypte - Benin",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH61es",
-          "url": "https://envivo.govoet.my.id/61"
-        },
-        {
-          "name": "CH82es",
-          "url": "https://envivo.govoet.my.id/82"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        },
-        {
-          "name": "CH125de",
-          "url": "https://envivo.govoet.my.id/125"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-05T18:30:00+01:00",
       "competition": "SuperCoupe Turquie",
