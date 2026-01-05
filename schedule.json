@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-01-05T02:09:20.047270+00:00",
+  "last_updated": "2026-01-05T04:06:53.881967+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-05T01:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Chicago Blackhawks - Vegas Golden Knights",
-      "channels": [
-        {
-          "name": "CH182us",
-          "url": "https://envivo.govoet.my.id/182"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-05T01:00:00+01:00",
-      "competition": "NHL",
-      "teams": "New Jersey Devils - Carolina Hurricanes",
-      "channels": [
-        {
-          "name": "CH183us",
-          "url": "https://envivo.govoet.my.id/183"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-05T01:30:00+01:00",
-      "competition": "Copa Pacifica",
-      "teams": "Final -",
-      "channels": [
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-05T02:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Phoenix Suns - Oklahoma City Thunder",
-      "channels": [
-        {
-          "name": "CH184us",
-          "url": "https://envivo.govoet.my.id/184"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-05T02:20:00+01:00",
       "competition": "NFL",
