@@ -1,78 +1,7 @@
 {
-  "last_updated": "2026-01-06T21:43:47.688757+00:00",
+  "last_updated": "2026-01-06T22:25:20.131854+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-06T20:00:00+01:00",
-      "competition": "CAN",
-      "teams": "Cote d'Ivoire - Burkina Faso",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH61es",
-          "url": "https://envivo.govoet.my.id/61"
-        },
-        {
-          "name": "CH125de",
-          "url": "https://envivo.govoet.my.id/125"
-        },
-        {
-          "name": "CH82es",
-          "url": "https://envivo.govoet.my.id/82"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-06T20:00:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Lyon-Villeurbanne - Real Madrid",
-      "channels": [
-        {
-          "name": "CH62es",
-          "url": "https://envivo.govoet.my.id/62"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-06T20:00:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Étoile Rouge Belgrade - Valence",
-      "channels": [
-        {
-          "name": "CH64es",
-          "url": "https://envivo.govoet.my.id/64"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-06T20:05:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Hapoel Tel-Aviv - Dubai",
-      "channels": [
-        {
-          "name": "CH66es",
-          "url": "https://envivo.govoet.my.id/66"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-06T20:15:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Panathinaikos - Milano",
-      "channels": [
-        {
-          "name": "CH160es",
-          "url": "https://envivo.govoet.my.id/160"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-06T20:30:00+01:00",
       "competition": "EuroLeague",
