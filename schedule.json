@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-06T05:28:24.942340+00:00",
+  "last_updated": "2026-01-06T05:51:03.153127+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-06T03:30:00+01:00",
-      "competition": "NHL",
-      "teams": "Calgary Flames - Seattle Kraken",
-      "channels": [
-        {
-          "name": "CH169us",
-          "url": "https://envivo.govoet.my.id/169"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-06T04:00:00+01:00",
       "competition": "NBA",
