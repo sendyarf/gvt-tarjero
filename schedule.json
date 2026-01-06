@@ -1,56 +1,7 @@
 {
-  "last_updated": "2026-01-06T22:25:20.131854+00:00",
+  "last_updated": "2026-01-06T22:47:30.776791+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-06T20:30:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Barcelone - Maccabi Tel Aviv",
-      "channels": [
-        {
-          "name": "CH63es",
-          "url": "https://envivo.govoet.my.id/63"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-06T20:30:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Virtus Bologna - Zalgiris Kaunas",
-      "channels": [
-        {
-          "name": "CH161es",
-          "url": "https://envivo.govoet.my.id/161"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-06T20:45:00+01:00",
-      "competition": "Serie A",
-      "teams": "Sassuolo - Juventus",
-      "channels": [
-        {
-          "name": "CH45fr",
-          "url": "https://envivo.govoet.my.id/45"
-        },
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-06T21:00:00+01:00",
       "competition": "Premier League",
