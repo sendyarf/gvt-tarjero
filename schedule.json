@@ -1,34 +1,7 @@
 {
-  "last_updated": "2026-01-06T18:36:56.510032+00:00",
+  "last_updated": "2026-01-06T19:19:54.948597+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-06T17:00:00+01:00",
-      "competition": "CAN",
-      "teams": "Algérie - RD Congo",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH61es",
-          "url": "https://envivo.govoet.my.id/61"
-        },
-        {
-          "name": "CH125de",
-          "url": "https://envivo.govoet.my.id/125"
-        },
-        {
-          "name": "CH82es",
-          "url": "https://envivo.govoet.my.id/82"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-06T18:00:00+01:00",
       "competition": "Serie A",
