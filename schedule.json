@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-06T04:42:12.138049+00:00",
+  "last_updated": "2026-01-06T05:28:24.942340+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-06T03:06:00+01:00",
-      "competition": "Liga Mx Women",
-      "teams": "Santos Laguna F - Club America F",
-      "channels": [
-        {
-          "name": "CH158es",
-          "url": "https://envivo.govoet.my.id/158"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-06T03:30:00+01:00",
       "competition": "NHL",
