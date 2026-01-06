@@ -1,40 +1,7 @@
 {
-  "last_updated": "2026-01-06T03:44:11.342054+00:00",
+  "last_updated": "2026-01-06T04:42:12.138049+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-06T02:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Houston Rockets - Phoenix Suns",
-      "channels": [
-        {
-          "name": "CH166us",
-          "url": "https://envivo.govoet.my.id/166"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-06T02:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Oklahoma City Thunder - Charlotte Hornets",
-      "channels": [
-        {
-          "name": "CH167us",
-          "url": "https://envivo.govoet.my.id/167"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-06T02:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Philadelphia 76ers - Denver Nuggets",
-      "channels": [
-        {
-          "name": "CH168us",
-          "url": "https://envivo.govoet.my.id/168"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-06T03:06:00+01:00",
       "competition": "Liga Mx Women",
