@@ -1,33 +1,7 @@
 {
-  "last_updated": "2026-01-06T20:47:20.791897+00:00",
+  "last_updated": "2026-01-06T21:24:40.155184+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-06T19:00:00+01:00",
-      "competition": "Coupe De Grèce",
-      "teams": "PAOK - Atromitos",
-      "channels": [
-        {
-          "name": "CH148gr",
-          "url": "https://envivo.govoet.my.id/148"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-06T19:00:00+01:00",
-      "competition": "Coupe Du Roi",
-      "teams": "Grenade - Vallecano",
-      "channels": [
-        {
-          "name": "CH49es",
-          "url": "https://envivo.govoet.my.id/49"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-06T19:30:00+01:00",
       "competition": "EuroLeague",
