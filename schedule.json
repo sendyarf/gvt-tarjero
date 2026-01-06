@@ -1,64 +1,7 @@
 {
-  "last_updated": "2026-01-06T22:47:30.776791+00:00",
+  "last_updated": "2026-01-06T23:24:28.061075+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-06T21:00:00+01:00",
-      "competition": "Premier League",
-      "teams": "West Ham - Nottingham",
-      "channels": [
-        {
-          "name": "CH12fr",
-          "url": "https://envivo.govoet.my.id/12"
-        },
-        {
-          "name": "CH127us",
-          "url": "https://envivo.govoet.my.id/127"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        },
-        {
-          "name": "CH120de",
-          "url": "https://envivo.govoet.my.id/120"
-        },
-        {
-          "name": "CH138it",
-          "url": "https://envivo.govoet.my.id/138"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-06T21:00:00+01:00",
-      "competition": "Premiership",
-      "teams": "Rangers - Aberdeen",
-      "channels": [
-        {
-          "name": "CH128us",
-          "url": "https://envivo.govoet.my.id/128"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-06T21:00:00+01:00",
-      "competition": "Taça Da Liga",
-      "teams": "Sporting - Guimaraes",
-      "channels": [
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        },
-        {
-          "name": "CH99es",
-          "url": "https://envivo.govoet.my.id/99"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-07T01:00:00+01:00",
       "competition": "NBA",
