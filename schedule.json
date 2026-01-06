@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-01-06T20:28:14.303373+00:00",
+  "last_updated": "2026-01-06T20:47:20.791897+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-06T18:30:00+01:00",
-      "competition": "SuperCoupe Turquie",
-      "teams": "Fenerbahce - Samsunspor",
-      "channels": [
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-06T18:45:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Fenerbahce - Olympiakos",
-      "channels": [
-        {
-          "name": "CH65es",
-          "url": "https://envivo.govoet.my.id/65"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-06T19:00:00+01:00",
       "competition": "Coupe De Grèce",
