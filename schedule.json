@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-07T18:38:07.076582+00:00",
+  "last_updated": "2026-01-07T19:22:51.651069+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -69,8 +69,8 @@
       "teams": "Barcelone - Ath. Bilbao",
       "channels": [
         {
-          "name": "CH45fr",
-          "url": "https://envivo.govoet.my.id/45"
+          "name": "CH46fr",
+          "url": "https://envivo.govoet.my.id/46"
         },
         {
           "name": "CH49es",
