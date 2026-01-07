@@ -1,68 +1,7 @@
 {
-  "last_updated": "2026-01-07T20:29:38.272908+00:00",
+  "last_updated": "2026-01-07T20:51:42.277341+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-07T18:30:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Anadolu Efes - Paris",
-      "channels": [
-        {
-          "name": "CH62es",
-          "url": "https://envivo.govoet.my.id/62"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-07T18:30:00+01:00",
-      "competition": "Serie A",
-      "teams": "Bologne - Atalanta",
-      "channels": [
-        {
-          "name": "CH138it",
-          "url": "https://envivo.govoet.my.id/138"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-07T18:30:00+01:00",
-      "competition": "Serie A",
-      "teams": "Naples - Hellas Vérone",
-      "channels": [
-        {
-          "name": "CH45fr",
-          "url": "https://envivo.govoet.my.id/45"
-        },
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-07T20:00:00+01:00",
       "competition": "Supercopa",
