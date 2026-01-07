@@ -1,40 +1,7 @@
 {
-  "last_updated": "2026-01-07T05:50:55.683575+00:00",
+  "last_updated": "2026-01-07T06:39:11.962999+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-07T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "San Jose Sharks - Columbus Blue Jackets",
-      "channels": [
-        {
-          "name": "CH194us",
-          "url": "https://envivo.govoet.my.id/194"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-07T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Seattle Kraken - Boston Bruins",
-      "channels": [
-        {
-          "name": "CH195us",
-          "url": "https://envivo.govoet.my.id/195"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-07T04:06:00+01:00",
-      "competition": "Liga Mx Women",
-      "teams": "Mazatlan FC F - Juarez F",
-      "channels": [
-        {
-          "name": "CH158es",
-          "url": "https://envivo.govoet.my.id/158"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-07T05:00:00+01:00",
       "competition": "NBA",
