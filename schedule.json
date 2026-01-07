@@ -1,25 +1,5 @@
 {
-  "last_updated": "2026-01-07T06:39:11.962999+00:00",
+  "last_updated": "2026-01-07T07:28:22.556878+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2026-01-07T05:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Sacramento Kings - Dallas Mavericks",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH185us",
-          "url": "https://envivo.govoet.my.id/185"
-        },
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
