@@ -1,74 +1,7 @@
 {
-  "last_updated": "2026-01-07T03:44:35.783186+00:00",
+  "last_updated": "2026-01-07T04:43:21.151913+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-07T02:00:00+01:00",
-      "competition": "Liga Mx Women",
-      "teams": "Atlas F - Pachuca F",
-      "channels": [
-        {
-          "name": "CH158es",
-          "url": "https://envivo.govoet.my.id/158"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-07T02:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Memphis Grizzlies - San Antonio Spurs",
-      "channels": [
-        {
-          "name": "CH182us",
-          "url": "https://envivo.govoet.my.id/182"
-        },
-        {
-          "name": "CH156es",
-          "url": "https://envivo.govoet.my.id/156"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-07T02:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Minnesota Timberwolves - Miami Heat",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH183us",
-          "url": "https://envivo.govoet.my.id/183"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-07T02:00:00+01:00",
-      "competition": "NBA",
-      "teams": "New Orleans Pelicans - Los Angeles Lakers",
-      "channels": [
-        {
-          "name": "CH184us",
-          "url": "https://envivo.govoet.my.id/184"
-        },
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-07T02:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Winnipeg Jets - Vegas Golden Knights",
-      "channels": [
-        {
-          "name": "CH192us",
-          "url": "https://envivo.govoet.my.id/192"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-07T03:00:00+01:00",
       "competition": "NHL",
