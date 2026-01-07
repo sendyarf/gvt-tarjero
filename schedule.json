@@ -1,68 +1,7 @@
 {
-  "last_updated": "2026-01-07T22:46:49.007654+00:00",
+  "last_updated": "2026-01-07T23:24:11.364133+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-07T21:00:00+01:00",
-      "competition": "Taça Da Liga",
-      "teams": "Benfica - Braga",
-      "channels": [
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        },
-        {
-          "name": "CH99es",
-          "url": "https://envivo.govoet.my.id/99"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-07T21:15:00+01:00",
-      "competition": "Premier League",
-      "teams": "Burnley - Manchester Utd",
-      "channels": [
-        {
-          "name": "CH12fr",
-          "url": "https://envivo.govoet.my.id/12"
-        },
-        {
-          "name": "CH129us",
-          "url": "https://envivo.govoet.my.id/129"
-        },
-        {
-          "name": "CH160es",
-          "url": "https://envivo.govoet.my.id/160"
-        },
-        {
-          "name": "CH117de",
-          "url": "https://envivo.govoet.my.id/117"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-07T21:15:00+01:00",
-      "competition": "Premier League",
-      "teams": "Newcastle - Leeds",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH132us",
-          "url": "https://envivo.govoet.my.id/132"
-        },
-        {
-          "name": "CH161es",
-          "url": "https://envivo.govoet.my.id/161"
-        },
-        {
-          "name": "CH119de",
-          "url": "https://envivo.govoet.my.id/119"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-08T01:00:00+01:00",
       "competition": "NBA",
