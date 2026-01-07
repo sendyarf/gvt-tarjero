@@ -1,34 +1,7 @@
 {
-  "last_updated": "2026-01-07T21:43:10.241574+00:00",
+  "last_updated": "2026-01-07T22:24:26.614386+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-07T20:00:00+01:00",
-      "competition": "Supercopa",
-      "teams": "Barcelone - Ath. Bilbao",
-      "channels": [
-        {
-          "name": "CH46fr",
-          "url": "https://envivo.govoet.my.id/46"
-        },
-        {
-          "name": "CH49es",
-          "url": "https://envivo.govoet.my.id/49"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        },
-        {
-          "name": "CH125de",
-          "url": "https://envivo.govoet.my.id/125"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-07T20:30:00+01:00",
       "competition": "EuroLeague",
