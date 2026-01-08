@@ -1,49 +1,7 @@
 {
-  "last_updated": "2026-01-08T22:47:14.896593+00:00",
+  "last_updated": "2026-01-08T23:21:07.434509+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-08T21:00:00+01:00",
-      "competition": "Premier League",
-      "teams": "Arsenal - Liverpool",
-      "channels": [
-        {
-          "name": "CH12fr",
-          "url": "https://envivo.govoet.my.id/12"
-        },
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        },
-        {
-          "name": "CH127gb",
-          "url": "https://envivo.govoet.my.id/127"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        },
-        {
-          "name": "CH120de",
-          "url": "https://envivo.govoet.my.id/120"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-08T21:00:00+01:00",
-      "competition": "Pro D2",
-      "teams": "Provence Rugby - FC Grenoble",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-09T01:00:00+01:00",
       "competition": "NBA",
