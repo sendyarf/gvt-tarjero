@@ -1,56 +1,7 @@
 {
-  "last_updated": "2026-01-08T22:24:48.880771+00:00",
+  "last_updated": "2026-01-08T22:47:14.896593+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-08T20:30:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Valence - Monaco",
-      "channels": [
-        {
-          "name": "CH55es",
-          "url": "https://envivo.govoet.my.id/55"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-08T20:45:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Real Madrid - Maccabi Tel Aviv",
-      "channels": [
-        {
-          "name": "CH62es",
-          "url": "https://envivo.govoet.my.id/62"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-08T20:45:00+01:00",
-      "competition": "Serie A",
-      "teams": "AC Milan - Genoa",
-      "channels": [
-        {
-          "name": "CH45fr",
-          "url": "https://envivo.govoet.my.id/45"
-        },
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        },
-        {
-          "name": "CH89es",
-          "url": "https://envivo.govoet.my.id/89"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-08T21:00:00+01:00",
       "competition": "Premier League",
