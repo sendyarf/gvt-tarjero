@@ -1,52 +1,7 @@
 {
-  "last_updated": "2026-01-08T05:28:13.659767+00:00",
+  "last_updated": "2026-01-08T05:51:05.793730+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-08T03:30:00+01:00",
-      "competition": "NBA",
-      "teams": "San Antonio Spurs - Los Angeles Lakers",
-      "channels": [
-        {
-          "name": "CH189us",
-          "url": "https://envivo.govoet.my.id/189"
-        },
-        {
-          "name": "CH156es",
-          "url": "https://envivo.govoet.my.id/156"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-08T03:30:00+01:00",
-      "competition": "NHL",
-      "teams": "Chicago Blackhawks - St. Louis Blues",
-      "channels": [
-        {
-          "name": "CH194us",
-          "url": "https://envivo.govoet.my.id/194"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-08T03:30:00+01:00",
-      "competition": "NHL",
-      "teams": "Utah Mammoth - Ottawa Senators",
-      "channels": [
-        {
-          "name": "CH195us",
-          "url": "https://envivo.govoet.my.id/195"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-08T04:00:00+01:00",
       "competition": "NBA",
