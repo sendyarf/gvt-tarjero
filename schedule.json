@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-08T18:33:49.447768+00:00",
+  "last_updated": "2026-01-08T19:22:51.485127+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-08T17:00:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Dubai - Fenerbahce",
-      "channels": [
-        {
-          "name": "CH62es",
-          "url": "https://envivo.govoet.my.id/62"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-08T18:30:00+01:00",
       "competition": "Saudi Pro League",
@@ -90,6 +79,10 @@
         {
           "name": "CH71es",
           "url": "https://envivo.govoet.my.id/71"
+        },
+        {
+          "name": "CH125de",
+          "url": "https://envivo.govoet.my.id/125"
         }
       ]
     },
