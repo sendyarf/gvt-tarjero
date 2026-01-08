@@ -1,45 +1,7 @@
 {
-  "last_updated": "2026-01-08T21:44:45.774064+00:00",
+  "last_updated": "2026-01-08T22:24:48.880771+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-08T20:00:00+01:00",
-      "competition": "Supercopa",
-      "teams": "Atl. Madrid - Real Madrid",
-      "channels": [
-        {
-          "name": "CH46fr",
-          "url": "https://envivo.govoet.my.id/46"
-        },
-        {
-          "name": "CH49es",
-          "url": "https://envivo.govoet.my.id/49"
-        },
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH125de",
-          "url": "https://envivo.govoet.my.id/125"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-08T20:15:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Panathinaikos - Virtus Bologna",
-      "channels": [
-        {
-          "name": "CH63es",
-          "url": "https://envivo.govoet.my.id/63"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-08T20:30:00+01:00",
       "competition": "EuroLeague",
