@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-01-09T20:49:00.970318+00:00",
+  "last_updated": "2026-01-09T21:24:43.533626+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-09T19:00:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Zalgiris Kaunas - Étoile Rouge Belgrade",
-      "channels": [
-        {
-          "name": "CH64es",
-          "url": "https://envivo.govoet.my.id/64"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-09T19:00:00+01:00",
-      "competition": "Pro D2",
-      "teams": "Stade Aurillacois - Colomiers Rugby",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-09T19:30:00+01:00",
       "competition": "Pro D2",
