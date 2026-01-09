@@ -1,60 +1,7 @@
 {
-  "last_updated": "2026-01-09T21:43:03.360874+00:00",
+  "last_updated": "2026-01-09T22:25:02.049329+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-09T20:00:00+01:00",
-      "competition": "CAN",
-      "teams": "Cameroun - Maroc",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH55es",
-          "url": "https://envivo.govoet.my.id/55"
-        },
-        {
-          "name": "CH61es",
-          "url": "https://envivo.govoet.my.id/61"
-        },
-        {
-          "name": "CH82es",
-          "url": "https://envivo.govoet.my.id/82"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        },
-        {
-          "name": "CH125de",
-          "url": "https://envivo.govoet.my.id/125"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-09T20:00:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "Nijmegen - Utrecht",
-      "channels": [
-        {
-          "name": "CH142nl",
-          "url": "https://envivo.govoet.my.id/142"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-09T20:15:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Olympiakos - Bayern",
-      "channels": [
-        {
-          "name": "CH66es",
-          "url": "https://envivo.govoet.my.id/66"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-09T20:30:00+01:00",
       "competition": "Bundesliga",
