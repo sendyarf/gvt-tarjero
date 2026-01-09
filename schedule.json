@@ -1,17 +1,5 @@
 {
-  "last_updated": "2026-01-09T04:43:01.890486+00:00",
+  "last_updated": "2026-01-09T05:29:04.591178+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2026-01-09T03:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Utah Jazz - Dallas Mavericks",
-      "channels": [
-        {
-          "name": "CH163us",
-          "url": "https://envivo.govoet.my.id/163"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
