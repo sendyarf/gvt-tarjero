@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-09T20:28:45.783186+00:00",
+  "last_updated": "2026-01-09T20:49:00.970318+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-09T18:30:00+01:00",
-      "competition": "Saudi Pro League",
-      "teams": "Al Kholood - Al-Ittihad FC",
-      "channels": [
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-09T19:00:00+01:00",
       "competition": "EuroLeague",
