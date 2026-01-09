@@ -1,62 +1,7 @@
 {
-  "last_updated": "2026-01-09T21:24:43.533626+00:00",
+  "last_updated": "2026-01-09T21:43:03.360874+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-09T19:30:00+01:00",
-      "competition": "Pro D2",
-      "teams": "Oyonnax Rugby - US Carcassonne",
-      "channels": [
-        {
-          "name": "CH33fr",
-          "url": "https://envivo.govoet.my.id/33"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-09T19:30:00+01:00",
-      "competition": "Pro D2",
-      "teams": "RC Vannes - Stade Montois",
-      "channels": [
-        {
-          "name": "CH32fr",
-          "url": "https://envivo.govoet.my.id/32"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-09T19:30:00+01:00",
-      "competition": "Pro D2",
-      "teams": "Soyaux Angoulême - USO Nevers Rugby",
-      "channels": [
-        {
-          "name": "CH34fr",
-          "url": "https://envivo.govoet.my.id/34"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-09T19:30:00+01:00",
-      "competition": "Pro D2",
-      "teams": "US Dax - SU Agen",
-      "channels": [
-        {
-          "name": "CH35fr",
-          "url": "https://envivo.govoet.my.id/35"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-09T19:30:00+01:00",
-      "competition": "Pro D2",
-      "teams": "Valence Romans - AS Béziers",
-      "channels": [
-        {
-          "name": "CH36fr",
-          "url": "https://envivo.govoet.my.id/36"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-09T20:00:00+01:00",
       "competition": "CAN",
