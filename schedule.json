@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-01-10T04:35:58.989792+00:00",
+  "last_updated": "2026-01-10T05:25:31.269336+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-10T03:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Denver Nuggets - Atlanta Hawks",
-      "channels": [
-        {
-          "name": "CH185us",
-          "url": "https://envivo.govoet.my.id/185"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-10T03:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Phoenix Suns - New York Knicks",
-      "channels": [
-        {
-          "name": "CH186us",
-          "url": "https://envivo.govoet.my.id/186"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-10T04:00:00+01:00",
       "competition": "Liga De Expansion Mx",
