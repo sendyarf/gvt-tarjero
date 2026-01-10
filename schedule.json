@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-10T23:22:11.743023+00:00",
+  "last_updated": "2026-01-10T23:41:39.602781+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-10T21:30:00+01:00",
-      "competition": "NHL",
-      "teams": "Pittsburgh Penguins - Calgary Flames",
-      "channels": [
-        {
-          "name": "CH162us",
-          "url": "https://envivo.govoet.my.id/162"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-10T22:00:00+01:00",
       "competition": "NHL",
