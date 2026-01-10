@@ -1,73 +1,7 @@
 {
-  "last_updated": "2026-01-10T03:37:01.877060+00:00",
+  "last_updated": "2026-01-10T04:35:58.989792+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-10T02:00:00+01:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Venados - Irapuato",
-      "channels": [
-        {
-          "name": "CH74es",
-          "url": "https://envivo.govoet.my.id/74"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-10T02:00:00+01:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Zacatecas Mineros - Tlaxcala",
-      "channels": [
-        {
-          "name": "CH105es",
-          "url": "https://envivo.govoet.my.id/105"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-10T02:00:00+01:00",
-      "competition": "Liga Mx",
-      "teams": "Mazatlan FC - Juarez",
-      "channels": [
-        {
-          "name": "CH108es",
-          "url": "https://envivo.govoet.my.id/108"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-10T02:00:00+01:00",
-      "competition": "Liga Mx Women",
-      "teams": "Atl. San Luis F - U.N.A.M. F",
-      "channels": [
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-10T02:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Memphis Grizzlies - Oklahoma City Thunder",
-      "channels": [
-        {
-          "name": "CH184us",
-          "url": "https://envivo.govoet.my.id/184"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-10T02:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Winnipeg Jets - Los Angeles Kings",
-      "channels": [
-        {
-          "name": "CH5fr",
-          "url": "https://envivo.govoet.my.id/5"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-10T03:00:00+01:00",
       "competition": "NBA",
