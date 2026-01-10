@@ -1,60 +1,7 @@
 {
-  "last_updated": "2026-01-10T21:40:49.087321+00:00",
+  "last_updated": "2026-01-10T22:23:04.532966+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-10T20:00:00+01:00",
-      "competition": "CAN",
-      "teams": "Egypte - Cote d'Ivoire",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH61es",
-          "url": "https://envivo.govoet.my.id/61"
-        },
-        {
-          "name": "CH82es",
-          "url": "https://envivo.govoet.my.id/82"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        },
-        {
-          "name": "CH125de",
-          "url": "https://envivo.govoet.my.id/125"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-10T20:00:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "PSV - Excelsior",
-      "channels": [
-        {
-          "name": "CH141nl",
-          "url": "https://envivo.govoet.my.id/141"
-        },
-        {
-          "name": "CH100es",
-          "url": "https://envivo.govoet.my.id/100"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-10T20:00:00+01:00",
-      "competition": "Liga Endesa",
-      "teams": "Tenerife - Lleida",
-      "channels": [
-        {
-          "name": "CH157es",
-          "url": "https://envivo.govoet.my.id/157"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-10T20:45:00+01:00",
       "competition": "Serie A",
