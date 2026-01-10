@@ -1,63 +1,7 @@
 {
-  "last_updated": "2026-01-10T14:43:20.661847+00:00",
+  "last_updated": "2026-01-10T15:22:59.924537+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-10T13:15:00+01:00",
-      "competition": "Fa Cup",
-      "teams": "Cheltenham - Leicester",
-      "channels": [
-        {
-          "name": "CH180us",
-          "url": "https://envivo.govoet.my.id/180"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-10T13:15:00+01:00",
-      "competition": "Fa Cup",
-      "teams": "Everton - Sunderland",
-      "channels": [
-        {
-          "name": "CH181us",
-          "url": "https://envivo.govoet.my.id/181"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-10T13:15:00+01:00",
-      "competition": "Fa Cup",
-      "teams": "Macclesfield - Crystal Palace",
-      "channels": [
-        {
-          "name": "CH8fr",
-          "url": "https://envivo.govoet.my.id/8"
-        },
-        {
-          "name": "CH126gb",
-          "url": "https://envivo.govoet.my.id/126"
-        },
-        {
-          "name": "CH195es",
-          "url": "https://envivo.govoet.my.id/195"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-10T13:15:00+01:00",
-      "competition": "Fa Cup",
-      "teams": "Wolves - Shrewsbury",
-      "channels": [
-        {
-          "name": "CH182us",
-          "url": "https://envivo.govoet.my.id/182"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-10T14:00:00+01:00",
       "competition": "Challenge Cup",
