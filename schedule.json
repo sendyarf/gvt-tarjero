@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-11T23:22:45.091812+00:00",
+  "last_updated": "2026-01-11T23:41:58.670505+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-11T21:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Memphis Grizzlies - Brooklyn Nets",
-      "channels": [
-        {
-          "name": "CH163us",
-          "url": "https://envivo.govoet.my.id/163"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-11T22:30:00+01:00",
       "competition": "NFL",
