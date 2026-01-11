@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-01-11T20:26:56.842749+00:00",
+  "last_updated": "2026-01-11T20:45:44.418335+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-11T18:30:00+01:00",
-      "competition": "Betfred Super League",
-      "teams": "Aris - AEK",
-      "channels": [
-        {
-          "name": "CH150gr",
-          "url": "https://envivo.govoet.my.id/150"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-11T18:30:00+01:00",
-      "competition": "Champions Cup",
-      "teams": "Saracens - Stade Toulousain",
-      "channels": [
-        {
-          "name": "CH3fr",
-          "url": "https://envivo.govoet.my.id/3"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-11T19:00:00+01:00",
       "competition": "Liga De Expansion Mx",
