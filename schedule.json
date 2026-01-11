@@ -1,44 +1,7 @@
 {
-  "last_updated": "2026-01-11T05:48:32.943468+00:00",
+  "last_updated": "2026-01-11T06:36:51.040349+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-11T04:00:00+01:00",
-      "competition": "Liga Mx",
-      "teams": "Monterrey - Toluca",
-      "channels": [
-        {
-          "name": "CH106es",
-          "url": "https://envivo.govoet.my.id/106"
-        },
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-11T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Edmonton Oilers - Los Angeles Kings",
-      "channels": [
-        {
-          "name": "CH180us",
-          "url": "https://envivo.govoet.my.id/180"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-11T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Vegas Golden Knights - St. Louis Blues",
-      "channels": [
-        {
-          "name": "CH181us",
-          "url": "https://envivo.govoet.my.id/181"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-11T12:00:00+01:00",
       "competition": "Liga Endesa",
