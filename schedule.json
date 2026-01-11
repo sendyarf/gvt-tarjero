@@ -1,37 +1,7 @@
 {
-  "last_updated": "2026-01-11T16:28:56.952769+00:00",
+  "last_updated": "2026-01-11T16:44:50.851830+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-11T14:30:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "G.A. Eagles - Sittard",
-      "channels": [
-        {
-          "name": "CH141nl",
-          "url": "https://envivo.govoet.my.id/141"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-11T14:30:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "Telstar - Ajax",
-      "channels": [
-        {
-          "name": "CH143nl",
-          "url": "https://envivo.govoet.my.id/143"
-        },
-        {
-          "name": "CH89es",
-          "url": "https://envivo.govoet.my.id/89"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-11T15:00:00+01:00",
       "competition": "Betfred Super League",
