@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-01-11T18:33:48.973820+00:00",
+  "last_updated": "2026-01-11T19:18:31.577987+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-11T16:45:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "Sparta Rotterdam - Heracles",
-      "channels": [
-        {
-          "name": "CH141nl",
-          "url": "https://envivo.govoet.my.id/141"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-11T17:00:00+01:00",
-      "competition": "Liga Endesa",
-      "teams": "Barcelone - Grenade",
-      "channels": [
-        {
-          "name": "CH156es",
-          "url": "https://envivo.govoet.my.id/156"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-11T17:30:00+01:00",
       "competition": "Bundesliga",
