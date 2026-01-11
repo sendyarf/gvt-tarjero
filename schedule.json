@@ -1,78 +1,7 @@
 {
-  "last_updated": "2026-01-11T15:41:55.444402+00:00",
+  "last_updated": "2026-01-11T16:28:56.952769+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-11T14:00:00+01:00",
-      "competition": "Challenge Cup",
-      "teams": "Montpellier - Connacht",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH29fr",
-          "url": "https://envivo.govoet.my.id/29"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-11T14:00:00+01:00",
-      "competition": "Champions Cup",
-      "teams": "Harlequins - Stormers",
-      "channels": [
-        {
-          "name": "CH7fr",
-          "url": "https://envivo.govoet.my.id/7"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-11T14:00:00+01:00",
-      "competition": "Champions Cup",
-      "teams": "RC Toulon - Munster",
-      "channels": [
-        {
-          "name": "CH3fr",
-          "url": "https://envivo.govoet.my.id/3"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-11T14:00:00+01:00",
-      "competition": "Laliga",
-      "teams": "Vallecano - Majorque",
-      "channels": [
-        {
-          "name": "CH6fr",
-          "url": "https://envivo.govoet.my.id/6"
-        },
-        {
-          "name": "CH49es",
-          "url": "https://envivo.govoet.my.id/49"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-11T14:00:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Leganes - Valladolid",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-11T14:30:00+01:00",
       "competition": "Eredivisie",
