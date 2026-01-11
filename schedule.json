@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-11T21:41:04.179848+00:00",
+  "last_updated": "2026-01-11T22:23:02.350323+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-11T20:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Winnipeg Jets - New Jersey Devils",
-      "channels": [
-        {
-          "name": "CH161us",
-          "url": "https://envivo.govoet.my.id/161"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-11T20:45:00+01:00",
       "competition": "Serie A",
