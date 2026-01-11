@@ -1,71 +1,7 @@
 {
-  "last_updated": "2026-01-11T20:45:44.418335+00:00",
+  "last_updated": "2026-01-11T21:21:29.018125+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-11T19:00:00+01:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Leones Negros - Jaiba Brava",
-      "channels": [
-        {
-          "name": "CH105es",
-          "url": "https://envivo.govoet.my.id/105"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-11T19:00:00+01:00",
-      "competition": "Liga Mx",
-      "teams": "U.N.A.M. - Queretaro",
-      "channels": [
-        {
-          "name": "CH106es",
-          "url": "https://envivo.govoet.my.id/106"
-        },
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-11T19:00:00+01:00",
-      "competition": "Liga Portugal",
-      "teams": "Moreirense - Tondela",
-      "channels": [
-        {
-          "name": "CH145pt",
-          "url": "https://envivo.govoet.my.id/145"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-11T19:00:00+01:00",
-      "competition": "NFL",
-      "teams": "Jacksonville Jaguars - Buffalo Bills",
-      "channels": [
-        {
-          "name": "CH10fr",
-          "url": "https://envivo.govoet.my.id/10"
-        },
-        {
-          "name": "CH160us",
-          "url": "https://envivo.govoet.my.id/160"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH107es",
-          "url": "https://envivo.govoet.my.id/107"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-11T20:00:00+01:00",
       "competition": "Betfred Super League",
