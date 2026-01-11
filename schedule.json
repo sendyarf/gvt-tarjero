@@ -1,71 +1,7 @@
 {
-  "last_updated": "2026-01-11T13:32:10.577913+00:00",
+  "last_updated": "2026-01-11T14:22:32.655607+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-11T12:00:00+01:00",
-      "competition": "Liga Endesa",
-      "teams": "San Pablo Burgos - Joventut",
-      "channels": [
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-11T12:15:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "Heerenveen - Feyenoord",
-      "channels": [
-        {
-          "name": "CH142nl",
-          "url": "https://envivo.govoet.my.id/142"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-11T12:30:00+01:00",
-      "competition": "Serie A",
-      "teams": "Lecce - Parme",
-      "channels": [
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-11T13:00:00+01:00",
-      "competition": "Fa Cup",
-      "teams": "Derby - Leeds",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        },
-        {
-          "name": "CH129gb",
-          "url": "https://envivo.govoet.my.id/129"
-        },
-        {
-          "name": "CH196es",
-          "url": "https://envivo.govoet.my.id/196"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-11T14:00:00+01:00",
       "competition": "Challenge Cup",
@@ -357,8 +293,8 @@
       "teams": "Grenade - Castellon",
       "channels": [
         {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
+          "name": "CH54es",
+          "url": "https://envivo.govoet.my.id/54"
         }
       ]
     },
