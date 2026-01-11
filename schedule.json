@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-11T05:00:57.642372+00:00",
+  "last_updated": "2026-01-11T05:48:32.943468+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-11T03:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Utah Jazz - Charlotte Hornets",
-      "channels": [
-        {
-          "name": "CH179us",
-          "url": "https://envivo.govoet.my.id/179"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-11T04:00:00+01:00",
       "competition": "Liga Mx",
