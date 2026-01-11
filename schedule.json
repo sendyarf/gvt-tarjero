@@ -1,64 +1,7 @@
 {
-  "last_updated": "2026-01-10T23:41:39.602781+00:00",
+  "last_updated": "2026-01-11T02:09:02.796511+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-10T22:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Colorado Avalanche - Columbus Blue Jackets",
-      "channels": [
-        {
-          "name": "CH163us",
-          "url": "https://envivo.govoet.my.id/163"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-10T22:00:00+01:00",
-      "competition": "NHL",
-      "teams": "San Jose Sharks - Dallas Stars",
-      "channels": [
-        {
-          "name": "CH164us",
-          "url": "https://envivo.govoet.my.id/164"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-10T22:30:00+01:00",
-      "competition": "NFL",
-      "teams": "Carolina Panthers - Los Angeles Rams",
-      "channels": [
-        {
-          "name": "CH7fr",
-          "url": "https://envivo.govoet.my.id/7"
-        },
-        {
-          "name": "CH165us",
-          "url": "https://envivo.govoet.my.id/165"
-        },
-        {
-          "name": "CH80es",
-          "url": "https://envivo.govoet.my.id/80"
-        },
-        {
-          "name": "CH91es",
-          "url": "https://envivo.govoet.my.id/91"
-        },
-        {
-          "name": "CH107es",
-          "url": "https://envivo.govoet.my.id/107"
-        },
-        {
-          "name": "CH101es",
-          "url": "https://envivo.govoet.my.id/101"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-11T00:07:00+01:00",
       "competition": "Liga Mx",
