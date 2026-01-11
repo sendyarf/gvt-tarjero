@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-11T21:21:29.018125+00:00",
+  "last_updated": "2026-01-11T21:41:04.179848+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-11T20:00:00+01:00",
-      "competition": "Betfred Super League",
-      "teams": "Panathinaikos - Panserraikos",
-      "channels": [
-        {
-          "name": "CH148gr",
-          "url": "https://envivo.govoet.my.id/148"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-11T20:00:00+01:00",
       "competition": "NHL",
@@ -21,37 +10,6 @@
         {
           "name": "CH161us",
           "url": "https://envivo.govoet.my.id/161"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-11T20:00:00+01:00",
-      "competition": "Supercopa",
-      "teams": "Barcelone - Real Madrid",
-      "channels": [
-        {
-          "name": "CH19fr",
-          "url": "https://envivo.govoet.my.id/19"
-        },
-        {
-          "name": "CH49es",
-          "url": "https://envivo.govoet.my.id/49"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH126gb",
-          "url": "https://envivo.govoet.my.id/126"
-        },
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        },
-        {
-          "name": "CH86es",
-          "url": "https://envivo.govoet.my.id/86"
         }
       ]
     },
@@ -158,6 +116,26 @@
         {
           "name": "CH164us",
           "url": "https://envivo.govoet.my.id/164"
+        },
+        {
+          "name": "CH80es",
+          "url": "https://envivo.govoet.my.id/80"
+        },
+        {
+          "name": "CH91es",
+          "url": "https://envivo.govoet.my.id/91"
+        },
+        {
+          "name": "CH107es",
+          "url": "https://envivo.govoet.my.id/107"
+        },
+        {
+          "name": "CH101es",
+          "url": "https://envivo.govoet.my.id/101"
+        },
+        {
+          "name": "CH70es",
+          "url": "https://envivo.govoet.my.id/70"
         }
       ]
     },
