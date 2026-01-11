@@ -1,60 +1,7 @@
 {
-  "last_updated": "2026-01-11T19:18:31.577987+00:00",
+  "last_updated": "2026-01-11T19:39:01.186468+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-11T17:30:00+01:00",
-      "competition": "Bundesliga",
-      "teams": "Bayern Munich - Wolfsburg",
-      "channels": [
-        {
-          "name": "CH9fr",
-          "url": "https://envivo.govoet.my.id/9"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH116es",
-          "url": "https://envivo.govoet.my.id/116"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-11T17:30:00+01:00",
-      "competition": "Fa Cup",
-      "teams": "Manchester Utd - Brighton",
-      "channels": [
-        {
-          "name": "CH8fr",
-          "url": "https://envivo.govoet.my.id/8"
-        },
-        {
-          "name": "CH126gb",
-          "url": "https://envivo.govoet.my.id/126"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH196es",
-          "url": "https://envivo.govoet.my.id/196"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-11T17:30:00+01:00",
-      "competition": "Premiership",
-      "teams": "Aberdeen - Rangers",
-      "channels": [
-        {
-          "name": "CH127gb",
-          "url": "https://envivo.govoet.my.id/127"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-11T18:00:00+01:00",
       "competition": "Coupe De France",
