@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-01-12T22:22:21.996877+00:00",
+  "last_updated": "2026-01-12T22:44:25.009668+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-12T20:30:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Huesca - Cordoba",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-12T20:30:00+01:00",
-      "competition": "Liga Endesa",
-      "teams": "Valence - Zaragoza",
-      "channels": [
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-12T20:45:00+01:00",
       "competition": "Fa Cup",
