@@ -1,45 +1,7 @@
 {
-  "last_updated": "2026-01-12T20:29:01.214838+00:00",
+  "last_updated": "2026-01-12T20:49:36.043219+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-12T18:30:00+01:00",
-      "competition": "Saudi Pro League",
-      "teams": "Al-Hilal - Al-Nassr",
-      "channels": [
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-12T18:30:00+01:00",
-      "competition": "Serie A",
-      "teams": "Genoa - Cagliari",
-      "channels": [
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-12T20:30:00+01:00",
       "competition": "Laliga 2",
