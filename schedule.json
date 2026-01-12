@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-12T14:29:19.308445+00:00",
+  "last_updated": "2026-01-12T14:56:08.881307+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -169,6 +169,10 @@
       "competition": "NHL",
       "teams": "Detroit Red Wings - Carolina Hurricanes",
       "channels": [
+        {
+          "name": "CH4fr",
+          "url": "https://envivo.govoet.my.id/4"
+        },
         {
           "name": "CH162us",
           "url": "https://envivo.govoet.my.id/162"
