@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-01-12T04:00:49.920592+00:00",
+  "last_updated": "2026-01-12T05:04:12.039023+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-12T02:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Golden State Warriors - Atlanta Hawks",
-      "channels": [
-        {
-          "name": "CH176us",
-          "url": "https://envivo.govoet.my.id/176"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-12T03:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Sacramento Kings - Houston Rockets",
-      "channels": [
-        {
-          "name": "CH177us",
-          "url": "https://envivo.govoet.my.id/177"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-12T18:30:00+01:00",
       "competition": "Saudi Pro League",
