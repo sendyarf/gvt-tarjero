@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-13T17:53:01.486647+00:00",
+  "last_updated": "2026-01-13T18:36:11.196494+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-13T16:00:00+01:00",
-      "competition": "Coupe De Turquie",
-      "teams": "Gaziantep - Kocaelispor",
-      "channels": [
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-13T18:30:00+01:00",
       "competition": "Bundesliga",
