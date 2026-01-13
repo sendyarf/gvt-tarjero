@@ -1,52 +1,7 @@
 {
-  "last_updated": "2026-01-13T19:40:22.590297+00:00",
+  "last_updated": "2026-01-13T20:29:43.157472+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-13T18:30:00+01:00",
-      "competition": "Bundesliga",
-      "teams": "Stuttgart - Eintracht Francfort",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        },
-        {
-          "name": "CH111de",
-          "url": "https://envivo.govoet.my.id/111"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-13T18:30:00+01:00",
-      "competition": "Coupe De Turquie",
-      "teams": "Fethiyespor - Galatasaray",
-      "channels": [
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-13T18:30:00+01:00",
-      "competition": "Saudi Pro League",
-      "teams": "Damac - Al-Ittihad FC",
-      "channels": [
-        {
-          "name": "CH55es",
-          "url": "https://envivo.govoet.my.id/55"
-        },
-        {
-          "name": "CH61es",
-          "url": "https://envivo.govoet.my.id/61"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-13T20:30:00+01:00",
       "competition": "Bundesliga",
@@ -178,6 +133,10 @@
           "url": "https://envivo.govoet.my.id/1"
         },
         {
+          "name": "CH70es",
+          "url": "https://envivo.govoet.my.id/70"
+        },
+        {
           "name": "CH94es",
           "url": "https://envivo.govoet.my.id/94"
         },
@@ -208,8 +167,8 @@
           "url": "https://envivo.govoet.my.id/49"
         },
         {
-          "name": "CH82es",
-          "url": "https://envivo.govoet.my.id/82"
+          "name": "CH81es",
+          "url": "https://envivo.govoet.my.id/81"
         }
       ]
     },
