@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-01-14T17:52:39.885409+00:00",
+  "last_updated": "2026-01-14T18:38:20.578961+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-14T16:00:00+01:00",
-      "competition": "Coupe De Grèce",
-      "teams": "AEK - OFI Crete",
-      "channels": [
-        {
-          "name": "CH150gr",
-          "url": "https://envivo.govoet.my.id/150"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-14T16:00:00+01:00",
-      "competition": "Coupe De Turquie",
-      "teams": "Istanbulspor - Trabzonspor",
-      "channels": [
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-14T17:30:00+01:00",
       "competition": "Coupe De Grèce",
