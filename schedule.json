@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-01-14T21:45:29.489321+00:00",
+  "last_updated": "2026-01-14T22:26:30.833901+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-14T20:00:00+01:00",
-      "competition": "Knvb Beker",
-      "teams": "Almere City - Telstar",
-      "channels": [
-        {
-          "name": "CH147nl",
-          "url": "https://envivo.govoet.my.id/147"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-14T20:00:00+01:00",
-      "competition": "Knvb Beker",
-      "teams": "G.A. Eagles - Heracles",
-      "channels": [
-        {
-          "name": "CH143nl",
-          "url": "https://envivo.govoet.my.id/143"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-14T20:30:00+01:00",
       "competition": "Bundesliga",
