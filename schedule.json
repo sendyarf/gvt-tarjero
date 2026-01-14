@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-14T17:29:35.392972+00:00",
+  "last_updated": "2026-01-14T17:52:39.885409+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -59,17 +59,6 @@
         {
           "name": "CH125de",
           "url": "https://envivo.govoet.my.id/125"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-14T18:30:00+01:00",
-      "competition": "Bundesliga",
-      "teams": "bundesliga konferenz -",
-      "channels": [
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
         }
       ]
     },
@@ -223,6 +212,17 @@
         {
           "name": "CH143nl",
           "url": "https://envivo.govoet.my.id/143"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-14T20:30:00+01:00",
+      "competition": "Bundesliga",
+      "teams": "bundesliga konferenz -",
+      "channels": [
+        {
+          "name": "CH123de",
+          "url": "https://envivo.govoet.my.id/123"
         }
       ]
     },
