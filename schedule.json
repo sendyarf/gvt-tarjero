@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-14T12:55:14.090692+00:00",
+  "last_updated": "2026-01-14T13:42:38.341204+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-14T11:00:00+01:00",
-      "competition": "Coupe De Turquie",
-      "teams": "Aliaga - Samsunspor",
-      "channels": [
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-14T13:30:00+01:00",
       "competition": "Coupe De Turquie",
