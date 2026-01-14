@@ -1,44 +1,7 @@
 {
-  "last_updated": "2026-01-14T21:25:53.638348+00:00",
+  "last_updated": "2026-01-14T21:45:29.489321+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-14T19:30:00+01:00",
-      "competition": "Coupe De Grèce",
-      "teams": "Panathinaikos - Aris",
-      "channels": [
-        {
-          "name": "CH148gr",
-          "url": "https://envivo.govoet.my.id/148"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-14T19:30:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Partizan - Olympiakos",
-      "channels": [
-        {
-          "name": "CH62es",
-          "url": "https://envivo.govoet.my.id/62"
-        },
-        {
-          "name": "CH95es",
-          "url": "https://envivo.govoet.my.id/95"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-14T19:45:00+01:00",
-      "competition": "Coupe Du Portugal",
-      "teams": "Fafe - Braga",
-      "channels": [
-        {
-          "name": "CH145pt",
-          "url": "https://envivo.govoet.my.id/145"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-14T20:00:00+01:00",
       "competition": "Knvb Beker",
