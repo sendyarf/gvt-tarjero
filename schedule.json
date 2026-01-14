@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-14T15:29:42.386891+00:00",
+  "last_updated": "2026-01-14T15:50:01.335833+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-14T13:30:00+01:00",
-      "competition": "Coupe De Turquie",
-      "teams": "Antalyaspor - Genclerbirligi",
-      "channels": [
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-14T14:00:00+01:00",
       "competition": "Coupe De Grèce",
