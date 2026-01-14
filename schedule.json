@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-13T23:41:47.804352+00:00",
+  "last_updated": "2026-01-14T02:04:09.357127+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-14T00:00:00+01:00",
-      "competition": "Liga Mx",
-      "teams": "Puebla - Mazatlan FC",
-      "channels": [
-        {
-          "name": "CH108es",
-          "url": "https://envivo.govoet.my.id/108"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-14T01:00:00+01:00",
       "competition": "NHL",
