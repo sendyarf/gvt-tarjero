@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-14T15:50:01.335833+00:00",
+  "last_updated": "2026-01-14T16:35:34.474592+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-14T14:00:00+01:00",
-      "competition": "Coupe De Grèce",
-      "teams": "Levadiakos - Kifisia",
-      "channels": [
-        {
-          "name": "CH148gr",
-          "url": "https://envivo.govoet.my.id/148"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-14T16:00:00+01:00",
       "competition": "Coupe De Grèce",
