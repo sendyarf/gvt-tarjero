@@ -1,34 +1,7 @@
 {
-  "last_updated": "2026-01-15T05:28:52.949544+00:00",
+  "last_updated": "2026-01-15T05:50:50.140567+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-15T03:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Dallas Mavericks - Denver Nuggets",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH184us",
-          "url": "https://envivo.govoet.my.id/184"
-        },
-        {
-          "name": "CH156es",
-          "url": "https://envivo.govoet.my.id/156"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-15T04:00:00+01:00",
       "competition": "NBA",
