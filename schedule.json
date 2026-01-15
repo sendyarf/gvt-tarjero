@@ -1,52 +1,7 @@
 {
-  "last_updated": "2026-01-15T22:47:28.382409+00:00",
+  "last_updated": "2026-01-15T23:25:00.739636+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-15T21:00:00+01:00",
-      "competition": "Coupe Du Roi",
-      "teams": "Burgos CF - Valence",
-      "channels": [
-        {
-          "name": "CH162es",
-          "url": "https://envivo.govoet.my.id/162"
-        },
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-15T21:00:00+01:00",
-      "competition": "Coupe Du Roi",
-      "teams": "Racing Santander - Barcelone",
-      "channels": [
-        {
-          "name": "CH46fr",
-          "url": "https://envivo.govoet.my.id/46"
-        },
-        {
-          "name": "CH49es",
-          "url": "https://envivo.govoet.my.id/49"
-        },
-        {
-          "name": "CH82es",
-          "url": "https://envivo.govoet.my.id/82"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-15T21:00:00+01:00",
-      "competition": "Knvb Beker",
-      "teams": "Sparta Rotterdam - FC Volendam",
-      "channels": [
-        {
-          "name": "CH141nl",
-          "url": "https://envivo.govoet.my.id/141"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-16T01:00:00+01:00",
       "competition": "NBA",
