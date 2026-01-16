@@ -1,62 +1,7 @@
 {
-  "last_updated": "2026-01-16T03:49:58.924480+00:00",
+  "last_updated": "2026-01-16T04:42:46.672104+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-16T02:00:00+01:00",
-      "competition": "NBA",
-      "teams": "San Antonio Spurs - Milwaukee Bucks",
-      "channels": [
-        {
-          "name": "CH174us",
-          "url": "https://envivo.govoet.my.id/174"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-16T02:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Boston Bruins - Seattle Kraken",
-      "channels": [
-        {
-          "name": "CH183us",
-          "url": "https://envivo.govoet.my.id/183"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-16T02:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Minnesota Wild - Winnipeg Jets",
-      "channels": [
-        {
-          "name": "CH184us",
-          "url": "https://envivo.govoet.my.id/184"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-16T02:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Dallas Mavericks - Utah Jazz",
-      "channels": [
-        {
-          "name": "CH175us",
-          "url": "https://envivo.govoet.my.id/175"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-16T02:30:00+01:00",
-      "competition": "NHL",
-      "teams": "Chicago Blackhawks - Calgary Flames",
-      "channels": [
-        {
-          "name": "CH185us",
-          "url": "https://envivo.govoet.my.id/185"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-16T03:00:00+01:00",
       "competition": "NHL",
