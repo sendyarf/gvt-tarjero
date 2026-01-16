@@ -1,56 +1,7 @@
 {
-  "last_updated": "2026-01-16T20:44:29.287341+00:00",
+  "last_updated": "2026-01-16T21:24:40.992276+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-16T18:45:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Fenerbahce - Valence",
-      "channels": [
-        {
-          "name": "CH63es",
-          "url": "https://envivo.govoet.my.id/63"
-        },
-        {
-          "name": "CH95es",
-          "url": "https://envivo.govoet.my.id/95"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-16T19:00:00+01:00",
-      "competition": "Ligue 1",
-      "teams": "Monaco - Lorient",
-      "channels": [
-        {
-          "name": "CH20fr",
-          "url": "https://envivo.govoet.my.id/20"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-16T19:00:00+01:00",
-      "competition": "Pro D2",
-      "teams": "USO Nevers Rugby - Provence Rugby",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-16T19:30:00+01:00",
       "competition": "National",
