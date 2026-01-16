@@ -1,39 +1,5 @@
 {
-  "last_updated": "2026-01-16T05:50:46.109108+00:00",
+  "last_updated": "2026-01-16T06:39:29.040378+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2026-01-16T04:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Golden State Warriors - New York Knicks",
-      "channels": [
-        {
-          "name": "CH176us",
-          "url": "https://envivo.govoet.my.id/176"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-16T04:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Portland Trail Blazers - Atlanta Hawks",
-      "channels": [
-        {
-          "name": "CH177us",
-          "url": "https://envivo.govoet.my.id/177"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-16T04:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Los Angeles Lakers - Charlotte Hornets",
-      "channels": [
-        {
-          "name": "CH178us",
-          "url": "https://envivo.govoet.my.id/178"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
