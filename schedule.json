@@ -1,63 +1,7 @@
 {
-  "last_updated": "2026-01-16T20:25:41.059203+00:00",
+  "last_updated": "2026-01-16T20:44:29.287341+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-16T18:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "bundesliga 2 konferenz -",
-      "channels": [
-        {
-          "name": "CH112de",
-          "url": "https://envivo.govoet.my.id/112"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-16T18:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Braunschweig - Magdeburg",
-      "channels": [
-        {
-          "name": "CH114de",
-          "url": "https://envivo.govoet.my.id/114"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-16T18:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Düsseldorf - Arminia Bielefeld",
-      "channels": [
-        {
-          "name": "CH113de",
-          "url": "https://envivo.govoet.my.id/113"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-16T18:30:00+01:00",
-      "competition": "Saudi Pro League",
-      "teams": "Al-Ittihad FC - Al-Ettifaq",
-      "channels": [
-        {
-          "name": "CH45fr",
-          "url": "https://envivo.govoet.my.id/45"
-        },
-        {
-          "name": "CH125de",
-          "url": "https://envivo.govoet.my.id/125"
-        },
-        {
-          "name": "CH61es",
-          "url": "https://envivo.govoet.my.id/61"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-16T18:45:00+01:00",
       "competition": "EuroLeague",
