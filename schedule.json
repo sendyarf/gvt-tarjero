@@ -1,26 +1,7 @@
 {
-  "last_updated": "2026-01-16T05:29:02.111401+00:00",
+  "last_updated": "2026-01-16T05:50:46.109108+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-16T03:30:00+01:00",
-      "competition": "NHL",
-      "teams": "Vegas Golden Knights - Toronto Maple Leafs",
-      "channels": [
-        {
-          "name": "CH188us",
-          "url": "https://envivo.govoet.my.id/188"
-        },
-        {
-          "name": "CH89es",
-          "url": "https://envivo.govoet.my.id/89"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-16T04:00:00+01:00",
       "competition": "NBA",
