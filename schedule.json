@@ -1,55 +1,7 @@
 {
-  "last_updated": "2026-01-17T14:21:46.108362+00:00",
+  "last_updated": "2026-01-17T14:43:19.455528+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-17T13:00:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "bundesliga 2 konferenz -",
-      "channels": [
-        {
-          "name": "CH112de",
-          "url": "https://envivo.govoet.my.id/112"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-17T13:00:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Dynamo Dresde - Greuther Fürth",
-      "channels": [
-        {
-          "name": "CH114de",
-          "url": "https://envivo.govoet.my.id/114"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-17T13:00:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Münster - Karlsruher",
-      "channels": [
-        {
-          "name": "CH115de",
-          "url": "https://envivo.govoet.my.id/115"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-17T13:00:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Nurnberg - Elversberg",
-      "channels": [
-        {
-          "name": "CH5fr",
-          "url": "https://envivo.govoet.my.id/5"
-        },
-        {
-          "name": "CH113de",
-          "url": "https://envivo.govoet.my.id/113"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-17T13:30:00+01:00",
       "competition": "Championship",
@@ -293,10 +245,6 @@
       "teams": "FC Cologne - Mayence",
       "channels": [
         {
-          "name": "CH10fr",
-          "url": "https://envivo.govoet.my.id/10"
-        },
-        {
           "name": "CH113de",
           "url": "https://envivo.govoet.my.id/113"
         },
@@ -311,10 +259,6 @@
       "competition": "Bundesliga",
       "teams": "Hambourg SV - B. Monchengladbach",
       "channels": [
-        {
-          "name": "CH10fr",
-          "url": "https://envivo.govoet.my.id/10"
-        },
         {
           "name": "CH112de",
           "url": "https://envivo.govoet.my.id/112"
@@ -349,10 +293,6 @@
       "competition": "Bundesliga",
       "teams": "Wolfsburg - Heidenheim",
       "channels": [
-        {
-          "name": "CH10fr",
-          "url": "https://envivo.govoet.my.id/10"
-        },
         {
           "name": "CH115de",
           "url": "https://envivo.govoet.my.id/115"
