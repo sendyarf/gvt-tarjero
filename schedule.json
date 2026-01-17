@@ -1,44 +1,7 @@
 {
-  "last_updated": "2026-01-17T22:23:00.311800+00:00",
+  "last_updated": "2026-01-17T22:44:16.475331+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-17T20:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Hertha Berlin - Schalke 04",
-      "channels": [
-        {
-          "name": "CH112de",
-          "url": "https://envivo.govoet.my.id/112"
-        },
-        {
-          "name": "CH80es",
-          "url": "https://envivo.govoet.my.id/80"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-17T20:30:00+01:00",
-      "competition": "Euro masculin de Handball",
-      "teams": "République Tchèque - Norvège",
-      "channels": [
-        {
-          "name": "CH6fr",
-          "url": "https://envivo.govoet.my.id/6"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-17T20:30:00+01:00",
-      "competition": "Euro masculin de Handball",
-      "teams": "Serbie - Allemagne",
-      "channels": [
-        {
-          "name": "CH10fr",
-          "url": "https://envivo.govoet.my.id/10"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-17T20:45:00+01:00",
       "competition": "Pro League",
