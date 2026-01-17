@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-17T16:27:23.873204+00:00",
+  "last_updated": "2026-01-17T16:42:43.979830+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-17T14:30:00+01:00",
-      "competition": "Betfred Super League",
-      "teams": "Panserraikos - Kifisia",
-      "channels": [
-        {
-          "name": "CH148gr",
-          "url": "https://envivo.govoet.my.id/148"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-17T15:00:00+01:00",
       "competition": "Serie A",
