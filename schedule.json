@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-17T04:52:30.455236+00:00",
+  "last_updated": "2026-01-17T05:23:39.897466+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-17T03:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Colorado Avalanche - Nashville Predators",
-      "channels": [
-        {
-          "name": "CH189us",
-          "url": "https://envivo.govoet.my.id/189"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-17T03:30:00+01:00",
       "competition": "NBA",
