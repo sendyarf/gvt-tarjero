@@ -1,56 +1,7 @@
 {
-  "last_updated": "2026-01-18T14:21:17.654906+00:00",
+  "last_updated": "2026-01-18T14:42:37.821655+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-18T12:30:00+01:00",
-      "competition": "Liga Endesa",
-      "teams": "Joventut - Basquet Girona",
-      "channels": [
-        {
-          "name": "CH156es",
-          "url": "https://envivo.govoet.my.id/156"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-18T12:30:00+01:00",
-      "competition": "Serie A",
-      "teams": "Parme - Genoa",
-      "channels": [
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-18T12:30:00+01:00",
-      "competition": "Super Lig",
-      "teams": "Kasimpasa - Antalyaspor",
-      "channels": [
-        {
-          "name": "CH152tr",
-          "url": "https://envivo.govoet.my.id/152"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-18T13:00:00+01:00",
       "competition": "D1 Féminin",
