@@ -1,74 +1,7 @@
 {
-  "last_updated": "2026-01-18T18:32:17.325622+00:00",
+  "last_updated": "2026-01-18T19:18:38.768153+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-18T16:45:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "Feyenoord - Sparta Rotterdam",
-      "channels": [
-        {
-          "name": "CH142nl",
-          "url": "https://envivo.govoet.my.id/142"
-        },
-        {
-          "name": "CH99es",
-          "url": "https://envivo.govoet.my.id/99"
-        },
-        {
-          "name": "CH125de",
-          "url": "https://envivo.govoet.my.id/125"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-18T17:00:00+01:00",
-      "competition": "Liga Endesa",
-      "teams": "Baskonia - Manresa",
-      "channels": [
-        {
-          "name": "CH157es",
-          "url": "https://envivo.govoet.my.id/157"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-18T17:15:00+01:00",
-      "competition": "Ligue 1",
-      "teams": "Duplex Ligue 1 -",
-      "channels": [
-        {
-          "name": "CH20fr",
-          "url": "https://envivo.govoet.my.id/20"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-18T17:15:00+01:00",
-      "competition": "Ligue 1",
-      "teams": "Nantes - Paris FC",
-      "channels": [
-        {
-          "name": "CH21fr",
-          "url": "https://envivo.govoet.my.id/21"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-18T17:15:00+01:00",
-      "competition": "Ligue 1",
-      "teams": "Rennes - Le Havre",
-      "channels": [
-        {
-          "name": "CH22fr",
-          "url": "https://envivo.govoet.my.id/22"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-18T17:30:00+01:00",
       "competition": "Bundesliga",
