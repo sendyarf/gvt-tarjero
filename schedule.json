@@ -1,26 +1,7 @@
 {
-  "last_updated": "2026-01-18T17:20:27.091173+00:00",
+  "last_updated": "2026-01-18T17:42:22.530829+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-18T15:30:00+01:00",
-      "competition": "Bundesliga",
-      "teams": "Stuttgart - Union Berlin",
-      "channels": [
-        {
-          "name": "CH3fr",
-          "url": "https://envivo.govoet.my.id/3"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-18T16:00:00+01:00",
       "competition": "Betfred Super League",
