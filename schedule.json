@@ -1,74 +1,7 @@
 {
-  "last_updated": "2026-01-18T21:40:54.036359+00:00",
+  "last_updated": "2026-01-18T22:22:57.427881+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-18T19:15:00+01:00",
-      "competition": "Pro League",
-      "teams": "Saint-Trond - Louvain",
-      "channels": [
-        {
-          "name": "CH154fr",
-          "url": "https://envivo.govoet.my.id/154"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-18T20:00:00+01:00",
-      "competition": "Betfred Super League",
-      "teams": "AEK - Panathinaikos",
-      "channels": [
-        {
-          "name": "CH150gr",
-          "url": "https://envivo.govoet.my.id/150"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-18T20:00:00+01:00",
-      "competition": "CAN",
-      "teams": "Sénégal - Maroc",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH61es",
-          "url": "https://envivo.govoet.my.id/61"
-        },
-        {
-          "name": "CH125de",
-          "url": "https://envivo.govoet.my.id/125"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-18T20:00:00+01:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Pasto - Ind. Medellin",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-18T20:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Dallas Stars - Tampa Bay Lightning",
-      "channels": [
-        {
-          "name": "CH171us",
-          "url": "https://envivo.govoet.my.id/171"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-18T20:30:00+01:00",
       "competition": "Euro masculin de Handball",
