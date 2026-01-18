@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-01-18T16:29:03.857876+00:00",
+  "last_updated": "2026-01-18T16:44:21.834982+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-18T14:30:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "FC Volendam - Utrecht",
-      "channels": [
-        {
-          "name": "CH143nl",
-          "url": "https://envivo.govoet.my.id/143"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-18T14:30:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "Heracles - Twente",
-      "channels": [
-        {
-          "name": "CH141nl",
-          "url": "https://envivo.govoet.my.id/141"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-18T15:00:00+01:00",
       "competition": "Ligue 1",
