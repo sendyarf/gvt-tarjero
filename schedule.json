@@ -1,44 +1,7 @@
 {
-  "last_updated": "2026-01-18T20:44:57.441361+00:00",
+  "last_updated": "2026-01-18T21:21:07.107388+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-18T19:00:00+01:00",
-      "competition": "Liga Endesa",
-      "teams": "Real Madrid - Valence",
-      "channels": [
-        {
-          "name": "CH156es",
-          "url": "https://envivo.govoet.my.id/156"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-18T19:00:00+01:00",
-      "competition": "Liga Mx",
-      "teams": "U.N.A.M. - Leon",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        },
-        {
-          "name": "CH106es",
-          "url": "https://envivo.govoet.my.id/106"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-18T19:00:00+01:00",
-      "competition": "Liga Portugal",
-      "teams": "Tondela - Braga",
-      "channels": [
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-18T19:15:00+01:00",
       "competition": "Pro League",
