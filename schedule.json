@@ -1,22 +1,7 @@
 {
-  "last_updated": "2026-01-18T23:22:53.667600+00:00",
+  "last_updated": "2026-01-18T23:42:17.320070+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-18T21:30:00+01:00",
-      "competition": "Liga Portugal",
-      "teams": "Guimaraes - FC Porto",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        },
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-18T22:10:00+01:00",
       "competition": "Liga Betplay Dimayor",
