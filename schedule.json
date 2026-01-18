@@ -1,57 +1,7 @@
 {
-  "last_updated": "2026-01-18T19:18:38.768153+00:00",
+  "last_updated": "2026-01-18T19:38:38.776767+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-18T17:30:00+01:00",
-      "competition": "Bundesliga",
-      "teams": "Augsburg - Fribourg",
-      "channels": [
-        {
-          "name": "CH7fr",
-          "url": "https://envivo.govoet.my.id/7"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-18T17:30:00+01:00",
-      "competition": "Premier League",
-      "teams": "Aston Villa - Everton",
-      "channels": [
-        {
-          "name": "CH11fr",
-          "url": "https://envivo.govoet.my.id/11"
-        },
-        {
-          "name": "CH127gb",
-          "url": "https://envivo.govoet.my.id/127"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        },
-        {
-          "name": "CH120de",
-          "url": "https://envivo.govoet.my.id/120"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH73es",
-          "url": "https://envivo.govoet.my.id/73"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-18T18:00:00+01:00",
       "competition": "Betfred Super League",
