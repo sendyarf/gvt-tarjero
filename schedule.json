@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-18T04:45:23.918744+00:00",
+  "last_updated": "2026-01-18T05:26:47.366397+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-18T03:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Denver Nuggets - Washington Wizards",
-      "channels": [
-        {
-          "name": "CH189us",
-          "url": "https://envivo.govoet.my.id/189"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-18T04:00:00+01:00",
       "competition": "NBA",
