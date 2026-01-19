@@ -1,22 +1,7 @@
 {
-  "last_updated": "2026-01-19T20:28:44.215615+00:00",
+  "last_updated": "2026-01-19T20:48:43.509551+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-19T18:30:00+01:00",
-      "competition": "Serie A",
-      "teams": "Cremonese - Hellas Vérone",
-      "channels": [
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-19T19:00:00+01:00",
       "competition": "Betfred Super League",
