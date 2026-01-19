@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-19T18:37:18.175002+00:00",
+  "last_updated": "2026-01-19T19:21:47.825008+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-19T17:00:00+01:00",
-      "competition": "Betfred Super League",
-      "teams": "Panetolikos - Levadiakos",
-      "channels": [
-        {
-          "name": "CH148gr",
-          "url": "https://envivo.govoet.my.id/148"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-19T18:00:00+01:00",
       "competition": "Euro masculin de Handball",
