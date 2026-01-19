@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-19T21:23:30.645738+00:00",
+  "last_updated": "2026-01-19T21:43:00.086645+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-19T19:30:00+01:00",
-      "competition": "NHL",
-      "teams": "Carolina Hurricanes - Buffalo Sabres",
-      "channels": [
-        {
-          "name": "CH171us",
-          "url": "https://envivo.govoet.my.id/171"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-19T20:30:00+01:00",
       "competition": "Euro masculin de Handball",
