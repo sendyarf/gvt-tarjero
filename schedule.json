@@ -1,37 +1,7 @@
 {
-  "last_updated": "2026-01-19T20:48:43.509551+00:00",
+  "last_updated": "2026-01-19T21:23:30.645738+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-19T19:00:00+01:00",
-      "competition": "Betfred Super League",
-      "teams": "Volos - Atromitos",
-      "channels": [
-        {
-          "name": "CH149gr",
-          "url": "https://envivo.govoet.my.id/149"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-19T19:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Atlanta Hawks - Milwaukee Bucks",
-      "channels": [
-        {
-          "name": "CH6fr",
-          "url": "https://envivo.govoet.my.id/6"
-        },
-        {
-          "name": "CH170us",
-          "url": "https://envivo.govoet.my.id/170"
-        },
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-19T19:30:00+01:00",
       "competition": "NHL",
