@@ -1,62 +1,7 @@
 {
-  "last_updated": "2026-01-18T23:42:17.320070+00:00",
+  "last_updated": "2026-01-19T02:06:08.838673+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-18T22:10:00+01:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Jaguares de Cordoba - Dep. Cali",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-18T23:00:00+01:00",
-      "competition": "Copa Argentina",
-      "teams": "Ind. Rivadavia - CA Estudiantes",
-      "channels": [
-        {
-          "name": "CH77es",
-          "url": "https://envivo.govoet.my.id/77"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-18T23:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Detroit Red Wings - Ottawa Senators",
-      "channels": [
-        {
-          "name": "CH173us",
-          "url": "https://envivo.govoet.my.id/173"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-19T00:00:00+01:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Jaiba Brava - Tepatitlan de Morelos",
-      "channels": [
-        {
-          "name": "CH105es",
-          "url": "https://envivo.govoet.my.id/105"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-19T00:00:00+01:00",
-      "competition": "Liga Mx",
-      "teams": "Santos Laguna - Juarez",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-19T00:20:00+01:00",
       "competition": "Liga Betplay Dimayor",
