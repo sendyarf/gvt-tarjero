@@ -1,5 +1,777 @@
 {
-  "last_updated": "2026-01-20T07:31:10.880097+00:00",
+  "last_updated": "2026-01-20T08:37:14.472927+00:00",
   "timezone": "Europe/Paris",
-  "matches": []
+  "matches": [
+    {
+      "datetime": "2026-01-20T16:30:00+01:00",
+      "competition": "Ligue Des Champions",
+      "teams": "Kairat Almaty - Club Brugge",
+      "channels": [
+        {
+          "name": "CH12fr",
+          "url": "https://envivo.govoet.my.id/12"
+        },
+        {
+          "name": "CH161es",
+          "url": "https://envivo.govoet.my.id/161"
+        },
+        {
+          "name": "CH126gb",
+          "url": "https://envivo.govoet.my.id/126"
+        },
+        {
+          "name": "CH123de",
+          "url": "https://envivo.govoet.my.id/123"
+        },
+        {
+          "name": "CH139it",
+          "url": "https://envivo.govoet.my.id/139"
+        },
+        {
+          "name": "CH87es",
+          "url": "https://envivo.govoet.my.id/87"
+        },
+        {
+          "name": "CH78es",
+          "url": "https://envivo.govoet.my.id/78"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-20T18:00:00+01:00",
+      "competition": "Euro masculin de Handball",
+      "teams": "Monténégro - Suisse",
+      "channels": [
+        {
+          "name": "CH4fr",
+          "url": "https://envivo.govoet.my.id/4"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-20T18:15:00+01:00",
+      "competition": "EuroLeague",
+      "teams": "Olympiakos - Maccabi Tel Aviv",
+      "channels": [
+        {
+          "name": "CH67es",
+          "url": "https://envivo.govoet.my.id/67"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-20T18:30:00+01:00",
+      "competition": "EuroLeague",
+      "teams": "Hapoel Tel-Aviv - Anadolu Efes",
+      "channels": [
+        {
+          "name": "CH65es",
+          "url": "https://envivo.govoet.my.id/65"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-20T18:30:00+01:00",
+      "competition": "Saudi Pro League",
+      "teams": "Al Ahli SC - Al Khaleej",
+      "channels": [
+        {
+          "name": "CH55es",
+          "url": "https://envivo.govoet.my.id/55"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-20T18:45:00+01:00",
+      "competition": "EuroLeague",
+      "teams": "Monaco - Étoile Rouge Belgrade",
+      "channels": [
+        {
+          "name": "CH66es",
+          "url": "https://envivo.govoet.my.id/66"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-20T18:45:00+01:00",
+      "competition": "Knvb Beker",
+      "teams": "De Treffers - Nijmegen",
+      "channels": [
+        {
+          "name": "CH142nl",
+          "url": "https://envivo.govoet.my.id/142"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-20T18:45:00+01:00",
+      "competition": "Ligue Des Champions",
+      "teams": "Bodo/Glimt - Manchester City",
+      "channels": [
+        {
+          "name": "CH12fr",
+          "url": "https://envivo.govoet.my.id/12"
+        },
+        {
+          "name": "CH162es",
+          "url": "https://envivo.govoet.my.id/162"
+        },
+        {
+          "name": "CH129gb",
+          "url": "https://envivo.govoet.my.id/129"
+        },
+        {
+          "name": "CH124de",
+          "url": "https://envivo.govoet.my.id/124"
+        },
+        {
+          "name": "CH139it",
+          "url": "https://envivo.govoet.my.id/139"
+        },
+        {
+          "name": "CH87es",
+          "url": "https://envivo.govoet.my.id/87"
+        },
+        {
+          "name": "CH78es",
+          "url": "https://envivo.govoet.my.id/78"
+        },
+        {
+          "name": "CH68es",
+          "url": "https://envivo.govoet.my.id/68"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-20T20:00:00+01:00",
+      "competition": "EuroLeague",
+      "teams": "Lyon-Villeurbanne - Zalgiris Kaunas",
+      "channels": [
+        {
+          "name": "CH50es",
+          "url": "https://envivo.govoet.my.id/50"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-20T20:15:00+01:00",
+      "competition": "EuroLeague",
+      "teams": "Panathinaikos - Baskonia",
+      "channels": [
+        {
+          "name": "CH64es",
+          "url": "https://envivo.govoet.my.id/64"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-20T20:30:00+01:00",
+      "competition": "Euro masculin de Handball",
+      "teams": "Danemark - Portugal",
+      "channels": [
+        {
+          "name": "CH1fr",
+          "url": "https://envivo.govoet.my.id/1"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-20T20:30:00+01:00",
+      "competition": "Euro masculin de Handball",
+      "teams": "Hongrie - Islande",
+      "channels": [
+        {
+          "name": "CH4fr",
+          "url": "https://envivo.govoet.my.id/4"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-20T20:30:00+01:00",
+      "competition": "Euro masculin de Handball",
+      "teams": "Slovénie - Iles Féroé",
+      "channels": [
+        {
+          "name": "CH3fr",
+          "url": "https://envivo.govoet.my.id/3"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-20T20:30:00+01:00",
+      "competition": "EuroLeague",
+      "teams": "Barcelone - Dubai",
+      "channels": [
+        {
+          "name": "CH63es",
+          "url": "https://envivo.govoet.my.id/63"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-20T20:30:00+01:00",
+      "competition": "EuroLeague",
+      "teams": "Bayern - Partizan",
+      "channels": [
+        {
+          "name": "CH54es",
+          "url": "https://envivo.govoet.my.id/54"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-20T20:30:00+01:00",
+      "competition": "EuroLeague",
+      "teams": "Valence - Paris",
+      "channels": [
+        {
+          "name": "CH55es",
+          "url": "https://envivo.govoet.my.id/55"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-20T20:45:00+01:00",
+      "competition": "Championship",
+      "teams": "Charlton - Derby",
+      "channels": [
+        {
+          "name": "CH190gb",
+          "url": "https://envivo.govoet.my.id/190"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-20T20:45:00+01:00",
+      "competition": "Championship",
+      "teams": "Coventry - Millwall",
+      "channels": [
+        {
+          "name": "CH191gb",
+          "url": "https://envivo.govoet.my.id/191"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-20T20:45:00+01:00",
+      "competition": "Championship",
+      "teams": "Ipswich - Bristol City",
+      "channels": [
+        {
+          "name": "CH192gb",
+          "url": "https://envivo.govoet.my.id/192"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-20T20:45:00+01:00",
+      "competition": "Championship",
+      "teams": "Oxford Utd - QPR",
+      "channels": [
+        {
+          "name": "CH193gb",
+          "url": "https://envivo.govoet.my.id/193"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-20T20:45:00+01:00",
+      "competition": "Championship",
+      "teams": "Preston - Hull",
+      "channels": [
+        {
+          "name": "CH194gb",
+          "url": "https://envivo.govoet.my.id/194"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-20T20:45:00+01:00",
+      "competition": "Championship",
+      "teams": "Sheffield Wed - Birmingham",
+      "channels": [
+        {
+          "name": "CH195gb",
+          "url": "https://envivo.govoet.my.id/195"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-20T20:45:00+01:00",
+      "competition": "Championship",
+      "teams": "Swansea - Blackburn",
+      "channels": [
+        {
+          "name": "CH196gb",
+          "url": "https://envivo.govoet.my.id/196"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-20T20:45:00+01:00",
+      "competition": "Championship",
+      "teams": "West Brom - Norwich",
+      "channels": [
+        {
+          "name": "CH197gb",
+          "url": "https://envivo.govoet.my.id/197"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-20T20:45:00+01:00",
+      "competition": "EuroLeague",
+      "teams": "Real Madrid - Milano",
+      "channels": [
+        {
+          "name": "CH62es",
+          "url": "https://envivo.govoet.my.id/62"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-20T21:00:00+01:00",
+      "competition": "Championship",
+      "teams": "Wrexham - Leicester",
+      "channels": [
+        {
+          "name": "CH5fr",
+          "url": "https://envivo.govoet.my.id/5"
+        },
+        {
+          "name": "CH127gb",
+          "url": "https://envivo.govoet.my.id/127"
+        },
+        {
+          "name": "CH79es",
+          "url": "https://envivo.govoet.my.id/79"
+        },
+        {
+          "name": "CH98es",
+          "url": "https://envivo.govoet.my.id/98"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-20T21:00:00+01:00",
+      "competition": "Ligue Des Champions",
+      "teams": "Multiplex Ligue des Champions -",
+      "channels": [
+        {
+          "name": "CH14fr",
+          "url": "https://envivo.govoet.my.id/14"
+        },
+        {
+          "name": "CH164es",
+          "url": "https://envivo.govoet.my.id/164"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-20T21:00:00+01:00",
+      "competition": "Ligue Des Champions",
+      "teams": "FC Copenhague - Naples",
+      "channels": [
+        {
+          "name": "CH35fr",
+          "url": "https://envivo.govoet.my.id/35"
+        },
+        {
+          "name": "CH148es",
+          "url": "https://envivo.govoet.my.id/148"
+        },
+        {
+          "name": "CH138it",
+          "url": "https://envivo.govoet.my.id/138"
+        },
+        {
+          "name": "CH92es",
+          "url": "https://envivo.govoet.my.id/92"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-20T21:00:00+01:00",
+      "competition": "Ligue Des Champions",
+      "teams": "Inter - Arsenal",
+      "channels": [
+        {
+          "name": "CH33fr",
+          "url": "https://envivo.govoet.my.id/33"
+        },
+        {
+          "name": "CH163es",
+          "url": "https://envivo.govoet.my.id/163"
+        },
+        {
+          "name": "CH132gb",
+          "url": "https://envivo.govoet.my.id/132"
+        },
+        {
+          "name": "CH139it",
+          "url": "https://envivo.govoet.my.id/139"
+        },
+        {
+          "name": "CH88es",
+          "url": "https://envivo.govoet.my.id/88"
+        },
+        {
+          "name": "CH78es",
+          "url": "https://envivo.govoet.my.id/78"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-20T21:00:00+01:00",
+      "competition": "Ligue Des Champions",
+      "teams": "Olympiakos - Bayer Leverkusen",
+      "channels": [
+        {
+          "name": "CH37fr",
+          "url": "https://envivo.govoet.my.id/37"
+        },
+        {
+          "name": "CH167es",
+          "url": "https://envivo.govoet.my.id/167"
+        },
+        {
+          "name": "CH123de",
+          "url": "https://envivo.govoet.my.id/123"
+        },
+        {
+          "name": "CH90es",
+          "url": "https://envivo.govoet.my.id/90"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-20T21:00:00+01:00",
+      "competition": "Ligue Des Champions",
+      "teams": "Real Madrid - Monaco",
+      "channels": [
+        {
+          "name": "CH13fr",
+          "url": "https://envivo.govoet.my.id/13"
+        },
+        {
+          "name": "CH161es",
+          "url": "https://envivo.govoet.my.id/161"
+        },
+        {
+          "name": "CH129gb",
+          "url": "https://envivo.govoet.my.id/129"
+        },
+        {
+          "name": "CH114de",
+          "url": "https://envivo.govoet.my.id/114"
+        },
+        {
+          "name": "CH87es",
+          "url": "https://envivo.govoet.my.id/87"
+        },
+        {
+          "name": "CH68es",
+          "url": "https://envivo.govoet.my.id/68"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-20T21:00:00+01:00",
+      "competition": "Ligue Des Champions",
+      "teams": "Sporting - PSG",
+      "channels": [
+        {
+          "name": "CH12fr",
+          "url": "https://envivo.govoet.my.id/12"
+        },
+        {
+          "name": "CH166es",
+          "url": "https://envivo.govoet.my.id/166"
+        },
+        {
+          "name": "CH131us",
+          "url": "https://envivo.govoet.my.id/131"
+        },
+        {
+          "name": "CH91es",
+          "url": "https://envivo.govoet.my.id/91"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-20T21:00:00+01:00",
+      "competition": "Ligue Des Champions",
+      "teams": "Tottenham - Dortmund",
+      "channels": [
+        {
+          "name": "CH34fr",
+          "url": "https://envivo.govoet.my.id/34"
+        },
+        {
+          "name": "CH165es",
+          "url": "https://envivo.govoet.my.id/165"
+        },
+        {
+          "name": "CH112de",
+          "url": "https://envivo.govoet.my.id/112"
+        },
+        {
+          "name": "CH126gb",
+          "url": "https://envivo.govoet.my.id/126"
+        },
+        {
+          "name": "CH89es",
+          "url": "https://envivo.govoet.my.id/89"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-20T21:00:00+01:00",
+      "competition": "Ligue Des Champions",
+      "teams": "Villarreal - Ajax",
+      "channels": [
+        {
+          "name": "CH36fr",
+          "url": "https://envivo.govoet.my.id/36"
+        },
+        {
+          "name": "CH162es",
+          "url": "https://envivo.govoet.my.id/162"
+        },
+        {
+          "name": "CH00us",
+          "url": "https://envivo.govoet.my.id/00"
+        },
+        {
+          "name": "CH93es",
+          "url": "https://envivo.govoet.my.id/93"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-20T23:00:00+01:00",
+      "competition": "Supercopa Chili",
+      "teams": "Huachipato - U. Catolica",
+      "channels": [
+        {
+          "name": "CH83es",
+          "url": "https://envivo.govoet.my.id/83"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-21T01:00:00+01:00",
+      "competition": "NBA",
+      "teams": "Philadelphia 76ers - Phoenix Suns",
+      "channels": [
+        {
+          "name": "CH170us",
+          "url": "https://envivo.govoet.my.id/170"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-21T01:00:00+01:00",
+      "competition": "NHL",
+      "teams": "Columbus Blue Jackets - Ottawa Senators",
+      "channels": [
+        {
+          "name": "CH177us",
+          "url": "https://envivo.govoet.my.id/177"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-21T01:00:00+01:00",
+      "competition": "NHL",
+      "teams": "Montreal Canadiens - Minnesota Wild",
+      "channels": [
+        {
+          "name": "CH178us",
+          "url": "https://envivo.govoet.my.id/178"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-21T01:00:00+01:00",
+      "competition": "NHL",
+      "teams": "Tampa Bay Lightning - San Jose Sharks",
+      "channels": [
+        {
+          "name": "CH179us",
+          "url": "https://envivo.govoet.my.id/179"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-21T01:30:00+01:00",
+      "competition": "NHL",
+      "teams": "Dallas Stars - Boston Bruins",
+      "channels": [
+        {
+          "name": "CH180us",
+          "url": "https://envivo.govoet.my.id/180"
+        },
+        {
+          "name": "CH90es",
+          "url": "https://envivo.govoet.my.id/90"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-21T02:00:00+01:00",
+      "competition": "Liga Mx Women",
+      "teams": "Pachuca F - Puebla F",
+      "channels": [
+        {
+          "name": "CH158es",
+          "url": "https://envivo.govoet.my.id/158"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-21T02:00:00+01:00",
+      "competition": "NBA",
+      "teams": "Chicago Bulls - Los Angeles Clippers",
+      "channels": [
+        {
+          "name": "CH171us",
+          "url": "https://envivo.govoet.my.id/171"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-21T02:00:00+01:00",
+      "competition": "NBA",
+      "teams": "Houston Rockets - San Antonio Spurs",
+      "channels": [
+        {
+          "name": "CH1fr",
+          "url": "https://envivo.govoet.my.id/1"
+        },
+        {
+          "name": "CH172us",
+          "url": "https://envivo.govoet.my.id/172"
+        },
+        {
+          "name": "CH75es",
+          "url": "https://envivo.govoet.my.id/75"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-21T02:00:00+01:00",
+      "competition": "NHL",
+      "teams": "Nashville Predators - Buffalo Sabres",
+      "channels": [
+        {
+          "name": "CH181us",
+          "url": "https://envivo.govoet.my.id/181"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-21T02:00:00+01:00",
+      "competition": "NHL",
+      "teams": "Winnipeg Jets - St. Louis Blues",
+      "channels": [
+        {
+          "name": "CH182us",
+          "url": "https://envivo.govoet.my.id/182"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-21T03:00:00+01:00",
+      "competition": "Liga Mx Women",
+      "teams": "Atl. San Luis F - Club America F",
+      "channels": [
+        {
+          "name": "CH97es",
+          "url": "https://envivo.govoet.my.id/97"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-21T03:00:00+01:00",
+      "competition": "NBA",
+      "teams": "Utah Jazz - Minnesota Timberwolves",
+      "channels": [
+        {
+          "name": "CH173us",
+          "url": "https://envivo.govoet.my.id/173"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-21T04:00:00+01:00",
+      "competition": "NBA",
+      "teams": "Denver Nuggets - Los Angeles Lakers",
+      "channels": [
+        {
+          "name": "CH174us",
+          "url": "https://envivo.govoet.my.id/174"
+        },
+        {
+          "name": "CH75es",
+          "url": "https://envivo.govoet.my.id/75"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-21T04:00:00+01:00",
+      "competition": "NBA",
+      "teams": "Golden State Warriors - Toronto Raptors",
+      "channels": [
+        {
+          "name": "CH175us",
+          "url": "https://envivo.govoet.my.id/175"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-21T04:00:00+01:00",
+      "competition": "NBA",
+      "teams": "Sacramento Kings - Miami Heat",
+      "channels": [
+        {
+          "name": "CH176us",
+          "url": "https://envivo.govoet.my.id/176"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-21T04:00:00+01:00",
+      "competition": "NHL",
+      "teams": "Edmonton Oilers - New Jersey Devils",
+      "channels": [
+        {
+          "name": "CH183us",
+          "url": "https://envivo.govoet.my.id/183"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-21T04:00:00+01:00",
+      "competition": "NHL",
+      "teams": "Los Angeles Kings - New York Rangers",
+      "channels": [
+        {
+          "name": "CH184us",
+          "url": "https://envivo.govoet.my.id/184"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-21T04:06:00+01:00",
+      "competition": "Liga Mx Women",
+      "teams": "Tijuana F - Juarez F",
+      "channels": [
+        {
+          "name": "CH158es",
+          "url": "https://envivo.govoet.my.id/158"
+        }
+      ]
+    }
+  ]
 }
