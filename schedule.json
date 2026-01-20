@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-20T18:42:41.970816+00:00",
+  "last_updated": "2026-01-20T20:13:54.120983+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-20T18:00:00+01:00",
-      "competition": "Euro masculin de Handball",
-      "teams": "Monténégro - Suisse",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-20T18:15:00+01:00",
       "competition": "EuroLeague",
@@ -342,8 +331,8 @@
           "url": "https://envivo.govoet.my.id/35"
         },
         {
-          "name": "CH148es",
-          "url": "https://envivo.govoet.my.id/148"
+          "name": "CH168es",
+          "url": "https://envivo.govoet.my.id/168"
         },
         {
           "name": "CH138it",
@@ -502,10 +491,6 @@
         {
           "name": "CH162es",
           "url": "https://envivo.govoet.my.id/162"
-        },
-        {
-          "name": "CH00us",
-          "url": "https://envivo.govoet.my.id/00"
         },
         {
           "name": "CH93es",
