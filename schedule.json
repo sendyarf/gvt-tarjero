@@ -1,48 +1,7 @@
 {
-  "last_updated": "2026-01-20T03:55:00.946552+00:00",
+  "last_updated": "2026-01-20T04:49:26.559027+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-20T02:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Detroit Pistons - Boston Celtics",
-      "channels": [
-        {
-          "name": "CH6fr",
-          "url": "https://envivo.govoet.my.id/6"
-        },
-        {
-          "name": "CH182us",
-          "url": "https://envivo.govoet.my.id/182"
-        },
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-20T02:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Vegas Golden Knights - Philadelphia Flyers",
-      "channels": [
-        {
-          "name": "CH183us",
-          "url": "https://envivo.govoet.my.id/183"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-20T02:30:00+01:00",
-      "competition": "NHL",
-      "teams": "Chicago Blackhawks - Winnipeg Jets",
-      "channels": [
-        {
-          "name": "CH184us",
-          "url": "https://envivo.govoet.my.id/184"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-20T03:00:00+01:00",
       "competition": "NHL",
