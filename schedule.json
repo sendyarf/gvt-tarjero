@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-20T04:49:26.559027+00:00",
+  "last_updated": "2026-01-20T05:32:19.081534+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-20T03:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Calgary Flames - New Jersey Devils",
-      "channels": [
-        {
-          "name": "CH185us",
-          "url": "https://envivo.govoet.my.id/185"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-20T04:00:00+01:00",
       "competition": "NBA",
