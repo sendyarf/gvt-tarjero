@@ -1,42 +1,7 @@
 {
-  "last_updated": "2026-01-20T17:33:07.989164+00:00",
+  "last_updated": "2026-01-20T18:42:41.970816+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-20T16:30:00+01:00",
-      "competition": "Ligue Des Champions",
-      "teams": "Kairat Almaty - Club Brugge",
-      "channels": [
-        {
-          "name": "CH12fr",
-          "url": "https://envivo.govoet.my.id/12"
-        },
-        {
-          "name": "CH161es",
-          "url": "https://envivo.govoet.my.id/161"
-        },
-        {
-          "name": "CH126gb",
-          "url": "https://envivo.govoet.my.id/126"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH139it",
-          "url": "https://envivo.govoet.my.id/139"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH78es",
-          "url": "https://envivo.govoet.my.id/78"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-20T18:00:00+01:00",
       "competition": "Euro masculin de Handball",
