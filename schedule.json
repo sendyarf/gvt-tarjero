@@ -1,40 +1,7 @@
 {
-  "last_updated": "2026-01-21T22:54:54.986343+00:00",
+  "last_updated": "2026-01-21T23:29:35.384751+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-21T21:00:00+01:00",
-      "competition": "Ligue Des Champions",
-      "teams": "Multiplex Ligue des Champions -",
-      "channels": [
-        {
-          "name": "CH14fr",
-          "url": "https://envivo.govoet.my.id/14"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-21T21:00:00+01:00",
-      "competition": "Ligue Des Champions",
-      "teams": "champions league konferenz -",
-      "channels": [
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-21T21:00:00+01:00",
-      "competition": "Ligue Des Champions",
-      "teams": "Multichampions en español -",
-      "channels": [
-        {
-          "name": "CH164es",
-          "url": "https://envivo.govoet.my.id/164"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-21T23:00:00+01:00",
       "competition": "Supercopa Chili",
