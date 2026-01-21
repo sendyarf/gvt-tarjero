@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-20T23:46:09.316546+00:00",
+  "last_updated": "2026-01-21T02:03:31.712077+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-20T23:00:00+01:00",
-      "competition": "Supercopa Chili",
-      "teams": "Huachipato - U. Catolica",
-      "channels": [
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-21T01:00:00+01:00",
       "competition": "NBA",
