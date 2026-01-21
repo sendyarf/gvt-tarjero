@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-01-21T04:48:35.834328+00:00",
+  "last_updated": "2026-01-21T05:32:16.785842+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-21T03:00:00+01:00",
-      "competition": "Liga Mx Women",
-      "teams": "Atl. San Luis F - Club America F",
-      "channels": [
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-21T03:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Utah Jazz - Minnesota Timberwolves",
-      "channels": [
-        {
-          "name": "CH173us",
-          "url": "https://envivo.govoet.my.id/173"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-21T04:00:00+01:00",
       "competition": "NBA",
