@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-21T23:51:05.152737+00:00",
+  "last_updated": "2026-01-22T02:04:40.488625+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-21T23:00:00+01:00",
-      "competition": "Supercopa Chili",
-      "teams": "Coquimbo - Limache",
-      "channels": [
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-22T01:00:00+01:00",
       "competition": "NBA",
