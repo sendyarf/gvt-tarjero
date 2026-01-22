@@ -1,40 +1,7 @@
 {
-  "last_updated": "2026-01-22T03:58:14.647576+00:00",
+  "last_updated": "2026-01-22T04:54:14.466789+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-22T02:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Memphis Grizzlies - Atlanta Hawks",
-      "channels": [
-        {
-          "name": "CH174us",
-          "url": "https://envivo.govoet.my.id/174"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-22T02:00:00+01:00",
-      "competition": "NBA",
-      "teams": "New Orleans Pelicans - Detroit Pistons",
-      "channels": [
-        {
-          "name": "CH175us",
-          "url": "https://envivo.govoet.my.id/175"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-22T02:06:00+01:00",
-      "competition": "Liga Mx Women",
-      "teams": "Guadalajara F - Queretaro F",
-      "channels": [
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-22T03:00:00+01:00",
       "competition": "NHL",
