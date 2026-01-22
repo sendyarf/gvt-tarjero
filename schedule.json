@@ -1,28 +1,5 @@
 {
-  "last_updated": "2026-01-22T05:31:49.803197+00:00",
+  "last_updated": "2026-01-22T06:40:39.930318+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2026-01-22T04:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Sacramento Kings - Toronto Raptors",
-      "channels": [
-        {
-          "name": "CH181us",
-          "url": "https://envivo.govoet.my.id/181"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-22T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Vancouver Canucks - Washington Capitals",
-      "channels": [
-        {
-          "name": "CH182us",
-          "url": "https://envivo.govoet.my.id/182"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
