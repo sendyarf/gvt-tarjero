@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-22T16:56:41.002045+00:00",
+  "last_updated": "2026-01-22T17:32:35.443996+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-22T15:30:00+01:00",
-      "competition": "Euro masculin de Handball",
-      "teams": "Allemagne - Portugal",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-22T18:00:00+01:00",
       "competition": "Euro masculin de Handball",
