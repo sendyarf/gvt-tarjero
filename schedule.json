@@ -1,74 +1,7 @@
 {
-  "last_updated": "2026-01-22T04:54:14.466789+00:00",
+  "last_updated": "2026-01-22T05:31:49.803197+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-22T03:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Colorado Avalanche - Anaheim Ducks",
-      "channels": [
-        {
-          "name": "CH176us",
-          "url": "https://envivo.govoet.my.id/176"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-22T03:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Utah Mammoth - Philadelphia Flyers",
-      "channels": [
-        {
-          "name": "CH177us",
-          "url": "https://envivo.govoet.my.id/177"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-22T03:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Milwaukee Bucks - Oklahoma City Thunder",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH178us",
-          "url": "https://envivo.govoet.my.id/178"
-        },
-        {
-          "name": "CH156es",
-          "url": "https://envivo.govoet.my.id/156"
-        },
-        {
-          "name": "CH90es",
-          "url": "https://envivo.govoet.my.id/90"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-22T03:30:00+01:00",
-      "competition": "NHL",
-      "teams": "Calgary Flames - Pittsburgh Penguins",
-      "channels": [
-        {
-          "name": "CH179us",
-          "url": "https://envivo.govoet.my.id/179"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-22T03:30:00+01:00",
-      "competition": "NHL",
-      "teams": "Seattle Kraken - New York Islanders",
-      "channels": [
-        {
-          "name": "CH180us",
-          "url": "https://envivo.govoet.my.id/180"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-22T04:00:00+01:00",
       "competition": "NBA",
