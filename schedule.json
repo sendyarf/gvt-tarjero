@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-23T16:53:12.264187+00:00",
+  "last_updated": "2026-01-23T17:27:55.335592+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -84,6 +84,10 @@
         {
           "name": "CH78es",
           "url": "https://envivo.govoet.my.id/78"
+        },
+        {
+          "name": "CH113de",
+          "url": "https://envivo.govoet.my.id/113"
         }
       ]
     },
@@ -206,6 +210,10 @@
         {
           "name": "CH138it",
           "url": "https://envivo.govoet.my.id/138"
+        },
+        {
+          "name": "CH69es",
+          "url": "https://envivo.govoet.my.id/69"
         }
       ]
     },
@@ -285,12 +293,12 @@
           "url": "https://envivo.govoet.my.id/2"
         },
         {
-          "name": "CH55es",
-          "url": "https://envivo.govoet.my.id/55"
-        },
-        {
           "name": "CH111de",
           "url": "https://envivo.govoet.my.id/111"
+        },
+        {
+          "name": "CH55es",
+          "url": "https://envivo.govoet.my.id/55"
         }
       ]
     },
@@ -370,16 +378,16 @@
           "url": "https://envivo.govoet.my.id/45"
         },
         {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
           "name": "CH137it",
           "url": "https://envivo.govoet.my.id/137"
         },
         {
           "name": "CH145pt",
           "url": "https://envivo.govoet.my.id/145"
+        },
+        {
+          "name": "CH88es",
+          "url": "https://envivo.govoet.my.id/88"
         }
       ]
     },
@@ -393,16 +401,16 @@
           "url": "https://envivo.govoet.my.id/10"
         },
         {
-          "name": "CH99es",
-          "url": "https://envivo.govoet.my.id/99"
-        },
-        {
           "name": "CH127gb",
           "url": "https://envivo.govoet.my.id/127"
         },
         {
           "name": "CH128gb",
           "url": "https://envivo.govoet.my.id/128"
+        },
+        {
+          "name": "CH99es",
+          "url": "https://envivo.govoet.my.id/99"
         }
       ]
     },
@@ -420,20 +428,12 @@
           "url": "https://envivo.govoet.my.id/51"
         },
         {
-          "name": "CH50es",
-          "url": "https://envivo.govoet.my.id/50"
-        },
-        {
           "name": "CH71es",
           "url": "https://envivo.govoet.my.id/71"
         },
         {
           "name": "CH94es",
           "url": "https://envivo.govoet.my.id/94"
-        },
-        {
-          "name": "CH106es",
-          "url": "https://envivo.govoet.my.id/106"
         },
         {
           "name": "CH107es",
@@ -845,6 +845,10 @@
           "url": "https://envivo.govoet.my.id/11"
         },
         {
+          "name": "CH126gb",
+          "url": "https://envivo.govoet.my.id/126"
+        },
+        {
           "name": "CH56es",
           "url": "https://envivo.govoet.my.id/56"
         },
@@ -859,10 +863,6 @@
         {
           "name": "CH120de",
           "url": "https://envivo.govoet.my.id/120"
-        },
-        {
-          "name": "CH126gb",
-          "url": "https://envivo.govoet.my.id/126"
         },
         {
           "name": "CH140it",
@@ -912,6 +912,10 @@
         {
           "name": "CH1fr",
           "url": "https://envivo.govoet.my.id/1"
+        },
+        {
+          "name": "CH69es",
+          "url": "https://envivo.govoet.my.id/69"
         }
       ]
     },
@@ -943,20 +947,20 @@
       "teams": "Como - Torino",
       "channels": [
         {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
           "name": "CH137it",
           "url": "https://envivo.govoet.my.id/137"
         },
         {
           "name": "CH145pt",
           "url": "https://envivo.govoet.my.id/145"
+        },
+        {
+          "name": "CH70es",
+          "url": "https://envivo.govoet.my.id/70"
+        },
+        {
+          "name": "CH97es",
+          "url": "https://envivo.govoet.my.id/97"
         }
       ]
     },
@@ -992,12 +996,12 @@
           "url": "https://envivo.govoet.my.id/5"
         },
         {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
           "name": "CH112de",
           "url": "https://envivo.govoet.my.id/112"
+        },
+        {
+          "name": "CH88es",
+          "url": "https://envivo.govoet.my.id/88"
         },
         {
           "name": "CH117es",
@@ -1194,6 +1198,10 @@
           "url": "https://envivo.govoet.my.id/37"
         },
         {
+          "name": "CH130us",
+          "url": "https://envivo.govoet.my.id/130"
+        },
+        {
           "name": "CH57es",
           "url": "https://envivo.govoet.my.id/57"
         },
@@ -1215,6 +1223,14 @@
         {
           "name": "CH38fr",
           "url": "https://envivo.govoet.my.id/38"
+        },
+        {
+          "name": "CH131us",
+          "url": "https://envivo.govoet.my.id/131"
+        },
+        {
+          "name": "CH158es",
+          "url": "https://envivo.govoet.my.id/158"
         }
       ]
     },
@@ -1226,6 +1242,10 @@
         {
           "name": "CH14fr",
           "url": "https://envivo.govoet.my.id/14"
+        },
+        {
+          "name": "CH132us",
+          "url": "https://envivo.govoet.my.id/132"
         },
         {
           "name": "CH56es",
@@ -1401,6 +1421,10 @@
         {
           "name": "CH1fr",
           "url": "https://envivo.govoet.my.id/1"
+        },
+        {
+          "name": "CH69es",
+          "url": "https://envivo.govoet.my.id/69"
         }
       ]
     },
@@ -1443,6 +1467,14 @@
       "teams": "Fiorentina - Cagliari",
       "channels": [
         {
+          "name": "CH137it",
+          "url": "https://envivo.govoet.my.id/137"
+        },
+        {
+          "name": "CH145pt",
+          "url": "https://envivo.govoet.my.id/145"
+        },
+        {
           "name": "CH70es",
           "url": "https://envivo.govoet.my.id/70"
         },
@@ -1453,14 +1485,6 @@
         {
           "name": "CH97es",
           "url": "https://envivo.govoet.my.id/97"
-        },
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH145pt",
-          "url": "https://envivo.govoet.my.id/145"
         }
       ]
     },
@@ -1583,6 +1607,10 @@
           "url": "https://envivo.govoet.my.id/12"
         },
         {
+          "name": "CH127gb",
+          "url": "https://envivo.govoet.my.id/127"
+        },
+        {
           "name": "CH56es",
           "url": "https://envivo.govoet.my.id/56"
         },
@@ -1597,10 +1625,6 @@
         {
           "name": "CH120de",
           "url": "https://envivo.govoet.my.id/120"
-        },
-        {
-          "name": "CH127gb",
-          "url": "https://envivo.govoet.my.id/127"
         },
         {
           "name": "CH140it",
@@ -1668,6 +1692,10 @@
         {
           "name": "CH20fr",
           "url": "https://envivo.govoet.my.id/20"
+        },
+        {
+          "name": "CH69es",
+          "url": "https://envivo.govoet.my.id/69"
         }
       ]
     },
@@ -1799,20 +1827,20 @@
           "url": "https://envivo.govoet.my.id/45"
         },
         {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        },
-        {
           "name": "CH138it",
           "url": "https://envivo.govoet.my.id/138"
         },
         {
           "name": "CH140it",
           "url": "https://envivo.govoet.my.id/140"
+        },
+        {
+          "name": "CH70es",
+          "url": "https://envivo.govoet.my.id/70"
+        },
+        {
+          "name": "CH98es",
+          "url": "https://envivo.govoet.my.id/98"
         }
       ]
     },
@@ -1892,6 +1920,10 @@
         {
           "name": "CH182us",
           "url": "https://envivo.govoet.my.id/182"
+        },
+        {
+          "name": "CH97es",
+          "url": "https://envivo.govoet.my.id/97"
         }
       ]
     },
@@ -1945,6 +1977,10 @@
         {
           "name": "CH140it",
           "url": "https://envivo.govoet.my.id/140"
+        },
+        {
+          "name": "CH69es",
+          "url": "https://envivo.govoet.my.id/69"
         }
       ]
     },
@@ -2008,6 +2044,10 @@
         {
           "name": "CH184us",
           "url": "https://envivo.govoet.my.id/184"
+        },
+        {
+          "name": "CH97es",
+          "url": "https://envivo.govoet.my.id/97"
         }
       ]
     },
@@ -2188,6 +2228,10 @@
         {
           "name": "CH192us",
           "url": "https://envivo.govoet.my.id/192"
+        },
+        {
+          "name": "CH97es",
+          "url": "https://envivo.govoet.my.id/97"
         }
       ]
     },
@@ -2282,20 +2326,20 @@
       "teams": "Sassuolo - Cremonese",
       "channels": [
         {
-          "name": "CH89es",
-          "url": "https://envivo.govoet.my.id/89"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
           "name": "CH137it",
           "url": "https://envivo.govoet.my.id/137"
         },
         {
           "name": "CH145pt",
           "url": "https://envivo.govoet.my.id/145"
+        },
+        {
+          "name": "CH89es",
+          "url": "https://envivo.govoet.my.id/89"
+        },
+        {
+          "name": "CH97es",
+          "url": "https://envivo.govoet.my.id/97"
         }
       ]
     },
@@ -2470,6 +2514,10 @@
         {
           "name": "CH20fr",
           "url": "https://envivo.govoet.my.id/20"
+        },
+        {
+          "name": "CH69es",
+          "url": "https://envivo.govoet.my.id/69"
         }
       ]
     },
@@ -2494,16 +2542,16 @@
           "url": "https://envivo.govoet.my.id/11"
         },
         {
+          "name": "CH129gb",
+          "url": "https://envivo.govoet.my.id/129"
+        },
+        {
           "name": "CH57es",
           "url": "https://envivo.govoet.my.id/57"
         },
         {
           "name": "CH73es",
           "url": "https://envivo.govoet.my.id/73"
-        },
-        {
-          "name": "CH129gb",
-          "url": "https://envivo.govoet.my.id/129"
         },
         {
           "name": "CH140it",
@@ -2521,20 +2569,16 @@
           "url": "https://envivo.govoet.my.id/12"
         },
         {
+          "name": "CH127gb",
+          "url": "https://envivo.govoet.my.id/127"
+        },
+        {
           "name": "CH56es",
           "url": "https://envivo.govoet.my.id/56"
         },
         {
           "name": "CH120de",
           "url": "https://envivo.govoet.my.id/120"
-        },
-        {
-          "name": "CH121de",
-          "url": "https://envivo.govoet.my.id/121"
-        },
-        {
-          "name": "CH127gb",
-          "url": "https://envivo.govoet.my.id/127"
         }
       ]
     },
@@ -2558,6 +2602,10 @@
       "competition": "Serie A",
       "teams": "Genoa - Bologna",
       "channels": [
+        {
+          "name": "CH139it",
+          "url": "https://envivo.govoet.my.id/139"
+        },
         {
           "name": "CH97es",
           "url": "https://envivo.govoet.my.id/97"
@@ -2596,12 +2644,12 @@
           "url": "https://envivo.govoet.my.id/4"
         },
         {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
           "name": "CH123de",
           "url": "https://envivo.govoet.my.id/123"
+        },
+        {
+          "name": "CH88es",
+          "url": "https://envivo.govoet.my.id/88"
         },
         {
           "name": "CH116es",
@@ -2777,6 +2825,10 @@
         {
           "name": "CH89es",
           "url": "https://envivo.govoet.my.id/89"
+        },
+        {
+          "name": "CH69es",
+          "url": "https://envivo.govoet.my.id/69"
         }
       ]
     },
@@ -2820,8 +2872,8 @@
           "url": "https://envivo.govoet.my.id/11"
         },
         {
-          "name": "CH31fr",
-          "url": "https://envivo.govoet.my.id/31"
+          "name": "CH127gb",
+          "url": "https://envivo.govoet.my.id/127"
         },
         {
           "name": "CH56es",
@@ -2838,14 +2890,6 @@
         {
           "name": "CH120de",
           "url": "https://envivo.govoet.my.id/120"
-        },
-        {
-          "name": "CH121de",
-          "url": "https://envivo.govoet.my.id/121"
-        },
-        {
-          "name": "CH127gb",
-          "url": "https://envivo.govoet.my.id/127"
         }
       ]
     },
@@ -2881,14 +2925,6 @@
           "url": "https://envivo.govoet.my.id/45"
         },
         {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
           "name": "CH138it",
           "url": "https://envivo.govoet.my.id/138"
         },
@@ -2899,6 +2935,14 @@
         {
           "name": "CH145pt",
           "url": "https://envivo.govoet.my.id/145"
+        },
+        {
+          "name": "CH88es",
+          "url": "https://envivo.govoet.my.id/88"
+        },
+        {
+          "name": "CH97es",
+          "url": "https://envivo.govoet.my.id/97"
         }
       ]
     },
@@ -3157,6 +3201,10 @@
         {
           "name": "CH138it",
           "url": "https://envivo.govoet.my.id/138"
+        },
+        {
+          "name": "CH69es",
+          "url": "https://envivo.govoet.my.id/69"
         }
       ]
     },
@@ -3170,14 +3218,6 @@
           "url": "https://envivo.govoet.my.id/45"
         },
         {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        },
-        {
           "name": "CH126gb",
           "url": "https://envivo.govoet.my.id/126"
         },
@@ -3188,6 +3228,14 @@
         {
           "name": "CH145pt",
           "url": "https://envivo.govoet.my.id/145"
+        },
+        {
+          "name": "CH88es",
+          "url": "https://envivo.govoet.my.id/88"
+        },
+        {
+          "name": "CH98es",
+          "url": "https://envivo.govoet.my.id/98"
         }
       ]
     },
@@ -3248,6 +3296,14 @@
         {
           "name": "CH182us",
           "url": "https://envivo.govoet.my.id/182"
+        },
+        {
+          "name": "CH97es",
+          "url": "https://envivo.govoet.my.id/97"
+        },
+        {
+          "name": "CH107es",
+          "url": "https://envivo.govoet.my.id/107"
         }
       ]
     },
@@ -3381,6 +3437,14 @@
         {
           "name": "CH187us",
           "url": "https://envivo.govoet.my.id/187"
+        },
+        {
+          "name": "CH101es",
+          "url": "https://envivo.govoet.my.id/101"
+        },
+        {
+          "name": "CH107es",
+          "url": "https://envivo.govoet.my.id/107"
         }
       ]
     },
@@ -3506,6 +3570,40 @@
         {
           "name": "CH4fr",
           "url": "https://envivo.govoet.my.id/4"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-26T18:00:00+01:00",
+      "competition": "Euro masculin de Handball",
+      "teams": "Espagne - France",
+      "channels": [
+        {
+          "name": "CH1fr",
+          "url": "https://envivo.govoet.my.id/1"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-26T18:00:00+01:00",
+      "competition": "Super Lig",
+      "teams": "Eyupspor - Besiktas",
+      "channels": [
+        {
+          "name": "CH4fr",
+          "url": "https://envivo.govoet.my.id/4"
+        },
+        {
+          "name": "CH78es",
+          "url": "https://envivo.govoet.my.id/78"
+        },
+        {
+          "name": "CH91es",
+          "url": "https://envivo.govoet.my.id/91"
+        },
+        {
+          "name": "CH151tr",
+          "url": "https://envivo.govoet.my.id/151"
         }
       ]
     }
