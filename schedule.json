@@ -1,62 +1,7 @@
 {
-  "last_updated": "2026-01-23T03:53:19.105094+00:00",
+  "last_updated": "2026-01-23T04:47:37.445098+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-23T02:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Minnesota Timberwolves - Chicago Bulls",
-      "channels": [
-        {
-          "name": "CH188us",
-          "url": "https://envivo.govoet.my.id/188"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-23T02:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Nashville Predators - Ottawa Senators",
-      "channels": [
-        {
-          "name": "CH189us",
-          "url": "https://envivo.govoet.my.id/189"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-23T02:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Winnipeg Jets - Florida Panthers",
-      "channels": [
-        {
-          "name": "CH190us",
-          "url": "https://envivo.govoet.my.id/190"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-23T02:15:00+01:00",
-      "competition": "Torneo LPF",
-      "teams": "Central Cordoba - Gimnasia Mendoza",
-      "channels": [
-        {
-          "name": "CH76es",
-          "url": "https://envivo.govoet.my.id/76"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-23T02:15:00+01:00",
-      "competition": "Torneo LPF",
-      "teams": "Instituto - Velez Sarsfield",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-23T03:00:00+01:00",
       "competition": "Amical International",
