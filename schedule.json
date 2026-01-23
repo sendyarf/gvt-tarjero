@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-01-23T20:30:20.406798+00:00",
+  "last_updated": "2026-01-23T21:25:18.460698+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-23T18:45:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Fenerbahce - Baskonia",
-      "channels": [
-        {
-          "name": "CH63es",
-          "url": "https://envivo.govoet.my.id/63"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-23T19:00:00+01:00",
-      "competition": "Pro D2",
-      "teams": "Provence Rugby - Stade Aurillacois",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-23T19:30:00+01:00",
       "competition": "National",
