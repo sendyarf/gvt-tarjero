@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-23T19:26:45.850694+00:00",
+  "last_updated": "2026-01-23T19:43:01.370833+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -3658,6 +3658,28 @@
         {
           "name": "CH61es",
           "url": "https://envivo.govoet.my.id/61"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-26T20:30:00+01:00",
+      "competition": "Euro masculin de Handball",
+      "teams": "Allemagne - Danemark",
+      "channels": [
+        {
+          "name": "CH1fr",
+          "url": "https://envivo.govoet.my.id/1"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-26T20:30:00+01:00",
+      "competition": "Laliga 2",
+      "teams": "Ceuta - Cultural Leonesa",
+      "channels": [
+        {
+          "name": "CH53es",
+          "url": "https://envivo.govoet.my.id/53"
         }
       ]
     }
