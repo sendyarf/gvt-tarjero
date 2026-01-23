@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-23T17:27:55.335592+00:00",
+  "last_updated": "2026-01-23T17:48:56.037029+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -1633,6 +1633,21 @@
       ]
     },
     {
+      "datetime": "2026-01-24T18:30:00+01:00",
+      "competition": "Saudi Pro League",
+      "teams": "Neom SC - Al Ahli SC",
+      "channels": [
+        {
+          "name": "CH55es",
+          "url": "https://envivo.govoet.my.id/55"
+        },
+        {
+          "name": "CH61es",
+          "url": "https://envivo.govoet.my.id/61"
+        }
+      ]
+    },
+    {
       "datetime": "2026-01-24T18:45:00+01:00",
       "competition": "Eredivisie",
       "teams": "Nijmegen - Zwolle",
@@ -2180,6 +2195,10 @@
         {
           "name": "CH190us",
           "url": "https://envivo.govoet.my.id/190"
+        },
+        {
+          "name": "CH155es",
+          "url": "https://envivo.govoet.my.id/155"
         }
       ]
     },
@@ -2232,6 +2251,10 @@
         {
           "name": "CH97es",
           "url": "https://envivo.govoet.my.id/97"
+        },
+        {
+          "name": "CH156es",
+          "url": "https://envivo.govoet.my.id/156"
         }
       ]
     },
@@ -3030,6 +3053,17 @@
       ]
     },
     {
+      "datetime": "2026-01-25T18:30:00+01:00",
+      "competition": "Saudi Pro League",
+      "teams": "Al Riyadh - Al-Hilal",
+      "channels": [
+        {
+          "name": "CH55es",
+          "url": "https://envivo.govoet.my.id/55"
+        }
+      ]
+    },
+    {
       "datetime": "2026-01-25T19:00:00+01:00",
       "competition": "Liga De Expansion Mx",
       "teams": "Leones Negros - Correcaminos",
@@ -3294,6 +3328,10 @@
       "teams": "Denver Broncos - New England Patriots",
       "channels": [
         {
+          "name": "CH1fr",
+          "url": "https://envivo.govoet.my.id/1"
+        },
+        {
           "name": "CH182us",
           "url": "https://envivo.govoet.my.id/182"
         },
@@ -3304,6 +3342,10 @@
         {
           "name": "CH107es",
           "url": "https://envivo.govoet.my.id/107"
+        },
+        {
+          "name": "CH89es",
+          "url": "https://envivo.govoet.my.id/89"
         }
       ]
     },
@@ -3435,6 +3477,14 @@
       "teams": "Seattle Seahawks - Los Angeles Rams",
       "channels": [
         {
+          "name": "CH1fr",
+          "url": "https://envivo.govoet.my.id/1"
+        },
+        {
+          "name": "CH27fr",
+          "url": "https://envivo.govoet.my.id/27"
+        },
+        {
           "name": "CH187us",
           "url": "https://envivo.govoet.my.id/187"
         },
@@ -3445,6 +3495,10 @@
         {
           "name": "CH107es",
           "url": "https://envivo.govoet.my.id/107"
+        },
+        {
+          "name": "CH91es",
+          "url": "https://envivo.govoet.my.id/91"
         }
       ]
     },
@@ -3604,6 +3658,17 @@
         {
           "name": "CH151tr",
           "url": "https://envivo.govoet.my.id/151"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-26T18:30:00+01:00",
+      "competition": "Saudi Pro League",
+      "teams": "Al-Nassr - Al-Taawon",
+      "channels": [
+        {
+          "name": "CH61es",
+          "url": "https://envivo.govoet.my.id/61"
         }
       ]
     }
