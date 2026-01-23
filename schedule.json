@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-23T18:38:54.730227+00:00",
+  "last_updated": "2026-01-23T19:26:45.850694+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-23T17:00:00+01:00",
-      "competition": "Caf Ligue Des Champions",
-      "teams": "Al Ahly (Egy) - Young Africans (Tan)",
-      "channels": [
-        {
-          "name": "CH160qa",
-          "url": "https://envivo.govoet.my.id/160"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-23T18:00:00+01:00",
       "competition": "Euro masculin de Handball",
