@@ -1,71 +1,7 @@
 {
-  "last_updated": "2026-01-23T04:47:37.445098+00:00",
+  "last_updated": "2026-01-23T05:31:00.743831+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-23T03:00:00+01:00",
-      "competition": "Amical International",
-      "teams": "Panama - Mexique",
-      "channels": [
-        {
-          "name": "CH108es",
-          "url": "https://envivo.govoet.my.id/108"
-        },
-        {
-          "name": "CH107es",
-          "url": "https://envivo.govoet.my.id/107"
-        },
-        {
-          "name": "CH106es",
-          "url": "https://envivo.govoet.my.id/106"
-        },
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-23T03:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Utah Jazz - San Antonio Spurs",
-      "channels": [
-        {
-          "name": "CH191us",
-          "url": "https://envivo.govoet.my.id/191"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-23T03:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Edmonton Oilers - Pittsburgh Penguins",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        },
-        {
-          "name": "CH192us",
-          "url": "https://envivo.govoet.my.id/192"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-23T03:30:00+01:00",
-      "competition": "NHL",
-      "teams": "Minnesota Wild - Detroit Red Wings",
-      "channels": [
-        {
-          "name": "CH193us",
-          "url": "https://envivo.govoet.my.id/193"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-23T04:00:00+01:00",
       "competition": "NBA",
