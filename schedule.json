@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-24T16:29:19.253970+00:00",
+  "last_updated": "2026-01-24T16:45:06.650219+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-24T14:30:00+01:00",
-      "competition": "Top 14",
-      "teams": "Bordeaux Bègles - Stade Français",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-24T15:00:00+01:00",
       "competition": "Serie A",
