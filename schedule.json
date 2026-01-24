@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-01-24T05:45:30.991308+00:00",
+  "last_updated": "2026-01-24T06:36:38.324507+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-24T04:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Portland Trail Blazers - Toronto Raptors",
-      "channels": [
-        {
-          "name": "CH192us",
-          "url": "https://envivo.govoet.my.id/192"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-24T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "San Jose Sharks - New York Rangers",
-      "channels": [
-        {
-          "name": "CH193us",
-          "url": "https://envivo.govoet.my.id/193"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-24T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Seattle Kraken - Anaheim Ducks",
-      "channels": [
-        {
-          "name": "CH194us",
-          "url": "https://envivo.govoet.my.id/194"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-24T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Vancouver Canucks - New Jersey Devils",
-      "channels": [
-        {
-          "name": "CH195us",
-          "url": "https://envivo.govoet.my.id/195"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-24T12:30:00+01:00",
       "competition": "Super Lig",
