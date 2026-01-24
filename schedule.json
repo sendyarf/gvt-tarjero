@@ -1,41 +1,7 @@
 {
-  "last_updated": "2026-01-24T16:51:11.686667+00:00",
+  "last_updated": "2026-01-24T17:20:52.210239+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-24T15:00:00+01:00",
-      "competition": "Serie A",
-      "teams": "Como - Torino",
-      "channels": [
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH145pt",
-          "url": "https://envivo.govoet.my.id/145"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-24T15:00:00+01:00",
-      "competition": "Super Lig",
-      "teams": "Samsunspor - Kocaelispor",
-      "channels": [
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-24T15:30:00+01:00",
       "competition": "Bundesliga",
