@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-01-24T04:37:37.492925+00:00",
+  "last_updated": "2026-01-24T05:25:15.441664+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-24T03:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Calgary Flames - Washington Capitals",
-      "channels": [
-        {
-          "name": "CH189us",
-          "url": "https://envivo.govoet.my.id/189"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-24T03:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Colorado Avalanche - Philadelphia Flyers",
-      "channels": [
-        {
-          "name": "CH190us",
-          "url": "https://envivo.govoet.my.id/190"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-24T03:30:00+01:00",
       "competition": "NBA",
