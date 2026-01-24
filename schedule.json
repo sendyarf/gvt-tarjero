@@ -1,67 +1,7 @@
 {
-  "last_updated": "2026-01-24T15:42:13.306950+00:00",
+  "last_updated": "2026-01-24T16:29:19.253970+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-24T14:00:00+01:00",
-      "competition": "Laliga",
-      "teams": "Rayo Vallecano - Osasuna",
-      "channels": [
-        {
-          "name": "CH9fr",
-          "url": "https://envivo.govoet.my.id/9"
-        },
-        {
-          "name": "CH51es",
-          "url": "https://envivo.govoet.my.id/51"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH89es",
-          "url": "https://envivo.govoet.my.id/89"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-24T14:00:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Valladolid - Albacete",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-24T14:00:00+01:00",
-      "competition": "Ligue 2",
-      "teams": "Guingamp - Troyes",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-24T14:00:00+01:00",
-      "competition": "Ligue 2",
-      "teams": "Red Star - Boulogne",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-24T14:30:00+01:00",
       "competition": "Top 14",
