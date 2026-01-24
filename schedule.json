@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-24T11:40:36.624988+00:00",
+  "last_updated": "2026-01-24T12:48:47.244837+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -78,16 +78,8 @@
       "teams": "Millwall - Charlton",
       "channels": [
         {
-          "name": "CH8fr",
-          "url": "https://envivo.govoet.my.id/8"
-        },
-        {
           "name": "CH10fr",
           "url": "https://envivo.govoet.my.id/10"
-        },
-        {
-          "name": "CH127gb",
-          "url": "https://envivo.govoet.my.id/127"
         },
         {
           "name": "CH128gb",
