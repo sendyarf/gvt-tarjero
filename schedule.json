@@ -1,99 +1,7 @@
 {
-  "last_updated": "2026-01-24T01:56:52.614473+00:00",
+  "last_updated": "2026-01-24T03:40:49.411077+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-24T00:00:00+01:00",
-      "competition": "Torneo LPF",
-      "teams": "Independiente - Estudiantes L.P.",
-      "channels": [
-        {
-          "name": "CH76es",
-          "url": "https://envivo.govoet.my.id/76"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-24T00:20:00+01:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Inter Bogotá - Cucuta",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-24T01:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Detroit Pistons - Houston Rockets",
-      "channels": [
-        {
-          "name": "CH180us",
-          "url": "https://envivo.govoet.my.id/180"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-24T01:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Chicago Blackhawks - Tampa Bay Lightning",
-      "channels": [
-        {
-          "name": "CH181us",
-          "url": "https://envivo.govoet.my.id/181"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-24T01:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Toronto Maple Leafs - Vegas Golden Knights",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        },
-        {
-          "name": "CH182us",
-          "url": "https://envivo.govoet.my.id/182"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-24T01:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Atlanta Hawks - Phoenix Suns",
-      "channels": [
-        {
-          "name": "CH183us",
-          "url": "https://envivo.govoet.my.id/183"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-24T01:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Brooklyn Nets - Boston Celtics",
-      "channels": [
-        {
-          "name": "CH184us",
-          "url": "https://envivo.govoet.my.id/184"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-24T01:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Cleveland Cavaliers - Sacramento Kings",
-      "channels": [
-        {
-          "name": "CH185us",
-          "url": "https://envivo.govoet.my.id/185"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-24T02:00:00+01:00",
       "competition": "Liga De Expansion Mx",
@@ -3478,6 +3386,25 @@
         {
           "name": "CH190us",
           "url": "https://envivo.govoet.my.id/190"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-27T03:30:00+01:00",
+      "competition": "NBA",
+      "teams": "Minnesota Timberwolves - Golden State Warriors",
+      "channels": [
+        {
+          "name": "CH1fr",
+          "url": "https://envivo.govoet.my.id/1"
+        },
+        {
+          "name": "CH191us",
+          "url": "https://envivo.govoet.my.id/191"
+        },
+        {
+          "name": "CH98es",
+          "url": "https://envivo.govoet.my.id/98"
         }
       ]
     }
