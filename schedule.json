@@ -1,44 +1,7 @@
 {
-  "last_updated": "2026-01-24T18:34:33.483190+00:00",
+  "last_updated": "2026-01-24T19:19:06.684272+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-24T17:00:00+01:00",
-      "competition": "Caf Ligue Des Champions",
-      "teams": "Esperance Tunis (Tun) - Simba (Tan)",
-      "channels": [
-        {
-          "name": "CH160qa",
-          "url": "https://envivo.govoet.my.id/160"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-24T17:00:00+01:00",
-      "competition": "Caf Ligue Des Champions",
-      "teams": "Kabylie (Alg) - FAR Rabat (Mar)",
-      "channels": [
-        {
-          "name": "CH161qa",
-          "url": "https://envivo.govoet.my.id/161"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-24T17:00:00+01:00",
-      "competition": "Ligue 1",
-      "teams": "Rennes - Lorient",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-24T18:00:00+01:00",
       "competition": "Euro masculin de Handball",
