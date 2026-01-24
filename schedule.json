@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-01-24T23:22:51.318546+00:00",
+  "last_updated": "2026-01-24T23:42:14.647634+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-24T21:30:00+01:00",
-      "competition": "Liga Portugal",
-      "teams": "Estoril - Vitoria Guimaraes",
-      "channels": [
-        {
-          "name": "CH145pt",
-          "url": "https://envivo.govoet.my.id/145"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-24T21:30:00+01:00",
-      "competition": "NHL",
-      "teams": "Nashville Predators - Utah Mammoth",
-      "channels": [
-        {
-          "name": "CH183us",
-          "url": "https://envivo.govoet.my.id/183"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-24T22:10:00+01:00",
       "competition": "Liga Betplay Dimayor",
