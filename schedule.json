@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-01-24T22:23:12.192100+00:00",
+  "last_updated": "2026-01-24T22:44:36.143458+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-24T20:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Magdeburg - SG Dynamo Dresden",
-      "channels": [
-        {
-          "name": "CH112de",
-          "url": "https://envivo.govoet.my.id/112"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-24T20:30:00+01:00",
-      "competition": "Euro masculin de Handball",
-      "teams": "Allemagne - Norvège",
-      "channels": [
-        {
-          "name": "CH5fr",
-          "url": "https://envivo.govoet.my.id/5"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-24T20:45:00+01:00",
       "competition": "Pro League",
