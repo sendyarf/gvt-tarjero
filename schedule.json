@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-24T05:25:15.441664+00:00",
+  "last_updated": "2026-01-24T05:45:30.991308+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-24T03:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Milwaukee Bucks - Denver Nuggets",
-      "channels": [
-        {
-          "name": "CH191us",
-          "url": "https://envivo.govoet.my.id/191"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-24T04:00:00+01:00",
       "competition": "NBA",
