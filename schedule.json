@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-25T16:30:07.319602+00:00",
+  "last_updated": "2026-01-25T16:45:40.547301+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-25T14:30:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "Groningen - Sittard",
-      "channels": [
-        {
-          "name": "CH141nl",
-          "url": "https://envivo.govoet.my.id/141"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-25T15:00:00+01:00",
       "competition": "Betfred Super League",
