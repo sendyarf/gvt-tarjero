@@ -1,154 +1,7 @@
 {
-  "last_updated": "2026-01-25T19:39:56.244981+00:00",
+  "last_updated": "2026-01-25T20:28:11.292564+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-25T18:00:00+01:00",
-      "competition": "Euro masculin de Handball",
-      "teams": "Islande - Suède",
-      "channels": [
-        {
-          "name": "CH3fr",
-          "url": "https://envivo.govoet.my.id/3"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-25T18:00:00+01:00",
-      "competition": "Liga Endesa",
-      "teams": "Unicaja - Murcia",
-      "channels": [
-        {
-          "name": "CH156es",
-          "url": "https://envivo.govoet.my.id/156"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-25T18:00:00+01:00",
-      "competition": "Serie A",
-      "teams": "Juventus - Napoli",
-      "channels": [
-        {
-          "name": "CH45fr",
-          "url": "https://envivo.govoet.my.id/45"
-        },
-        {
-          "name": "CH138it",
-          "url": "https://envivo.govoet.my.id/138"
-        },
-        {
-          "name": "CH140it",
-          "url": "https://envivo.govoet.my.id/140"
-        },
-        {
-          "name": "CH145pt",
-          "url": "https://envivo.govoet.my.id/145"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-25T18:00:00+01:00",
-      "competition": "Super Lig",
-      "teams": "Fenerbahce - Goztepe",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH78es",
-          "url": "https://envivo.govoet.my.id/78"
-        },
-        {
-          "name": "CH91es",
-          "url": "https://envivo.govoet.my.id/91"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        },
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-25T18:30:00+01:00",
-      "competition": "Betfred Super League",
-      "teams": "Atromitos - Panathinaikos",
-      "channels": [
-        {
-          "name": "CH150gr",
-          "url": "https://envivo.govoet.my.id/150"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-25T18:30:00+01:00",
-      "competition": "Laliga",
-      "teams": "Real Sociedad - Celta Vigo",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH49es",
-          "url": "https://envivo.govoet.my.id/49"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-25T18:30:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Zaragoza - Castellon",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-25T18:30:00+01:00",
-      "competition": "Pro League",
-      "teams": "Anderlecht - Dender",
-      "channels": [
-        {
-          "name": "CH153fr",
-          "url": "https://envivo.govoet.my.id/153"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-25T18:30:00+01:00",
-      "competition": "Saudi Pro League",
-      "teams": "Al Riyadh - Al-Hilal",
-      "channels": [
-        {
-          "name": "CH55es",
-          "url": "https://envivo.govoet.my.id/55"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-25T19:00:00+01:00",
       "competition": "Liga De Expansion Mx",
@@ -507,6 +360,10 @@
       "competition": "Torneo LPF",
       "teams": "Boca Juniors - Dep. Riestra",
       "channels": [
+        {
+          "name": "CH76es",
+          "url": "https://envivo.govoet.my.id/76"
+        },
         {
           "name": "CH61es",
           "url": "https://envivo.govoet.my.id/61"
