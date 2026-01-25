@@ -1,59 +1,7 @@
 {
-  "last_updated": "2026-01-25T21:42:05.139224+00:00",
+  "last_updated": "2026-01-25T22:24:14.522531+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-25T20:00:00+01:00",
-      "competition": "Betfred Super League",
-      "teams": "Kifisia - PAOK",
-      "channels": [
-        {
-          "name": "CH148gr",
-          "url": "https://envivo.govoet.my.id/148"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-25T20:00:00+01:00",
-      "competition": "Caf Coupes Des Confederations",
-      "teams": "CR Belouizdad (Alg) - Stellenbosch (Rsa)",
-      "channels": [
-        {
-          "name": "CH7fr",
-          "url": "https://envivo.govoet.my.id/7"
-        },
-        {
-          "name": "CH161qa",
-          "url": "https://envivo.govoet.my.id/161"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-25T20:00:00+01:00",
-      "competition": "Caf Coupes Des Confederations",
-      "teams": "Wydad AC (Mar) - Maniema (Drc)",
-      "channels": [
-        {
-          "name": "CH8fr",
-          "url": "https://envivo.govoet.my.id/8"
-        },
-        {
-          "name": "CH162qa",
-          "url": "https://envivo.govoet.my.id/162"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-25T20:00:00+01:00",
-      "competition": "Caf Coupes Des Confederations",
-      "teams": "Zamalek (Egy) - Al Masry (Egy)",
-      "channels": [
-        {
-          "name": "CH163qa",
-          "url": "https://envivo.govoet.my.id/163"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-25T20:30:00+01:00",
       "competition": "Amical International",
