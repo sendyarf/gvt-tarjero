@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-25T05:50:27.146506+00:00",
+  "last_updated": "2026-01-25T06:37:15.432888+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-25T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Edmonton Oilers - Washington Capitals",
-      "channels": [
-        {
-          "name": "CH195us",
-          "url": "https://envivo.govoet.my.id/195"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-25T12:00:00+01:00",
       "competition": "Liga Endesa",
