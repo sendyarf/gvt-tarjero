@@ -1,71 +1,7 @@
 {
-  "last_updated": "2026-01-25T13:34:19.791590+00:00",
+  "last_updated": "2026-01-25T14:22:35.180830+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-25T12:00:00+01:00",
-      "competition": "Liga Endesa",
-      "teams": "Manresa - MoraBanc Andorra",
-      "channels": [
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-25T12:15:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "Telstar - AZ Alkmaar",
-      "channels": [
-        {
-          "name": "CH125de",
-          "url": "https://envivo.govoet.my.id/125"
-        },
-        {
-          "name": "CH142nl",
-          "url": "https://envivo.govoet.my.id/142"
-        },
-        {
-          "name": "CH100es",
-          "url": "https://envivo.govoet.my.id/100"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-25T12:30:00+01:00",
-      "competition": "Serie A",
-      "teams": "Sassuolo - Cremonese",
-      "channels": [
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH145pt",
-          "url": "https://envivo.govoet.my.id/145"
-        },
-        {
-          "name": "CH90es",
-          "url": "https://envivo.govoet.my.id/90"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-25T12:30:00+01:00",
-      "competition": "Super Lig",
-      "teams": "Gaziantep - Konyaspor",
-      "channels": [
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-25T13:00:00+01:00",
       "competition": "Championship",
@@ -519,6 +455,17 @@
         {
           "name": "CH157es",
           "url": "https://envivo.govoet.my.id/157"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-25T17:15:00+01:00",
+      "competition": "Ligue 1",
+      "teams": "Multiplex Ligue 1 -",
+      "channels": [
+        {
+          "name": "CH20fr",
+          "url": "https://envivo.govoet.my.id/20"
         }
       ]
     },
