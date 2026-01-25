@@ -1,41 +1,7 @@
 {
-  "last_updated": "2026-01-25T17:20:58.983921+00:00",
+  "last_updated": "2026-01-25T17:43:12.136341+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-25T15:30:00+01:00",
-      "competition": "Bundesliga",
-      "teams": "B. Monchengladbach - Stuttgart",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH116es",
-          "url": "https://envivo.govoet.my.id/116"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-25T15:30:00+01:00",
-      "competition": "Euro masculin de Handball",
-      "teams": "Slovénie - Hongrie",
-      "channels": [
-        {
-          "name": "CH3fr",
-          "url": "https://envivo.govoet.my.id/3"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-25T16:00:00+01:00",
       "competition": "Premiership",
