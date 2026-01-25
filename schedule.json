@@ -1,44 +1,7 @@
 {
-  "last_updated": "2026-01-25T23:23:47.852109+00:00",
+  "last_updated": "2026-01-25T23:43:09.597578+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-25T21:30:00+01:00",
-      "competition": "Liga Portugal",
-      "teams": "Braga - Alverca",
-      "channels": [
-        {
-          "name": "CH3fr",
-          "url": "https://envivo.govoet.my.id/3"
-        },
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-25T21:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Memphis Grizzlies - Denver Nuggets",
-      "channels": [
-        {
-          "name": "CH184us",
-          "url": "https://envivo.govoet.my.id/184"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-25T22:00:00+01:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Aguilas - Dep. Pasto",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-25T22:30:00+01:00",
       "competition": "Torneo LPF",
