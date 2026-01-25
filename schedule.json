@@ -1,74 +1,7 @@
 {
-  "last_updated": "2026-01-24T23:42:14.647634+00:00",
+  "last_updated": "2026-01-25T02:11:23.463906+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-24T22:10:00+01:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Llaneros - Bucaramanga",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-24T23:30:00+01:00",
-      "competition": "Liga Mx Women",
-      "teams": "Atl. San Luis W - Club Tijuana W",
-      "channels": [
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        },
-        {
-          "name": "CH100es",
-          "url": "https://envivo.govoet.my.id/100"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-24T23:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Minnesota Timberwolves - Golden State Warriors",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH184us",
-          "url": "https://envivo.govoet.my.id/184"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-24T23:30:00+01:00",
-      "competition": "Torneo LPF",
-      "teams": "Gimnasia L.P. - Racing Club",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-25T00:00:00+01:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Atlante - Jaiba Brava",
-      "channels": [
-        {
-          "name": "CH108es",
-          "url": "https://envivo.govoet.my.id/108"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-25T00:20:00+01:00",
       "competition": "Liga Betplay Dimayor",
