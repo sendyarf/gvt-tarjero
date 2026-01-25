@@ -1,52 +1,7 @@
 {
-  "last_updated": "2026-01-25T15:43:02.413135+00:00",
+  "last_updated": "2026-01-25T16:30:07.319602+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-25T14:00:00+01:00",
-      "competition": "Caf Ligue Des Champions",
-      "teams": "St Eloi Lupopo (Drc) - MC Alger (Alg)",
-      "channels": [
-        {
-          "name": "CH160qa",
-          "url": "https://envivo.govoet.my.id/160"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-25T14:00:00+01:00",
-      "competition": "Laliga",
-      "teams": "Atl. Madrid - Mallorca",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH49es",
-          "url": "https://envivo.govoet.my.id/49"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-25T14:00:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Andorra - Huesca",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-25T14:30:00+01:00",
       "competition": "Eredivisie",
