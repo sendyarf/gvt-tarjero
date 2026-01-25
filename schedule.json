@@ -1,70 +1,7 @@
 {
-  "last_updated": "2026-01-25T15:24:22.207107+00:00",
+  "last_updated": "2026-01-25T15:43:02.413135+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-25T13:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "bundesliga 2 konferenz -",
-      "channels": [
-        {
-          "name": "CH111de",
-          "url": "https://envivo.govoet.my.id/111"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-25T13:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Elversberg - Bochum",
-      "channels": [
-        {
-          "name": "CH113de",
-          "url": "https://envivo.govoet.my.id/113"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-25T13:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Paderborn - Preussen Munster",
-      "channels": [
-        {
-          "name": "CH114de",
-          "url": "https://envivo.govoet.my.id/114"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-25T13:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Schalke - Kaiserslautern",
-      "channels": [
-        {
-          "name": "CH5fr",
-          "url": "https://envivo.govoet.my.id/5"
-        },
-        {
-          "name": "CH78es",
-          "url": "https://envivo.govoet.my.id/78"
-        },
-        {
-          "name": "CH112de",
-          "url": "https://envivo.govoet.my.id/112"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-25T13:30:00+01:00",
-      "competition": "Pro League",
-      "teams": "Antwerp - Charleroi",
-      "channels": [
-        {
-          "name": "CH153fr",
-          "url": "https://envivo.govoet.my.id/153"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-25T14:00:00+01:00",
       "competition": "Caf Ligue Des Champions",
