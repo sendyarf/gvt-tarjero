@@ -1,59 +1,7 @@
 {
-  "last_updated": "2026-01-25T04:04:57.756214+00:00",
+  "last_updated": "2026-01-25T05:04:29.890762+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-25T02:30:00+01:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Chico - America De Cali",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-25T02:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Dallas Mavericks - Los Angeles Lakers",
-      "channels": [
-        {
-          "name": "CH192us",
-          "url": "https://envivo.govoet.my.id/192"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        },
-        {
-          "name": "CH156es",
-          "url": "https://envivo.govoet.my.id/156"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-25T03:00:00+01:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Venados - Dorados de Sinaloa",
-      "channels": [
-        {
-          "name": "CH74es",
-          "url": "https://envivo.govoet.my.id/74"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-25T03:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Minnesota Wild - Florida Panthers",
-      "channels": [
-        {
-          "name": "CH193us",
-          "url": "https://envivo.govoet.my.id/193"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-25T03:06:00+01:00",
       "competition": "Liga Mx Women",
