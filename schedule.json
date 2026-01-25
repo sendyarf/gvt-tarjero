@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-01-25T21:22:47.744590+00:00",
+  "last_updated": "2026-01-25T21:42:05.139224+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-25T19:30:00+01:00",
-      "competition": "Liga Endesa",
-      "teams": "Barcelone - Tenerife",
-      "channels": [
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-25T19:30:00+01:00",
-      "competition": "NHL",
-      "teams": "Toronto Maple Leafs - Colorado Avalanche",
-      "channels": [
-        {
-          "name": "CH180us",
-          "url": "https://envivo.govoet.my.id/180"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-25T20:00:00+01:00",
       "competition": "Betfred Super League",
