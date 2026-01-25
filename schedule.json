@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-25T10:25:57.617607+00:00",
+  "last_updated": "2026-01-25T10:47:43.337451+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -241,6 +241,14 @@
         {
           "name": "CH14fr",
           "url": "https://envivo.govoet.my.id/14"
+        },
+        {
+          "name": "CH130gb",
+          "url": "https://envivo.govoet.my.id/130"
+        },
+        {
+          "name": "CH158es",
+          "url": "https://envivo.govoet.my.id/158"
         }
       ]
     },
@@ -888,7 +896,7 @@
       "teams": "Bolivie - Mexique",
       "channels": [
         {
-          "name": "CH68gb",
+          "name": "CH68es",
           "url": "https://envivo.govoet.my.id/68"
         },
         {
