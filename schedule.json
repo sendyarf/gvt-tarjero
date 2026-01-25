@@ -1,57 +1,7 @@
 {
-  "last_updated": "2026-01-25T19:19:28.546038+00:00",
+  "last_updated": "2026-01-25T19:39:56.244981+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-25T17:30:00+01:00",
-      "competition": "Bundesliga",
-      "teams": "Freiburg - FC Koln",
-      "channels": [
-        {
-          "name": "CH5fr",
-          "url": "https://envivo.govoet.my.id/5"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        },
-        {
-          "name": "CH116es",
-          "url": "https://envivo.govoet.my.id/116"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-25T17:30:00+01:00",
-      "competition": "Premier League",
-      "teams": "Arsenal - Manchester Utd",
-      "channels": [
-        {
-          "name": "CH11fr",
-          "url": "https://envivo.govoet.my.id/11"
-        },
-        {
-          "name": "CH127gb",
-          "url": "https://envivo.govoet.my.id/127"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        },
-        {
-          "name": "CH61es",
-          "url": "https://envivo.govoet.my.id/61"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH120de",
-          "url": "https://envivo.govoet.my.id/120"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-25T18:00:00+01:00",
       "competition": "Euro masculin de Handball",
