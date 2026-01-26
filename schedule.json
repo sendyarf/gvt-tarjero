@@ -1,52 +1,7 @@
 {
-  "last_updated": "2026-01-26T19:45:32.845873+00:00",
+  "last_updated": "2026-01-26T20:31:34.493661+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-26T18:00:00+01:00",
-      "competition": "Euro masculin de Handball",
-      "teams": "Espagne - France",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-26T18:00:00+01:00",
-      "competition": "Super Lig",
-      "teams": "Eyupspor - Besiktas",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        },
-        {
-          "name": "CH78es",
-          "url": "https://envivo.govoet.my.id/78"
-        },
-        {
-          "name": "CH91es",
-          "url": "https://envivo.govoet.my.id/91"
-        },
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-26T18:30:00+01:00",
-      "competition": "Saudi Pro League",
-      "teams": "Al-Nassr - Al-Taawon",
-      "channels": [
-        {
-          "name": "CH61es",
-          "url": "https://envivo.govoet.my.id/61"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-26T20:30:00+01:00",
       "competition": "Euro masculin de Handball",
