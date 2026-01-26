@@ -1,59 +1,7 @@
 {
-  "last_updated": "2026-01-26T22:26:30.232182+00:00",
+  "last_updated": "2026-01-26T22:49:11.210089+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-26T20:30:00+01:00",
-      "competition": "Euro masculin de Handball",
-      "teams": "Allemagne - Danemark",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-26T20:30:00+01:00",
-      "competition": "Laliga 2",
-      "teams": "Ceuta - Cultural Leonesa",
-      "channels": [
-        {
-          "name": "CH53es",
-          "url": "https://envivo.govoet.my.id/53"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-26T20:45:00+01:00",
-      "competition": "Ligue 2",
-      "teams": "Le Mans - Dunkerque",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-26T20:45:00+01:00",
-      "competition": "Serie A",
-      "teams": "Verona - Udinese",
-      "channels": [
-        {
-          "name": "CH138it",
-          "url": "https://envivo.govoet.my.id/138"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-26T21:00:00+01:00",
       "competition": "Championship",
