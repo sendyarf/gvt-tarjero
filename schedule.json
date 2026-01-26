@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-01-26T04:08:00.101922+00:00",
+  "last_updated": "2026-01-26T05:07:56.251847+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-26T02:20:00+01:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Once Caldas - Santa Fe",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-26T03:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Los Angeles Clippers - Brooklyn Nets",
-      "channels": [
-        {
-          "name": "CH194us",
-          "url": "https://envivo.govoet.my.id/194"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-26T15:30:00+01:00",
       "competition": "Euro masculin de Handball",
