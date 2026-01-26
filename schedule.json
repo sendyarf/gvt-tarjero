@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-26T16:56:56.873446+00:00",
+  "last_updated": "2026-01-26T17:33:00.915280+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-26T15:30:00+01:00",
-      "competition": "Euro masculin de Handball",
-      "teams": "Portugal - Norvège",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-26T18:00:00+01:00",
       "competition": "Euro masculin de Handball",
