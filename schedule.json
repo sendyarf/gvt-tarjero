@@ -1,63 +1,7 @@
 {
-  "last_updated": "2026-01-25T23:43:09.597578+00:00",
+  "last_updated": "2026-01-26T02:10:42.451061+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-25T22:30:00+01:00",
-      "competition": "Torneo LPF",
-      "teams": "Boca Juniors - Dep. Riestra",
-      "channels": [
-        {
-          "name": "CH76es",
-          "url": "https://envivo.govoet.my.id/76"
-        },
-        {
-          "name": "CH61es",
-          "url": "https://envivo.govoet.my.id/61"
-        },
-        {
-          "name": "CH87es",
-          "url": "https://envivo.govoet.my.id/87"
-        },
-        {
-          "name": "CH125de",
-          "url": "https://envivo.govoet.my.id/125"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-25T23:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Ottawa Senators - Vegas Golden Knights",
-      "channels": [
-        {
-          "name": "CH185us",
-          "url": "https://envivo.govoet.my.id/185"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-25T23:00:00+01:00",
-      "competition": "Supercopa Chili",
-      "teams": "U. Catolica - Coquimbo",
-      "channels": [
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-26T00:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Vancouver Canucks - Pittsburgh Penguins",
-      "channels": [
-        {
-          "name": "CH186us",
-          "url": "https://envivo.govoet.my.id/186"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-26T00:10:00+01:00",
       "competition": "Liga Betplay Dimayor",
