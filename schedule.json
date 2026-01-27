@@ -1,56 +1,7 @@
 {
-  "last_updated": "2026-01-27T22:26:08.478311+00:00",
+  "last_updated": "2026-01-27T22:48:09.766323+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-27T20:30:00+01:00",
-      "competition": "Bundesliga",
-      "teams": "bundesliga konferenz -",
-      "channels": [
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-27T20:30:00+01:00",
-      "competition": "Bundesliga",
-      "teams": "St. Pauli - RB Leipzig",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        },
-        {
-          "name": "CH111de",
-          "url": "https://envivo.govoet.my.id/111"
-        },
-        {
-          "name": "CH116es",
-          "url": "https://envivo.govoet.my.id/116"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-27T20:30:00+01:00",
-      "competition": "Bundesliga",
-      "teams": "Werder Bremen - Hoffenheim",
-      "channels": [
-        {
-          "name": "CH3fr",
-          "url": "https://envivo.govoet.my.id/3"
-        },
-        {
-          "name": "CH112de",
-          "url": "https://envivo.govoet.my.id/112"
-        },
-        {
-          "name": "CH117es",
-          "url": "https://envivo.govoet.my.id/117"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-27T21:00:00+01:00",
       "competition": "Coppa Italia",
