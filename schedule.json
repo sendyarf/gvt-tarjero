@@ -1,25 +1,5 @@
 {
-  "last_updated": "2026-01-27T05:30:26.158593+00:00",
+  "last_updated": "2026-01-27T06:40:48.108738+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2026-01-27T03:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Minnesota Timberwolves - Golden State Warriors",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH191us",
-          "url": "https://envivo.govoet.my.id/191"
-        },
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
