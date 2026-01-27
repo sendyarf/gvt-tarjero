@@ -1,49 +1,7 @@
 {
-  "last_updated": "2026-01-27T22:48:09.766323+00:00",
+  "last_updated": "2026-01-27T23:26:23.309164+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-27T21:00:00+01:00",
-      "competition": "Coppa Italia",
-      "teams": "Fiorentina - Como",
-      "channels": [
-        {
-          "name": "CH139it",
-          "url": "https://envivo.govoet.my.id/139"
-        },
-        {
-          "name": "CH56es",
-          "url": "https://envivo.govoet.my.id/56"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
-        },
-        {
-          "name": "CH145pt",
-          "url": "https://envivo.govoet.my.id/145"
-        },
-        {
-          "name": "CH82es",
-          "url": "https://envivo.govoet.my.id/82"
-        },
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-27T21:00:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Paris - Real Madrid",
-      "channels": [
-        {
-          "name": "CH62es",
-          "url": "https://envivo.govoet.my.id/62"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-27T21:45:00+01:00",
       "competition": "Torneo LPF",
