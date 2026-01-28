@@ -1,40 +1,7 @@
 {
-  "last_updated": "2026-01-27T23:46:14.290174+00:00",
+  "last_updated": "2026-01-28T02:03:28.508953+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-27T22:00:00+01:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Cucuta - Bucaramanga",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-28T00:00:00+01:00",
-      "competition": "Torneo LPF",
-      "teams": "Gimnasia Mendoza - San Lorenzo",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-28T00:00:00+01:00",
-      "competition": "Torneo LPF",
-      "teams": "Huracan - Ind. Rivadavia",
-      "channels": [
-        {
-          "name": "CH76es",
-          "url": "https://envivo.govoet.my.id/76"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-28T00:20:00+01:00",
       "competition": "Liga Betplay Dimayor",
