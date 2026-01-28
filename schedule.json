@@ -1,47 +1,5 @@
 {
-  "last_updated": "2026-01-28T05:31:25.696572+00:00",
+  "last_updated": "2026-01-28T06:41:09.800954+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2026-01-28T04:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Utah Jazz - Los Angeles Clippers",
-      "channels": [
-        {
-          "name": "CH3fr",
-          "url": "https://envivo.govoet.my.id/3"
-        },
-        {
-          "name": "CH185us",
-          "url": "https://envivo.govoet.my.id/185"
-        },
-        {
-          "name": "CH121de",
-          "url": "https://envivo.govoet.my.id/121"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-28T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Seattle Kraken - Washington Capitals",
-      "channels": [
-        {
-          "name": "CH194us",
-          "url": "https://envivo.govoet.my.id/194"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-28T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Vancouver Canucks - San Jose Sharks",
-      "channels": [
-        {
-          "name": "CH195us",
-          "url": "https://envivo.govoet.my.id/195"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
