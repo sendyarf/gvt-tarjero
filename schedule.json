@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-01-28T04:48:31.333796+00:00",
+  "last_updated": "2026-01-28T05:31:25.696572+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-28T03:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Denver Nuggets - Detroit Pistons",
-      "channels": [
-        {
-          "name": "CH183us",
-          "url": "https://envivo.govoet.my.id/183"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-28T03:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Phoenix Suns - Brooklyn Nets",
-      "channels": [
-        {
-          "name": "CH184us",
-          "url": "https://envivo.govoet.my.id/184"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-28T04:00:00+01:00",
       "competition": "NBA",
