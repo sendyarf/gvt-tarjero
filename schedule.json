@@ -1,25 +1,5 @@
 {
-  "last_updated": "2026-01-29T05:28:32.920440+00:00",
+  "last_updated": "2026-01-29T06:06:56.366559+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2026-01-29T03:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Houston Rockets - San Antonio Spurs",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        },
-        {
-          "name": "CH191us",
-          "url": "https://envivo.govoet.my.id/191"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
