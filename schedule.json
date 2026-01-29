@@ -1,66 +1,7 @@
 {
-  "last_updated": "2026-01-28T23:52:02.140028+00:00",
+  "last_updated": "2026-01-29T02:25:23.410121+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-28T22:10:00+01:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Alianza - Chico",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-28T23:00:00+01:00",
-      "competition": "Serie A Bresil",
-      "teams": "Atletico-MG - Palmeiras",
-      "channels": [
-        {
-          "name": "CH125de",
-          "url": "https://envivo.govoet.my.id/125"
-        },
-        {
-          "name": "CH158es",
-          "url": "https://envivo.govoet.my.id/158"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-28T23:00:00+01:00",
-      "competition": "Serie A Bresil",
-      "teams": "Internacional - Athletico-PR",
-      "channels": [
-        {
-          "name": "CH82es",
-          "url": "https://envivo.govoet.my.id/82"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-28T23:00:00+01:00",
-      "competition": "Torneo LPF",
-      "teams": "Racing Club - Rosario Central",
-      "channels": [
-        {
-          "name": "CH76es",
-          "url": "https://envivo.govoet.my.id/76"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-29T00:00:00+01:00",
-      "competition": "Torneo LPF",
-      "teams": "River Plate - Gimnasia L.P.",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-29T00:30:00+01:00",
       "competition": "Liga Betplay Dimayor",
