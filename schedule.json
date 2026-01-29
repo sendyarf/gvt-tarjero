@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-29T19:52:16.166721+00:00",
+  "last_updated": "2026-01-29T20:34:59.631678+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -59,7 +59,7 @@
     },
     {
       "datetime": "2026-01-29T21:00:00+01:00",
-      "competition": "Ligue Des Champions",
+      "competition": "Ligue Europa",
       "teams": "Europa League konferenz -",
       "channels": [
         {
@@ -70,23 +70,12 @@
     },
     {
       "datetime": "2026-01-29T21:00:00+01:00",
-      "competition": "Ligue Des Champions",
+      "competition": "Ligue Europa",
       "teams": "Multiplex Ligue Europa -",
       "channels": [
         {
           "name": "CH14fr",
           "url": "https://envivo.govoet.my.id/14"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-29T21:00:00+01:00",
-      "competition": "Ligue Des Champions",
-      "teams": "MultiChampions: Jornada 8 -",
-      "channels": [
-        {
-          "name": "CH163es",
-          "url": "https://envivo.govoet.my.id/163"
         }
       ]
     },
@@ -373,6 +362,17 @@
         {
           "name": "CH171es",
           "url": "https://envivo.govoet.my.id/171"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-29T21:00:00+01:00",
+      "competition": "Ligue Europa",
+      "teams": "MultiChampions: Jornada 8 -",
+      "channels": [
+        {
+          "name": "CH163es",
+          "url": "https://envivo.govoet.my.id/163"
         }
       ]
     },
