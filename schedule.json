@@ -1,40 +1,7 @@
 {
-  "last_updated": "2026-01-29T04:17:28.516703+00:00",
+  "last_updated": "2026-01-29T05:28:32.920440+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-29T02:30:00+01:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Dep. Pasto - Millonarios",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-29T02:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Dallas Mavericks - Minnesota Timberwolves",
-      "channels": [
-        {
-          "name": "CH189us",
-          "url": "https://envivo.govoet.my.id/189"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-29T03:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Utah Jazz - Golden State Warriors",
-      "channels": [
-        {
-          "name": "CH190us",
-          "url": "https://envivo.govoet.my.id/190"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-29T03:30:00+01:00",
       "competition": "NBA",
