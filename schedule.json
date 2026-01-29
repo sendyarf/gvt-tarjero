@@ -1,40 +1,7 @@
 {
-  "last_updated": "2026-01-29T21:31:13.324561+00:00",
+  "last_updated": "2026-01-29T22:31:36.807651+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-29T20:05:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Hapoel Tel-Aviv - Bayern",
-      "channels": [
-        {
-          "name": "CH64es",
-          "url": "https://envivo.govoet.my.id/64"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-29T20:15:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Olympiacos - Barcelona",
-      "channels": [
-        {
-          "name": "CH55es",
-          "url": "https://envivo.govoet.my.id/55"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-29T20:30:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Olimpia Milano - Partizan Mozzart Bet",
-      "channels": [
-        {
-          "name": "CH65es",
-          "url": "https://envivo.govoet.my.id/65"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-29T20:45:00+01:00",
       "competition": "EuroLeague",
