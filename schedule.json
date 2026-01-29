@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-29T20:34:59.631678+00:00",
+  "last_updated": "2026-01-29T21:31:13.324561+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-29T18:45:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Fenerbahce - Anadolu Efes",
-      "channels": [
-        {
-          "name": "CH63es",
-          "url": "https://envivo.govoet.my.id/63"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-29T20:05:00+01:00",
       "competition": "EuroLeague",
