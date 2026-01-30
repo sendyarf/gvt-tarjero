@@ -1,62 +1,7 @@
 {
-  "last_updated": "2026-01-29T23:52:35.314570+00:00",
+  "last_updated": "2026-01-30T02:24:57.787015+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-29T22:00:00+01:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Aguilas - Dep. Cali",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-29T23:15:00+01:00",
-      "competition": "Torneo LPF",
-      "teams": "Belgrano - Tigre",
-      "channels": [
-        {
-          "name": "CH76es",
-          "url": "https://envivo.govoet.my.id/76"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-29T23:15:00+01:00",
-      "competition": "Torneo LPF",
-      "teams": "Lanus - Union de Santa Fe",
-      "channels": [
-        {
-          "name": "CH75es",
-          "url": "https://envivo.govoet.my.id/75"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-30T00:00:00+01:00",
-      "competition": "Serie A Bresil",
-      "teams": "Mirassol - Vasco",
-      "channels": [
-        {
-          "name": "CH158es",
-          "url": "https://envivo.govoet.my.id/158"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-30T00:10:00+01:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Jaguares de Cordoba - Inter Bogotá",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-30T01:00:00+01:00",
       "competition": "NBA",
