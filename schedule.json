@@ -1,117 +1,7 @@
 {
-  "last_updated": "2026-01-30T21:30:55.139183+00:00",
+  "last_updated": "2026-01-30T22:30:05.022919+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-30T20:00:00+01:00",
-      "competition": "Caf Ligue Des Champions",
-      "teams": "Al-Hilal Omdurman (Sud) - Mamelodi Sundowns (Rsa)",
-      "channels": [
-        {
-          "name": "CH160qa",
-          "url": "https://envivo.govoet.my.id/160"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-30T20:00:00+01:00",
-      "competition": "Eredivisie",
-      "teams": "NAC Breda - Twente",
-      "channels": [
-        {
-          "name": "CH142nl",
-          "url": "https://envivo.govoet.my.id/142"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-30T20:00:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Crvena zvezda - Dubai",
-      "channels": [
-        {
-          "name": "CH63es",
-          "url": "https://envivo.govoet.my.id/63"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-30T20:00:00+01:00",
-      "competition": "Ligue 2",
-      "teams": "Multiplex Ligue 2 -",
-      "channels": [
-        {
-          "name": "CH1de",
-          "url": "https://envivo.govoet.my.id/1"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-30T20:00:00+01:00",
-      "competition": "Ligue 2",
-      "teams": "Bastia - Nancy",
-      "channels": [
-        {
-          "name": "CH7fr",
-          "url": "https://envivo.govoet.my.id/7"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-30T20:00:00+01:00",
-      "competition": "Ligue 2",
-      "teams": "Clermont - Reims",
-      "channels": [
-        {
-          "name": "CH5fr",
-          "url": "https://envivo.govoet.my.id/5"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-30T20:00:00+01:00",
-      "competition": "Ligue 2",
-      "teams": "Grenoble - Amiens",
-      "channels": [
-        {
-          "name": "CH6fr",
-          "url": "https://envivo.govoet.my.id/6"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-30T20:00:00+01:00",
-      "competition": "Ligue 2",
-      "teams": "Laval - Pau FC",
-      "channels": [
-        {
-          "name": "CH8fr",
-          "url": "https://envivo.govoet.my.id/8"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-30T20:00:00+01:00",
-      "competition": "Ligue 2",
-      "teams": "Montpellier - Guingamp",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-30T20:00:00+01:00",
-      "competition": "Ligue 2",
-      "teams": "Rodez - Red Star",
-      "channels": [
-        {
-          "name": "CH9fr",
-          "url": "https://envivo.govoet.my.id/9"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-30T20:30:00+01:00",
       "competition": "Bundesliga",
@@ -700,6 +590,17 @@
         {
           "name": "CH160qa",
           "url": "https://envivo.govoet.my.id/160"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-31T14:00:00+01:00",
+      "competition": "Flechettes",
+      "teams": "BDO Winmau World Masters -",
+      "channels": [
+        {
+          "name": "CH134gb",
+          "url": "https://envivo.govoet.my.id/134"
         }
       ]
     },
@@ -1582,6 +1483,17 @@
     },
     {
       "datetime": "2026-01-31T20:00:00+01:00",
+      "competition": "Flechettes",
+      "teams": "BDO Winmau World Masters -",
+      "channels": [
+        {
+          "name": "CH134gb",
+          "url": "https://envivo.govoet.my.id/134"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-01-31T20:00:00+01:00",
       "competition": "Liga Endesa",
       "teams": "Bilbao - Joventut Badalona",
       "channels": [
@@ -2363,6 +2275,17 @@
     },
     {
       "datetime": "2026-02-01T14:00:00+01:00",
+      "competition": "Flechettes",
+      "teams": "BDO Winmau World Masters -",
+      "channels": [
+        {
+          "name": "CH134gb",
+          "url": "https://envivo.govoet.my.id/134"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-02-01T14:00:00+01:00",
       "competition": "Laliga",
       "teams": "Real Madrid - Rayo Vallecano",
       "channels": [
@@ -3069,6 +2992,17 @@
         {
           "name": "CH141nl",
           "url": "https://envivo.govoet.my.id/141"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-02-01T20:00:00+01:00",
+      "competition": "Flechettes",
+      "teams": "BDO Winmau World Masters -",
+      "channels": [
+        {
+          "name": "CH134gb",
+          "url": "https://envivo.govoet.my.id/134"
         }
       ]
     },
