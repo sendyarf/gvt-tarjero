@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30T17:36:22.990608+00:00",
+  "last_updated": "2026-01-30T18:49:33.667687+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -78,20 +78,12 @@
       "teams": "Al Kholood - Al Nassr",
       "channels": [
         {
-          "name": "CH61es",
-          "url": "https://envivo.govoet.my.id/61"
-        },
-        {
           "name": "CH55es",
           "url": "https://envivo.govoet.my.id/55"
         },
         {
           "name": "CH70es",
           "url": "https://envivo.govoet.my.id/70"
-        },
-        {
-          "name": "CH124de",
-          "url": "https://envivo.govoet.my.id/124"
         },
         {
           "name": "CH144pt",
@@ -3789,6 +3781,21 @@
         {
           "name": "CH144pt",
           "url": "https://envivo.govoet.my.id/144"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-02-02T19:45:00+01:00",
+      "competition": "Liga Portugal",
+      "teams": "AFS - Braga",
+      "channels": [
+        {
+          "name": "CH4fr",
+          "url": "https://envivo.govoet.my.id/4"
+        },
+        {
+          "name": "CH145pt",
+          "url": "https://envivo.govoet.my.id/145"
         }
       ]
     }
