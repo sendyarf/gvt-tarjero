@@ -1,96 +1,7 @@
 {
-  "last_updated": "2026-01-30T19:34:37.096084+00:00",
+  "last_updated": "2026-01-30T20:35:03.007464+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-30T18:00:00+01:00",
-      "competition": "Liga 1 Te Apuesto",
-      "teams": "Sport Huancayo - Alianza Lima",
-      "channels": [
-        {
-          "name": "CH84es",
-          "url": "https://envivo.govoet.my.id/84"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-30T18:00:00+01:00",
-      "competition": "Super Lig",
-      "teams": "Antalyaspor - Trabzonspor",
-      "channels": [
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-30T18:00:00+01:00",
-      "competition": "Super Lig",
-      "teams": "Kasimpasa - Samsunspor",
-      "channels": [
-        {
-          "name": "CH152tr",
-          "url": "https://envivo.govoet.my.id/152"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-30T18:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "bundesliga 2 konferenz -",
-      "channels": [
-        {
-          "name": "CH112de",
-          "url": "https://envivo.govoet.my.id/112"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-30T18:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Magdeburg - Hannover",
-      "channels": [
-        {
-          "name": "CH113de",
-          "url": "https://envivo.govoet.my.id/113"
-        },
-        {
-          "name": "CH78es",
-          "url": "https://envivo.govoet.my.id/78"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-30T18:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Nurnberg - Preussen Munster",
-      "channels": [
-        {
-          "name": "CH114de",
-          "url": "https://envivo.govoet.my.id/114"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-30T18:30:00+01:00",
-      "competition": "Saudi Pro League",
-      "teams": "Al Kholood - Al Nassr",
-      "channels": [
-        {
-          "name": "CH55es",
-          "url": "https://envivo.govoet.my.id/55"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        },
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-30T19:00:00+01:00",
       "competition": "Pro D2",
@@ -3807,6 +3718,109 @@
         {
           "name": "CH53es",
           "url": "https://envivo.govoet.my.id/53"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-02-02T20:45:00+01:00",
+      "competition": "Serie A",
+      "teams": "Udinese - AS Roma",
+      "channels": [
+        {
+          "name": "CH45fr",
+          "url": "https://envivo.govoet.my.id/45"
+        },
+        {
+          "name": "CH138it",
+          "url": "https://envivo.govoet.my.id/138"
+        },
+        {
+          "name": "CH124de",
+          "url": "https://envivo.govoet.my.id/124"
+        },
+        {
+          "name": "CH149gr",
+          "url": "https://envivo.govoet.my.id/149"
+        },
+        {
+          "name": "CH91es",
+          "url": "https://envivo.govoet.my.id/91"
+        },
+        {
+          "name": "CH99es",
+          "url": "https://envivo.govoet.my.id/99"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-02-02T21:00:00+01:00",
+      "competition": "Laliga",
+      "teams": "Mallorca - Sevilla",
+      "channels": [
+        {
+          "name": "CH1fr",
+          "url": "https://envivo.govoet.my.id/1"
+        },
+        {
+          "name": "CH49es",
+          "url": "https://envivo.govoet.my.id/49"
+        },
+        {
+          "name": "CH123de",
+          "url": "https://envivo.govoet.my.id/123"
+        },
+        {
+          "name": "CH88es",
+          "url": "https://envivo.govoet.my.id/88"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-02-02T21:00:00+01:00",
+      "competition": "Liga 1 Te Apuesto",
+      "teams": "Comerciantes Unidos - Moquegua",
+      "channels": [
+        {
+          "name": "CH84es",
+          "url": "https://envivo.govoet.my.id/84"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-02-02T21:00:00+01:00",
+      "competition": "Premier League",
+      "teams": "Sunderland - Burnley",
+      "channels": [
+        {
+          "name": "CH12fr",
+          "url": "https://envivo.govoet.my.id/12"
+        },
+        {
+          "name": "CH127gb",
+          "url": "https://envivo.govoet.my.id/127"
+        },
+        {
+          "name": "CH56es",
+          "url": "https://envivo.govoet.my.id/56"
+        },
+        {
+          "name": "CH120de",
+          "url": "https://envivo.govoet.my.id/120"
+        },
+        {
+          "name": "CH90es",
+          "url": "https://envivo.govoet.my.id/90"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-02-02T21:30:00+01:00",
+      "competition": "Torneo LPF",
+      "teams": "Gimnasia L.P. - Aldosivi",
+      "channels": [
+        {
+          "name": "CH76es",
+          "url": "https://envivo.govoet.my.id/76"
         }
       ]
     }
