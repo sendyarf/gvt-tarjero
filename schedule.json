@@ -1,73 +1,7 @@
 {
-  "last_updated": "2026-01-30T04:20:39.119428+00:00",
+  "last_updated": "2026-01-30T05:32:43.510277+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-30T02:20:00+01:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "America De Cali - Once Caldas",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-30T02:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Dallas Mavericks - Charlotte Hornets",
-      "channels": [
-        {
-          "name": "CH179us",
-          "url": "https://envivo.govoet.my.id/179"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-30T03:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Denver Nuggets - Brooklyn Nets",
-      "channels": [
-        {
-          "name": "CH180us",
-          "url": "https://envivo.govoet.my.id/180"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-30T03:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Phoenix Suns - Detroit Pistons",
-      "channels": [
-        {
-          "name": "CH181us",
-          "url": "https://envivo.govoet.my.id/181"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-30T03:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Edmonton Oilers - San Jose Sharks",
-      "channels": [
-        {
-          "name": "CH194us",
-          "url": "https://envivo.govoet.my.id/194"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-30T03:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Minnesota Timberwolves - Oklahoma City Thunder",
-      "channels": [
-        {
-          "name": "CH182us",
-          "url": "https://envivo.govoet.my.id/182"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-30T04:00:00+01:00",
       "competition": "NHL",
