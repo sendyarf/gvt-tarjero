@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30T17:03:38.966417+00:00",
+  "last_updated": "2026-01-30T17:36:22.990608+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -3766,6 +3766,29 @@
         {
           "name": "CH151tr",
           "url": "https://envivo.govoet.my.id/151"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-02-02T18:30:00+01:00",
+      "competition": "Saudi Pro League",
+      "teams": "Al Hilal - Al Ahli SC",
+      "channels": [
+        {
+          "name": "CH61es",
+          "url": "https://envivo.govoet.my.id/61"
+        },
+        {
+          "name": "CH70es",
+          "url": "https://envivo.govoet.my.id/70"
+        },
+        {
+          "name": "CH125de",
+          "url": "https://envivo.govoet.my.id/125"
+        },
+        {
+          "name": "CH144pt",
+          "url": "https://envivo.govoet.my.id/144"
         }
       ]
     }
