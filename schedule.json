@@ -1,94 +1,7 @@
 {
-  "last_updated": "2026-01-30T22:57:06.365984+00:00",
+  "last_updated": "2026-01-30T23:33:43.835723+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-30T21:00:00+01:00",
-      "competition": "Championship",
-      "teams": "Bristol City - Derby",
-      "channels": [
-        {
-          "name": "CH127gb",
-          "url": "https://envivo.govoet.my.id/127"
-        },
-        {
-          "name": "CH128gb",
-          "url": "https://envivo.govoet.my.id/128"
-        },
-        {
-          "name": "CH80es",
-          "url": "https://envivo.govoet.my.id/80"
-        },
-        {
-          "name": "CH93es",
-          "url": "https://envivo.govoet.my.id/93"
-        },
-        {
-          "name": "CH99es",
-          "url": "https://envivo.govoet.my.id/99"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-30T21:00:00+01:00",
-      "competition": "D1 Féminin",
-      "teams": "Marseille W - Paris FC W",
-      "channels": [
-        {
-          "name": "CH12fr",
-          "url": "https://envivo.govoet.my.id/12"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-30T21:00:00+01:00",
-      "competition": "Laliga",
-      "teams": "Espanyol - Alaves",
-      "channels": [
-        {
-          "name": "CH10fr",
-          "url": "https://envivo.govoet.my.id/10"
-        },
-        {
-          "name": "CH51es",
-          "url": "https://envivo.govoet.my.id/51"
-        },
-        {
-          "name": "CH123de",
-          "url": "https://envivo.govoet.my.id/123"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH90es",
-          "url": "https://envivo.govoet.my.id/90"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-30T21:00:00+01:00",
-      "competition": "Pro D2",
-      "teams": "Biarritz Olympique - Grenoble FC",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-30T21:15:00+01:00",
-      "competition": "Liga 1 Te Apuesto",
-      "teams": "Cajamarca - Grau",
-      "channels": [
-        {
-          "name": "CH84es",
-          "url": "https://envivo.govoet.my.id/84"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-30T21:45:00+01:00",
       "competition": "Liga Portugal",
@@ -3594,6 +3507,17 @@
         {
           "name": "CH76es",
           "url": "https://envivo.govoet.my.id/76"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-02-03T00:20:00+01:00",
+      "competition": "Liga Betplay Dimayor",
+      "teams": "Inter Bogotá - Deportes Tolima",
+      "channels": [
+        {
+          "name": "CH81es",
+          "url": "https://envivo.govoet.my.id/81"
         }
       ]
     }
