@@ -1,39 +1,5 @@
 {
-  "last_updated": "2026-01-30T05:32:43.510277+00:00",
+  "last_updated": "2026-01-30T06:55:23.484440+00:00",
   "timezone": "Europe/Paris",
-  "matches": [
-    {
-      "datetime": "2026-01-30T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Seattle Kraken - Toronto Maple Leafs",
-      "channels": [
-        {
-          "name": "CH195us",
-          "url": "https://envivo.govoet.my.id/195"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-30T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Vancouver Canucks - Anaheim Ducks",
-      "channels": [
-        {
-          "name": "CH196us",
-          "url": "https://envivo.govoet.my.id/196"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-30T04:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Vegas Golden Knights - Dallas Stars",
-      "channels": [
-        {
-          "name": "CH197us",
-          "url": "https://envivo.govoet.my.id/197"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
