@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30T15:03:18.498115+00:00",
+  "last_updated": "2026-01-30T15:59:08.978338+00:00",
   "timezone": "Europe/Paris",
   "matches": [
     {
@@ -3712,6 +3712,33 @@
         {
           "name": "CH192us",
           "url": "https://envivo.govoet.my.id/192"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-02-02T16:15:00+01:00",
+      "competition": "Saudi Pro League",
+      "teams": "Al Riyadh - Al Nassr",
+      "channels": [
+        {
+          "name": "CH61es",
+          "url": "https://envivo.govoet.my.id/61"
+        },
+        {
+          "name": "CH55es",
+          "url": "https://envivo.govoet.my.id/55"
+        },
+        {
+          "name": "CH70es",
+          "url": "https://envivo.govoet.my.id/70"
+        },
+        {
+          "name": "CH125de",
+          "url": "https://envivo.govoet.my.id/125"
+        },
+        {
+          "name": "CH144pt",
+          "url": "https://envivo.govoet.my.id/144"
         }
       ]
     }
