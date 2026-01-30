@@ -1,95 +1,7 @@
 {
-  "last_updated": "2026-01-30T20:35:03.007464+00:00",
+  "last_updated": "2026-01-30T21:30:55.139183+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-30T19:00:00+01:00",
-      "competition": "Pro D2",
-      "teams": "Aurillac - Valence Romans",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-30T19:30:00+01:00",
-      "competition": "EuroLeague",
-      "teams": "Monaco - Virtus Bologna",
-      "channels": [
-        {
-          "name": "CH64es",
-          "url": "https://envivo.govoet.my.id/64"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-30T19:30:00+01:00",
-      "competition": "National",
-      "teams": "Quevilly Rouen - Villefranche",
-      "channels": [
-        {
-          "name": "CH46fr",
-          "url": "https://envivo.govoet.my.id/46"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-30T19:30:00+01:00",
-      "competition": "Pro D2",
-      "teams": "Agen - Nevers",
-      "channels": [
-        {
-          "name": "CH35fr",
-          "url": "https://envivo.govoet.my.id/35"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-30T19:30:00+01:00",
-      "competition": "Pro D2",
-      "teams": "Beziers - US Dax",
-      "channels": [
-        {
-          "name": "CH33fr",
-          "url": "https://envivo.govoet.my.id/33"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-30T19:30:00+01:00",
-      "competition": "Pro D2",
-      "teams": "Carcassonne - Provence Rugby",
-      "channels": [
-        {
-          "name": "CH36fr",
-          "url": "https://envivo.govoet.my.id/36"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-30T19:30:00+01:00",
-      "competition": "Pro D2",
-      "teams": "Colomiers - Angouleme",
-      "channels": [
-        {
-          "name": "CH32fr",
-          "url": "https://envivo.govoet.my.id/32"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-30T19:30:00+01:00",
-      "competition": "Pro D2",
-      "teams": "Mont-de-Marsan - CA Brive",
-      "channels": [
-        {
-          "name": "CH34fr",
-          "url": "https://envivo.govoet.my.id/34"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-30T20:00:00+01:00",
       "competition": "Caf Ligue Des Champions",
@@ -3821,6 +3733,36 @@
         {
           "name": "CH76es",
           "url": "https://envivo.govoet.my.id/76"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-02-02T21:45:00+01:00",
+      "competition": "Liga Portugal",
+      "teams": "Casa Pia - FC Porto",
+      "channels": [
+        {
+          "name": "CH5fr",
+          "url": "https://envivo.govoet.my.id/5"
+        },
+        {
+          "name": "CH125de",
+          "url": "https://envivo.govoet.my.id/125"
+        },
+        {
+          "name": "CH144pt",
+          "url": "https://envivo.govoet.my.id/144"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-02-02T22:00:00+01:00",
+      "competition": "Campeonato Itaú Chile",
+      "teams": "Everton - Union La Calera",
+      "channels": [
+        {
+          "name": "CH83es",
+          "url": "https://envivo.govoet.my.id/83"
         }
       ]
     }
