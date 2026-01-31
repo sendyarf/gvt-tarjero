@@ -1,60 +1,7 @@
 {
-  "last_updated": "2026-01-31T22:27:07.022371+00:00",
+  "last_updated": "2026-01-31T22:50:41.053493+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-31T20:30:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Kaiserslautern - Elversberg",
-      "channels": [
-        {
-          "name": "CH5fr",
-          "url": "https://envivo.govoet.my.id/5"
-        },
-        {
-          "name": "CH112de",
-          "url": "https://envivo.govoet.my.id/112"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-31T20:45:00+01:00",
-      "competition": "Pro League",
-      "teams": "St. Truiden - Charleroi",
-      "channels": [
-        {
-          "name": "CH153fr",
-          "url": "https://envivo.govoet.my.id/153"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-31T20:45:00+01:00",
-      "competition": "Serie A",
-      "teams": "Cagliari - Verona",
-      "channels": [
-        {
-          "name": "CH138it",
-          "url": "https://envivo.govoet.my.id/138"
-        },
-        {
-          "name": "CH149gr",
-          "url": "https://envivo.govoet.my.id/149"
-        },
-        {
-          "name": "CH70es",
-          "url": "https://envivo.govoet.my.id/70"
-        },
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-31T21:00:00+01:00",
       "competition": "Eredivisie",
