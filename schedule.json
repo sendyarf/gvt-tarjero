@@ -1,175 +1,7 @@
 {
-  "last_updated": "2026-01-31T14:51:58.977862+00:00",
+  "last_updated": "2026-01-31T15:27:14.068989+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-31T13:00:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "bundesliga 2 konferenz -",
-      "channels": [
-        {
-          "name": "CH112de",
-          "url": "https://envivo.govoet.my.id/112"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-31T13:00:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Bochum - Schalke",
-      "channels": [
-        {
-          "name": "CH4fr",
-          "url": "https://envivo.govoet.my.id/4"
-        },
-        {
-          "name": "CH113de",
-          "url": "https://envivo.govoet.my.id/113"
-        },
-        {
-          "name": "CH79es",
-          "url": "https://envivo.govoet.my.id/79"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-31T13:00:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Braunschweig - Karlsruher SC",
-      "channels": [
-        {
-          "name": "CH114de",
-          "url": "https://envivo.govoet.my.id/114"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-31T13:00:00+01:00",
-      "competition": "Bundesliga 2",
-      "teams": "Holstein Kiel - Greuther Furth",
-      "channels": [
-        {
-          "name": "CH115de",
-          "url": "https://envivo.govoet.my.id/115"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-31T13:30:00+01:00",
-      "competition": "Championship",
-      "teams": "Leicester - Charlton",
-      "channels": [
-        {
-          "name": "CH190us",
-          "url": "https://envivo.govoet.my.id/190"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-31T13:30:00+01:00",
-      "competition": "Championship",
-      "teams": "Sheffield Wed - Wrexham",
-      "channels": [
-        {
-          "name": "CH191us",
-          "url": "https://envivo.govoet.my.id/191"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-31T13:30:00+01:00",
-      "competition": "Championship",
-      "teams": "Stoke - Southampton",
-      "channels": [
-        {
-          "name": "CH8fr",
-          "url": "https://envivo.govoet.my.id/8"
-        },
-        {
-          "name": "CH127gb",
-          "url": "https://envivo.govoet.my.id/127"
-        },
-        {
-          "name": "CH128gb",
-          "url": "https://envivo.govoet.my.id/128"
-        },
-        {
-          "name": "CH145pt",
-          "url": "https://envivo.govoet.my.id/145"
-        },
-        {
-          "name": "CH148gr",
-          "url": "https://envivo.govoet.my.id/148"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-31T14:00:00+01:00",
-      "competition": "Caf Ligue Des Champions",
-      "teams": "Young Africans (Tan) - Al Ahly (Egy)",
-      "channels": [
-        {
-          "name": "CH160qa",
-          "url": "https://envivo.govoet.my.id/160"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-31T14:00:00+01:00",
-      "competition": "Flechettes",
-      "teams": "BDO Winmau World Masters -",
-      "channels": [
-        {
-          "name": "CH134gb",
-          "url": "https://envivo.govoet.my.id/134"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-31T14:00:00+01:00",
-      "competition": "Laliga",
-      "teams": "Oviedo - Girona",
-      "channels": [
-        {
-          "name": "CH9fr",
-          "url": "https://envivo.govoet.my.id/9"
-        },
-        {
-          "name": "CH51es",
-          "url": "https://envivo.govoet.my.id/51"
-        },
-        {
-          "name": "CH71es",
-          "url": "https://envivo.govoet.my.id/71"
-        },
-        {
-          "name": "CH94es",
-          "url": "https://envivo.govoet.my.id/94"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-31T14:00:00+01:00",
-      "competition": "Ligue 2",
-      "teams": "Dunkerque - Annecy",
-      "channels": [
-        {
-          "name": "CH2fr",
-          "url": "https://envivo.govoet.my.id/2"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-31T14:00:00+01:00",
-      "competition": "Ligue 2",
-      "teams": "Troyes - Le Mans",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-31T14:30:00+01:00",
       "competition": "Top 14",
@@ -673,10 +505,6 @@
           "url": "https://envivo.govoet.my.id/69"
         },
         {
-          "name": "CH147pt",
-          "url": "https://envivo.govoet.my.id/147"
-        },
-        {
           "name": "CH90es",
           "url": "https://envivo.govoet.my.id/90"
         }
@@ -1100,10 +928,6 @@
         {
           "name": "CH125de",
           "url": "https://envivo.govoet.my.id/125"
-        },
-        {
-          "name": "CH147pt",
-          "url": "https://envivo.govoet.my.id/147"
         }
       ]
     },
@@ -1870,10 +1694,6 @@
         {
           "name": "CH125de",
           "url": "https://envivo.govoet.my.id/125"
-        },
-        {
-          "name": "CH147pt",
-          "url": "https://envivo.govoet.my.id/147"
         },
         {
           "name": "CH98es",
