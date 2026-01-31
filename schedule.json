@@ -1,77 +1,7 @@
 {
-  "last_updated": "2026-01-31T20:52:03.808335+00:00",
+  "last_updated": "2026-01-31T21:25:47.061109+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-31T19:00:00+01:00",
-      "competition": "Betfred Super League",
-      "teams": "Volos - AEL Larissa",
-      "channels": [
-        {
-          "name": "CH148gr",
-          "url": "https://envivo.govoet.my.id/148"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-31T19:00:00+01:00",
-      "competition": "Liga 1 Te Apuesto",
-      "teams": "Sport Boys - Los Chankas",
-      "channels": [
-        {
-          "name": "CH84es",
-          "url": "https://envivo.govoet.my.id/84"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-31T19:00:00+01:00",
-      "competition": "Liga Endesa",
-      "teams": "MoraBanc Andorra - Gran Canaria",
-      "channels": [
-        {
-          "name": "CH156es",
-          "url": "https://envivo.govoet.my.id/156"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-31T19:00:00+01:00",
-      "competition": "Liga Portugal",
-      "teams": "Rio Ave - Arouca",
-      "channels": [
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-31T19:00:00+01:00",
-      "competition": "Ligue 1",
-      "teams": "Lorient - Nantes",
-      "channels": [
-        {
-          "name": "CH20fr",
-          "url": "https://envivo.govoet.my.id/20"
-        },
-        {
-          "name": "CH69es",
-          "url": "https://envivo.govoet.my.id/69"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-31T19:00:00+01:00",
-      "competition": "NHL",
-      "teams": "Detroit Red Wings - Colorado Avalanche",
-      "channels": [
-        {
-          "name": "CH181us",
-          "url": "https://envivo.govoet.my.id/181"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-31T19:30:00+01:00",
       "competition": "Campeonato Itaú Chile",
