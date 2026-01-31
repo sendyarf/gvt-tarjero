@@ -1,33 +1,7 @@
 {
-  "last_updated": "2026-01-31T16:50:01.747366+00:00",
+  "last_updated": "2026-01-31T17:26:17.353582+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-31T15:00:00+01:00",
-      "competition": "Serie A",
-      "teams": "Pisa - Sassuolo",
-      "channels": [
-        {
-          "name": "CH137it",
-          "url": "https://envivo.govoet.my.id/137"
-        },
-        {
-          "name": "CH97es",
-          "url": "https://envivo.govoet.my.id/97"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-31T15:00:00+01:00",
-      "competition": "Super Lig",
-      "teams": "Basaksehir - Rizespor",
-      "channels": [
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-31T15:30:00+01:00",
       "competition": "Bundesliga",
