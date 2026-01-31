@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-31T15:48:28.564262+00:00",
+  "last_updated": "2026-01-31T16:33:30.736778+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-31T14:30:00+01:00",
-      "competition": "Top 14",
-      "teams": "Montpellier - Stade Francais Paris",
-      "channels": [
-        {
-          "name": "CH13fr",
-          "url": "https://envivo.govoet.my.id/13"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-31T15:00:00+01:00",
       "competition": "Serie A",
