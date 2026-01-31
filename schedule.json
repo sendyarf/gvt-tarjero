@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-31T05:22:58.435456+00:00",
+  "last_updated": "2026-01-31T06:00:03.829155+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-31T03:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Utah Jazz - Brooklyn Nets",
-      "channels": [
-        {
-          "name": "CH188us",
-          "url": "https://envivo.govoet.my.id/188"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-31T04:00:00+01:00",
       "competition": "Liga De Expansion Mx",
