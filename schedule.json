@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-31T21:25:47.061109+00:00",
+  "last_updated": "2026-01-31T21:46:21.120228+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-31T19:30:00+01:00",
-      "competition": "Campeonato Itaú Chile",
-      "teams": "U. De Concepcion - Coquimbo",
-      "channels": [
-        {
-          "name": "CH83es",
-          "url": "https://envivo.govoet.my.id/83"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-31T20:00:00+01:00",
       "competition": "Caf Ligue Des Champions",
