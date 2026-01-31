@@ -1,107 +1,7 @@
 {
-  "last_updated": "2026-01-31T02:20:43.531600+00:00",
+  "last_updated": "2026-01-31T04:15:29.001170+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-31T01:00:00+01:00",
-      "competition": "NBA",
-      "teams": "Washington Wizards - Los Angeles Lakers",
-      "channels": [
-        {
-          "name": "CH180us",
-          "url": "https://envivo.govoet.my.id/180"
-        },
-        {
-          "name": "CH155es",
-          "url": "https://envivo.govoet.my.id/155"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-31T01:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Boston Celtics - Sacramento Kings",
-      "channels": [
-        {
-          "name": "CH181us",
-          "url": "https://envivo.govoet.my.id/181"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-31T01:30:00+01:00",
-      "competition": "NBA",
-      "teams": "New Orleans Pelicans - Memphis Grizzlies",
-      "channels": [
-        {
-          "name": "CH182us",
-          "url": "https://envivo.govoet.my.id/182"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-31T01:30:00+01:00",
-      "competition": "NBA",
-      "teams": "New York Knicks - Portland Trail Blazers",
-      "channels": [
-        {
-          "name": "CH183us",
-          "url": "https://envivo.govoet.my.id/183"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-31T01:30:00+01:00",
-      "competition": "NBA",
-      "teams": "Orlando Magic - Toronto Raptors",
-      "channels": [
-        {
-          "name": "CH88es",
-          "url": "https://envivo.govoet.my.id/88"
-        },
-        {
-          "name": "CH184us",
-          "url": "https://envivo.govoet.my.id/184"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-31T02:00:00+01:00",
-      "competition": "Liga Betplay Dimayor",
-      "teams": "Junior - Atl. Nacional",
-      "channels": [
-        {
-          "name": "CH81es",
-          "url": "https://envivo.govoet.my.id/81"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-31T02:00:00+01:00",
-      "competition": "Liga De Expansion Mx",
-      "teams": "Alebrijes Oaxaca - Zacatecas Mineros",
-      "channels": [
-        {
-          "name": "CH98es",
-          "url": "https://envivo.govoet.my.id/98"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-31T02:00:00+01:00",
-      "competition": "Liga Mx",
-      "teams": "Puebla - Toluca",
-      "channels": [
-        {
-          "name": "CH68es",
-          "url": "https://envivo.govoet.my.id/68"
-        },
-        {
-          "name": "CH108es",
-          "url": "https://envivo.govoet.my.id/108"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-31T02:30:00+01:00",
       "competition": "NHL",
@@ -3654,6 +3554,43 @@
         {
           "name": "CH190us",
           "url": "https://envivo.govoet.my.id/190"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-02-03T03:30:00+01:00",
+      "competition": "NHL",
+      "teams": "Utah Mammoth - Vancouver Canucks",
+      "channels": [
+        {
+          "name": "CH191us",
+          "url": "https://envivo.govoet.my.id/191"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-02-03T04:00:00+01:00",
+      "competition": "NBA",
+      "teams": "Los Angeles Clippers - Philadelphia 76ers",
+      "channels": [
+        {
+          "name": "CH3fr",
+          "url": "https://envivo.govoet.my.id/3"
+        },
+        {
+          "name": "CH192us",
+          "url": "https://envivo.govoet.my.id/192"
+        }
+      ]
+    },
+    {
+      "datetime": "2026-02-03T04:00:00+01:00",
+      "competition": "NHL",
+      "teams": "Calgary Flames - Toronto Maple Leafs",
+      "channels": [
+        {
+          "name": "CH193us",
+          "url": "https://envivo.govoet.my.id/193"
         }
       ]
     }
