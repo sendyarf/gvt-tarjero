@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-01-31T23:26:34.112531+00:00",
+  "last_updated": "2026-01-31T23:47:23.635308+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-31T21:30:00+01:00",
-      "competition": "Liga Portugal",
-      "teams": "Alverca - Estrela",
-      "channels": [
-        {
-          "name": "CH144pt",
-          "url": "https://envivo.govoet.my.id/144"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-31T21:30:00+01:00",
-      "competition": "NHL",
-      "teams": "Pittsburgh Penguins - New York Rangers",
-      "channels": [
-        {
-          "name": "CH183us",
-          "url": "https://envivo.govoet.my.id/183"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-31T22:00:00+01:00",
       "competition": "Campeonato Itaú Chile",
