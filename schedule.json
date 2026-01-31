@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-01-31T14:27:45.443091+00:00",
+  "last_updated": "2026-01-31T14:51:58.977862+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-31T12:30:00+01:00",
-      "competition": "Super Lig",
-      "teams": "Alanyaspor - Eyupspor",
-      "channels": [
-        {
-          "name": "CH151tr",
-          "url": "https://envivo.govoet.my.id/151"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-31T13:00:00+01:00",
       "competition": "Bundesliga 2",
