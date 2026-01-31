@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-01-31T21:46:21.120228+00:00",
+  "last_updated": "2026-01-31T22:27:07.022371+00:00",
   "timezone": "Europe/Paris",
   "matches": [
-    {
-      "datetime": "2026-01-31T20:00:00+01:00",
-      "competition": "Caf Ligue Des Champions",
-      "teams": "FAR Rabat (Mar) - Kabylie (Alg)",
-      "channels": [
-        {
-          "name": "CH162qa",
-          "url": "https://envivo.govoet.my.id/162"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-31T20:00:00+01:00",
-      "competition": "Flechettes",
-      "teams": "BDO Winmau World Masters -",
-      "channels": [
-        {
-          "name": "CH134gb",
-          "url": "https://envivo.govoet.my.id/134"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-31T20:00:00+01:00",
-      "competition": "Liga Endesa",
-      "teams": "Bilbao - Joventut Badalona",
-      "channels": [
-        {
-          "name": "CH157es",
-          "url": "https://envivo.govoet.my.id/157"
-        }
-      ]
-    },
-    {
-      "datetime": "2026-01-31T20:00:00+01:00",
-      "competition": "Ligue 2",
-      "teams": "St Etienne - Boulogne",
-      "channels": [
-        {
-          "name": "CH1fr",
-          "url": "https://envivo.govoet.my.id/1"
-        }
-      ]
-    },
     {
       "datetime": "2026-01-31T20:30:00+01:00",
       "competition": "Bundesliga 2",
